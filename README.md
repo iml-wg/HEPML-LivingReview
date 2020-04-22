@@ -216,7 +216,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     * [ Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
     * [ Thinking outside the ROCs: Designing Decorrelated](https://arxiv.org/abs/1603.00027)
-    *  {{Convolved Substructure: Analytically Decorrelating Jet Substructure Observables}},
+    *  Convolved Substructure: Analytically Decorrelating Jet Substructure Observables
     * [ uBoost: A boosting method for producing uniform](https://arxiv.org/abs/1305.7248)
     * [ Decorrelated Jet Substructure Tagging using Adversarial](https://arxiv.org/abs/1703.03507)
     * [ Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959)
