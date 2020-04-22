@@ -7,6 +7,7 @@ The purpose of this note is to collect references for modern machine learning as
 *  Reviews.
 
     *  Modern reviews
+
         * Larkoski:2017jix
         * Guest:2018yhq
         * Albertsson:2018maf
@@ -15,16 +16,19 @@ The purpose of this note is to collect references for modern machine learning as
         * Kasieczka:2019dbj
 
     *  Classical papers
+
         * Denby:1987rk
         * Lonnblad:1990bi
 
 *  Classification.  
 
     *  Parameterized classifiers
+
         * Baldi:2016fzo
         * Cranmer:2015bka
 
         *  Jet images
+
             * Pumplin:1991kc
             * Cogan:2014oua
             * deOliveira:2015xxd
@@ -37,18 +41,22 @@ The purpose of this note is to collect references for modern machine learning as
             * Macaluso:2018tck
 
         *  Event images
+
             * ATL-PHYS-PUB-2019-028
             * Lin:2018cin
             * Andrews:2018nwy
 
         *  Sequences
+
             * Guest:2016iqz
 
         *  Trees
+
             * Louppe:2017ipp
             * Cheng:2017rdo
 
         *  Graphs
+
             * Henrion:DLPS2017
             * Ju:2020xty
             * Martinez:2018fwc
@@ -58,10 +66,12 @@ The purpose of this note is to collect references for modern machine learning as
             * Chakraborty:2020yfc
 
         *  Sets (point clouds)
+
             * Komiske:2018cqr
             * Qu:2019gqs
 
         *  Physics-inspired basis
+
             * Datta:2019
             * Datta:2017rhs
             * Datta:2017lxt
@@ -69,6 +79,7 @@ The purpose of this note is to collect references for modern machine learning as
             * Butter:2017cot
 
         *  $W/Z$ tagging
+
             * deOliveira:2015xxd
             * Barnard:2016qma
             * Louppe:2017ipp
@@ -76,6 +87,7 @@ The purpose of this note is to collect references for modern machine learning as
             * Chen:2019uar
 
         *  $H\rightarrow b\bar{b}$
+
             * Datta:2019ndh
             * Lin:2018cin
             * Moreno:2019neq
@@ -83,6 +95,7 @@ The purpose of this note is to collect references for modern machine learning as
             * Sirunyan:2020lcu
 
         *  quarks and gluons
+
             * ATL-PHYS-PUB-2017-017
             * Komiske:2016rsd
             * Cheng:2017rdo
@@ -91,6 +104,7 @@ The purpose of this note is to collect references for modern machine learning as
             * Kasieczka:2018lwf
 
         *  top quark tagging
+
             * Stoye:DLPS2017
             * Kasieczka:2019dbj
             * Chakraborty:2020yfc
@@ -100,19 +114,23 @@ The purpose of this note is to collect references for modern machine learning as
             * Macaluso:2018tck
 
         *  strange jets
+
             * Nakai:2020kuu
 
         *  $b$-tagging
+
             * Sirunyan:2017ezt
             * Guest:2016iqz
 
         *  BSM particles
+
             * Datta:2019ndh
             * Baldi:2014kfa
             * Chakraborty:2019imr
             * Sirunyan:2019nfw
 
         *  Particle identification
+
             * deOliveira:2018lqd
             * Paganini:DLPS2017
             * Hooberman:DLPS2017
@@ -120,21 +138,25 @@ The purpose of this note is to collect references for modern machine learning as
             * Qasim:2019otl
 
         *  Neutrino Detectors
+
             * Adams:2018bvi
             * Aurisano:2016jvx
             * Acciarri:2016ryt
             * Hertel:DLPS2017
 
         *  Tracking
+
             * Farrell:DLPS2017
             * Farrell:2018cjr
             * Amrouche:2019wmx
             * Ju:2020xty
 
         *  Heavy ions
+
             * Pang:2016vdc
 
         *  Weak supervision
+
             * Dery:2017fap
             * Metodiev:2017vrx
             * Komiske:2018oaa
@@ -146,16 +168,19 @@ The purpose of this note is to collect references for modern machine learning as
             * Metodiev:2018ftz
 
         *  Unsupervised
+
             * Mackey:2015hwa
             * Komiske:2019fks
 
         *  Software
+
             * Strong:2020mge
             * Gligorov:2012qt
             * Weitekamp:DLPS2017
             * Bourgeois:2018nvk
 
         *  Hardware/firmware
+
             * Duarte:2018ite
             * DiGuglielmo:2020eqx
             * Summers:2020xiy
@@ -163,12 +188,14 @@ The purpose of this note is to collect references for modern machine learning as
 *  Regression.
 
     *  Pileup
+
         * Komiske:2017ubm
         * ATL-PHYS-PUB-2019-028
         * Martinez:2018fwc
         * Carrazza:2019efs
 
     *  Calibration
+
         * Cheong:2019upg
         * ATL-PHYS-PUB-2020-001
         * ATL-PHYS-PUB-2018-013
@@ -177,10 +204,12 @@ The purpose of this note is to collect references for modern machine learning as
         * CMS-PAS-HIG-18-027
 
     *  Recasting
+
         * Caron:2017hku
         * Bertone:2016mdy
 
     *  Matrix elements
+
         * Bishara:2019iwh
 
 *  Decorrelation methods.
@@ -201,20 +230,25 @@ The purpose of this note is to collect references for modern machine learning as
 *  Generative models / density estimation.
 
     *  GANs
+
         * Goodfellow:2014upx
 
     *  Autoencoders
+
         * Monk:2018zsb
         * ATL-SOFT-PUB-2018-001
 
     *  Physics-inspired
+
         * Andreassen:2018apy
         * Andreassen:2019txo
 
     *  Normalizing flows
+
         * pmlr-v37-rezende15
 
     *  Phase space generation
+
         * Bendavid:2017zhk
         * Bothmann:2020ywa
         * Gao:2020zvv
@@ -223,12 +257,14 @@ The purpose of this note is to collect references for modern machine learning as
         * Carrazza:2020rdn
 
     *  Gaussian processes
+
         * Frate:2017mai
         * Bertone:2016mdy
 
 *  Anomaly detection.
 
     *  Fully signal model-independent, fully background model-dependent
+
         * sleuth
         * Abbott:2000fb
         * Abbott:2000gx
@@ -248,6 +284,7 @@ The purpose of this note is to collect references for modern machine learning as
         * DAgnolo:2019vbw
 
     *  Partially signal model-dependent, partially background model-dependent
+
         * Farina:2018fyg
         * Heimel:2018mkt
         * Roy:2019jae
@@ -267,9 +304,11 @@ The purpose of this note is to collect references for modern machine learning as
 *  Simulation-based (`likelihood-free') Inference.
 
     *  Overview
+
         * Cranmer:2019eaq
 
     *  Parameter estimation
+
         * Andreassen:2019nnm
         * Stoye:2018ovl
         * Hollingsworth:2020kjg
@@ -280,6 +319,7 @@ The purpose of this note is to collect references for modern machine learning as
         * Cranmer:2015bka
 
     *  Unfolding
+
         * Andreassen:2019cjw
         * Datta:2018mwd
         * Bellagente:2019uyp
@@ -290,11 +330,13 @@ The purpose of this note is to collect references for modern machine learning as
         * Zech2003BinningFreeUB
 
     *  Domain adaptation
+
         * Rogozhnikov:2016bdp
         * Andreassen:2019nnm
         * Cranmer:2015bka
 
     *  BSM
+
         * Andreassen:2020nkr
         * Hollingsworth:2020kjg
         * Brehmer:2018kdj
@@ -305,27 +347,34 @@ The purpose of this note is to collect references for modern machine learning as
 *  Uncertainty Quantification.
 
     *  Interpretability
+
         * deOliveira:2015xxd
         * Chang:2017kvc
         * Diefenbacher:2019ezd
 
     *  Estimation
+
         * Nachman:2019dol
         * Nachman:2019yfl
         * Barnard:2016qma
 
     *  Mitigation
+
         * Estrade:DLPS2017
         * Englert:2018cfo
         * Louppe:2016ylz
 
     *  Uncertainty-aware inference
+
         * Caron:2019xkx
         * Bollweg:2019skg
         * deCastro:2018mgh
         * Wunsch:2020iuh
 
-*  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*    *  Final analysis discriminate for searches
+*  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
+
+    *  Final analysis discriminate for searches
+
         * Aad:2019yxi
         * Aad:2020hzm
 
