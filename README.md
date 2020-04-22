@@ -214,18 +214,18 @@ The purpose of this note is to collect references for modern machine learning as
 
 *  Decorrelation methods.
 
-    * Louppe:2016ylz
-    * Dolen:2016kst
-    * Moult:2017okx
-    * Stevens:2013dya
-    * Shimmin:2017mfk
-    * Bradshaw:2019ipy
-    * ATL-PHYS-PUB-2018-014
-    * DiscoFever
-    * Xia:2018kgd
-    * Englert:2018cfo
-    * Wunsch:2019qbo
-    * Rogozhnikov:2014zea
+    * [ Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
+    * [ Thinking outside the ROCs: Designing Decorrelated](https://arxiv.org/abs/1603.00027)
+    *  {{Convolved Substructure: Analytically Decorrelating Jet Substructure Observables}},
+    * [ uBoost: A boosting method for producing uniform](https://arxiv.org/abs/1305.7248)
+    * [ Decorrelated Jet Substructure Tagging using Adversarial](https://arxiv.org/abs/1703.03507)
+    * [ Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959)
+    *  Performance of mass-decorrelated jet substructure
+    * [ DisCo Fever: Robust Networks Through Distance](https://arxiv.org/abs/2001.05310)
+    * [ QBDT, a new boosting decision tree method with](https://arxiv.org/abs/1810.08387)
+    * [ Machine Learning Uncertainties with Adversarial Neural](https://arxiv.org/abs/1807.08763)
+    * [ Reducing the dependence of the neural network function](https://arxiv.org/abs/1907.11674)
+    * [ New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140)
 
 *  Generative models / density estimation.
 
@@ -302,7 +302,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  A Quasi-Model-Independent Search for New High $p_T$ Physics at D0
         *  Search for new physics in $e\mu X$ data at D\O\ using Sherlock: A quasi model independent search strategy for new physics
-        *  {{A Quasi model independent search for new physics at large transverse momentum}},
+        *  A Quasi model independent search for new physics at large transverse momentum
         * [ A quasi-model-independent search for new high $p_T$](https://arxiv.org/abs/hep-ex/0011071)
         * [ A General Search for New Phenomena at HERA](https://arxiv.org/abs/0901.0507)
         *  A General search for new phenomena in ep scattering at HERA
