@@ -8,209 +8,209 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Modern reviews
 
-        * Larkoski:2017jix
-        * Guest:2018yhq
-        * Albertsson:2018maf
-        * Radovic:2018dip
-        * Carleo:2019ptp
-        * Kasieczka:2019dbj
+        *  Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning
+        *  Deep Learning and its Application to LHC Physics
+        *  Machine Learning in High Energy Physics Community White Paper
+        *  Machine learning at the energy and intensity frontiers of particle physics
+        *  Machine learning and the physical sciences
+        *  The Machine Learning Landscape of Top Taggers
 
     *  Classical papers
 
-        * Denby:1987rk
-        * Lonnblad:1990bi
+        *  Neural Networks and Cellular Automata in Experimental
+        *  Finding Gluon Jets With a Neural Trigger
 
 *  Classification.  
 
     *  Parameterized classifiers
 
-        * Baldi:2016fzo
-        * Cranmer:2015bka
+        *  Parameterized neural networks for high-energy physics
+        *  Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers
 
         *  Jet images
 
-            * Pumplin:1991kc
-            * Cogan:2014oua
-            * deOliveira:2015xxd
-            * ATL-PHYS-PUB-2017-017
-            * Lin:2018cin
-            * Komiske:2018oaa
-            * Barnard:2016qma
-            * Komiske:2016rsd
-            * Kasieczka:2017nvn
-            * Macaluso:2018tck
+            *  How to tell quark jets from gluon jets
+            *  Jet-Images: Computer Vision Inspired Techniques for Jet Tagging
+            *  Jet-images — deep learning edition
+            *  Quark versus Gluon Jet Tagging Using Jet Images with the
+            *  Boosting $H\to b\bar b$ with Machine Learning
+            *  Learning to classify from impure samples with high-dimensional data
+            *  Parton Shower Uncertainties in Jet Substructure Analyses
+            *  Deep learning in color: towards automated quark/gluon
+            *  Deep-learning Top Taggers or The End of QCD?
+            *  Pulling Out All the Tops with Computer Vision and Deep Learning
 
         *  Event images
 
-            * ATL-PHYS-PUB-2019-028
-            * Lin:2018cin
-            * Andrews:2018nwy
+            *  Convolutional Neural Networks with Event Images for
+            *  Boosting $H\to b\bar b$ with Machine Learning
+            *  End-to-End Physics Event Classification with the CMS
 
         *  Sequences
 
-            * Guest:2016iqz
+            *  Jet Flavor Classification in High-Energy Physics with
 
         *  Trees
 
-            * Louppe:2017ipp
-            * Cheng:2017rdo
+            *  QCD-Aware Recursive Neural Networks for Jet Physics
+            *  Recursive Neural Networks in Quark/Gluon Tagging
 
         *  Graphs
 
-            * Henrion:DLPS2017
-            * Ju:2020xty
-            * Martinez:2018fwc
-            * Moreno:2019bmu
-            * Qasim:2019otl
-            * Chakraborty:2019imr
-            * Chakraborty:2020yfc
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors
+            *  Pileup mitigation at the Large Hadron Collider with graph neural networks
+            *  JEDI-net: a jet identification algorithm based on interaction networks
+            *  Learning representations of irregular particle-detector geometry with distance-weighted graph networks
+            *  Interpretable deep learning for two-prong jet classification with jet spectra
+            *  Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions
 
         *  Sets (point clouds)
 
-            * Komiske:2018cqr
-            * Qu:2019gqs
+            *  Energy Flow Networks: Deep Sets for Particle Jets
+            *  ParticleNet: Jet Tagging via Particle Clouds
 
         *  Physics-inspired basis
 
-            * Datta:2019
-            * Datta:2017rhs
-            * Datta:2017lxt
-            * Komiske:2017aww
-            * Butter:2017cot
+            *  Automating the Construction of Jet Observables with
+            *  How Much Information is in a Jet?
+            *  Novel Jet Observables from Machine Learning
+            *  Energy flow polynomials: A complete linear basis for jet substructure
+            *  Deep-learned Top Tagging with a Lorentz Layer
 
         *  $W/Z$ tagging
 
-            * deOliveira:2015xxd
-            * Barnard:2016qma
-            * Louppe:2017ipp
-            * Sirunyan:2020lcu
-            * Chen:2019uar
+            *  Jet-images — deep learning edition
+            *  Parton Shower Uncertainties in Jet Substructure Analyses
+            *  QCD-Aware Recursive Neural Networks for Jet Physics
+            *  Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques
+            *  Boosted $W$ and $Z$ tagging with jet charge and deep learning
 
         *  $H\rightarrow b\bar{b}$
 
-            * Datta:2019ndh
-            * Lin:2018cin
-            * Moreno:2019neq
-            * Chakraborty:2019imr
-            * Sirunyan:2020lcu
+            *  Automating the Construction of Jet Observables with Machine Learning
+            *  Boosting $H\to b\bar b$ with Machine Learning
+            *  Interaction networks for the identification of boosted $H\to b\overline{b}$ decays
+            *  Interpretable deep learning for two-prong jet classification with jet spectra
+            *  Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques
 
         *  quarks and gluons
 
-            * ATL-PHYS-PUB-2017-017
-            * Komiske:2016rsd
-            * Cheng:2017rdo
-            * Stoye:DLPS2017
-            * Moreno:2019bmu
-            * Kasieczka:2018lwf
+            *  Quark versus Gluon Jet Tagging Using Jet Images with the
+            *  Deep learning in color: towards automated quark/gluon
+            *  Recursive Neural Networks in Quark/Gluon Tagging
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  JEDI-net: a jet identification algorithm based on interaction networks
+            *  Quark-Gluon Tagging: Machine Learning vs Detector
 
         *  top quark tagging
 
-            * Stoye:DLPS2017
-            * Kasieczka:2019dbj
-            * Chakraborty:2020yfc
-            * Diefenbacher:2019ezd
-            * Butter:2017cot
-            * Kasieczka:2017nvn
-            * Macaluso:2018tck
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  The Machine Learning Landscape of Top Taggers
+            *  Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions
+            *  CapsNets Continuing the Convolutional Quest
+            *  Deep-learned Top Tagging with a Lorentz Layer
+            *  Deep-learning Top Taggers or The End of QCD?
+            *  Pulling Out All the Tops with Computer Vision and Deep Learning
 
         *  strange jets
 
-            * Nakai:2020kuu
+            *  Strange Jet Tagging
 
         *  $b$-tagging
 
-            * Sirunyan:2017ezt
-            * Guest:2016iqz
+            *  Identification of heavy-flavour jets with the CMS
+            *  Jet Flavor Classification in High-Energy Physics with
 
         *  BSM particles
 
-            * Datta:2019ndh
-            * Baldi:2014kfa
-            * Chakraborty:2019imr
-            * Sirunyan:2019nfw
+            *  Automating the Construction of Jet Observables with Machine Learning
+            *  Searching for Exotic Particles in High-Energy Physics
+            *  Interpretable deep learning for two-prong jet classification with jet spectra
+            *  A deep neural network to search for new long-lived particles decaying to jets
 
         *  Particle identification
 
-            * deOliveira:2018lqd
-            * Paganini:DLPS2017
-            * Hooberman:DLPS2017
-            * Belayneh:2019vyx
-            * Qasim:2019otl
+            *  Electromagnetic Showers Beyond Shower Shapes
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics
+            *  Learning representations of irregular particle-detector geometry with distance-weighted graph networks
 
         *  Neutrino Detectors
 
-            * Adams:2018bvi
-            * Aurisano:2016jvx
-            * Acciarri:2016ryt
-            * Hertel:DLPS2017
+            *  Deep neural network for pixel-level electromagnetic
+            *  A Convolutional Neural Network Neutrino Event
+            *  Convolutional Neural Networks Applied to Neutrino Events
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
 
         *  Tracking
 
-            * Farrell:DLPS2017
-            * Farrell:2018cjr
-            * Amrouche:2019wmx
-            * Ju:2020xty
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Novel deep learning methods for track reconstruction
+            *  The Tracking Machine Learning challenge : Accuracy phase
+            *  Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors
 
         *  Heavy ions
 
-            * Pang:2016vdc
+            *  An EoS-meter of QCD transition from deep learning
 
         *  Weak supervision
 
-            * Dery:2017fap
-            * Metodiev:2017vrx
-            * Komiske:2018oaa
-            * Collins:2018epr
-            * Collins:2019jip
-            * Borisyak:2019vbz
-            * Cohen:2017exh
-            * Komiske:2018vkc
-            * Metodiev:2018ftz
+            *  Weakly Supervised Classification in High Energy
+            *  Classification without labels: Learning from mixed
+            *  Learning to classify from impure samples with high-dimensional data
+            *  Anomaly Detection for Resonant New Physics with Machine
+            *  Extending the search for new resonances with machine
+            *  Machine Learning on data with sPlot background
+            *  (Machine) Learning to Do More with Less
+            *  An operational definition of quark and gluon jets
+            *  Jet Topics: Disentangling Quarks and Gluons at Colliders
 
         *  Unsupervised
 
-            * Mackey:2015hwa
-            * Komiske:2019fks
+            *  Fuzzy Jets
+            *  Metric Space of Collider Events
 
         *  Software
 
-            * Strong:2020mge
-            * Gligorov:2012qt
-            * Weitekamp:DLPS2017
-            * Bourgeois:2018nvk
+            *  On the impact of modern deep-learning techniques to the
+            *  Efficient, reliable and fast high-level triggering using
+            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Using holistic event information in the trigger
 
         *  Hardware/firmware
 
-            * Duarte:2018ite
-            * DiGuglielmo:2020eqx
-            * Summers:2020xiy
+            *  Fast inference of deep neural networks in FPGAs for particle physics
+            *  Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML
+            *  Fast inference of Boosted Decision Trees in FPGAs for particle physics
 
 *  Regression.
 
     *  Pileup
 
-        * Komiske:2017ubm
-        * ATL-PHYS-PUB-2019-028
-        * Martinez:2018fwc
-        * Carrazza:2019efs
+        *  Pileup Mitigation with Machine Learning (PUMML)
+        *  Convolutional Neural Networks with Event Images for
+        *  Pileup mitigation at the Large Hadron Collider with graph neural networks
+        *  Jet grooming through reinforcement learning
 
     *  Calibration
 
-        * Cheong:2019upg
-        * ATL-PHYS-PUB-2020-001
-        * ATL-PHYS-PUB-2018-013
-        * Hooberman:DLPS2017
-        * Kasieczka:2020vlh
-        * CMS-PAS-HIG-18-027
+        *  Parametrizing the Detector Response with Neural Networks
+        *  Simultaneous Jet Energy and Mass Calibrations with Neural
+        *  Generalized Numerical Inversion: A Neural Network
+        *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+        *  Per-Object Systematics using Deep-Learned Calibration
+        *  A deep neural network for simultaneous estimation of b
 
     *  Recasting
 
-        * Caron:2017hku
-        * Bertone:2016mdy
+        *  {The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning},
+        *  Accelerating the BSM interpretation of LHC data with
 
     *  Matrix elements
 
-        * Bishara:2019iwh
+        *  (Machine) Learning Amplitudes for Faster Event Generation
 
 *  Decorrelation methods.
 
@@ -231,150 +231,150 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  GANs
 
-        * Goodfellow:2014upx
+        *  Generative Adversarial Networks
 
     *  Autoencoders
 
-        * Monk:2018zsb
-        * ATL-SOFT-PUB-2018-001
+        *  {{Deep Learning as a Parton Shower}},
+        *  Deep generative models for fast shower simulation in
 
     *  Physics-inspired
 
-        * Andreassen:2018apy
-        * Andreassen:2019txo
+        *  {{JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics}},
+        *  Binary JUNIPR: an interpretable probabilistic model for
 
     *  Normalizing flows
 
-        * pmlr-v37-rezende15
+        *  	 {Proceedings of the 32nd International Conference on Machine Learning},
 
     *  Phase space generation
 
-        * Bendavid:2017zhk
-        * Bothmann:2020ywa
-        * Gao:2020zvv
-        * Gao:2020vdv
-        * Klimek:2018mza
-        * Carrazza:2020rdn
+        *  Efficient Monte Carlo Integration Using Boosted Decision
+        *  Exploring phase space with Neural Importance Sampling
+        *  Event Generation with Normalizing Flows
+        *  i-flow: High-Dimensional Integration and Sampling with Normalizing Flows
+        *  Neural Network-Based Approach to Phase Space Integration
+        *  VegasFlow: accelerating Monte Carlo simulation across multiple hardware platforms
 
     *  Gaussian processes
 
-        * Frate:2017mai
-        * Bertone:2016mdy
+        *  Modeling Smooth Backgrounds and Generic Localized
+        *  Accelerating the BSM interpretation of LHC data with
 
 *  Anomaly detection.
 
     *  Fully signal model-independent, fully background model-dependent
 
-        * sleuth
-        * Abbott:2000fb
-        * Abbott:2000gx
-        * Abbott:2001ke
-        * Aaron:2008aa
-        * Aktas:2004pz
-        * Cranmer:2005zn
-        * Aaltonen:2007dg
-        * Aaltonen:2007ab
-        * Aaltonen:2008vt
-        * CMS-PAS-EXO-14-016
-        * CMS-PAS-EXO-10-021
-        * Aaboud:2018ufy
-        * ATLAS-CONF-2014-006
-        * ATLAS-CONF-2012-107
-        * DAgnolo:2018cun
-        * DAgnolo:2019vbw
+        *  {A Quasi-Model-Independent Search for New High $p_T$ Physics at D0},
+        *  {{Search for new physics in $e\mu X$ data at D\O\ using Sherlock: A quasi model independent search strategy for new physics}},
+        *  {{A Quasi model independent search for new physics at large transverse momentum}},
+        *  A quasi-model-independent search for new high $p_T$
+        *  A General Search for New Phenomena at HERA
+        *  {{A General search for new phenomena in ep scattering at HERA}},
+        *  Searching for new physics: Contributions to LEP and the
+        *  Model-Independent and Quasi-Model-Independent Search for
+        *  Model-Independent Global Search for New High-p(T)
+        *  {{Global Search for New Physics with 2.0 fb$^{-1}$ at CDF}},
+        *  MUSiC, a Model Unspecific Search for New Physics, in pp Collisions at $\sqrt{s}
+        *  {{Model Unspecific Search for New Physics in pp Collisions at sqrt(s) 
+        *  A strategy for a general search for new phenomena using
+        *  {{A general search for new phenomena with the ATLAS detector in pp collisions at $\sqrt{s}
+        *  {{A general search for new phenomena with the ATLAS detector in pp collisions at sort(s)
+        *  Learning New Physics from a Machine
+        *  Learning Multivariate New Physics
 
     *  Partially signal model-dependent, partially background model-dependent
 
-        * Farina:2018fyg
-        * Heimel:2018mkt
-        * Roy:2019jae
-        * Cerri:2018anq
-        * Blance:2019ibf
-        * Hajer:2018kqm
-        * Collins:2018epr
-        * Collins:2019jip
-        * DeSimone:2018efk
-        * Mullin:2019mmh
-        * 1809.02977
-        * Dillon:2019cqt
-        * Andreassen:2020nkr
-        * Aguilar-Saavedra:2017rzt
-        * Romao:2019dvs
+        *  Searching for New Physics with Deep Autoencoders
+        *  QCD or What?
+        *  A robust anomaly finder based on autoencoder
+        *  Variational Autoencoders for New Physics Mining at the
+        *  Adversarially-trained autoencoders for robust
+        *  Novelty Detection Meets Collider Physics
+        *  Anomaly Detection for Resonant New Physics with Machine
+        *  Extending the search for new resonances with machine
+        *  Guiding New Physics Searches with Unsupervised
+        *  Does SUSY have friends? A new approach for LHC event
+        *  Nonparametric semisupervised classification for signal detection in high energy physics
+        *  Uncovering latent jet substructure
+        *  Simulation Assisted Likelihood-free Anomaly Detection
+        *  {{A generic anti-QCD jet tagger}},
+        *  Transferability of Deep Learning Models in Searches for New Physics at Colliders
 
 *  Simulation-based (`likelihood-free') Inference.
 
     *  Overview
 
-        * Cranmer:2019eaq
+        *  The frontier of simulation-based inference
 
     *  Parameter estimation
 
-        * Andreassen:2019nnm
-        * Stoye:2018ovl
-        * Hollingsworth:2020kjg
-        * Brehmer:2018kdj
-        * Brehmer:2018eca
-        * Brehmer:2019xox
-        * Brehmer:2018hga
-        * Cranmer:2015bka
+        *  Neural Networks for Full Phase-space Reweighting and Parameter Tuning
+        *  Likelihood-free inference with an improved cross-entropy
+        *  Resonance Searches with Machine Learned Likelihood
+        *  Constraining Effective Field Theories with Machine
+        *  A Guide to Constraining Effective Field Theories with
+        *  MadMiner: Machine learning-based inference for particle physics
+        *  Mining gold from implicit models to improve likelihood-free inference
+        *  Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers
 
     *  Unfolding
 
-        * Andreassen:2019cjw
-        * Datta:2018mwd
-        * Bellagente:2019uyp
-        * Gagunashvili:2010zw
-        * Glazov:2017vni
-        * Martschei:2012pr
-        * Lindemann:1995ut
-        * Zech2003BinningFreeUB
+        *  OmniFold: A Method to Simultaneously Unfold All
+        *  Unfolding with Generative Adversarial Networks
+        *  How to GAN away Detector Effects
+        *  Machine learning approach to inverse problem and unfolding procedure
+        *  Machine learning as an instrument for data unfolding
+        *  Advanced event reweighting using multivariate analysis
+        *  Unfolding by weighting Monte Carlo events
+        * {Binning-Free Unfolding Based on Monte Carlo Migration},
 
     *  Domain adaptation
 
-        * Rogozhnikov:2016bdp
-        * Andreassen:2019nnm
-        * Cranmer:2015bka
+        *  Proceedings, 17th International Workshop on Advanced
+        *  Neural Networks for Full Phase-space Reweighting and Parameter Tuning
+        *  Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers
 
     *  BSM
 
-        * Andreassen:2020nkr
-        * Hollingsworth:2020kjg
-        * Brehmer:2018kdj
-        * Brehmer:2018eca
-        * Brehmer:2018hga
-        * Brehmer:2019xox
+        *  Simulation Assisted Likelihood-free Anomaly Detection
+        *  Resonance Searches with Machine Learned Likelihood
+        *  Constraining Effective Field Theories with Machine
+        *  A Guide to Constraining Effective Field Theories with
+        *  Mining gold from implicit models to improve likelihood-free inference
+        *  MadMiner: Machine learning-based inference for particle physics
 
 *  Uncertainty Quantification.
 
     *  Interpretability
 
-        * deOliveira:2015xxd
-        * Chang:2017kvc
-        * Diefenbacher:2019ezd
+        *  Jet-images — deep learning edition
+        *  What is the Machine Learning?
+        *  CapsNets Continuing the Convolutional Quest
 
     *  Estimation
 
-        * Nachman:2019dol
-        * Nachman:2019yfl
-        * Barnard:2016qma
+        *  A guide for deploying Deep Learning in LHC searches: How to achieve optimality and account for uncertainty
+        *  AI Safety for High Energy Physics
+        *  Parton Shower Uncertainties in Jet Substructure Analyses
 
     *  Mitigation
 
-        * Estrade:DLPS2017
-        * Englert:2018cfo
-        * Louppe:2016ylz
+        *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+        *  Machine Learning Uncertainties with Adversarial Neural
+        *  Learning to Pivot with Adversarial Networks
 
     *  Uncertainty-aware inference
 
-        * Caron:2019xkx
-        * Bollweg:2019skg
-        * deCastro:2018mgh
-        * Wunsch:2020iuh
+        *  Constraining the Parameters of High-Dimensional Models
+        *  Deep-Learning Jets with Uncertainties and More
+        *  INFERNO: Inference-Aware Neural Optimisation
+        *  Optimal statistical inference in the presence of systematic uncertainties using neural network optimization based on binned Poisson likelihoods with nuisance parameters
 
 *  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
 
     *  Final analysis discriminate for searches
 
-        * Aad:2019yxi
-        * Aad:2020hzm
+        *  Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} 
+        *  Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector
 
