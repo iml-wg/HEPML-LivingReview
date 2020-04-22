@@ -235,25 +235,25 @@ The purpose of this note is to collect references for modern machine learning as
         * [ CaloGAN: Simulating 3D High Energy Particle Showers in](https://arxiv.org/abs/1705.02355)
         * [ CaloGAN : Simulating 3D high energy particle showers in](https://arxiv.org/abs/1712.10321)
         * [ How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824)
-        * [ 19th International Workshop on Advanced Computing and](https://arxiv.org/abs/1912.02748)
+        * [ Particle Generative Adversarial Networks for full-event](https://arxiv.org/abs/1912.02748)
         * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
-        *  Proceedings, 23rd International Conference on Computing
+        *  3D convolutional GAN for fast simulation
         * [ Fast simulation of muons produced at the SHiP experiment](https://arxiv.org/abs/1909.04451)
         * [ Lund jet images from generative and cycle-consistent](https://arxiv.org/abs/1909.01359)
         * [ How to GAN LHC Events](https://arxiv.org/abs/1907.03764)
         * [ Machine Learning Templates for QCD Factorization in the](https://arxiv.org/abs/1903.02556)
         * [ DijetGAN: A Generative-Adversarial Network Approach for](https://arxiv.org/abs/1903.02433)
         * [ LHC analysis-specific datasets with Generative](https://arxiv.org/abs/1901.05282)
-        * [ 23rd International Conference on Computing in High](https://arxiv.org/abs/1812.01319)
+        * [ Generative Models for Fast Calorimeter Simulation.LHCb](https://arxiv.org/abs/1812.01319)
         *  Deep generative models for fast shower simulation in
         * [ Regressive and generative neural networks for scalar](https://arxiv.org/abs/1810.12879)
-        *  Proceedings, 18th International Workshop on Advanced
-        *  Proceedings, 18th International Workshop on Advanced
+        *  Three dimensional Generative Adversarial Networks for
+        *  Generative models for fast simulation
         * [ Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433)
         * [ Fast and Accurate Simulation of Particle Detectors Using](https://arxiv.org/abs/1805.00850)
         * [ Generating and refining particle detector simulations](https://arxiv.org/abs/1802.03325)
-        *  Proceedings, 23rd International Conference on Computing
-        * [ 10th International Workshop on Ring Imaging Cherenkov](https://arxiv.org/abs/1903.11788)
+        *  Generative models for fast cluster simulations in the
+        * [ Cherenkov Detectors Fast Simulation Using Neural](https://arxiv.org/abs/1903.11788)
         * [ GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
         * [ Precise simulation of electromagnetic calorimeter](https://arxiv.org/abs/1807.01954)
         * [ Reducing Autocorrelation Times in Lattice Simulations](https://arxiv.org/abs/1811.03533)
@@ -270,7 +270,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Physics-inspired
 
-        *  {{JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics}},
+        *  JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics
         * [ Binary JUNIPR: an interpretable probabilistic model for](https://arxiv.org/abs/1906.10137)
 
     *  Normalizing flows
@@ -300,21 +300,21 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Fully signal model-independent, fully background model-dependent
 
-        *  {A Quasi-Model-Independent Search for New High $p_T$ Physics at D0},
-        *  {{Search for new physics in $e\mu X$ data at D\O\ using Sherlock: A quasi model independent search strategy for new physics}},
+        *  A Quasi-Model-Independent Search for New High $p_T$ Physics at D0
+        *  Search for new physics in $e\mu X$ data at D\O\ using Sherlock: A quasi model independent search strategy for new physics
         *  {{A Quasi model independent search for new physics at large transverse momentum}},
         * [ A quasi-model-independent search for new high $p_T$](https://arxiv.org/abs/hep-ex/0011071)
         * [ A General Search for New Phenomena at HERA](https://arxiv.org/abs/0901.0507)
-        *  {{A General search for new phenomena in ep scattering at HERA}},
+        *  A General search for new phenomena in ep scattering at HERA
         *  Searching for new physics: Contributions to LEP and the
         * [ Model-Independent and Quasi-Model-Independent Search for](https://arxiv.org/abs/0712.1311)
         * [ Model-Independent Global Search for New High-p(T)](https://arxiv.org/abs/0712.2534)
-        *  {{Global Search for New Physics with 2.0 fb$^{-1}$ at CDF}},
+        *  Global Search for New Physics with 2.0 fb$^{-1}$ at CDF
         *  MUSiC, a Model Unspecific Search for New Physics, in pp Collisions at $\sqrt{s}
-        *  {{Model Unspecific Search for New Physics in pp Collisions at sqrt(s) 
+        *  Model Unspecific Search for New Physics in pp Collisions at sqrt(s) 
         * [ A strategy for a general search for new phenomena using](https://arxiv.org/abs/1807.07447)
-        *  {{A general search for new phenomena with the ATLAS detector in pp collisions at $\sqrt{s}
-        *  {{A general search for new phenomena with the ATLAS detector in pp collisions at sort(s)
+        *  A general search for new phenomena with the ATLAS detector in pp collisions at $\sqrt{s}
+        *  A general search for new phenomena with the ATLAS detector in pp collisions at sort(s)
         * [ Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350)
         * [ Learning Multivariate New Physics](https://arxiv.org/abs/1912.12155)
 
@@ -333,7 +333,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
         * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200)
         * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
-        *  {{A generic anti-QCD jet tagger}},
+        *  A generic anti-QCD jet tagger
         * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220)
 
 *  Simulation-based (`likelihood-free') Inference.
@@ -362,11 +362,11 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Machine learning as an instrument for data unfolding](https://arxiv.org/abs/1712.01814)
         *  Advanced event reweighting using multivariate analysis
         *  Unfolding by weighting Monte Carlo events
-        * {Binning-Free Unfolding Based on Monte Carlo Migration},
+        * Binning-Free Unfolding Based on Monte Carlo Migration
 
     *  Domain adaptation
 
-        * [ Proceedings, 17th International Workshop on Advanced](https://arxiv.org/abs/1608.05806)
+        * [ Reweighting with Boosted Decision Trees](https://arxiv.org/abs/1608.05806)
         * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209)
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
 
