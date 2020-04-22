@@ -37,9 +37,14 @@ Modern machine learning techniques, including deep learning, is rapidly being ap
 The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.
 
 \begin{itemize}
-\item Reviews~\cite{Larkoski:2017jix,Guest:2018yhq,Albertsson:2018maf,Radovic:2018dip,Carleo:2019ptp,Kasieczka:2019dbj} and old(er) uses of machine learning~\cite{Denby:1987rk,Lonnblad:1990bi}.
-\item Classification.  See also parameterized classifiers~\cite{Baldi:2016fzo,Cranmer:2015bka}.
+\item Reviews.
 	\begin{itemize}
+		\item Modern reviews~\cite{Larkoski:2017jix,Guest:2018yhq,Albertsson:2018maf,Radovic:2018dip,Carleo:2019ptp,Kasieczka:2019dbj}
+		 \item Classical papers~\cite{Denby:1987rk,Lonnblad:1990bi}
+	\end{itemize}
+\item Classification.  
+	\begin{itemize}
+		\item Parameterized classifiers~\cite{Baldi:2016fzo,Cranmer:2015bka}.
 		\item Representations
 			\begin{itemize}
 				\item Jet images~\cite{Pumplin:1991kc,Cogan:2014oua,deOliveira:2015xxd,ATL-PHYS-PUB-2017-017,Lin:2018cin,Komiske:2018oaa,Barnard:2016qma,Komiske:2016rsd,Kasieczka:2017nvn,Macaluso:2018tck}
@@ -75,7 +80,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\item Hardware/firmware~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy}
 			\end{itemize}
 	\end{itemize}
-\item Regression
+\item Regression.
 	\begin{itemize}
 		\item Pileup~\cite{Komiske:2017ubm,ATL-PHYS-PUB-2019-028,Martinez:2018fwc,Carrazza:2019efs}
 		\item Calibration~\cite{Cheong:2019upg,ATL-PHYS-PUB-2020-001,ATL-PHYS-PUB-2018-013,Hooberman:DLPS2017,Kasieczka:2020vlh,CMS-PAS-HIG-18-027}
@@ -83,7 +88,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\item Matrix elements~\cite{Bishara:2019iwh}
 	\end{itemize}
 \item Decorrelation methods~\cite{Louppe:2016ylz,Dolen:2016kst,Moult:2017okx,Stevens:2013dya,Shimmin:2017mfk,Bradshaw:2019ipy,ATL-PHYS-PUB-2018-014,DiscoFever,Xia:2018kgd,Englert:2018cfo,Wunsch:2019qbo,Rogozhnikov:2014zea}
-\item Generative models / density estimation
+\item Generative models / density estimation.
 	\begin{itemize}
 		\item GANs~\cite{Goodfellow:2014upx}: ~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx}
 		\item Autoencoders~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001}
@@ -92,19 +97,20 @@ The purpose of this note is to collect references for modern machine learning as
 		\item Phase space generation~\cite{Bendavid:2017zhk,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Klimek:2018mza,Carrazza:2020rdn}
 		\item Gaussian processes~\cite{Frate:2017mai,Bertone:2016mdy}
 	\end{itemize}
-\item Anomaly detection
+\item Anomaly detection.
 	\begin{itemize}
 		\item Fully signal model-independent, fully background model-dependent~\cite{sleuth,Abbott:2000fb,Abbott:2000gx,Abbott:2001ke,Aaron:2008aa,Aktas:2004pz,Cranmer:2005zn,Aaltonen:2007dg,Aaltonen:2007ab,Aaltonen:2008vt,CMS-PAS-EXO-14-016,CMS-PAS-EXO-10-021,Aaboud:2018ufy,ATLAS-CONF-2014-006,ATLAS-CONF-2012-107,DAgnolo:2018cun,DAgnolo:2019vbw}
 		\item Partially signal model-dependent, partially background model-dependent~\cite{Farina:2018fyg,Heimel:2018mkt,Roy:2019jae,Cerri:2018anq,Blance:2019ibf,Hajer:2018kqm,Collins:2018epr,Collins:2019jip,DeSimone:2018efk,Mullin:2019mmh,1809.02977,Dillon:2019cqt,Andreassen:2020nkr,Aguilar-Saavedra:2017rzt,Romao:2019dvs}
 	\end{itemize}
-\item Simulation-based (`likelihood-free') Inference (Overview:~\cite{Cranmer:2019eaq})
+\item Simulation-based (`likelihood-free') Inference.
 	\begin{itemize}
+		\item Overview~\cite{Cranmer:2019eaq}
 		\item Parameter estimation~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka}
 		\item Unfolding~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB}
 		\item Domain adaptation~\cite{Rogozhnikov:2016bdp,Andreassen:2019nnm,Cranmer:2015bka}
 		\item BSM~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox}
 	\end{itemize}
-\item Uncertainty Quantification
+\item Uncertainty Quantification.
 	\begin{itemize}
 		\item Interpretability~\cite{deOliveira:2015xxd,Chang:2017kvc,Diefenbacher:2019ezd}
 		\item Estimation~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma}
@@ -125,8 +131,8 @@ The purpose of this note is to collect references for modern machine learning as
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % References
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\bibliographystyle{uiuchept}
-%\bibliographystyle{JHEP}
+%\bibliographystyle{uiuchept}
+\bibliographystyle{JHEP}
 \bibliography{HEPML}
 
 \end{document}
