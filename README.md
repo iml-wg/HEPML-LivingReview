@@ -32,7 +32,7 @@ The purpose of this note is to collect references for modern machine learning as
             *  How to tell quark jets from gluon jets
             * [ Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675)
             * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190)
-            *  Quark versus Gluon Jet Tagging Using Jet Images with the
+            *  Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
             * [ Learning to classify from impure samples with high-dimensional data](https://arxiv.org/abs/1801.10158)
             * [ Parton Shower Uncertainties in Jet Substructure Analyses](https://arxiv.org/abs/1609.00607)
@@ -42,7 +42,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Event images
 
-            *  Convolutional Neural Networks with Event Images for
+            *  Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
             * [ End-to-End Physics Event Classification with the CMS](https://arxiv.org/abs/1807.11916)
 
@@ -57,7 +57,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Graphs
 
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Neural Message Passing for Jet Physics
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
             * [ Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988)
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
@@ -96,16 +96,16 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  quarks and gluons
 
-            *  Quark versus Gluon Jet Tagging Using Jet Images with the
+            *  Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector
             * [ Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551)
             * [ Recursive Neural Networks in Quark/Gluon Tagging](https://arxiv.org/abs/1711.02633)
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223)
 
         *  top quark tagging
 
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
             * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914)
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265)
@@ -132,8 +132,8 @@ The purpose of this note is to collect references for modern machine learning as
         *  Particle identification
 
             * [ Electromagnetic Showers Beyond Shower Shapes](https://arxiv.org/abs/1806.05667)
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Survey of Machine Learning Techniques for High Energy
+            *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
             * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
             * [ Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987)
 
@@ -142,11 +142,11 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep neural network for pixel-level electromagnetic](https://arxiv.org/abs/1808.07269)
             * [ A Convolutional Neural Network Neutrino Event](https://arxiv.org/abs/1604.01444)
             * [ Convolutional Neural Networks Applied to Neutrino Events](https://arxiv.org/abs/1611.05531)
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Convolutional Neural Networks for Electron Neutrino and Electron
 
         *  Tracking
 
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Particle Track Reconstruction with Deep Learning
             * [ Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111)
             * [ The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778)
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
@@ -176,7 +176,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ On the impact of modern deep-learning techniques to the](https://arxiv.org/abs/2002.01427)
             * [ Efficient, reliable and fast high-level triggering using](https://arxiv.org/abs/1210.6861)
-            *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+            *  Deep topology classifiers for a more efficient trigger selection at the LHC
             * [ Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
 
         *  Hardware/firmware
@@ -190,22 +190,22 @@ The purpose of this note is to collect references for modern machine learning as
     *  Pileup
 
         * [ Pileup Mitigation with Machine Learning (PUMML)](https://arxiv.org/abs/1707.08600)
-        *  Convolutional Neural Networks with Event Images for
+        *  Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector
         * [ Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988)
         * [ Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644)
 
     *  Calibration
 
         * [ Parametrizing the Detector Response with Neural Networks](https://arxiv.org/abs/1910.03773)
-        *  Simultaneous Jet Energy and Mass Calibrations with Neural
-        *  Generalized Numerical Inversion: A Neural Network
-        *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+        *  Simultaneous Jet Energy and Mass Calibrations with Neural Networks
+        *  Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration
+        *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
         * [ Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099)
-        *  A deep neural network for simultaneous estimation of b
+        *  A deep neural network for simultaneous estimation of b quark energy and resolution
 
     *  Recasting
 
-        *  {The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning},
+        *  The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning
         * [ Accelerating the BSM interpretation of LHC data with](https://arxiv.org/abs/1611.02704)
 
     *  Matrix elements
@@ -231,11 +231,41 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  GANs
 
-        * [ Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+        * [ Learning Particle Physics by Example: Location-Aware](https://arxiv.org/abs/1701.05927)
+        * [ CaloGAN: Simulating 3D High Energy Particle Showers in](https://arxiv.org/abs/1705.02355)
+        * [ CaloGAN : Simulating 3D high energy particle showers in](https://arxiv.org/abs/1712.10321)
+        * [ How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824)
+        * [ 19th International Workshop on Advanced Computing and](https://arxiv.org/abs/1912.02748)
+        * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
+        *  Proceedings, 23rd International Conference on Computing
+        * [ Fast simulation of muons produced at the SHiP experiment](https://arxiv.org/abs/1909.04451)
+        * [ Lund jet images from generative and cycle-consistent](https://arxiv.org/abs/1909.01359)
+        * [ How to GAN LHC Events](https://arxiv.org/abs/1907.03764)
+        * [ Machine Learning Templates for QCD Factorization in the](https://arxiv.org/abs/1903.02556)
+        * [ DijetGAN: A Generative-Adversarial Network Approach for](https://arxiv.org/abs/1903.02433)
+        * [ LHC analysis-specific datasets with Generative](https://arxiv.org/abs/1901.05282)
+        * [ 23rd International Conference on Computing in High](https://arxiv.org/abs/1812.01319)
+        *  Deep generative models for fast shower simulation in
+        * [ Regressive and generative neural networks for scalar](https://arxiv.org/abs/1810.12879)
+        *  Proceedings, 18th International Workshop on Advanced
+        *  Proceedings, 18th International Workshop on Advanced
+        * [ Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433)
+        * [ Fast and Accurate Simulation of Particle Detectors Using](https://arxiv.org/abs/1805.00850)
+        * [ Generating and refining particle detector simulations](https://arxiv.org/abs/1802.03325)
+        *  Proceedings, 23rd International Conference on Computing
+        * [ 10th International Workshop on Ring Imaging Cherenkov](https://arxiv.org/abs/1903.11788)
+        * [ GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
+        * [ Precise simulation of electromagnetic calorimeter](https://arxiv.org/abs/1807.01954)
+        * [ Reducing Autocorrelation Times in Lattice Simulations](https://arxiv.org/abs/1811.03533)
+        *  Tips and Tricks for Training GANs with Physics Constraints
+        * [ Controlling Physical Attributes in GAN-Accelerated Simulation of Electromagnetic Calorimeters](https://arxiv.org/abs/1711.08813)
+        *  Next Generation Generative Neural Networks for HEP
+        *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
+        * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
 
     *  Autoencoders
 
-        *  {{Deep Learning as a Parton Shower}},
+        *  Deep Learning as a Parton Shower
         *  Deep generative models for fast shower simulation in
 
     *  Physics-inspired
@@ -245,7 +275,12 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Normalizing flows
 
-        *  	 {Proceedings of the 32nd International Conference on Machine Learning},
+        * [ Flow-based generative models for Markov chain Monte](https://arxiv.org/abs/1904.12072)
+        * [ Equivariant flow-based sampling for lattice gauge](https://arxiv.org/abs/2003.06413)
+        * [ Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913)
+        * [ Exploring phase space with Neural Importance Sampling](https://arxiv.org/abs/2001.05478)
+        * [ Event Generation with Normalizing Flows](https://arxiv.org/abs/2001.10028)
+        * [ i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486)
 
     *  Phase space generation
 
@@ -360,7 +395,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Mitigation
 
-        *  Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017)
+        *  Adversarial learning to eliminate systematic errors: a case study
         * [ Machine Learning Uncertainties with Adversarial Neural](https://arxiv.org/abs/1807.08763)
         * [ Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
 
