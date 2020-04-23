@@ -128,6 +128,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Searching for Exotic Particles in High-Energy Physics](https://arxiv.org/abs/1402.4735)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092)
             * [ A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238)
+            * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
 
         *  Particle identification
 
@@ -178,6 +179,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Efficient, reliable and fast high-level triggering using](https://arxiv.org/abs/1210.6861)
             *  Deep topology classifiers for a more efficient trigger selection at the LHC
             * [ Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
+            * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
 
         *  Hardware/firmware
 
