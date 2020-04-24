@@ -1,0 +1,33 @@
+name: CI/CD
+
+on:
+  push:
+  pull_request:
+  # Run daily at 0:01 UTC
+  schedule:
+  - cron:  '1 0 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ '3.7' ]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Test README generation
+      run: |
+        python make_md.py
+        ls -lhtra
+    - name: Compile LaTeX document
+      uses: xu-cheng/latex-action@1.2.1
+      with:
+        root_file: HEPML.tex
+        args: -lualatex -logfilewarnings -halt-on-error
+    - name: List directory contents
+      run: ls -lhtra
