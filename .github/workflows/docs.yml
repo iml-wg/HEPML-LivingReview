@@ -1,0 +1,44 @@
+name: Publish docs
+
+on:
+  push:
+    branches:
+    - master
+    tags:
+    - v*
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ '3.7' ]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Generate README
+      run: |
+        python make_md.py
+    - name: Compile LaTeX document
+      uses: xu-cheng/latex-action@1.2.1
+      with:
+        root_file: HEPML.tex
+        args: -lualatex -logfilewarnings -halt-on-error
+    - name: Setup docs for deployment
+      run: |
+        mkdir -p docs/_build/review
+        cp README.md docs/_build/
+        cp HEPML.pdf docs/_build/review/hepml-review.pdf
+    - name: Deploy docs to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: docs/_build
+        enable_jekyll: true # for README render
+        force_orphan: true
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
