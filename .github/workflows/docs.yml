@@ -23,6 +23,9 @@ jobs:
     - name: Generate README
       run: |
         python make_md.py
+    - name: Add build info footnote to jheppub.sty
+      run: |
+        python footnote_build_info.py
     - name: Compile LaTeX document
       uses: xu-cheng/latex-action@1.2.1
       with:
