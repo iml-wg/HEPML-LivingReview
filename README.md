@@ -2,7 +2,7 @@
 
 *Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*
 
-[![download](https://img.shields.io/badge/download-review-blue.svg)](https://bnachman.github.io/HEP-ML-LivingReview/review/hepml-review.pdf)
+[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)
 
 The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.
 
@@ -146,6 +146,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ A Convolutional Neural Network Neutrino Event](https://arxiv.org/abs/1604.01444)
             * [ Convolutional Neural Networks Applied to Neutrino Events](https://arxiv.org/abs/1611.05531)
             *  Convolutional Neural Networks for Electron Neutrino and Electron
+            * [ Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254)
 
         *  Tracking
 
