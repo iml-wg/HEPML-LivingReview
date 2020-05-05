@@ -35,9 +35,12 @@ jobs:
         python footnote_build_info.py
         ls -lhtra
     - name: Compile LaTeX document
-      uses: xu-cheng/latex-action@1.2.1
+      uses: docker://xucheng/texlive-full:latest
       with:
-        root_file: HEPML.tex
-        args: -lualatex -logfilewarnings -halt-on-error
+        entrypoint: /bin/sh
+        args: |
+          -c "\
+          apk --no-cache add make && \
+          make document"
     - name: List directory contents
       run: ls -lhtra
