@@ -1,0 +1,45 @@
+# Contributing
+
+To contribute to this project please either open an Issue with the details of the change you would like.
+If you have already discussed this with the maintainers or have contributed in the past you can also open a Pull Request.
+
+## Opening an Issue
+
+You can open an Issue from the [GitHub Issue tracker page](https://github.com/iml-wg/HEPML-LivingReview/issues).
+Before you open an Issue please search through both the closed and open Issues to make sure that your Issue hasn't already been discussed or addressed in the past.
+
+## Pull Request Process
+
+1. Create your Pull Request (PR) (see the FAQ below).
+2. Verify that you have run `make_md.py` to update the `README`.
+3. Ensure that the tests in the CI are passing.
+4. Request that a maintainer review your PR.
+5. Your PR can be merged in once you have the sign-off of at least one maintainer. If you do not have permission to make the merge, request the approving maintainer to merge it for you.
+
+## Areas of Requested Help
+
+1. Adding content across experiments
+2. An additional volunteer maintainer
+
+## FAQ
+
+### There is a subject not listed that I think should be. How do I get it added to the listing?
+
+If there is content missing that you'd like added please create an issue with as much description as possible (and maybe some examples).
+A maintainer will add the content once it has been approved.
+Alternatively, feel free to fork the repository and add the content you want and then create a pull request.
+
+### How do I add a paper?
+
+All paper additions should be submitted as a single pull request on a source branch that isn't `master`.
+
+1. Make a new branch for the pull request
+2. Find the paper on [INSPIRE](https://inspirehep.net/?ln=en)
+   - **N.B.:** If you have already found the paper on [arXiv](https://arxiv.org/) you should be able to find the INSPIRE listing linked under "References & Citations"
+3. Get the BibTeX for the paper citation provided by INSPIRE (under "Export" at the bottom of the page)
+4. Add this BibTeX entry to [`HEPML.bib`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.bib) in the appropriate chronological position
+5. Add the citation to [`HEPML.tex`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.tex) in the appropriate categories
+6. Verify that if you run `make` the LaTeX will compile
+7. Run `make_md.py` to update the `README` with the new references
+8. Add and commit `HEPML.bib`, `HEPML.tex`, and `README.md` to your pull request
+9. If you haven't yet, push your branch to GitHub and open a pull request to the main project
