@@ -22,7 +22,13 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Test README generation
       run: |
+        cp README.md README.bak
         python make_md.py
+        if [[ "$(diff README.md README.bak)" ]]; then
+           echo "ERROR: README is out of sync with HEPML.bib"
+           echo "       run make_md.py and commit changes"
+           exit 1
+        fi
         ls -lhtra
     - name: Add build info footnote to jheppub.sty
       run: |
