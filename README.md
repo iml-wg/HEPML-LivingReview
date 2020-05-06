@@ -16,6 +16,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Machine learning at the energy and intensity frontiers of particle physics
         * [ Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563)
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914)
+        * [ Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245)
 
     *  Classical papers
 
