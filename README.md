@@ -16,6 +16,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Machine learning at the energy and intensity frontiers of particle physics
         * [ Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563)
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914)
+        * [ Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245)
 
     *  Classical papers
 
@@ -123,6 +124,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://arxiv.org/abs/1712.07158)
             * [ Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633)
+            * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842)
 
         *  BSM particles
 
