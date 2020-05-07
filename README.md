@@ -172,6 +172,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ (Machine) Learning to Do More with Less](https://arxiv.org/abs/1706.09451)
             * [ An operational definition of quark and gluon jets](https://arxiv.org/abs/1809.01140)
             * [ Jet Topics: Disentangling Quarks and Gluons at Colliders](https://arxiv.org/abs/1802.00008)
+            * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
 
         *  Unsupervised
 
@@ -307,44 +308,25 @@ The purpose of this note is to collect references for modern machine learning as
 
 *  Anomaly detection.
 
-    *  Fully signal model-independent, fully background model-dependent
-
-        *  A Quasi-Model-Independent Search for New High $p_T$ Physics at D0
-        *  Search for new physics in $e\mu X$ data at D\O\ using Sherlock: A quasi model independent search strategy for new physics
-        *  A Quasi model independent search for new physics at large transverse momentum
-        * [ A quasi-model-independent search for new high $p_T$ physics at D\O](https://arxiv.org/abs/hep-ex/0011071)
-        * [ A General Search for New Phenomena at HERA](https://arxiv.org/abs/0901.0507)
-        *  A General search for new phenomena in ep scattering at HERA
-        *  Searching for new physics: Contributions to LEP and the LHC
-        * [ Model-Independent and Quasi-Model-Independent Search for New Physics at CDF](https://arxiv.org/abs/0712.1311)
-        * [ Model-Independent Global Search for New High-p(T) Physics at CDF](https://arxiv.org/abs/0712.2534)
-        *  Global Search for New Physics with 2.0 fb$^{-1}$ at CDF
-        *  MUSiC, a Model Unspecific Search for New Physics, in pp Collisions at $\sqrt{s}
-        *  Model Unspecific Search for New Physics in pp Collisions at sqrt(s) 
-        * [ A strategy for a general search for new phenomena using data-derived signal regions and its application within the ATLAS experiment](https://arxiv.org/abs/1807.07447)
-        *  A general search for new phenomena with the ATLAS detector in pp collisions at $\sqrt{s}
-        *  A general search for new phenomena with the ATLAS detector in pp collisions at sort(s)
-        * [ Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350)
-        * [ Learning Multivariate New Physics](https://arxiv.org/abs/1912.12155)
-
-    *  Partially signal model-dependent, partially background model-dependent
-
-        * [ Searching for New Physics with Deep Autoencoders](https://arxiv.org/abs/1808.08992)
-        * [ QCD or What?](https://arxiv.org/abs/1808.08979)
-        * [ A robust anomaly finder based on autoencoder](https://arxiv.org/abs/1903.02032)
-        * [ Variational Autoencoders for New Physics Mining at the Large Hadron Collider](https://arxiv.org/abs/1811.10276)
-        * [ Adversarially-trained autoencoders for robust unsupervised new physics searches](https://arxiv.org/abs/1905.10384)
-        * [ Novelty Detection Meets Collider Physics](https://arxiv.org/abs/1807.10261)
-        * [ Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664)
-        * [ Extending the search for new resonances with machine learning](https://arxiv.org/abs/1902.02634)
-        * [ Guiding New Physics Searches with Unsupervised Learning](https://arxiv.org/abs/1807.06038)
-        * [ Does SUSY have friends? A new approach for LHC event analysis](https://arxiv.org/abs/1912.10625)
-        * [ Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
-        * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200)
-        * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
-        * [ A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087)
-        * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220)
-        * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
+    * [ Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350)
+    * [ Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664)
+    * [ Extending the search for new resonances with machine learning](https://arxiv.org/abs/1902.02634)
+    * [ Learning Multivariate New Physics](https://arxiv.org/abs/1912.12155)
+    * [ Searching for New Physics with Deep Autoencoders](https://arxiv.org/abs/1808.08992)
+    * [ QCD or What?](https://arxiv.org/abs/1808.08979)
+    * [ A robust anomaly finder based on autoencoder](https://arxiv.org/abs/1903.02032)
+    * [ Variational Autoencoders for New Physics Mining at the Large Hadron Collider](https://arxiv.org/abs/1811.10276)
+    * [ Adversarially-trained autoencoders for robust unsupervised new physics searches](https://arxiv.org/abs/1905.10384)
+    * [ Novelty Detection Meets Collider Physics](https://arxiv.org/abs/1807.10261)
+    * [ Guiding New Physics Searches with Unsupervised Learning](https://arxiv.org/abs/1807.06038)
+    * [ Does SUSY have friends? A new approach for LHC event analysis](https://arxiv.org/abs/1912.10625)
+    * [ Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
+    * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200)
+    * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
+    * [ A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087)
+    * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220)
+    * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
+    * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
 
 *  Simulation-based (`likelihood-free') Inference.
 
@@ -422,4 +404,5 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} ](https://arxiv.org/abs/1908.06765)
         * [ Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678)
+        * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
 
