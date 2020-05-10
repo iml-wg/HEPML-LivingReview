@@ -105,6 +105,7 @@ The purpose of this note is to collect references for modern machine learning as
             *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223)
+            * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
 
         *  top quark tagging
 
@@ -160,6 +161,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Heavy ions
 
             * [ An EoS-meter of QCD transition from deep learning](https://arxiv.org/abs/1612.04262)
+            * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
 
         *  Weak supervision
 
@@ -172,7 +174,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ (Machine) Learning to Do More with Less](https://arxiv.org/abs/1706.09451)
             * [ An operational definition of quark and gluon jets](https://arxiv.org/abs/1809.01140)
             * [ Jet Topics: Disentangling Quarks and Gluons at Colliders](https://arxiv.org/abs/1802.00008)
-            * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
+            * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
 
         *  Unsupervised
 
@@ -326,7 +328,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087)
     * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220)
     * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
-    * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
+    * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
 
 *  Simulation-based (`likelihood-free') Inference.
 
@@ -404,5 +406,5 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} ](https://arxiv.org/abs/1908.06765)
         * [ Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678)
-        * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/{2005.02983})
+        * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
 
