@@ -103,9 +103,9 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551)
             * [ Recursive Neural Networks in Quark/Gluon Tagging](https://arxiv.org/abs/1711.02633)
             *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
+            * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223)
-            * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
 
         *  top quark tagging
 
