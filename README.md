@@ -274,6 +274,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Next Generation Generative Neural Networks for HEP
         *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
         * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
+        * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
 
     *  Autoencoders
 
