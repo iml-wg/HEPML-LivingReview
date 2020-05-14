@@ -23,7 +23,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Neural Networks and Cellular Automata in Experimental High-energy Physics
         *  Finding Gluon Jets With a Neural Trigger
 
-*  Classification.  
+*  Classification.
 
     *  Parameterized classifiers
 
@@ -328,6 +328,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
     * [ A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087)
     * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220)
+    * [ Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360)
     * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
     * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
 
@@ -373,6 +374,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ A Guide to Constraining Effective Field Theories with Machine Learning](https://arxiv.org/abs/1805.00020)
         * [ Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244)
         * [ MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621)
+        * [ Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360)
 
 *  Uncertainty Quantification.
 
