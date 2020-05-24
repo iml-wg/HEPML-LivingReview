@@ -246,6 +246,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://arxiv.org/abs/1701.05927)
         * [ CaloGAN: Simulating 3D High Energy Particle Showers in](https://arxiv.org/abs/1705.02355)
         * [ CaloGAN : Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks](https://arxiv.org/abs/1712.10321)
+        * [ Image-based model parameter optimization using Model-Assisted Generative Adversarial Networks](https://arxiv.org/abs/1812.00879)
         * [ How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824)
         * [ Particle Generative Adversarial Networks for full-event simulation at the LHC and their application to pileup description](https://arxiv.org/abs/1912.02748)
         * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
