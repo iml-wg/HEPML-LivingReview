@@ -67,6 +67,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092)
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
+            * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
 
         *  Sets (point clouds)
 
