@@ -181,6 +181,8 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Fuzzy Jets](https://arxiv.org/abs/1509.02216)
             * [ Metric Space of Collider Events](https://arxiv.org/abs/1902.02346)
+            * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
+            * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200)
 
         *  Software
 
@@ -333,6 +335,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360)
     * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
     * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
+    * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
 
 *  Simulation-based (`likelihood-free') Inference.
 
