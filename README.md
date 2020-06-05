@@ -151,6 +151,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://arxiv.org/abs/1611.05531)
             *  Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors
             * [ Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254)
+            * [ PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
 
         *  Tracking
 
@@ -224,6 +225,10 @@ The purpose of this note is to collect references for modern machine learning as
     *  Matrix elements
 
         * [ (Machine) Learning Amplitudes for Faster Event Generation](https://arxiv.org/abs/1912.11055)
+
+    *  Parameter estimation
+
+        * [ Numerical analysis of neutrino physics within a high scale supersymmetry model via machine learning](https://arxiv.org/abs/2006.01495)
 
 *  Decorrelation methods.
 
