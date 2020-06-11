@@ -341,6 +341,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598)
     * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
     * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
+    * [ Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432)
 
 *  Simulation-based (`likelihood-free') Inference.
 
