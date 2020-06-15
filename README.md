@@ -133,7 +133,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180)
             * [ Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://arxiv.org/abs/1402.4735)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092)
-            * [A deep neural network to search for new long-lived particles decaying to jets](https://iopscience.iop.org/article/10.1088/2632-2153/ab9023)
+            * [A deep neural network to search for new long-lived particles decaying to jets](https://doi.org/10.1088/2632-2153/ab9023)
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
 
         *  Particle identification
@@ -244,7 +244,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763)
     * [ Reducing the dependence of the neural network function to systematic uncertainties in the input space](https://arxiv.org/abs/1907.11674)
     * [ New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140)
-    * [A deep neural network to search for new long-lived particles decaying to jets](https://iopscience.iop.org/article/10.1088/2632-2153/ab9023)
+    * [A deep neural network to search for new long-lived particles decaying to jets](https://doi.org/10.1088/2632-2153/ab9023)
     * [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
 
 *  Generative models / density estimation.
