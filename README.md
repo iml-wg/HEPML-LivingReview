@@ -35,7 +35,7 @@ The purpose of this note is to collect references for modern machine learning as
             *  How to tell quark jets from gluon jets
             * [ Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675)
             * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190)
-            *  Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector
+            * [ Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
             * [ Learning to classify from impure samples with high-dimensional data](https://arxiv.org/abs/1801.10158)
             * [ Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607)
@@ -45,7 +45,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Event images
 
-            *  Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector
+            * [ Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070)
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
             * [ End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916)
 
@@ -60,7 +60,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Graphs
 
-            *  Neural Message Passing for Jet Physics
+            * [ Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf})
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
             * [ Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988)
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
@@ -100,17 +100,17 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  quarks and gluons
 
-            *  Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector
+            * [ Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
             * [ Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551)
             * [ Recursive Neural Networks in Quark/Gluon Tagging](https://arxiv.org/abs/1711.02633)
-            *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
+            * [ DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf})
             * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318)
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223)
 
         *  top quark tagging
 
-            *  DeepJet: Generic physics object based jet multiclass classification for LHC experiments
+            * [ DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf})
             * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914)
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265)
@@ -133,14 +133,14 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180)
             * [ Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://arxiv.org/abs/1402.4735)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092)
-            * {A deep neural network to search for new long-lived particles decaying to jets},
+            * [A deep neural network to search for new long-lived particles decaying to jets](http://iopscience.iop.org/10.1088/2632-2153/ab9023)
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
 
         *  Particle identification
 
             * [ Electromagnetic Showers Beyond Shower Shapes](https://arxiv.org/abs/1806.05667)
-            *  Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification
-            *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
+            * [ Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification](https://dl4physicalsciences.github.io/files/nips_dlps_2017_24.pdf})
+            * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
             * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
             * [ Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987)
 
@@ -149,13 +149,13 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/1808.07269)
             * [ A Convolutional Neural Network Neutrino Event Classifier](https://arxiv.org/abs/1604.01444)
             * [ Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://arxiv.org/abs/1611.05531)
-            *  Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors
+            * [ Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf})
             * [ Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254)
             * [ PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
 
         *  Tracking
 
-            *  Particle Track Reconstruction with Deep Learning
+            * [ Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf})
             * [ Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111)
             * [ The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778)
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
@@ -189,7 +189,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427)
             * [ Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://arxiv.org/abs/1210.6861)
-            *  Deep topology classifiers for a more efficient trigger selection at the LHC
+            * [ Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf})
             * [ Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
 
@@ -204,22 +204,22 @@ The purpose of this note is to collect references for modern machine learning as
     *  Pileup
 
         * [ Pileup Mitigation with Machine Learning (PUMML)](https://arxiv.org/abs/1707.08600)
-        *  Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector
+        * [ Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070)
         * [ Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988)
         * [ Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644)
 
     *  Calibration
 
         * [ Parametrizing the Detector Response with Neural Networks](https://arxiv.org/abs/1910.03773)
-        *  Simultaneous Jet Energy and Mass Calibrations with Neural Networks
-        *  Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration
-        *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
+        * [ Simultaneous Jet Energy and Mass Calibrations with Neural Networks](http://cds.cern.ch/record/2706189)
+        * [ Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration](http://cds.cern.ch/record/2630972)
+        * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [ Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099)
         * [ A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046)
 
     *  Recasting
 
-        *  The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning
+        * [ The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning]({http://dx.doi.org/10.1140/epjc/s10052-017-4814-9})
         * [ Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704)
 
     *  Matrix elements
@@ -238,13 +238,13 @@ The purpose of this note is to collect references for modern machine learning as
     * [ uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://arxiv.org/abs/1305.7248)
     * [ Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://arxiv.org/abs/1703.03507)
     * [ Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959)
-    *  Performance of mass-decorrelated jet substructure
+    * [ Performance of mass-decorrelated jet substructure](http://cds.cern.ch/record/2630973)
     * [ DisCo Fever: Robust Networks Through Distance Correlation](https://arxiv.org/abs/2001.05310)
     * [ QBDT, a new boosting decision tree method with systematical uncertainties into training for High Energy Physics](https://arxiv.org/abs/1810.08387)
     * [ Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763)
     * [ Reducing the dependence of the neural network function to systematic uncertainties in the input space](https://arxiv.org/abs/1907.11674)
     * [ New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140)
-    * {A deep neural network to search for new long-lived particles decaying to jets},
+    * [A deep neural network to search for new long-lived particles decaying to jets](http://iopscience.iop.org/10.1088/2632-2153/ab9023)
     * [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
 
 *  Generative models / density estimation.
@@ -266,7 +266,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC](https://arxiv.org/abs/1903.02433)
         * [ LHC analysis-specific datasets with Generative Adversarial Networks](https://arxiv.org/abs/1901.05282)
         * [ Generative Models for Fast Calorimeter Simulation.LHCb case](https://arxiv.org/abs/1812.01319)
-        *  Deep generative models for fast shower simulation in ATLAS
+        * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
         * [ Regressive and generative neural networks for scalar field theory](https://arxiv.org/abs/1810.12879)
         *  Three dimensional Generative Adversarial Networks for fast simulation
         *  Generative models for fast simulation
@@ -278,17 +278,17 @@ The purpose of this note is to collect references for modern machine learning as
         * [ GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
         * [ Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network](https://arxiv.org/abs/1807.01954)
         * [ Reducing Autocorrelation Times in Lattice Simulations with Generative Adversarial Networks](https://arxiv.org/abs/1811.03533)
-        *  Tips and Tricks for Training GANs with Physics Constraints
+        * [ Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf})
         * [ Controlling Physical Attributes in GAN-Accelerated Simulation of Electromagnetic Calorimeters](https://arxiv.org/abs/1711.08813)
         *  Next Generation Generative Neural Networks for HEP
-        *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
+        * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
         * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
 
     *  Autoencoders
 
         *  Deep Learning as a Parton Shower
-        *  Deep generative models for fast shower simulation in ATLAS
+        * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
 
     *  Physics-inspired
 
@@ -404,7 +404,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Mitigation
 
-        *  Adversarial learning to eliminate systematic errors: a case study in High Energy Physics
+        * [ Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf})
         * [ Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763)
         * [ Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
 
