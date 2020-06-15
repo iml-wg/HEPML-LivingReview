@@ -13,15 +13,15 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464)
         * [ Deep Learning and its Application to LHC Physics](https://arxiv.org/abs/1806.11484)
         * [ Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
-        *  Machine learning at the energy and intensity frontiers of particle physics
+        * [ Machine learning at the energy and intensity frontiers of particle physics](https://doi.org/10.1038/s41586-018-0361-2)
         * [ Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563)
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914)
         * [ Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245)
 
     *  Classical papers
 
-        *  Neural Networks and Cellular Automata in Experimental High-energy Physics
-        *  Finding Gluon Jets With a Neural Trigger
+        * [ Neural Networks and Cellular Automata in Experimental High-energy Physics](https://doi.org/10.1016/0010-4655(88)90004-5)
+        * [ Finding Gluon Jets With a Neural Trigger](https://doi.org/10.1103/PhysRevLett.65.1321)
 
 *  Classification.
 
@@ -32,7 +32,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Jet images
 
-            *  How to tell quark jets from gluon jets
+            * [ How to tell quark jets from gluon jets](https://doi.org/10.1103/PhysRevD.44.2025)
             * [ Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675)
             * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190)
             * [ Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
@@ -219,7 +219,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Recasting
 
-        * [ The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning]({http://dx.doi.org/10.1140/epjc/s10052-017-4814-9})
+        * [ The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning](https://doi.org/{10.1140/epjc/s10052-017-4814-9)
         * [ Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704)
 
     *  Matrix elements
@@ -258,7 +258,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824)
         * [ Particle Generative Adversarial Networks for full-event simulation at the LHC and their application to pileup description](https://arxiv.org/abs/1912.02748)
         * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
-        *  3D convolutional GAN for fast simulation
+        * [ 3D convolutional GAN for fast simulation](https://doi.org/10.1051/epjconf/201921402010)
         * [ Fast simulation of muons produced at the SHiP experiment using Generative Adversarial Networks](https://arxiv.org/abs/1909.04451)
         * [ Lund jet images from generative and cycle-consistent adversarial networks](https://arxiv.org/abs/1909.01359)
         * [ How to GAN LHC Events](https://arxiv.org/abs/1907.03764)
@@ -268,19 +268,19 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Generative Models for Fast Calorimeter Simulation.LHCb case](https://arxiv.org/abs/1812.01319)
         * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
         * [ Regressive and generative neural networks for scalar field theory](https://arxiv.org/abs/1810.12879)
-        *  Three dimensional Generative Adversarial Networks for fast simulation
-        *  Generative models for fast simulation
+        * [ Three dimensional Generative Adversarial Networks for fast simulation](https://doi.org/10.1088/1742-6596/1085/3/032016)
+        * [ Generative models for fast simulation](https://doi.org/10.1088/1742-6596/1085/2/022005)
         * [ Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433)
         * [ Fast and Accurate Simulation of Particle Detectors Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00850)
         * [ Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks](https://arxiv.org/abs/1802.03325)
-        *  Generative models for fast cluster simulations in the TPC for the ALICE experiment
+        * [ Generative models for fast cluster simulations in the TPC for the ALICE experiment](https://doi.org/10.1051/epjconf/201921406003)
         * [ Cherenkov Detectors Fast Simulation Using Neural Networks](https://arxiv.org/abs/1903.11788)
         * [ GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
         * [ Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network](https://arxiv.org/abs/1807.01954)
         * [ Reducing Autocorrelation Times in Lattice Simulations with Generative Adversarial Networks](https://arxiv.org/abs/1811.03533)
         * [ Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf})
         * [ Controlling Physical Attributes in GAN-Accelerated Simulation of Electromagnetic Calorimeters](https://arxiv.org/abs/1711.08813)
-        *  Next Generation Generative Neural Networks for HEP
+        * [ Next Generation Generative Neural Networks for HEP](https://doi.org/10.1051/epjconf/201921409005)
         * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
         * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
@@ -367,8 +367,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
         * [ Machine learning approach to inverse problem and unfolding procedure](https://arxiv.org/abs/1004.2006)
         * [ Machine learning as an instrument for data unfolding](https://arxiv.org/abs/1712.01814)
-        *  Advanced event reweighting using multivariate analysis
-        *  Unfolding by weighting Monte Carlo events
+        * [ Advanced event reweighting using multivariate analysis](https://doi.org/10.1088/1742-6596/368/1/012028)
+        * [ Unfolding by weighting Monte Carlo events](https://doi.org/10.1016/0168-9002(94)01067-6)
         * Binning-Free Unfolding Based on Monte Carlo Migration
         * [ Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685)
 
