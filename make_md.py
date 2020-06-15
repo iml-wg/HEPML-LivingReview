@@ -56,7 +56,7 @@ def convert_from_bib(myline):
     if "eprint" in myentry_dict:
         paper=""
         if "doi" in myentry_dict:
-            paper=", [[DOI](https://doi.org/{0})]".format( myentry_dict["doi"] )
+            paper=" [[DOI](https://doi.org/{0})]".format( myentry_dict["doi"] )
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
     elif "doi" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
