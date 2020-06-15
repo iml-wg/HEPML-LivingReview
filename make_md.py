@@ -34,12 +34,14 @@ def convert_from_bib(myline):
         pass
     myentry_dict = {}
     for entry in myentry:
-        entry_cleaned = entry.replace("\"{","").replace("}\",","")
+        entry_cleaned = entry.replace("\"{","").replace("}\",","").replace("},","")
         if "title" in entry_cleaned:
             myentry_dict["title"] = entry_cleaned.split("title")[1].split("=")[1].split("\n")[0]
             pass
         elif "eprint" in entry_cleaned:
             myentry_dict["eprint"] = entry_cleaned.split("eprint")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
+        elif "url" in entry_cleaned:
+            myentry_dict["url"] = entry_cleaned.split("url")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         else:
             #print(entry_cleaned)
             pass
@@ -50,6 +52,8 @@ def convert_from_bib(myline):
         print("We are in trouble ! ")
     if "eprint" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"
+    elif "url" in myentry_dict:
+        return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"
     else:
         return myentry_dict["title"]
     return myline
