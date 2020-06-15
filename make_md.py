@@ -35,12 +35,15 @@ def convert_from_bib(myline):
     myentry_dict = {}
     for entry in myentry:
         entry_cleaned = entry.replace("\"{","").replace("}\",","").replace("},","")
-        if "title" in entry_cleaned:
+        first_entry = entry_cleaned.split("=")[0]
+        if "title" in first_entry:
             myentry_dict["title"] = entry_cleaned.split("title")[1].split("=")[1].split("\n")[0]
             pass
-        elif "eprint" in entry_cleaned:
+        elif "eprint" in first_entry:
             myentry_dict["eprint"] = entry_cleaned.split("eprint")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
-        elif "url" in entry_cleaned:
+        elif "doi" in first_entry:
+            myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
+        elif "url" in first_entry:
             myentry_dict["url"] = entry_cleaned.split("url")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         else:
             #print(entry_cleaned)
@@ -52,6 +55,8 @@ def convert_from_bib(myline):
         print("We are in trouble ! ")
     if "eprint" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"
+    elif "doi" in myentry_dict:
+        return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
     elif "url" in myentry_dict:
         return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"
     else:
