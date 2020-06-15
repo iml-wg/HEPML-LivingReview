@@ -211,7 +211,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration
         *  Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics
         * [ Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099)
-        *  A deep neural network for simultaneous estimation of b quark energy and resolution
+        * [ A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046)
 
     *  Recasting
 
