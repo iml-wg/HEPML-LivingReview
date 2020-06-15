@@ -54,7 +54,10 @@ def convert_from_bib(myline):
         print(myentry)
         print("We are in trouble ! ")
     if "eprint" in myentry_dict:
-        return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"
+        paper=""
+        if "doi" in myentry_dict:
+            paper="[{0}](https://doi.org/{0})".format( myentry_dict["doi"] )
+        return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
     elif "doi" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
     elif "url" in myentry_dict:
