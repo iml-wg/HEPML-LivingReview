@@ -370,6 +370,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Advanced event reweighting using multivariate analysis
         *  Unfolding by weighting Monte Carlo events
         * Binning-Free Unfolding Based on Monte Carlo Migration
+        * [ Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685)
 
     *  Domain adaptation
 
