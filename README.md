@@ -4,7 +4,7 @@
 
 [![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)
 
-The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.
+The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.  If you find this review helpful, please consider citing it using \cite{hepmllivingreview} in HEPML.bib.
 
 *  Reviews.
 
@@ -36,7 +36,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675) [[DOI](https://doi.org/10.1007/JHEP02(2015)118)]
             * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
             * [ Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
-            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
+            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
             * [ Learning to classify from impure samples with high-dimensional data](https://arxiv.org/abs/1801.10158) [[DOI](https://doi.org/10.1103/PhysRevD.98.011502)]
             * [ Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607) [[DOI](https://doi.org/10.1103/PhysRevD.95.014018)]
             * [ Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551) [[DOI](https://doi.org/10.1007/JHEP01(2017)110)]
@@ -46,7 +46,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Event images
 
             * [ Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070)
-            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
+            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
             * [ End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916)
 
         *  Sequences
@@ -68,6 +68,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
+            * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
 
         *  Sets (point clouds)
 
@@ -93,7 +94,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  $H\rightarrow b\bar{b}$
 
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
-            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768)
+            * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
             * [ Interaction networks for the identification of boosted $H\to b\overline{b}$ decays](https://arxiv.org/abs/1909.12285)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262)
@@ -135,6 +136,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
             * [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
+            * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
 
         *  Particle identification
 
@@ -168,7 +170,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Weak supervision
 
             * [ Weakly Supervised Classification in High Energy Physics](https://arxiv.org/abs/1702.00414) [[DOI](https://doi.org/10.1007/JHEP05(2017)145)]
-            * [ Classification without labels: Learning from mixed samples in high energy physics](https://arxiv.org/abs/1708.02949)
+            * [ Classification without labels: Learning from mixed samples in high energy physics](https://arxiv.org/abs/1708.02949) [[DOI](https://doi.org/10.1007/JHEP10(2017)174)]
             * [ Learning to classify from impure samples with high-dimensional data](https://arxiv.org/abs/1801.10158) [[DOI](https://doi.org/10.1103/PhysRevD.98.011502)]
             * [ Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664) [[DOI](https://doi.org/10.1103/PhysRevLett.121.241803)]
             * [ Extending the search for new resonances with machine learning](https://arxiv.org/abs/1902.02634) [[DOI](https://doi.org/10.1103/PhysRevD.99.014038)]
@@ -252,7 +254,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  GANs
 
         * [ Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://arxiv.org/abs/1701.05927)
-        * [ CaloGAN: Simulating 3D High Energy Particle Showers in](https://arxiv.org/abs/1705.02355)
+        * [ Accelerating Science with Generative Adversarial Networks: An Application to 3D Particle Showers in Multilayer Calorimeters](https://arxiv.org/abs/1705.02355) [[DOI](https://doi.org/10.1103/PhysRevLett.120.042003)]
         * [ CaloGAN : Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks](https://arxiv.org/abs/1712.10321) [[DOI](https://doi.org/10.1103/PhysRevD.97.014021)]
         * [ Image-based model parameter optimization using Model-Assisted Generative Adversarial Networks](https://arxiv.org/abs/1812.00879) [[DOI](https://doi.org/10.1109/TNNLS.2020.2969327)]
         * [ How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824)
@@ -287,12 +289,12 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Autoencoders
 
-        *  Deep Learning as a Parton Shower
+        * [ Deep Learning as a Parton Shower](https://arxiv.org/abs/{1807.03685)
         * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
 
     *  Physics-inspired
 
-        *  JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics
+        * [ JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
         * [ Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
 
     *  Normalizing flows
@@ -303,6 +305,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Exploring phase space with Neural Importance Sampling](https://arxiv.org/abs/2001.05478)
         * [ Event Generation with Normalizing Flows](https://arxiv.org/abs/2001.10028) [[DOI](https://doi.org/10.1103/PhysRevD.101.076002)]
         * [ i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486)
+        * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
 
     *  Phase space generation
 
@@ -334,7 +337,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Does SUSY have friends? A new approach for LHC event analysis](https://arxiv.org/abs/1912.10625)
     * [ Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
     * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
-    * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
+    * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001) [[DOI](https://doi.org/10.1103/PhysRevD.101.095004)]
+    * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
     * [ A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087)
     * [ Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220) [[DOI](https://doi.org/10.1103/PhysRevD.101.035042)]
     * [ Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360)
@@ -351,7 +355,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Parameter estimation
 
-        * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209)
+        * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
         * [ Likelihood-free inference with an improved cross-entropy estimator](https://arxiv.org/abs/1808.00973)
         * [ Resonance Searches with Machine Learned Likelihood Ratios](https://arxiv.org/abs/2002.04699)
         * [ Constraining Effective Field Theories with Machine Learning](https://arxiv.org/abs/1805.00013)
@@ -362,7 +366,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Unfolding
 
-        * [ OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107)
+        * [ OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107) [[DOI](https://doi.org/10.1103/PhysRevLett.124.182001)]
         * [ Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433)
         * [ How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477)
         * [ Machine learning approach to inverse problem and unfolding procedure](https://arxiv.org/abs/1004.2006)
@@ -375,12 +379,12 @@ The purpose of this note is to collect references for modern machine learning as
     *  Domain adaptation
 
         * [ Reweighting with Boosted Decision Trees](https://arxiv.org/abs/1608.05806) [[DOI](https://doi.org/10.1088/1742-6596/762/1/012036)]
-        * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209)
+        * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
 
     *  BSM
 
-        * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001)
+        * [ Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001) [[DOI](https://doi.org/10.1103/PhysRevD.101.095004)]
         * [ Resonance Searches with Machine Learned Likelihood Ratios](https://arxiv.org/abs/2002.04699)
         * [ Constraining Effective Field Theories with Machine Learning](https://arxiv.org/abs/1805.00013)
         * [ A Guide to Constraining Effective Field Theories with Machine Learning](https://arxiv.org/abs/1805.00020)
