@@ -34,6 +34,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ How to tell quark jets from gluon jets](https://doi.org/10.1103/PhysRevD.44.2025)
             * [ Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675) [[DOI](https://doi.org/10.1007/JHEP02(2015)118)]
+            * [ Playing Tag with ANN: Boosted Top Identification with Pattern Recognition](https://arxiv.org/abs/1501.05968) [[DOI](https://doi.org/10.1007/JHEP07(2015)086)]
             * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
             * [ Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
@@ -113,6 +114,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  top quark tagging
 
+            * [ Playing Tag with ANN: Boosted Top Identification with Pattern Recognition](https://arxiv.org/abs/1501.05968) [[DOI](https://doi.org/10.1007/JHEP07(2015)086)]
             * [ DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf})
             * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
@@ -156,6 +158,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf})
             * [ Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254)
             * [ PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
+            * [ Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
 
         *  Tracking
 
