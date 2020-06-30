@@ -429,7 +429,8 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Final analysis discriminate for searches
 
-        * [ Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} ](https://arxiv.org/abs/1908.06765) [[DOI](https://doi.org/10.1016/j.physletb.2019.135145)]
+        * [ Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} = 13$ TeV ](https://arxiv.org/abs/1908.06765) [[DOI](https://doi.org/10.1016/j.physletb.2019.135145)]
         * [ Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678)
-        * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
+        * [ Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector ](https://arxiv.org/abs/2005.02983)
+        * [ Inclusive search for highly boosted Higgs bosons decaying to bottom quark-antiquark pairs in proton-proton collisions at $\sqrt{s} = 13$ TeV ](https://arxiv.org/abs/2006.13251)
 
