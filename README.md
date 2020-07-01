@@ -233,6 +233,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Matrix elements
 
         * [ (Machine) Learning Amplitudes for Faster Event Generation](https://arxiv.org/abs/1912.11055)
+        * [ $\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273)
 
     *  Parameter estimation
 
@@ -326,6 +327,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://arxiv.org/abs/1709.05681)
         * [ Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704)
+        * [ $\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273)
 
 *  Anomaly detection.
 
