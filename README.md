@@ -166,6 +166,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111)
             * [ The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778) [[DOI](https://doi.org/10.1007/978-3-030-29135-8\_9)]
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
+            * [ An updated hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2007.01023)
 
         *  Heavy ions
 
@@ -298,6 +299,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Deep Learning as a Parton Shower](https://arxiv.org/abs/{1807.03685)
         * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
+        * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
 
     *  Physics-inspired
 
@@ -354,6 +356,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
     * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
     * [ Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432)
+    * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
 
 *  Simulation-based (`likelihood-free') Inference.
 
