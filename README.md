@@ -159,6 +159,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254)
             * [ PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
             * [ Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
+            * [ Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
 
         *  Tracking
 
