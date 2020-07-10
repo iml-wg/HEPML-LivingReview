@@ -111,6 +111,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223) [[DOI](https://doi.org/10.21468/SciPostPhys.6.6.069)]
+            * [ Towards Machine Learning Analytics for Jet Substructure](https://arxiv.org/abs/2007.04319)
 
         *  top quark tagging
 
@@ -231,6 +232,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning](https://doi.org/{10.1140/epjc/s10052-017-4814-9)
         * [ Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704)
+        * [ Bayesian Neural Networks for Fast SUSY Predictions](https://arxiv.org/abs/2007.04506)
 
     *  Matrix elements
 
