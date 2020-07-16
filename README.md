@@ -187,6 +187,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ An operational definition of quark and gluon jets](https://arxiv.org/abs/1809.01140) [[DOI](https://doi.org/10.1007/JHEP11(2018)059)]
             * [ Jet Topics: Disentangling Quarks and Gluons at Colliders](https://arxiv.org/abs/1802.00008) [[DOI](https://doi.org/10.1103/PhysRevLett.120.241602)]
             * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
+            * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
 
         *  Unsupervised
 
@@ -359,6 +360,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
     * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
     * [ Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432)
+    * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
     * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
 
 *  Simulation-based (`likelihood-free') Inference.
