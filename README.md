@@ -17,6 +17,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563) [[DOI](https://doi.org/10.1103/RevModPhys.91.045002)]
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245) [[DOI](https://doi.org/10.1142/S0217751X19300199)]
+        * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
 
     *  Classical papers
 
