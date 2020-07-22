@@ -211,6 +211,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Fast inference of deep neural networks in FPGAs for particle physics](https://arxiv.org/abs/1804.06913) [[DOI](https://doi.org/10.1088/1748-0221/13/07/P07027)]
             * [ Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308)
             * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534)
+            * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
 
 *  Regression.
 
@@ -244,6 +245,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Parameter estimation
 
         * [ Numerical analysis of neutrino physics within a high scale supersymmetry model via machine learning](https://arxiv.org/abs/2006.01495)
+        * [ Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356)
 
 *  Decorrelation methods.
 
