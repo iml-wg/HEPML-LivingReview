@@ -331,6 +331,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486)
         * [ Neural Network-Based Approach to Phase Space Integration](https://arxiv.org/abs/1810.11509)
         * [ VegasFlow: accelerating Monte Carlo simulation across multiple hardware platforms](https://arxiv.org/abs/2002.12921)
+        * [ A Neural Resampler for Monte Carlo Reweighting with Preserved Uncertainties](https://arxiv.org/abs/2007.11586)
 
     *  Gaussian processes
 
