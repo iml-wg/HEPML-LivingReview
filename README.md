@@ -73,6 +73,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
+            * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
 
         *  Sets (point clouds)
 
@@ -162,6 +163,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
             * [ Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
             * [ Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
+            * [ Augmented Signal Processing in Liquid Argon Time Projection Chamber with Deep Neural Network](https://arxiv.org/abs/2007.12743)
 
         *  Tracking
 
@@ -312,6 +314,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
         * [ Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
+        * [ Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110)
 
     *  Normalizing flows
 
