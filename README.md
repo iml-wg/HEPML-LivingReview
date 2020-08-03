@@ -15,9 +15,13 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876)
         * [ Machine learning at the energy and intensity frontiers of particle physics](https://doi.org/10.1038/s41586-018-0361-2)
         * [ Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563) [[DOI](https://doi.org/10.1103/RevModPhys.91.045002)]
-        * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245) [[DOI](https://doi.org/10.1142/S0217751X19300199)]
+
+    *  Specialized reviews
+
+        * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
+        * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
 
     *  Classical papers
 
@@ -144,6 +148,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
+            * [ Distinguishing $W'$ Signals at Hadron Colliders Using Neural Networks](https://arxiv.org/abs/2007.14586)
 
         *  Particle identification
 
@@ -215,6 +220,10 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534)
             * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
 
+        *  Deployment
+
+            * [ MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
+
 *  Regression.
 
     *  Pileup
@@ -265,6 +274,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140) [[DOI](https://doi.org/10.1088/1748-0221/10/03/T03002)]
     * [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
     * [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
+    * [ ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400)
 
 *  Generative models / density estimation.
 
@@ -369,6 +379,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432)
     * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
     * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
+    * [ Anomaly Awareness](https://arxiv.org/abs/2007.14462)
+    * [ Unsupervised Outlier Detection in Heavy-Ion Collisions](https://arxiv.org/abs/2007.15830)
 
 *  Simulation-based (`likelihood-free') Inference.
 
