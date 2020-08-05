@@ -22,6 +22,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
         * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
+        * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
 
     *  Classical papers
 
@@ -169,6 +170,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
             * [ Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
             * [ Augmented Signal Processing in Liquid Argon Time Projection Chamber with Deep Neural Network](https://arxiv.org/abs/2007.12743)
+            * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
 
         *  Tracking
 
