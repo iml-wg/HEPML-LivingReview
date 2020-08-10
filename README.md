@@ -84,6 +84,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Energy Flow Networks: Deep Sets for Particle Jets](https://arxiv.org/abs/1810.05165) [[DOI](https://doi.org/10.1007/JHEP01(2019)121)]
             * [ ParticleNet: Jet Tagging via Particle Clouds](https://arxiv.org/abs/1902.08570) [[DOI](https://doi.org/10.1103/PhysRevD.101.056019)]
+            * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
 
         *  Physics-inspired basis
 
@@ -179,6 +180,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778) [[DOI](https://doi.org/10.1007/978-3-030-29135-8\_9)]
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
             * [ An updated hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2007.01023)
+            * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
 
         *  Heavy ions
 
@@ -315,6 +317,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
         * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
+        * [ AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
 
     *  Autoencoders
 
