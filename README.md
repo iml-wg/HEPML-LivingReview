@@ -79,6 +79,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
             * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
+            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
 
         *  Sets (point clouds)
 
@@ -142,6 +143,10 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
             * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842)
 
+        *  Flavor physics
+
+            * [ 'Deep' Dive into $b \to c$ Anomalies: Standardized and Future-proof Model Selection Using Self-normalizing Neural Networks](https://arxiv.org/abs/2008.04316)
+
         *  BSM particles
 
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
@@ -151,6 +156,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
             * [ Distinguishing $W'$ Signals at Hadron Colliders Using Neural Networks](https://arxiv.org/abs/2007.14586)
+            * [ Deep learnig analysis of the inverse seesaw in a 3-3-1 model at the LHC](https://arxiv.org/abs/2008.03409)
 
         *  Particle identification
 
@@ -223,6 +229,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308)
             * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534)
             * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
+            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
 
         *  Deployment
 
@@ -340,6 +347,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Event Generation with Normalizing Flows](https://arxiv.org/abs/2001.10028) [[DOI](https://doi.org/10.1103/PhysRevD.101.076002)]
         * [ i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486)
         * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
+        * [ Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
 
     *  Phase space generation
 
