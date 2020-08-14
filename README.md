@@ -157,6 +157,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
             * [ Distinguishing $W'$ Signals at Hadron Colliders Using Neural Networks](https://arxiv.org/abs/2007.14586)
             * [ Deep learnig analysis of the inverse seesaw in a 3-3-1 model at the LHC](https://arxiv.org/abs/2008.03409)
+            * [ Comparing Traditional and Deep-Learning Techniques of Kinematic Reconstruction for polarisation Discrimination in Vector Boson Scattering](https://arxiv.org/abs/2008.05316)
+            * [ Invisible Higgs search through Vector Boson Fusion: A deep learning approach](https://arxiv.org/abs/2008.05434)
 
         *  Particle identification
 
