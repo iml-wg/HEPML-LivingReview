@@ -80,6 +80,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
             * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
+            * [ Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
 
         *  Sets (point clouds)
 
@@ -102,6 +103,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ QCD-Aware Recursive Neural Networks for Jet Physics](https://arxiv.org/abs/1702.00748)
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
             * [ Boosted $W$ and $Z$ tagging with jet charge and deep learning](https://arxiv.org/abs/1908.08256) [[DOI](https://doi.org/10.1103/PhysRevD.101.053001)]
+            * [ Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
 
         *  $H\rightarrow b\bar{b}$
 
@@ -136,6 +138,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  strange jets
 
             * [ Strange Jet Tagging](https://arxiv.org/abs/2003.09517)
+            * [ A tagger for strange jets based on tracking information using long short-term memory](https://arxiv.org/abs/1907.07505) [[DOI](https://doi.org/10.1088/1748-0221/15/01/P01021)]
 
         *  $b$-tagging
 
