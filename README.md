@@ -81,6 +81,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
             * [ Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
+            * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
 
         *  Sets (point clouds)
 
@@ -162,6 +163,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep learnig analysis of the inverse seesaw in a 3-3-1 model at the LHC](https://arxiv.org/abs/2008.03409)
             * [ Comparing Traditional and Deep-Learning Techniques of Kinematic Reconstruction for polarisation Discrimination in Vector Boson Scattering](https://arxiv.org/abs/2008.05316)
             * [ Invisible Higgs search through Vector Boson Fusion: A deep learning approach](https://arxiv.org/abs/2008.05434)
+            * [ Sensing Higgs cascade decays through memory](https://arxiv.org/abs/2008.08611)
 
         *  Particle identification
 
@@ -192,6 +194,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
             * [ An updated hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2007.01023)
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
+            * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
 
         *  Heavy ions
 
@@ -211,6 +214,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Jet Topics: Disentangling Quarks and Gluons at Colliders](https://arxiv.org/abs/1802.00008) [[DOI](https://doi.org/10.1103/PhysRevLett.120.241602)]
             * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
             * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
+            * [ Data-driven quark and gluon jet modification in heavy-ion collisions](https://arxiv.org/abs/2008.08596)
 
         *  Unsupervised
 
@@ -218,6 +222,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Metric Space of Collider Events](https://arxiv.org/abs/1902.02346) [[DOI](https://doi.org/10.1103/PhysRevLett.123.041801)]
             * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
             * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
+            * [ Linearized Optimal Transport for Collider Events](https://arxiv.org/abs/2008.08604)
 
         *  Software
 
