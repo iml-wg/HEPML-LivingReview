@@ -23,6 +23,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
         * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
         * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
+        * [ Generative Networks for LHC events](https://arxiv.org/abs/2008.08558)
 
     *  Classical papers
 
@@ -240,6 +241,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534)
             * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
+            * [ Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210)
 
         *  Deployment
 
