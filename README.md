@@ -24,6 +24,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
         * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
         * [ Generative Networks for LHC events](https://arxiv.org/abs/2008.08558)
+        * [ Parton distribution functions](https://arxiv.org/abs/2008.12305)
 
     *  Classical papers
 
@@ -50,6 +51,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551) [[DOI](https://doi.org/10.1007/JHEP01(2017)110)]
             * [ Deep-learning Top Taggers or The End of QCD?](https://arxiv.org/abs/1701.08784) [[DOI](https://doi.org/10.1007/JHEP05(2017)006)]
             * [ Pulling Out All the Tops with Computer Vision and Deep Learning](https://arxiv.org/abs/1803.00107) [[DOI](https://doi.org/10.1007/JHEP10(2018)121)]
+            * [Reconstructing boosted Higgs jets from event image segmentation](https://arxiv.org/abs/2008.13529)
 
         *  Event images
 
@@ -62,6 +64,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
             * [ Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
+            * [ Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519)
 
         *  Trees
 
@@ -147,6 +150,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://arxiv.org/abs/1712.07158)
             * [ Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
             * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842)
+            * [ Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519)
 
         *  Flavor physics
 
@@ -275,6 +279,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ (Machine) Learning Amplitudes for Faster Event Generation](https://arxiv.org/abs/1912.11055)
         * [ $\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273)
+        * [ Matrix Element Regression with Deep Neural Networks -- breaking the CPU barrier](https://arxiv.org/abs/2008.10949)
 
     *  Parameter estimation
 
@@ -406,6 +411,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
     * [ Anomaly Awareness](https://arxiv.org/abs/2007.14462)
     * [ Unsupervised Outlier Detection in Heavy-Ion Collisions](https://arxiv.org/abs/2007.15830)
+    * [ Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
+    * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792)
 
 *  Simulation-based (`likelihood-free') Inference.
 
