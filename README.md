@@ -91,6 +91,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Energy Flow Networks: Deep Sets for Particle Jets](https://arxiv.org/abs/1810.05165) [[DOI](https://doi.org/10.1007/JHEP01(2019)121)]
             * [ ParticleNet: Jet Tagging via Particle Clouds](https://arxiv.org/abs/1902.08570) [[DOI](https://doi.org/10.1103/PhysRevD.101.056019)]
+            * [ ABCNet: An attention-based method for particle tagging](https://arxiv.org/abs/2001.05311) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00497-3)]
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
 
         *  Physics-inspired basis
