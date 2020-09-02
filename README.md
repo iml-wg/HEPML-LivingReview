@@ -52,6 +52,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep-learning Top Taggers or The End of QCD?](https://arxiv.org/abs/1701.08784) [[DOI](https://doi.org/10.1007/JHEP05(2017)006)]
             * [ Pulling Out All the Tops with Computer Vision and Deep Learning](https://arxiv.org/abs/1803.00107) [[DOI](https://doi.org/10.1007/JHEP10(2018)121)]
             * [Reconstructing boosted Higgs jets from event image segmentation](https://arxiv.org/abs/2008.13529)
+            * [An Attention Based Neural Network for Jet Tagging](https://arxiv.org/abs/2009.00170)
 
         *  Event images
 
