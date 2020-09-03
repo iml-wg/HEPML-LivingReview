@@ -87,6 +87,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
             * [ Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
+            * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
 
         *  Sets (point clouds)
 
@@ -192,6 +193,11 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
             * [ Augmented Signal Processing in Liquid Argon Time Projection Chamber with Deep Neural Network](https://arxiv.org/abs/2007.12743)
             * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
+            * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
+
+        *  Direct Dark Matter Detectors
+
+            * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
 
         *  Tracking
 
