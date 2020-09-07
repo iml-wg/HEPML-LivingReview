@@ -421,6 +421,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Unsupervised Outlier Detection in Heavy-Ion Collisions](https://arxiv.org/abs/2007.15830)
     * [ Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
     * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792)
+    * [ Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
 
 *  Simulation-based (`likelihood-free') Inference.
 
