@@ -358,6 +358,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Deep Learning as a Parton Shower](https://arxiv.org/abs/{1807.03685)
         * [ Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
         * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
+        * [ Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
 
     *  Physics-inspired
 
