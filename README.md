@@ -425,6 +425,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
     * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792)
     * [ Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
+    * [A Recurrent Latent Variable Model for Sequential Data](https://arxiv.org/abs/1506.02216)
 
 *  Simulation-based (`likelihood-free') Inference.
 
