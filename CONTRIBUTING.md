@@ -10,11 +10,12 @@ Before you open an Issue please search through both the closed and open Issues t
 
 ## Pull Request Process
 
-1. Create your Pull Request (PR) (see the FAQ below).
-2. Verify that you have run `make_md.py` to update the `README`.
-3. Ensure that the tests in the CI are passing.
-4. Request that a maintainer review your PR.
-5. Your PR can be merged in once you have the sign-off of at least one maintainer. If you do not have permission to make the merge, request the approving maintainer to merge it for you.
+1. Create a [fork of the project](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
+2. Create your Pull Request (PR) from your fork (see the FAQ below).
+3. Verify that you have run `make_md.py` to update the `README`.
+4. Ensure that the tests in the CI are passing.
+5. Request that a maintainer review your PR.
+6. Your PR can be merged in once you have the sign-off of at least one maintainer. If you do not have permission to make the merge, request the approving maintainer to merge it for you.
 
 ## Areas of Requested Help
 
