@@ -30,6 +30,12 @@ If there is content missing that you'd like added please create an issue with as
 A maintainer will add the content once it has been approved.
 Alternatively, feel free to fork the repository and add the content you want and then create a pull request.
 
+### Should I add papers that are only about machine learning?
+
+No.
+While the ML papers that have inspired the work of the particle physics community are invaluable, trying to keep an updated list of all of them would be both beyond the scope of the project and unmaintainable.
+We welcome and encourage contributions of papers that cover modern machine learning applications to particle physics!
+
 ### How do I add a paper?
 
 All paper additions should be submitted as a single pull request on a source branch that isn't `master`.
