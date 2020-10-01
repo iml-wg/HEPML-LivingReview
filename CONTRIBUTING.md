@@ -40,7 +40,7 @@ We welcome and encourage contributions of papers that cover modern machine learn
 
 All paper additions should be submitted as a single pull request on a source branch that isn't `master`.
 
-1. Make a new branch for the pull request
+1. Make a new branch on your fork for the pull request
 2. Find the paper on [INSPIRE](https://inspirehep.net/?ln=en)
    - **N.B.:** If you have already found the paper on [arXiv](https://arxiv.org/) you should be able to find the INSPIRE listing linked under "References & Citations"
 3. Get the BibTeX for the paper citation provided by INSPIRE (under "Export" at the bottom of the page)
