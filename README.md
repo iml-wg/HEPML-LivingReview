@@ -60,6 +60,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070)
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
             * [ End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916)
+            * [ Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
 
         *  Sequences
 
@@ -120,6 +121,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Interaction networks for the identification of boosted $H\to b\overline{b}$ decays](https://arxiv.org/abs/1909.12285)
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
+            * [ Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
+            * [ Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
 
         *  quarks and gluons
 
@@ -199,6 +202,11 @@ The purpose of this note is to collect references for modern machine learning as
 
             * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
 
+        *  Dark Matter Galactic Structure
+
+            * [ Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06663)
+            * [ Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://arxiv.org/abs/1909.02005) [[DOI](https://doi.org/10.3847/1538-4357/ab4c41)]
+
         *  Tracking
 
             * [ Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf})
@@ -254,6 +262,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
             * [ Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210)
+            * [ PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
 
         *  Deployment
 
@@ -293,6 +302,11 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Numerical analysis of neutrino physics within a high scale supersymmetry model via machine learning](https://arxiv.org/abs/2006.01495)
         * [ Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356)
+        * [ MCNNTUNES: tuning Shower Monte Carlo generators with machine learning](https://arxiv.org/abs/2010.02213)
+
+    *  Parton Distribution Functions
+
+        * [ Neural-network analysis of Parton Distribution Functions from Ioffe-time pseudodistributions](https://arxiv.org/abs/2010.03996)
 
 *  Decorrelation methods.
 
@@ -376,6 +390,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486)
         * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
         * [ Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
+        * [ SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017)
 
     *  Phase space generation
 
@@ -386,6 +401,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Neural Network-Based Approach to Phase Space Integration](https://arxiv.org/abs/1810.11509)
         * [ VegasFlow: accelerating Monte Carlo simulation across multiple hardware platforms](https://arxiv.org/abs/2002.12921)
         * [ A Neural Resampler for Monte Carlo Reweighting with Preserved Uncertainties](https://arxiv.org/abs/2007.11586)
+        * [ Improved Neural Network Monte Carlo Simulation](https://arxiv.org/abs/2009.07819)
 
     *  Gaussian processes
 
@@ -442,6 +458,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621) [[DOI](https://doi.org/10.1007/s41781-020-0035-2)]
         * [ Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) [[DOI](https://doi.org/10.1073/pnas.1915980117)]
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
+        * [ Parameter Estimation using Neural Networks in the Presence of Detector Effects](https://arxiv.org/abs/2010.03569)
 
     *  Unfolding
 
