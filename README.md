@@ -175,6 +175,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Comparing Traditional and Deep-Learning Techniques of Kinematic Reconstruction for polarisation Discrimination in Vector Boson Scattering](https://arxiv.org/abs/2008.05316)
             * [ Invisible Higgs search through Vector Boson Fusion: A deep learning approach](https://arxiv.org/abs/2008.05434)
             * [ Sensing Higgs cascade decays through memory](https://arxiv.org/abs/2008.08611)
+            * [ Phenomenology of vector-like leptons with Deep Learning at the Large Hadron Collider](https://arxiv.org/abs/2010.01307)
 
         *  Particle identification
 
@@ -391,6 +392,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
         * [ Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
         * [ SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017)
+
+    *  Mixture Models
+
+        * [ Data Augmentation at the LHC through Analysis-specific Fast Simulation with Deep Learning](https://arxiv.org/abs/2010.01835)
 
     *  Phase space generation
 
