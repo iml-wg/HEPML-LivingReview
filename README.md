@@ -89,6 +89,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
+            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network ](https://arxiv.org/abs/2010.05464)
 
         *  Sets (point clouds)
 
@@ -123,6 +124,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
             * [ Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
             * [ Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
+            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network ](https://arxiv.org/abs/2010.05464)
 
         *  quarks and gluons
 
@@ -446,6 +448,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
     * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792)
     * [ Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
+    * [Anomaly Detection With Conditional Variational Autoencoders ](https://arxiv.org/abs/2010.05531)
 
 *  Simulation-based (`likelihood-free') Inference.
 
