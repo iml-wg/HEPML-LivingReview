@@ -26,6 +26,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Generative Networks for LHC events](https://arxiv.org/abs/2008.08558)
         * [ Parton distribution functions](https://arxiv.org/abs/2008.12305)
         * [ Simulation-based inference methods for particle physics](https://arxiv.org/abs/2010.06439)
+        * [ Anomaly Detection for Physics Analysis and Less than Supervised Learning](https://arxiv.org/abs/2010.14554)
 
     *  Classical papers
 
@@ -150,6 +151,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep-learning Top Taggers or The End of QCD?](https://arxiv.org/abs/1701.08784) [[DOI](https://doi.org/10.1007/JHEP05(2017)006)]
             * [ Pulling Out All the Tops with Computer Vision and Deep Learning](https://arxiv.org/abs/1803.00107) [[DOI](https://doi.org/10.1007/JHEP10(2018)121)]
             * [ Boosted Top Quark Tagging and Polarization Measurement using Machine Learning](https://arxiv.org/abs/2010.11778)
+            * [ Morphology for Jet Classification](https://arxiv.org/abs/2010.13469)
 
         *  strange jets
 
@@ -257,6 +259,11 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Quantum Machine Learning for Particle Physics using a Variational Quantum Classifier](https://arxiv.org/abs/2010.07335)
             * [ Event Classification with Quantum Machine Learning in High-Energy Physics](https://arxiv.org/abs/2002.09935)
             * [ Solving a Higgs optimization problem with quantum annealing for machine learning](https://doi.org/10.1038/nature24047)
+            * [ Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480)
+
+        *  Feature ranking
+
+            * [ Mapping Machine-Learned Physics into a Human-Readable Space](https://arxiv.org/abs/2010.11998)
 
         *  Software
 
