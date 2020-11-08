@@ -191,6 +191,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
             * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
             * [ Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
+            * [ Learning to Identify Electrons](https://arxiv.org/abs/2011.01984)
 
         *  Neutrino Detectors
 
@@ -225,6 +226,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ An updated hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2007.01023)
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
+            * [ First application of machine learning algorithms to the position reconstruction in Resistive Silicon Detectors](https://arxiv.org/abs/2011.02410)
 
         *  Heavy ions
 
@@ -385,7 +387,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794)
         * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
         * [ AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
-        * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796)
+        * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
         * [GANplifying Event Samples](https://arxiv.org/abs/2008.06545)
 
     *  Autoencoders
@@ -506,7 +508,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Reweighting with Boosted Decision Trees](https://arxiv.org/abs/1608.05806) [[DOI](https://doi.org/10.1088/1742-6596/762/1/012036)]
         * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
-        * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796)
+        * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
 
     *  BSM
 
