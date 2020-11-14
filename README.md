@@ -233,6 +233,10 @@ The purpose of this note is to collect references for modern machine learning as
             * [ An EoS-meter of QCD transition from deep learning](https://arxiv.org/abs/1612.04262)
             * [ Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
 
+        *  Hyperparameters
+
+            * [ Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434)
+
         *  Weak supervision
 
             * [ Weakly Supervised Classification in High Energy Physics](https://arxiv.org/abs/1702.00414) [[DOI](https://doi.org/10.1007/JHEP05(2017)145)]
@@ -471,6 +475,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Anomaly Detection With Conditional Variational Autoencoders ](https://arxiv.org/abs/2010.05531)
     * [ Unsupervised clustering for collider physics](https://arxiv.org/abs/2010.07106)
     * [ Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
+    * [ Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
 
 *  Simulation-based (`likelihood-free') Inference.
 
@@ -490,6 +495,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [ Parameter Estimation using Neural Networks in the Presence of Detector Effects](https://arxiv.org/abs/2010.03569)
         * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2010.07032)
+        * [ Parameter Inference from Event Ensembles and the Top-Quark Mass](https://arxiv.org/abs/2011.04666)
 
     *  Unfolding
 
@@ -502,6 +508,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Unfolding by weighting Monte Carlo events](https://doi.org/10.1016/0168-9002(94)01067-6)
         * Binning-Free Unfolding Based on Monte Carlo Migration
         * [ Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685)
+        * [ Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836)
 
     *  Domain adaptation
 
