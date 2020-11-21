@@ -207,10 +207,12 @@ The purpose of this note is to collect references for modern machine learning as
             * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
             * [ A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber](https://arxiv.org/abs/2010.08653)
+            * [ Study of using machine learning for level 1 trigger decision in JUNO experiment](https://arxiv.org/abs/2011.08847)
 
         *  Direct Dark Matter Detectors
 
             * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
+            * [ Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
 
         *  Dark Matter Galactic Structure
 
@@ -251,6 +253,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
             * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
             * [ Data-driven quark and gluon jet modification in heavy-ion collisions](https://arxiv.org/abs/2008.08596)
+            * [ Machine learning approach for the search of resonances with topological features at the Large Hadron Collider](https://arxiv.org/abs/2011.09863)
 
         *  Unsupervised
 
@@ -259,6 +262,11 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
             * [ Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
             * [ Linearized Optimal Transport for Collider Events](https://arxiv.org/abs/2008.08604)
+
+        *  Reinforcement Learning
+
+            * [ Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
+            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2011.08191)
 
         *  Quantum Machine Learning
 
