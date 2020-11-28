@@ -157,6 +157,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Strange Jet Tagging](https://arxiv.org/abs/2003.09517)
             * [ A tagger for strange jets based on tracking information using long short-term memory](https://arxiv.org/abs/1907.07505) [[DOI](https://doi.org/10.1088/1748-0221/15/01/P01021)]
+            * [ Maximum performance of strange-jet tagging at hadron colliders](https://arxiv.org/abs/2011.10736)
 
         *  $b$-tagging
 
@@ -214,10 +215,11 @@ The purpose of this note is to collect references for modern machine learning as
             * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
             * [ Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
 
-        *  Dark Matter Galactic Structure
+        *  Astro particle physics
 
             * [ Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06663)
             * [ Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://arxiv.org/abs/1909.02005) [[DOI](https://doi.org/10.3847/1538-4357/ab4c41)]
+            * [ Inverting cosmic ray propagation by Convolutional Neural Networks](https://arxiv.org/abs/2011.11930)
 
         *  Tracking
 
