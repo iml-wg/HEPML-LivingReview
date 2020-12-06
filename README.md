@@ -27,6 +27,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Parton distribution functions](https://arxiv.org/abs/2008.12305)
         * [ Simulation-based inference methods for particle physics](https://arxiv.org/abs/2010.06439)
         * [ Anomaly Detection for Physics Analysis and Less than Supervised Learning](https://arxiv.org/abs/2010.14554)
+        * [ Graph Neural Networks for Particle Tracking and Reconstruction](https://arxiv.org/abs/2012.01249)
 
     *  Classical papers
 
@@ -99,6 +100,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ ParticleNet: Jet Tagging via Particle Clouds](https://arxiv.org/abs/1902.08570) [[DOI](https://doi.org/10.1103/PhysRevD.101.056019)]
             * [ ABCNet: An attention-based method for particle tagging](https://arxiv.org/abs/2001.05311) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00497-3)]
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
+            * [ Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964)
 
         *  Physics-inspired basis
 
@@ -403,6 +405,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
         * [GANplifying Event Samples](https://arxiv.org/abs/2008.06545)
+        * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.00173)
 
     *  Autoencoders
 
@@ -443,6 +446,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ VegasFlow: accelerating Monte Carlo simulation across multiple hardware platforms](https://arxiv.org/abs/2002.12921)
         * [A Neural Resampler for Monte Carlo Reweighting with Preserved Uncertainties](https://arxiv.org/abs/2007.11586)
         * [ Improved Neural Network Monte Carlo Simulation](https://arxiv.org/abs/2009.07819)
+        * [ Phase Space Sampling and Inference from Weighted Events with Autoregressive Flows](https://arxiv.org/abs/2011.13445)
 
     *  Gaussian processes
 
@@ -544,6 +548,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
         * [ What is the Machine Learning?](https://arxiv.org/abs/1709.10106) [[DOI](https://doi.org/10.1103/PhysRevD.97.056009)]
         * [ CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265) [[DOI](https://doi.org/10.21468/SciPostPhys.8.2.023)]
+        * [ Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)
 
     *  Estimation
 
