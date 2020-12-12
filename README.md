@@ -28,6 +28,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Simulation-based inference methods for particle physics](https://arxiv.org/abs/2010.06439)
         * [ Anomaly Detection for Physics Analysis and Less than Supervised Learning](https://arxiv.org/abs/2010.14554)
         * [ Graph Neural Networks for Particle Tracking and Reconstruction](https://arxiv.org/abs/2012.01249)
+        * [ Distributed Training and Optimization Of Neural Networks](https://arxiv.org/abs/2012.01839)
 
     *  Classical papers
 
@@ -56,6 +57,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Pulling Out All the Tops with Computer Vision and Deep Learning](https://arxiv.org/abs/1803.00107) [[DOI](https://doi.org/10.1007/JHEP10(2018)121)]
             * [Reconstructing boosted Higgs jets from event image segmentation](https://arxiv.org/abs/2008.13529)
             * [An Attention Based Neural Network for Jet Tagging](https://arxiv.org/abs/2009.00170)
+            * [ Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
 
         *  Event images
 
@@ -93,6 +95,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network ](https://arxiv.org/abs/2010.05464)
+            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
 
         *  Sets (point clouds)
 
@@ -101,6 +104,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ ABCNet: An attention-based method for particle tagging](https://arxiv.org/abs/2001.05311) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00497-3)]
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
             * [ Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964)
+            * [ Permutationless Many-Jet Event Reconstruction with Symmetry Preserving Attention Networks](https://arxiv.org/abs/2010.09206)
+            * [ Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
 
         *  Physics-inspired basis
 
@@ -141,6 +146,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
             * [ Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223) [[DOI](https://doi.org/10.21468/SciPostPhys.6.6.069)]
             * [ Towards Machine Learning Analytics for Jet Substructure](https://arxiv.org/abs/2007.04319)
+            * [ Quark Gluon Jet Discrimination with Weakly Supervised Learning](https://arxiv.org/abs/2012.02540) [[DOI](https://doi.org/10.3938/jkps.75.652)]
+            * [ Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
 
         *  top quark tagging
 
@@ -233,6 +240,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [ First application of machine learning algorithms to the position reconstruction in Resistive Silicon Detectors](https://arxiv.org/abs/2011.02410)
+            * [ Beyond 4D Tracking: Using Cluster Shapes for Track Seeding](https://arxiv.org/abs/2012.04533)
 
         *  Heavy ions
 
@@ -258,6 +266,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376)
             * [ Data-driven quark and gluon jet modification in heavy-ion collisions](https://arxiv.org/abs/2008.08596)
             * [ Machine learning approach for the search of resonances with topological features at the Large Hadron Collider](https://arxiv.org/abs/2011.09863)
+            * [ Quark Gluon Jet Discrimination with Weakly Supervised Learning](https://arxiv.org/abs/2012.02540) [[DOI](https://doi.org/10.3938/jkps.75.652)]
 
         *  Unsupervised
 
@@ -301,6 +310,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
             * [ Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210)
             * [ PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
+            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
 
         *  Deployment
 
@@ -342,9 +352,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356)
         * [ MCNNTUNES: tuning Shower Monte Carlo generators with machine learning](https://arxiv.org/abs/2010.02213)
 
-    *  Parton Distribution Functions
+    *  Parton Distribution Functions (and related)
 
         * [ Neural-network analysis of Parton Distribution Functions from Ioffe-time pseudodistributions](https://arxiv.org/abs/2010.03996)
+        * [ Deep Learning Analysis of Deeply Virtual Exclusive Photoproduction](https://arxiv.org/abs/2012.04801)
 
 *  Decorrelation methods.
 
@@ -406,6 +417,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
         * [GANplifying Event Samples](https://arxiv.org/abs/2008.06545)
         * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.00173)
+        * [ Simulating the Time Projection Chamber responses at the MPD detector using Generative Adversarial Networks](https://arxiv.org/abs/2012.04595)
 
     *  Autoencoders
 
