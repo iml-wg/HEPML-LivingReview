@@ -77,7 +77,6 @@ for line in myfile:
     line = line.replace("\\textbf{","")
 
     if "textit{" in line:
-        #myfile_out.write(": *"+line.replace("\\\\\\textit{","")[0:-2]+"*\n\n")
         continue
 
     if "item" in line:
