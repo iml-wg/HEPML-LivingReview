@@ -70,7 +70,7 @@ def main():
     patch = make_patch()
 
     copyfile("jheppub.sty", "jheppub.sty.bak")
-    with open("jheppub.sty.bak", "r") as read_file, open(
+    with open("jheppub.sty.bak") as read_file, open(
         "jheppub.sty", "w+"
     ) as write_file:
         for line in read_file:

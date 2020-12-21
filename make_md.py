@@ -56,7 +56,7 @@ def convert_from_bib(myline):
     if "eprint" in myentry_dict:
         paper=""
         if "doi" in myentry_dict:
-            paper=" [[DOI](https://doi.org/{0})]".format( myentry_dict["doi"] )
+            paper=" [[DOI](https://doi.org/{})]".format( myentry_dict["doi"] )
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
     elif "doi" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
@@ -90,12 +90,12 @@ for line in myfile:
                 hascites = len(line.split("cite"))
                 if (hascites==1):
                     if "Experimental" not in line:
-                        myfile_out.write("* "+line.replace("\item","")+"\n")
+                        myfile_out.write("* "+line.replace(r"\item","")+"\n")
                     else:
                         myfile_out.write("*  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*\n\n")
                 else:
-                    myfile_out.write("* "+line.replace("\item","").split("~\cite")[0]+".\n\n")
-                    mycites = line.split("~\cite{")[1].split("}")[0].split(",")
+                    myfile_out.write("* "+line.replace(r"\item","").split(r"~\cite")[0]+".\n\n")
+                    mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
                         myfile_out.write("    * "+convert_from_bib(cite)+"\n")
                         pass
@@ -108,15 +108,15 @@ for line in myfile:
                      mybuffer+="    "
                      pass
                 if (":~" in line):
-                    myfile_out.write(mybuffer+"* "+line.split("~\cite{")[0].split("\item")[1]+"\n\n")
-                    mycites = line.split("~\cite{")[1].replace("}","").split(",")
+                    myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
+                    mycites = line.split(r"~\cite{")[1].replace("}","").split(",")
                     for cite in mycites:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
                     myfile_out.write("\n")
                 else:
-                    myfile_out.write(mybuffer+"* "+line.split("~\cite{")[0].split("\item")[1]+"\n\n")
-                    mycites = line.split("~\cite{")[1].split("}")[0].split(",")
+                    myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
+                    mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
