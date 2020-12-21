@@ -6,8 +6,7 @@
 
 The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.  If you find this review helpful, please consider citing it using \cite{hepmllivingreview} in HEPML.bib.
 
-*  Reviews.
-
+*  Reviews
     *  Modern reviews
 
         * [ Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
@@ -29,14 +28,14 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Anomaly Detection for Physics Analysis and Less than Supervised Learning](https://arxiv.org/abs/2010.14554)
         * [ Graph Neural Networks for Particle Tracking and Reconstruction](https://arxiv.org/abs/2012.01249)
         * [ Distributed Training and Optimization Of Neural Networks](https://arxiv.org/abs/2012.01839)
+        * [ The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429)
 
     *  Classical papers
 
         * [ Neural Networks and Cellular Automata in Experimental High-energy Physics](https://doi.org/10.1016/0010-4655(88)90004-5)
         * [ Finding Gluon Jets With a Neural Trigger](https://doi.org/10.1103/PhysRevLett.65.1321)
 
-*  Classification.
-
+*  Classification
     *  Parameterized classifiers
 
         * [ Parameterized neural networks for high-energy physics](https://arxiv.org/abs/1601.07913) [[DOI](https://doi.org/10.1140/epjc/s10052-016-4099-4)]
@@ -124,7 +123,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Boosted $W$ and $Z$ tagging with jet charge and deep learning](https://arxiv.org/abs/1908.08256) [[DOI](https://doi.org/10.1103/PhysRevD.101.053001)]
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
 
-        *  $H\rightarrow b\bar{b}$
+        *  $H\rightarrow b\bar{b$}
 
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
@@ -316,8 +315,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
 
-*  Regression.
-
+*  Regression
     *  Pileup
 
         * [ Pileup Mitigation with Machine Learning (PUMML)](https://arxiv.org/abs/1707.08600) [[DOI](https://doi.org/10.1007/JHEP12(2017)051)]
@@ -376,9 +374,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [ ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400)
     * [ Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
 
-*  Generative models / density estimation.
-
-    *  GANs
+*  Generative models / density estimation
+    *  GANs:
 
         * [ Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://arxiv.org/abs/1701.05927)
         * [ Accelerating Science with Generative Adversarial Networks: An Application to 3D Particle Showers in Multilayer Calorimeters](https://arxiv.org/abs/1705.02355) [[DOI](https://doi.org/10.1103/PhysRevLett.120.042003)]
@@ -426,12 +423,6 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
         * [ Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
 
-    *  Physics-inspired
-
-        * [ JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
-        * [ Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
-        * [ Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110)
-
     *  Normalizing flows
 
         * [ Flow-based generative models for Markov chain Monte Carlo in lattice field theory](https://arxiv.org/abs/1904.12072) [[DOI](https://doi.org/10.1103/PhysRevD.100.034515)]
@@ -443,6 +434,12 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
         * [ Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
         * [ SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017)
+
+    *  Physics-inspired
+
+        * [ JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
+        * [ Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
+        * [ Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110)
 
     *  Mixture Models
 
@@ -503,12 +500,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
     * [ Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
 
-*  Simulation-based (`likelihood-free') Inference.
-
-    *  Overview
-
-        * [ The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429)
-
+*  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
 
         * [ Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
@@ -553,8 +545,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621) [[DOI](https://doi.org/10.1007/s41781-020-0035-2)]
         * [ Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360)
 
-*  Uncertainty Quantification.
-
+*  Uncertainty Quantification
     *  Interpretability
 
         * [ Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]

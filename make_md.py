@@ -68,6 +68,18 @@ def convert_from_bib(myline):
 
 itemize_counter = 0
 for line in myfile:
+
+    if "author" in line:
+        continue
+
+    if "\\item \\textbf{" in line:
+        line = line[0:line.find("}")]+line[line.find("}")+1:-1]
+    line = line.replace("\\textbf{","")
+
+    if "textit{" in line:
+        #myfile_out.write(": *"+line.replace("\\\\\\textit{","")[0:-2]+"*\n\n")
+        continue
+
     if "item" in line:
         if "begin{itemize}" in line:
             itemize_counter+=1
@@ -98,7 +110,7 @@ for line in myfile:
                      pass
                 if (":~" in line):
                     myfile_out.write(mybuffer+"* "+line.split("~\cite{")[0].split("\item")[1]+"\n\n")
-                    mycites = line.split("~\cite{")[2].replace("}","").split(",")
+                    mycites = line.split("~\cite{")[1].replace("}","").split(",")
                     for cite in mycites:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass

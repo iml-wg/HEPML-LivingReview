@@ -26,106 +26,175 @@
 
 \title{\boldmath A Living Review of Machine \\ Learning for Particle Physics}
 
+\author{\textbf{Matthew Feickert$^a$ and Benjamin Nachman$^b$}, \textit{for the Inter-Experimental LHC Machine Learning Working Group}}
+\affiliation{$^a$Department of Physics, University of Illinois at Urbana Champaign\\
+$^b$Physics Division, Lawrence Berkeley National Laboratory}
+
+\emailAdd{matthew.feickert@cern.ch}
+\emailAdd{bpnachman@lbl.gov}
 
 \abstract{
-Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.
+Modern machine learning techniques, including deep learning, are rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.
 }
 
 \begin{document}
 \maketitle
 
-The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.
+The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back\footnote{See \href{https://github.com/iml-wg/HEPML-LivingReview}{https://github.com/iml-wg/HEPML-LivingReview}.} before you write your next paper.  You can simply download the .bib file to get all of the latest references. 
 
 \begin{itemize}
-\item Reviews.
+\item \textbf{Reviews}
+\\\textit{Below are links to many (static) general and specialized reviews.  The third bullet contains links to classic papers that applied shallow learning methods many decades before the deep learning revolution.}
 	\begin{itemize}
 		\item Modern reviews~\cite{Larkoski:2017jix,Guest:2018yhq,Albertsson:2018maf,Radovic:2018dip,Carleo:2019ptp,Bourilkov:2019yoi}
-		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz}
+		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz,Cranmer:2019eaq}
 		 \item Classical papers~\cite{Denby:1987rk,Lonnblad:1990bi}
 	\end{itemize}
-\item Classification.
+\item \textbf{Classification}
+\\\textit{Given a feature space $x\in\mathbb{R}^n$, a binary classifier is a function $f:\mathbb{R}^n\rightarrow [0,1]$, where $0$ corresponds to features that are more characteristic of the zeroth class (e.g. background) and $1$ correspond to features that are more characteristic of the one class (e.g. signal).  Typically, $f$ will be a function specified by some parameters $w$ (e.g. weights and biases of a neural network) that are determined by minimizing a loss of the form $L[f]=\sum_{i}\ell(f(x_i),y_i)$, where $y_i\in\{0,1\}$ are labels.  The function $\ell$ is smaller when $f(x_i)$ and $y_i$ are closer.  Two common loss functions are the mean squared error $\ell(x,y)=(x-y)^2$ and the binary cross entropy $\ell(x,y)=y\log(x)+(1-y)\log(1-x)$.  Exactly what `more characteristic of' means depends on the loss function used to determine $f$.  It is also possible to make a multi-class classifier.  A common strategy for the multi-class case is to represent each class as a different basis vector in $\mathbb{R}^{n_\text{classes}}$ and then $f(x)\in[0,1]^{n_\text{classes}}$.  In this case, $f(x)$ is usually restricted to have its $n_\text{classes}$ components sum to one and the loss function is typically the cross entropy $\ell(x,y)=\sum_\text{classes $i$} y_i\log(x)$.}
 	\begin{itemize}
-		\item Parameterized classifiers~\cite{Baldi:2016fzo,Cranmer:2015bka}
-		\item Representations
+		\item \textbf{Parameterized classifiers}~\cite{Baldi:2016fzo,Cranmer:2015bka}. 
+			\\\textit{A classifier that is conditioned on model parameters $f(x|\theta)$ is called a parameterized classifier.}
+		\item \textbf{Representations}
+			\\\textit{There is no unique way to represent high energy physics data.  It is often natural to encode $x$ as an image or another one of the structures listed below.}
 			\begin{itemize}
-				\item Jet images~\cite{Pumplin:1991kc,Cogan:2014oua,Almeida:2015jua,deOliveira:2015xxd,ATL-PHYS-PUB-2017-017,Lin:2018cin,Komiske:2018oaa,Barnard:2016qma,Komiske:2016rsd,Kasieczka:2017nvn,Macaluso:2018tck,li2020reconstructing,li2020attention,Lee:2019cad}
-				\item Event images~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf}
-				\item Sequences~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb}
-				\item Trees~\cite{Louppe:2017ipp,Cheng:2017rdo}
-				\item Graphs~\cite{Henrion:DLPS2017,Ju:2020xty,Martinez:2018fwc,Moreno:2019bmu,Qasim:2019otl,Chakraborty:2019imr,Chakraborty:2020yfc,1797439,1801423,1808887,Iiyama:2020wap,1811770,Choma:2020cry,alonsomonsalve2020graph,guo2020boosted,Heintz:2020soy}
-				\item Sets (point clouds)~\cite{Komiske:2018cqr,Qu:2019gqs,Mikuni:2020wpr,Shlomi:2020ufi,Dolan:2020qkr,Fenton:2020woz,Lee:2020qil}
-				\item Physics-inspired basis~\cite{Datta:2019,Datta:2017rhs,Datta:2017lxt,Komiske:2017aww,Butter:2017cot}
+				\item \textbf{Jet images}~\cite{Pumplin:1991kc,Cogan:2014oua,Almeida:2015jua,deOliveira:2015xxd,ATL-PHYS-PUB-2017-017,Lin:2018cin,Komiske:2018oaa,Barnard:2016qma,Komiske:2016rsd,Kasieczka:2017nvn,Macaluso:2018tck,li2020reconstructing,li2020attention,Lee:2019cad}
+				\\\textit{Jets are collimated sprays of particles.  They have a complex radiation pattern and such, have been a prototypical example for many machine learning studies.  See the next item for a specific description about images.}
+				\item \textbf{Event images}~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf}
+				\\\textit{A grayscale image is a regular grid with a scalar value at each grid point.  `Color' images have a fixed-length vector at each grid point.  Many detectors are analogous to digital cameras and thus images are a natural representation.  In other cases, images can be created by discretizing.   Convolutional neural networks are natural tools for processing image data.  One downside of the image representation is that high energy physics data tend to be sparse, unlike natural images.}
+				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb}
+				\\\textit{Data that have a variable with a particular order may be represented as a sequence.  Recurrent neural networks are natural tools for processing sequence data. }
+				\item \textbf{Trees}~\cite{Louppe:2017ipp,Cheng:2017rdo}
+				\\\textit{Recursive neural networks are natural tools for processing data in a tree structure.}
+				\item \textbf{Graphs}~\cite{Henrion:DLPS2017,Ju:2020xty,Martinez:2018fwc,Moreno:2019bmu,Qasim:2019otl,Chakraborty:2019imr,Chakraborty:2020yfc,1797439,1801423,1808887,Iiyama:2020wap,1811770,Choma:2020cry,alonsomonsalve2020graph,guo2020boosted,Heintz:2020soy}
+				\\\textit{A graph is a collection of nodes and edges.  Graph neural networks are natural tools for processing data in a tree structure.}
+				\item \textbf{Sets (point clouds)}~\cite{Komiske:2018cqr,Qu:2019gqs,Mikuni:2020wpr,Shlomi:2020ufi,Dolan:2020qkr,Fenton:2020woz,Lee:2020qil}
+				\\\textit{A point cloud is a (potentially variable-size) set of points in space.  Sets are distinguished from sequences in that there is no particular order (i.e. permutation invariance).  Sets can also be viewed as graphs without edges and so graph methods that can parse variable-length inputs may also be appropriate for set learning, although there are other methods as well.}
+				\item \textbf{Physics-inspired basis}~\cite{Datta:2019,Datta:2017rhs,Datta:2017lxt,Komiske:2017aww,Butter:2017cot}
+				\\\textit{This is a catch-all category for learning using other representations that use some sort of manual or automated physics-preprocessing.}
 			\end{itemize}
 		\item Targets
 			\begin{itemize}
-			\item $W/Z$ tagging~\cite{deOliveira:2015xxd,Barnard:2016qma,Louppe:2017ipp,Sirunyan:2020lcu,Chen:2019uar,1811770}
-			\item $H\rightarrow b\bar{b}$~\cite{Datta:2019ndh,Lin:2018cin,Moreno:2019neq,Chakraborty:2019imr,Sirunyan:2020lcu,Chung:2020ysf,Tannenwald:2020mhq,guo2020boosted,Abbas:2020khd}
-			\item quarks and gluons~\cite{ATL-PHYS-PUB-2017-017,Komiske:2016rsd,Cheng:2017rdo,Stoye:DLPS2017,Chien:2018dfn,Moreno:2019bmu,Kasieczka:2018lwf,1806025,Lee:2019ssx,Lee:2019cad}
-			\item top quark tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi}
-			\item strange jets~\cite{Nakai:2020kuu,Erdmann:2019blf,Erdmann:2020ovh}
-			\item $b$-tagging~\cite{Sirunyan:2017ezt,Guest:2016iqz,bielkov2020identifying,Bols:2020bkb}
-			\item Flavor physics~\cite{1811097}
-			\item BSM particles~\cite{Datta:2019ndh,Baldi:2014kfa,Chakraborty:2019imr,10.1088/2632-2153/ab9023,1792136,1801423,Chang:2020rtc,Cogollo:2020afo,Grossi:2020orx,Ngairangbam:2020ksz,Englert:2020ntw,Freitas:2020ttd}
-			\item Particle identification~\cite{deOliveira:2018lqd,Paganini:DLPS2017,Hooberman:DLPS2017,Belayneh:2019vyx,Qasim:2019otl,Collado:2020fwm}
-			\item Neutrino Detectors~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg}
-			\item Direct Dark Matter Detectors~\cite{Ilyasov_2020,Akerib:2020aws}
-			\item Astro particle physics~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx}
-			\item Tracking~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm}
-			\item Heavy ions~\cite{Pang:2016vdc,Chien:2018dfn}
+			\item \textbf{$W/Z$ tagging}~\cite{deOliveira:2015xxd,Barnard:2016qma,Louppe:2017ipp,Sirunyan:2020lcu,Chen:2019uar,1811770}
+			\\\textit{Boosted, hadronically decaying $W$ and $Z$ bosons form jets that are distinguished from generic quark and gluon jets by their mass near the boson mass and their two-prong substructure.}
+			\item \textbf{$H\rightarrow b\bar{b}$}~\cite{Datta:2019ndh,Lin:2018cin,Moreno:2019neq,Chakraborty:2019imr,Sirunyan:2020lcu,Chung:2020ysf,Tannenwald:2020mhq,guo2020boosted,Abbas:2020khd}
+			\\\textit{Due to the fidelity of $b$-tagging, boosted, hadronically decaying Higgs bosons (predominantly decaying to $b\bar{b}$) has unique challenged and opportunities compared with $W/Z$ tagging.}
+			\item \textbf{quarks and gluons}~\cite{ATL-PHYS-PUB-2017-017,Komiske:2016rsd,Cheng:2017rdo,Stoye:DLPS2017,Chien:2018dfn,Moreno:2019bmu,Kasieczka:2018lwf,1806025,Lee:2019ssx,Lee:2019cad}
+			\\\textit{Quark jets tend to be narrower and have fewer particles than gluon jets.  This classification task has been a benchmark for many new machine learning models.}
+			\item \textbf{top quark} tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi}
+			\\\textit{Boosted top quarks form jets that have a three-prong substructure ($t\rightarrow Wb,W\rightarrow q\bar{q}$).}
+			\item \textbf{strange jets}~\cite{Nakai:2020kuu,Erdmann:2019blf,Erdmann:2020ovh}
+			\\\textit{Strange quarks have a very similar fragmentation to generic quark and gluon jets, so this is a particularly challenging task.}
+			\item \textbf{$b$-tagging}~\cite{Sirunyan:2017ezt,Guest:2016iqz,bielkov2020identifying,Bols:2020bkb}
+			\\\textit{Due to their long (but not too long) lifetime, the $B$-hadron lifetime is macroscopic and $b$-jet tagging has been one of the earliest adapters of modern machine learning tools.}
+			\item \textbf{Flavor physics}~\cite{1811097}
+			\\\textit{This category is for studies related to exclusive particle decays, especially with bottom and charm hadrons.}
+			\item \textbf{BSM particles}~\cite{Datta:2019ndh,Baldi:2014kfa,Chakraborty:2019imr,10.1088/2632-2153/ab9023,1792136,1801423,Chang:2020rtc,Cogollo:2020afo,Grossi:2020orx,Ngairangbam:2020ksz,Englert:2020ntw,Freitas:2020ttd}
+			\\\textit{There are many proposals to train classifiers to enhance the presence of particular new physics models.}
+			\item \textbf{Particle identification}~\cite{deOliveira:2018lqd,Paganini:DLPS2017,Hooberman:DLPS2017,Belayneh:2019vyx,Qasim:2019otl,Collado:2020fwm}
+			\\\textit{This is a generic category for direct particle identification and categorization using various detector technologies.  Direct means that the particle directly interacts with the detector (in contrast with $b$-tagging).}
+			\item \textbf{Neutrino Detectors}~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg}
+			\\\textit{Neutrino detectors are very large in order to have a sizable rate of neutrino detection.  The entire neutrino interaction can be characterized to distinguish different neutrino flavors.}
+			\item \textbf{Direct Dark Matter Detectors}~\cite{Ilyasov_2020,Akerib:2020aws}
+			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
+			\item \textbf{Astro particle physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx}
+			\\\textit{Machine learning is often used in astrophysics and cosmology in different ways than terrestrial particle physics experiments due to a general divide between Bayesian and Frequentist statistics.  However, there are many similar tasks and a growing number of proposals designed for one domain that apply to the other.}
+			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm}
+			\\\textit{Charged particle tracking is a challenging pattern recognition task.  This category is for various classification tasks associated with tracking, such as seed selection.}
+			\item \textbf{Heavy ions}~\cite{Pang:2016vdc,Chien:2018dfn}
+			\\\textit{Many tools in high energy nuclear physics are similar to high energy particle physics.  The physics target of these studies are to understand collective properties of the strong force.}
 		\end{itemize}
-		\item Learning strategies
+		\item \textbf{Learning strategies}
+		\\\textit{There is no unique way to train a classifier and designing an effective learning strategy is often one of the biggest challenges for achieving optimality.}
 			\begin{itemize}
-				\item Hyperparameters~\cite{Tani:2020dyi}
-				\item Weak supervision~\cite{Dery:2017fap,Metodiev:2017vrx,Komiske:2018oaa,Collins:2018epr,Collins:2019jip,Borisyak:2019vbz,Cohen:2017exh,Komiske:2018vkc,Metodiev:2018ftz,collaboration2020dijet,Amram:2020ykb,Brewer:2020och,Dahbi:2020zjw,Lee:2019ssx}
-				\item Unsupervised~\cite{Mackey:2015hwa,Komiske:2019fks,1797846,Dillon:2019cqt,Cai:2020vzx}
-				\item Reinforcement Learning~\cite{Carrazza:2019efs,Brehmer:2020brs}
-				\item Quantum Machine Learning~\cite{Blance:2020nhl,Terashi:2020wfi,Mott:2017xdb,Zlokapa:2019lvv}
-				\item Feature ranking~\cite{Faucett:2020vbu}
+				\item \textbf{Hyperparameters}~\cite{Tani:2020dyi}
+				\\\textit{In addition to learnable weights $w$, classifiers have a number of non-differentiable parameters like the number of layers in a neural network.  These parameters are called hyperparameters.}
+				\item \textbf{Weak supervision}~\cite{Dery:2017fap,Metodiev:2017vrx,Komiske:2018oaa,Collins:2018epr,Collins:2019jip,Borisyak:2019vbz,Cohen:2017exh,Komiske:2018vkc,Metodiev:2018ftz,collaboration2020dijet,Amram:2020ykb,Brewer:2020och,Dahbi:2020zjw,Lee:2019ssx}
+				\\\textit{For supervised learning, the labels $y_i$ are known.  In the case that the labels are noisy or only known with some uncertainty, then the learning is called weak supervision.  Semi-supervised learning is the related case where labels are known for only a fraction of the training examples.}
+				\item \textbf{Unsupervised}~\cite{Mackey:2015hwa,Komiske:2019fks,1797846,Dillon:2019cqt,Cai:2020vzx}
+				\\\textit{When no labels are provided, the learning is called unsupervised.}
+				\item \textbf{Reinforcement Learning}~\cite{Carrazza:2019efs,Brehmer:2020brs}
+				\\\textit{Instead of learning to distinguish different types of examples, the goal of reinforcement learning is to learn a strategy (policy).  The prototypical example of reinforcement learning in learning a strategy to play video games using some kind of score as a feedback during the learning.}
+				\item \textbf{Quantum Machine Learning}~\cite{Blance:2020nhl,Terashi:2020wfi,Mott:2017xdb,Zlokapa:2019lvv}
+				\\\textit{Quantum computers are based on unitary operations applied to quantum states.  These states live in a vast Hilbert space which may have a usefully large information capacity for machine learning.}
+				\item \textbf{Feature ranking}~\cite{Faucett:2020vbu}
+				\\\textit{It is often useful to take a set of input features and rank them based on their usefulness.}
 			\end{itemize}
-		\item Fast inference / deployment
+		\item \textbf{Fast inference / deployment}
+		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}
 			\begin{itemize}
-				\item Software~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136}
-				\item Hardware/firmware~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Heintz:2020soy}
-				\item Deployment~\cite{Kuznetsov:2020mcj}
+				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136}
+				\\\textit{Strategies for efficient inference for a given hardware architecture.}
+				\item \textbf{Hardware/firmware}~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Heintz:2020soy}
+				\\\textit{Various accelerators have been studied for fast inference that is very important for latency-limited applications like the trigger at collider experiments.}
+				\item \textbf{Deployment}~\cite{Kuznetsov:2020mcj}
+				\\\textit{This category is for the deployment of machine learning interfaces, such as in the cloud.}
 			\end{itemize}
 	\end{itemize}
-\item Regression.
+\item \textbf{Regression}
+\\\textit{In contrast to classification, the goal of regression is to learn a function $f:\mathbb{R}^n\rightarrow\mathbb{R}^m$ for input features $x\in\mathbb{R}^n$ and target features $y\in\mathbb{R}^m$.  The learning setup is very similar to classification, where the network architectures and loss functions may need to be tweaked.  For example, the mean squared error is the most common loss function for regression, but the network output is no longer restricted to be between $0$ and $1$.}
 	\begin{itemize}
-		\item Pileup~\cite{Komiske:2017ubm,ATL-PHYS-PUB-2019-028,Martinez:2018fwc,Carrazza:2019efs}
-		\item Calibration~\cite{Cheong:2019upg,ATL-PHYS-PUB-2020-001,ATL-PHYS-PUB-2018-013,Hooberman:DLPS2017,Kasieczka:2020vlh,Sirunyan:2019wwa}
-		\item Recasting~\cite{Caron:2017hku,Bertone:2016mdy,1806026}
-		\item Matrix elements~\cite{Bishara:2019iwh,1804325,Bury:2020ewi}
-		\item Parameter estimation~\cite{Lei:2020ucb,1808105,Lazzarin:2020uvv}
-		\item Parton Distribution Functions (and related)~\cite{DelDebbio:2020rgv,Grigsby:2020auv}
+		\item \textbf{Pileup}~\cite{Komiske:2017ubm,ATL-PHYS-PUB-2019-028,Martinez:2018fwc,Carrazza:2019efs}
+		\\\textit{A given bunch crossing at the LHC will have many nearly simultaneous proton-proton collisions.  Only one of those is usually interesting and the rest introduce a source of noise (pileup) that must be mitigating for precise final state reconstruction.}
+		\item \textbf{Calibration}~\cite{Cheong:2019upg,ATL-PHYS-PUB-2020-001,ATL-PHYS-PUB-2018-013,Hooberman:DLPS2017,Kasieczka:2020vlh,Sirunyan:2019wwa}
+		\\\textit{The goal of calibration is to remove the bias (and reduce variance if possible) from detector effects.}
+		\item \textbf{Recasting}~\cite{Caron:2017hku,Bertone:2016mdy,1806026}
+		\\\textit{Even though an experimental analysis may provide a single model-dependent interpretation of the result, the results are likely to have important implications for a variety of other models.  Recasting is the task of taking a result and interpreting it in the context of a model that was not used for the original analysis.}
+		\item \textbf{Matrix elements}~\cite{Bishara:2019iwh,1804325,Bury:2020ewi}
+		\\\textit{Regression methods can be used as surrogate models for functions that are too slow to evaluate.  One important class of functions are matrix elements, which form the core component of cross section calculations in quantum field theory.}
+		\item \textbf{Parameter estimation}~\cite{Lei:2020ucb,1808105,Lazzarin:2020uvv}
+		\\\textit{The target features could be parameters of a model, which can be learned directly through a regression setup.  Other forms of inference are described in later sections (which could also be viewed as regression).}
+		\item \textbf{Parton Distribution Functions (and related)}~\cite{DelDebbio:2020rgv,Grigsby:2020auv}
+		\\\textit{Various machine learning models can provide flexible function approximators, which can be useful for modeling functions that cannot be determined easily from first principles such as parton distribution functions.}
 	\end{itemize}
-\item Decorrelation methods~\cite{Louppe:2016ylz,Dolen:2016kst,Moult:2017okx,Stevens:2013dya,Shimmin:2017mfk,Bradshaw:2019ipy,ATL-PHYS-PUB-2018-014,DiscoFever,Xia:2018kgd,Englert:2018cfo,Wunsch:2019qbo,Rogozhnikov:2014zea,10.1088/2632-2153/ab9023,clavijo2020adversarial,Kasieczka:2020pil,Kitouni:2020xgb}
-\item Generative models / density estimation.
+\item \textbf{Decorrelation methods}~\cite{Louppe:2016ylz,Dolen:2016kst,Moult:2017okx,Stevens:2013dya,Shimmin:2017mfk,Bradshaw:2019ipy,ATL-PHYS-PUB-2018-014,DiscoFever,Xia:2018kgd,Englert:2018cfo,Wunsch:2019qbo,Rogozhnikov:2014zea,10.1088/2632-2153/ab9023,clavijo2020adversarial,Kasieczka:2020pil,Kitouni:2020xgb}
+\\\textit{It it sometimes the case that a classification or regression model needs to be independent of a set of features (usually a mass-like variable) in order to estimate the background or otherwise reduce the uncertainty.  These techniques are related to what the machine learning literature calls model `fairness'.}
+\item \textbf{Generative models / density estimation}
+\\\textit{The goal of generative modeling is to learn (explicitly or implicitly) a probability density $p(x)$ for the features $x\in\mathbb{R}^n$.  This task is usually unsupervised (no labels).}
 	\begin{itemize}
-		\item GANs~\cite{Goodfellow:2014upx}:~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Alonso-Monsalve:2018aqs,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx,buhmann2020getting,Alanazi:2020jod,2009.03796,2008.06545,Kansal:2020svm,Maevskiy:2020ank}
-		\item Autoencoders~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001,Cheng:2020dal,1816035}
-		\item Physics-inspired~\cite{Andreassen:2018apy,Andreassen:2019txo,1808876}
-		\item Normalizing flows~\cite{pmlr-v37-rezende15}:~\cite{Albergo:2019eim,Kanwar:2003.06413,Brehmer:2020vwc,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Nachman:2020lpy,Choi:2020bnf,Lu:2020npg}
-		\item Mixture Models~\cite{Chen:2020uds}
-		\item Phase space generation~\cite{Bendavid:2017zhk,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Klimek:2018mza,Carrazza:2020rdn,Nachman:2020fff,Chen:2020nfb,Verheyen:2020bjw}
-		\item Gaussian processes~\cite{Frate:2017mai,Bertone:2016mdy,1804325}
+		\item \textbf{GANs}:~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Alonso-Monsalve:2018aqs,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx,buhmann2020getting,Alanazi:2020jod,2009.03796,2008.06545,Kansal:2020svm,Maevskiy:2020ank}
+		\\\textit{Generative Adversarial Networks~\cite{Goodfellow:2014upx} learn $p(x)$ implicitly through the minimax optimization of two networks: one that maps noise to structure $G(z)$ and one a classifier (called the discriminator) that learns to distinguish examples generated from $G(z)$ and those generated from the target process.  When the discriminator is maximally `confused', then the generator is effectively mimicking $p(x)$.}
+		\item \textbf{Autoencoders}~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001,Cheng:2020dal,1816035}
+		\\\textit{An autoencoder consists of two functions: one that maps $x$ into a latent space $z$ (encoder) and a second one that maps the latent space back into the original space (decoder).  The encoder and decoder are simultaneously trained so that their composition is nearly the identity.  When the latent space has a well-defined probability density (as in variational autoencoders), then one can sample from the autoencoder by applying the detector to a randomly chosen element of the latent space.}
+\item \textbf{Normalizing flows}~\cite{Albergo:2019eim,Kanwar:2003.06413,Brehmer:2020vwc,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Nachman:2020lpy,Choi:2020bnf,Lu:2020npg}
+		\\\textit{Normalizing flows~\cite{pmlr-v37-rezende15} learn $p(x)$ explicitly by starting with a simple probability density and then applyinga series of bijective transformations with tractable Jacobians.}
+		\item \textbf{Physics-inspired}~\cite{Andreassen:2018apy,Andreassen:2019txo,1808876}
+		\\\textit{A variety of methods have been proposed to use machine learning tools (e.g. neural networks) combined with physical components.}
+		\item \textbf{Mixture Models}~\cite{Chen:2020uds}
+		\\\textit{A mixture model is a superposition of simple probability densities.  For example, a Gaussian mixture model is a sum of normal probability densities.  Mixture density networks are mixture models where the coefficients in front of the constituent densities as well as the density parameters (e.g. mean and variances of Gaussians) are parameterized by neural networks.}
+		\item \textbf{Phase space generation}~\cite{Bendavid:2017zhk,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Klimek:2018mza,Carrazza:2020rdn,Nachman:2020fff,Chen:2020nfb,Verheyen:2020bjw}
+		\\\textit{Monte Carlo event generators integrate over a phase space that needs to be generated efficiently and this can be aided by machine learning methods.}
+		\item \textbf{Gaussian processes}~\cite{Frate:2017mai,Bertone:2016mdy,1804325}
+		\\\textit{These are non-parametric tools for modeling the `time'-dependence of a random variable.  The `time' need not be actual time - for instance, one can use Gaussian processes to model the energy dependence of some probability density.}
 	\end{itemize}
-\item Anomaly detection~\cite{DAgnolo:2018cun,Collins:2018epr,Collins:2019jip,DAgnolo:2019vbw,Farina:2018fyg,Heimel:2018mkt,Roy:2019jae,Cerri:2018anq,Blance:2019ibf,Hajer:2018kqm,DeSimone:2018efk,Mullin:2019mmh,1809.02977,Dillon:2019cqt,Andreassen:2020nkr,Nachman:2020lpy,Aguilar-Saavedra:2017rzt,Romao:2019dvs,Romao:2020ojy,knapp2020adversarially,collaboration2020dijet,1797846,1800445,Amram:2020ykb,Cheng:2020dal,Khosa:2020qrz,Thaprasop:2020mzp,Alexander:2020mbx,aguilarsaavedra2020mass,1815227,pol2020anomaly,Mikuni:2020qds,vanBeekveld:2020txa,Park:2020pak}
-\item Simulation-based (`likelihood-free') Inference.
+\item \textbf{Anomaly detection}~\cite{DAgnolo:2018cun,Collins:2018epr,Collins:2019jip,DAgnolo:2019vbw,Farina:2018fyg,Heimel:2018mkt,Roy:2019jae,Cerri:2018anq,Blance:2019ibf,Hajer:2018kqm,DeSimone:2018efk,Mullin:2019mmh,1809.02977,Dillon:2019cqt,Andreassen:2020nkr,Nachman:2020lpy,Aguilar-Saavedra:2017rzt,Romao:2019dvs,Romao:2020ojy,knapp2020adversarially,collaboration2020dijet,1797846,1800445,Amram:2020ykb,Cheng:2020dal,Khosa:2020qrz,Thaprasop:2020mzp,Alexander:2020mbx,aguilarsaavedra2020mass,1815227,pol2020anomaly,Mikuni:2020qds,vanBeekveld:2020txa,Park:2020pak}
+\\\textit{The goal of anomaly detection is to identify abnormal events.  The abnormal events could be from physics beyond the Standard Model or from faults in a detector.  While nearly all searches for new physics are technically anomaly detection, this category is for methods that are mode-independent (broadly defined).  Anomalies in high energy physics tend to manifest as over-densities in phase space (often called `population anomalies') in contrast to off-manifold anomalies where you can flag individual examples as anomalous. }
+\item \textbf{Simulation-based (`likelihood-free') Inference}
+\\\textit{Likelihood-based inference is the case where $p(x|\theta)$ is known and $\theta$ can be determined by maximizing the probability of the data.  In high energy physics, $p(x|\theta)$ is often not known analytically, but it is often possible to sample from the density implicitly using simulations.}
 	\begin{itemize}
-		\item Overview~\cite{Cranmer:2019eaq}
-		\item Parameter estimation~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka,Andreassen:2020gtw,Coogan:2020yux,Flesher:2020kuy}
-		\item Unfolding~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB,1800956,Vandegar:2020yvw}
-		\item Domain adaptation~\cite{Rogozhnikov:2016bdp,Andreassen:2019nnm,Cranmer:2015bka,2009.03796}
-		\item BSM~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox,Romao:2020ojy}
+		\item \textbf{Parameter estimation}~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka,Andreassen:2020gtw,Coogan:2020yux,Flesher:2020kuy}
+		\\\textit{This can also be viewed as a regression problem, but there the goal is typically to do maximum likelihood estimation in contrast to directly minimizing the mean squared error between a function and the target.}
+		\item \textbf{Unfolding}~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB,1800956,Vandegar:2020yvw}
+		\\\textit{This is the task of removing detector distortions.  In contrast to parameter estimation, the goal is not to infer model parameters, but instead, the undistorted phase space probability density.  This is often also called deconvlution.}
+		\item \textbf{Domain adaptation}~\cite{Rogozhnikov:2016bdp,Andreassen:2019nnm,Cranmer:2015bka,2009.03796}
+		\\\textit{Morphing simulations to look like data is a form of domain adaptation.}
+		\item \textbf{BSM}~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox,Romao:2020ojy}
+		\\\textit{This category is for parameter estimation when the parameter is the signal strength of new physics.}
 	\end{itemize}
-\item Uncertainty Quantification.
+\item \textbf{Uncertainty Quantification}
+\\\textit{Estimating and mitigating uncertainty is essential for the successful deployment of machine learning methods in high energy physics. }
 	\begin{itemize}
-		\item Interpretability~\cite{deOliveira:2015xxd,Chang:2017kvc,Diefenbacher:2019ezd,Agarwal:2020fpt}
-		\item Estimation~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma}
-		\item Mitigation~\cite{Estrade:DLPS2017,Englert:2018cfo,Louppe:2016ylz}
-		\item Uncertainty-aware inference~\cite{Caron:2019xkx,Bollweg:2019skg,deCastro:2018mgh,Wunsch:2020iuh}
+		\item \textbf{Interpretability}~\cite{deOliveira:2015xxd,Chang:2017kvc,Diefenbacher:2019ezd,Agarwal:2020fpt}
+		\\\textit{Machine learning methods that are interpretable maybe more robust and thus less susceptible to various sources of uncertainty.}
+		\item \textbf{Estimation}~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma}
+		\\\textit{A first step in reducing uncertainties is estimating their size.}
+		\item \textbf{Mitigation}~\cite{Estrade:DLPS2017,Englert:2018cfo,Louppe:2016ylz}
+		\\\textit{This category is for proposals to reduce uncertainty.}
+		\item \textbf{Uncertainty-aware inference}~\cite{Caron:2019xkx,Bollweg:2019skg,deCastro:2018mgh,Wunsch:2020iuh}
+		\\\textit{The usual path for inference is that a machine learning method is trained for a nominal setup.  Uncertainties are then propagated in the usual way.  This is suboptimal and so there  are multiple proposals for incorporating uncertainties into the learning to get as close to making the final statistical test the target of the machine learning as possible.}
 	\end{itemize}
-\item Experimental results. \textit{This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.}
+\item \textbf{Experimental results}
+\\\textit{This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.}
 	\begin{itemize}
 		\item Final analysis discriminate for searches~\cite{Aad:2019yxi,Aad:2020hzm,collaboration2020dijet,Sirunyan:2020hwz}.
 	\end{itemize}
