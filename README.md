@@ -226,6 +226,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Study of using machine learning for level 1 trigger decision in JUNO experiment](https://arxiv.org/abs/2011.08847)
             * [ Deep-Learning-Based Kinematic Reconstruction for DUNE](https://arxiv.org/abs/2012.06181)
             * [ Semantic Segmentation with a Sparse Convolutional Neural Network for Event Reconstruction in MicroBooNE](https://arxiv.org/abs/2012.08513)
+            * [ Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
 
         *  Direct Dark Matter Detectors
 
@@ -298,6 +299,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Event Classification with Quantum Machine Learning in High-Energy Physics](https://arxiv.org/abs/2002.09935)
             * [ Solving a Higgs optimization problem with quantum annealing for machine learning](https://doi.org/10.1038/nature24047)
             * [ Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480)
+            * [ Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
+            * [ Application of Quantum Machine Learning using the Quantum Variational Classifier Method to High Energy Physics Analysis at the LHC on IBM Quantum Computer Simulator and Hardware with 10 qubits](https://arxiv.org/abs/2012.11560)
 
         *  Feature ranking
 
@@ -344,6 +347,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [ Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099)
         * [ A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046)
+        * [ How to GAN Higher Jet Resolution](https://arxiv.org/abs/2012.11944)
 
     *  Recasting
 
@@ -518,6 +522,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
     * [ Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
     * [ Uncovering hidden patterns in collider events with Bayesian probabilistic models](https://arxiv.org/abs/2012.08579)
+    * [ Unsupervised in-distribution anomaly detection of new physics through conditional density estimation](https://arxiv.org/abs/2012.11638)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
