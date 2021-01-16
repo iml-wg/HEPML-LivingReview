@@ -33,13 +33,11 @@ jobs:
       run: |
         python footnote_build_info.py
     - name: Compile LaTeX document
-      uses: docker://xucheng/texlive-full:latest
+      uses: xu-cheng/texlive-action/full@v1
       with:
-        entrypoint: /bin/sh
-        args: |
-          -c "\
-          apk --no-cache add make && \
-          make document"
+        run: |
+          apk add make
+          make document
     - name: Setup docs for deployment
       run: |
         mkdir -p docs/_build/review
