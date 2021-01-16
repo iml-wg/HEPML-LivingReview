@@ -97,7 +97,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{Neutrino detectors are very large in order to have a sizable rate of neutrino detection.  The entire neutrino interaction can be characterized to distinguish different neutrino flavors.}
 			\item \textbf{Direct Dark Matter Detectors}~\cite{Ilyasov_2020,Akerib:2020aws}
 			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
-			\item \textbf{Astro Particle and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq}
+			\item \textbf{Astro Particle and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg}
 			\\\textit{Machine learning is often used in astrophysics and cosmology in different ways than terrestrial particle physics experiments due to a general divide between Bayesian and Frequentist statistics.  However, there are many similar tasks and a growing number of proposals designed for one domain that apply to the other.}
 			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm}
 			\\\textit{Charged particle tracking is a challenging pattern recognition task.  This category is for various classification tasks associated with tracking, such as seed selection.}
@@ -123,7 +123,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\item \textbf{Fast inference / deployment}
 		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}
 			\begin{itemize}
-				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136}
+				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136,Balazs:2021uhg}
 				\\\textit{Strategies for efficient inference for a given hardware architecture.}
 				\item \textbf{Hardware/firmware}~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Heintz:2020soy,Rossi:2020sbh,Aarrestad:2021zos}
 				\\\textit{Various accelerators have been studied for fast inference that is very important for latency-limited applications like the trigger at collider experiments.}
@@ -146,6 +146,8 @@ The purpose of this note is to collect references for modern machine learning as
 		\\\textit{The target features could be parameters of a model, which can be learned directly through a regression setup.  Other forms of inference are described in later sections (which could also be viewed as regression).}
 		\item \textbf{Parton Distribution Functions (and related)}~\cite{DelDebbio:2020rgv,Grigsby:2020auv,Rossi:2020sbh}
 		\\\textit{Various machine learning models can provide flexible function approximators, which can be useful for modeling functions that cannot be determined easily from first principles such as parton distribution functions.}
+		\item \textbf{Lattice Gauge Theory}~\cite{Kanwar:2003.06413,Favoni:2020reg}
+		\\\textit{Lattice methods offer a complementary approach to perturbation theory.  A key challenge is to create approaches that respect the local gauge symmetry (equivariant networks).}
 	\end{itemize}
 \item \textbf{Decorrelation methods}~\cite{Louppe:2016ylz,Dolen:2016kst,Moult:2017okx,Stevens:2013dya,Shimmin:2017mfk,Bradshaw:2019ipy,ATL-PHYS-PUB-2018-014,DiscoFever,Xia:2018kgd,Englert:2018cfo,Wunsch:2019qbo,Rogozhnikov:2014zea,10.1088/2632-2153/ab9023,clavijo2020adversarial,Kasieczka:2020pil,Kitouni:2020xgb}
 \\\textit{It it sometimes the case that a classification or regression model needs to be independent of a set of features (usually a mass-like variable) in order to estimate the background or otherwise reduce the uncertainty.  These techniques are related to what the machine learning literature calls model `fairness'.}
