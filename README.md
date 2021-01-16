@@ -99,6 +99,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
             * [ Particle Track Reconstruction using Geometric Deep Learning](https://arxiv.org/abs/2012.08515)
             * [ Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
+            * [ Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
 
         *  Sets (point clouds)
 
@@ -227,6 +228,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Deep-Learning-Based Kinematic Reconstruction for DUNE](https://arxiv.org/abs/2012.06181)
             * [ Semantic Segmentation with a Sparse Convolutional Neural Network for Event Reconstruction in MicroBooNE](https://arxiv.org/abs/2012.08513)
             * [ Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
+            * [ Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
 
         *  Direct Dark Matter Detectors
 
@@ -239,6 +241,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://arxiv.org/abs/1909.02005) [[DOI](https://doi.org/10.3847/1538-4357/ab4c41)]
             * [ Inverting cosmic ray propagation by Convolutional Neural Networks](https://arxiv.org/abs/2011.11930)
             * [ Particle Track Reconstruction using Geometric Deep Learning](https://arxiv.org/abs/2012.08515)
+            * [ Deep-Learning based Reconstruction of the Shower Maximum $X_{\mathrm{max}}$ using the Water-Cherenkov Detectors of the Pierre Auger Observatory](https://arxiv.org/abs/2101.02946)
+            * [ A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
 
         *  Tracking
 
@@ -314,6 +318,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
             * [ Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
             * [ Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
+            * [ A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
 
         *  Hardware/firmware
 
@@ -326,6 +331,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
             * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
             * [ PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
+            * [ Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
 
         *  Deployment
 
@@ -372,6 +378,11 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Neural-network analysis of Parton Distribution Functions from Ioffe-time pseudodistributions](https://arxiv.org/abs/2010.03996)
         * [ Deep Learning Analysis of Deeply Virtual Exclusive Photoproduction](https://arxiv.org/abs/2012.04801)
         * [ PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
+
+    *  Lattice Gauge Theory
+
+        * [ Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413)
+        * [ Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
 
 *  Decorrelation methods.
 
