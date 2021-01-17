@@ -1,4 +1,4 @@
-name: CI/CD
+name: CI
 
 on:
   push:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [ '3.7' ]
+        python-version: [ '3.8' ]
 
     steps:
     - uses: actions/checkout@v2
@@ -35,12 +35,10 @@ jobs:
         python footnote_build_info.py
         ls -lhtra
     - name: Compile LaTeX document
-      uses: docker://xucheng/texlive-full:latest
+      uses: xu-cheng/texlive-action/full@v1
       with:
-        entrypoint: /bin/sh
-        args: |
-          -c "\
-          apk --no-cache add make && \
-          make document"
+        run: |
+          apk add make
+          make document
     - name: List directory contents
       run: ls -lhtra
