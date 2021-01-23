@@ -98,7 +98,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
-            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
+            * [ Accelerated Charged Particle Tracking with Graph Neural Networks on FPGAs](https://arxiv.org/abs/2012.01563)
             * [ Particle Track Reconstruction using Geometric Deep Learning](https://arxiv.org/abs/2012.08515)
             * [ Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
             * [ Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
@@ -258,7 +258,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [ First application of machine learning algorithms to the position reconstruction in Resistive Silicon Detectors](https://arxiv.org/abs/2011.02410)
             * [ Beyond 4D Tracking: Using Cluster Shapes for Track Seeding](https://arxiv.org/abs/2012.04533)
-            * [ 33rd Annual Conference on Neural Information Processing Systems](https://arxiv.org/abs/2101.06428)
+            * [ Hashing and metric learning for charged particle tracking](https://arxiv.org/abs/2101.06428)
 
         *  Heavy ions
 
@@ -298,7 +298,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Reinforcement Learning
 
             * [ Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
-            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2011.08191)
+            * [ Hierarchical clustering in particle physics through reinforcement learning](https://arxiv.org/abs/2011.08191)
             * [ Real-time Artificial Intelligence for Accelerator Control: A Study at the Fermilab Booster](https://arxiv.org/abs/2011.07371)
 
         *  Quantum Machine Learning
@@ -335,8 +335,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
             * [ Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210)
             * [ PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
-            * [ "2020 IEEE/ACM International Workshop on Heterogeneous High-performance Reconfigurable Computing (H2RC)",](https://arxiv.org/abs/2010.08556) [[DOI](https://doi.org/10.1109/H2RC51942.2020.00010)]
-            * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
+            * [ FPGAs-as-a-Service Toolkit (FaaST)](https://arxiv.org/abs/2010.08556) [[DOI](https://doi.org/10.1109/H2RC51942.2020.00010)]
+            * [ Accelerated Charged Particle Tracking with Graph Neural Networks on FPGAs](https://arxiv.org/abs/2012.01563)
             * [ PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
             * [ Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
 
@@ -436,7 +436,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Fast and Accurate Simulation of Particle Detectors Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00850) [[DOI](https://doi.org/10.1007/s41781-018-0015-y)]
         * [ Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks](https://arxiv.org/abs/1802.03325) [[DOI](https://doi.org/10.1007/s41781-018-0008-x)]
         * [ Generative models for fast cluster simulations in the TPC for the ALICE experiment](https://doi.org/10.1051/epjconf/201921406003)
-        * [ Cherenkov Detectors Fast Simulation Using Neural Networks](https://arxiv.org/abs/1903.11788) [[DOI](https://doi.org/10.1016/j.nima.2019.01.031)]
+        * [ RICH 2018](https://arxiv.org/abs/1903.11788) [[DOI](https://doi.org/10.1016/j.nima.2019.01.031)]
         * [ GANs for generating EFT models](https://arxiv.org/abs/1809.02612)
         * [ Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network](https://arxiv.org/abs/1807.01954) [[DOI](https://doi.org/10.1007/s41781-018-0019-7)]
         * [ Reducing Autocorrelation Times in Lattice Simulations with Generative Adversarial Networks](https://arxiv.org/abs/1811.03533)
@@ -449,7 +449,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
         * [GANplifying Event Samples](https://arxiv.org/abs/2008.06545)
-        * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.00173)
+        * [ Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173)
         * [ Simulating the Time Projection Chamber responses at the MPD detector using Generative Adversarial Networks](https://arxiv.org/abs/2012.04595)
         * [ Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
 
@@ -555,7 +555,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) [[DOI](https://doi.org/10.1073/pnas.1915980117)]
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [ Parameter Estimation using Neural Networks in the Presence of Detector Effects](https://arxiv.org/abs/2010.03569)
-        * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2010.07032)
+        * [ Targeted Likelihood-Free Inference of Dark Matter Substructure in Strongly-Lensed Galaxies](https://arxiv.org/abs/2010.07032)
         * [ Parameter Inference from Event Ensembles and the Top-Quark Mass](https://arxiv.org/abs/2011.04666)
         * [ Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [ E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
