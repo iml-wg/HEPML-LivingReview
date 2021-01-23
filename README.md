@@ -20,7 +20,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
-        * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/10.1088/2632-2153/abbf9a)]
+        * [Graph neural networks in particle physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/{10.1088/2632-2153/abbf9a)]
         * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
         * [ Generative Networks for LHC events](https://arxiv.org/abs/2008.08558)
         * [ Parton distribution functions](https://arxiv.org/abs/2008.12305)
@@ -31,6 +31,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429)
         * [ Machine Learning scientific competitions and datasets](https://arxiv.org/abs/2012.08520)
         * [ Image-Based Jet Analysis](https://arxiv.org/abs/2012.09719)
+        * [ Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
 
     *  Classical papers
 
@@ -90,7 +91,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
-            * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/10.1088/2632-2153/abbf9a)]
+            * [Graph neural networks in particle physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/{10.1088/2632-2153/abbf9a)]
             * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
@@ -300,12 +301,13 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Quantum Machine Learning
 
-            * [ Quantum Machine Learning for Particle Physics using a Variational Quantum Classifier](https://arxiv.org/abs/2010.07335)
-            * [ Event Classification with Quantum Machine Learning in High-Energy Physics](https://arxiv.org/abs/2002.09935)
             * [ Solving a Higgs optimization problem with quantum annealing for machine learning](https://doi.org/10.1038/nature24047)
             * [ Quantum adiabatic machine learning with zooming](https://arxiv.org/abs/1908.04480)
+            * [ Quantum Machine Learning for Particle Physics using a Variational Quantum Classifier](https://arxiv.org/abs/2010.07335)
+            * [ Event Classification with Quantum Machine Learning in High-Energy Physics](https://arxiv.org/abs/2002.09935)
             * [ Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
             * [ Application of Quantum Machine Learning using the Quantum Variational Classifier Method to High Energy Physics Analysis at the LHC on IBM Quantum Computer Simulator and Hardware with 10 qubits](https://arxiv.org/abs/2012.11560)
+            * [ Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
 
         *  Feature ranking
 
