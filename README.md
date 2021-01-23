@@ -20,7 +20,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)]
         * [ Dealing with Nuisance Parameters using Machine Learning in High Energy Physics: a Review](https://arxiv.org/abs/2007.09121)
-        * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
+        * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/10.1088/2632-2153/abbf9a)]
         * [ A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242)
         * [ Generative Networks for LHC events](https://arxiv.org/abs/2008.08558)
         * [ Parton distribution functions](https://arxiv.org/abs/2008.12305)
@@ -90,8 +90,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787)
             * [ Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [ Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639)
-            * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681)
-            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
+            * [ Graph Neural Networks in Particle Physics](https://arxiv.org/abs/2007.13681) [[DOI](https://doi.org/10.1088/2632-2153/abbf9a)]
+            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
@@ -134,7 +134,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [ Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
             * [ Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
-            * [ Interaction networks for the identification of boosted $H\to b\overline{b}$ decays](https://arxiv.org/abs/1909.12285)
+            * [ Interaction networks for the identification of boosted $H \rightarrow b\overline{b}$ decays](https://arxiv.org/abs/1909.12285) [[DOI](https://doi.org/10.1103/PhysRevD.102.012010)]
             * [ Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
             * [ Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
@@ -324,12 +324,13 @@ The purpose of this note is to collect references for modern machine learning as
         *  Hardware/firmware
 
             * [ Fast inference of deep neural networks in FPGAs for particle physics](https://arxiv.org/abs/1804.06913) [[DOI](https://doi.org/10.1088/1748-0221/13/07/P07027)]
-            * [ Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308)
-            * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534)
+            * [ Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308) [[DOI](https://doi.org/10.1088/2632-2153/aba042)]
+            * [ Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05026)]
             * [ GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
-            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601)
+            * [ Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
             * [ Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210)
             * [ PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
+            * [ "2020 IEEE/ACM International Workshop on Heterogeneous High-performance Reconfigurable Computing (H2RC)",](https://arxiv.org/abs/2010.08556) [[DOI](https://doi.org/10.1109/H2RC51942.2020.00010)]
             * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
             * [ PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
             * [ Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
@@ -617,5 +618,5 @@ The purpose of this note is to collect references for modern machine learning as
         * [ Search for non-resonant Higgs boson pair production in the $bb\ell\nu\ell\nu$ final state with the ATLAS detector in $pp$ collisions at $\sqrt{s} ](https://arxiv.org/abs/1908.06765) [[DOI](https://doi.org/10.1016/j.physletb.2019.135145)]
         * [ Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678)
         * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983)
-        * [ Inclusive search for highly boosted Higgs bosons decaying to bottom quark-antiquark pairs in proton-proton collisions at $\sqrt{s} ](https://arxiv.org/abs/2006.13251)
+        * [ Inclusive search for highly boosted Higgs bosons decaying to bottom quark-antiquark pairs in proton-proton collisions at $\sqrt{s} ](https://arxiv.org/abs/2006.13251) [[DOI](https://doi.org/10.1007/JHEP12(2020)085)]
 
