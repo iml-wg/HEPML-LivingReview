@@ -53,7 +53,7 @@ The purpose of this note is to collect references for modern machine learning as
 \item \textbf{Classification}
 \\\textit{Given a feature space $x\in\mathbb{R}^n$, a binary classifier is a function $f:\mathbb{R}^n\rightarrow [0,1]$, where $0$ corresponds to features that are more characteristic of the zeroth class (e.g. background) and $1$ correspond to features that are more characteristic of the one class (e.g. signal).  Typically, $f$ will be a function specified by some parameters $w$ (e.g. weights and biases of a neural network) that are determined by minimizing a loss of the form $L[f]=\sum_{i}\ell(f(x_i),y_i)$, where $y_i\in\{0,1\}$ are labels.  The function $\ell$ is smaller when $f(x_i)$ and $y_i$ are closer.  Two common loss functions are the mean squared error $\ell(x,y)=(x-y)^2$ and the binary cross entropy $\ell(x,y)=y\log(x)+(1-y)\log(1-x)$.  Exactly what `more characteristic of' means depends on the loss function used to determine $f$.  It is also possible to make a multi-class classifier.  A common strategy for the multi-class case is to represent each class as a different basis vector in $\mathbb{R}^{n_\text{classes}}$ and then $f(x)\in[0,1]^{n_\text{classes}}$.  In this case, $f(x)$ is usually restricted to have its $n_\text{classes}$ components sum to one and the loss function is typically the cross entropy $\ell(x,y)=\sum_\text{classes $i$} y_i\log(x)$.}
 	\begin{itemize}
-		\item \textbf{Parameterized classifiers}~\cite{Baldi:2016fzo,Cranmer:2015bka}. 
+		\item \textbf{Parameterized classifiers}~\cite{Baldi:2016fzo,Cranmer:2015bka,Nachman:2021yvi}. 
 			\\\textit{A classifier that is conditioned on model parameters $f(x|\theta)$ is called a parameterized classifier.}
 		\item \textbf{Representations}
 			\\\textit{There is no unique way to represent high energy physics data.  It is often natural to encode $x$ as an image or another one of the structures listed below.}
@@ -99,7 +99,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
 			\item \textbf{Astro Particle and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg}
 			\\\textit{Machine learning is often used in astrophysics and cosmology in different ways than terrestrial particle physics experiments due to a general divide between Bayesian and Frequentist statistics.  However, there are many similar tasks and a growing number of proposals designed for one domain that apply to the other.}
-			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm}
+			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm,Amrouche:2021tlm}
 			\\\textit{Charged particle tracking is a challenging pattern recognition task.  This category is for various classification tasks associated with tracking, such as seed selection.}
 			\item \textbf{Heavy ions}~\cite{Pang:2016vdc,Chien:2018dfn,Du:2020pmp}
 			\\\textit{Many tools in high energy nuclear physics are similar to high energy particle physics.  The physics target of these studies are to understand collective properties of the strong force.}
@@ -115,7 +115,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{When no labels are provided, the learning is called unsupervised.}
 				\item \textbf{Reinforcement Learning}~\cite{Carrazza:2019efs,Brehmer:2020brs,John:2020sak}
 				\\\textit{Instead of learning to distinguish different types of examples, the goal of reinforcement learning is to learn a strategy (policy).  The prototypical example of reinforcement learning in learning a strategy to play video games using some kind of score as a feedback during the learning.}
-				\item \textbf{Quantum Machine Learning}~\cite{Mott:2017xdb,Zlokapa:2019lvv,Blance:2020nhl,Terashi:2020wfi,Chen:2020zkj,Wu:2020cye,Guan:2020bdl}
+				\item \textbf{Quantum Machine Learning}~\cite{Mott:2017xdb,Zlokapa:2019lvv,Blance:2020nhl,Terashi:2020wfi,Chen:2020zkj,Wu:2020cye,Guan:2020bdl,Chen:2021ouz}
 				\\\textit{Quantum computers are based on unitary operations applied to quantum states.  These states live in a vast Hilbert space which may have a usefully large information capacity for machine learning.}
 				\item \textbf{Feature ranking}~\cite{Faucett:2020vbu}
 				\\\textit{It is often useful to take a set of input features and rank them based on their usefulness.}
@@ -174,7 +174,7 @@ The purpose of this note is to collect references for modern machine learning as
 \item \textbf{Simulation-based (`likelihood-free') Inference}
 \\\textit{Likelihood-based inference is the case where $p(x|\theta)$ is known and $\theta$ can be determined by maximizing the probability of the data.  In high energy physics, $p(x|\theta)$ is often not known analytically, but it is often possible to sample from the density implicitly using simulations.}
 	\begin{itemize}
-		\item \textbf{Parameter estimation}~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka,Andreassen:2020gtw,Coogan:2020yux,Flesher:2020kuy,Bieringer:2020tnw}
+		\item \textbf{Parameter estimation}~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka,Andreassen:2020gtw,Coogan:2020yux,Flesher:2020kuy,Bieringer:2020tnw,Nachman:2021yvi}
 		\\\textit{This can also be viewed as a regression problem, but there the goal is typically to do maximum likelihood estimation in contrast to directly minimizing the mean squared error between a function and the target.}
 		\item \textbf{Unfolding}~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB,1800956,Vandegar:2020yvw}
 		\\\textit{This is the task of removing detector distortions.  In contrast to parameter estimation, the goal is not to infer model parameters, but instead, the undistorted phase space probability density.  This is often also called deconvlution.}

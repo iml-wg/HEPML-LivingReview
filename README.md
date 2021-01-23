@@ -43,6 +43,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [ Parameterized neural networks for high-energy physics](https://arxiv.org/abs/1601.07913) [[DOI](https://doi.org/10.1140/epjc/s10052-016-4099-4)]
         * [ Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
+        * [ E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
 
         *  Jet images
 
@@ -257,6 +258,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [ First application of machine learning algorithms to the position reconstruction in Resistive Silicon Detectors](https://arxiv.org/abs/2011.02410)
             * [ Beyond 4D Tracking: Using Cluster Shapes for Track Seeding](https://arxiv.org/abs/2012.04533)
+            * [ 33rd Annual Conference on Neural Information Processing Systems](https://arxiv.org/abs/2101.06428)
 
         *  Heavy ions
 
@@ -308,6 +310,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
             * [ Application of Quantum Machine Learning using the Quantum Variational Classifier Method to High Energy Physics Analysis at the LHC on IBM Quantum Computer Simulator and Hardware with 10 qubits](https://arxiv.org/abs/2012.11560)
             * [ Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
+            * [ Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189)
 
         *  Feature ranking
 
@@ -555,6 +558,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2010.07032)
         * [ Parameter Inference from Event Ensembles and the Top-Quark Mass](https://arxiv.org/abs/2011.04666)
         * [ Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
+        * [ E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
 
     *  Unfolding
 
