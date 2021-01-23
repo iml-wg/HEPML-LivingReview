@@ -35,6 +35,8 @@ def convert_from_bib(myline):
     myentry_dict = {}
     for entry in myentry:
         entry_cleaned = entry.replace("\"{","").replace("}\",","").replace("},","")
+        entry_cleaned = entry_cleaned.replace(" =","=")
+        entry_cleaned = entry_cleaned.replace("= ","=")
         first_entry = entry_cleaned.split("=")[0]
         if "title" in first_entry:
             myentry_dict["title"] = entry_cleaned.split("title")[1].split("=")[1].split("\n")[0]
