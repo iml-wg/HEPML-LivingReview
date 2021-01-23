@@ -189,7 +189,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * ['Deep' Dive into $b \to c$ Anomalies: Standardized and Future-proof Model Selection Using Self-normalizing Neural Networks](https://arxiv.org/abs/2008.04316)
 
-        *  BSM particles
+        *  BSM particles and models
 
             * [Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
             * [Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://arxiv.org/abs/1402.4735) [[DOI](https://doi.org/10.1038/ncomms5308)]
@@ -203,6 +203,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Invisible Higgs search through Vector Boson Fusion: A deep learning approach](https://arxiv.org/abs/2008.05434)
             * [Sensing Higgs cascade decays through memory](https://arxiv.org/abs/2008.08611)
             * [Phenomenology of vector-like leptons with Deep Learning at the Large Hadron Collider](https://arxiv.org/abs/2010.01307)
+            * [WIMPs or else? Using Machine Learning to disentangle LHC signatures](https://arxiv.org/abs/1910.06058)
+            * [Exploring the standard model EFT in VH production with machine learning](https://arxiv.org/abs/1902.05803) [[DOI](https://doi.org/10.1103/PhysRevD.100.035040)]
 
         *  Particle identification
 
@@ -237,6 +239,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
             * [Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
+            * [Convolutional Neural Networks for Direct Detection of Dark Matter](https://arxiv.org/abs/1911.09210) [[DOI](https://doi.org/10.1088/1361-6471/ab8e94)]
 
         *  Astro Particle and Cosmic Ray physics
 
