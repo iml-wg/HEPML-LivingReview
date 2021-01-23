@@ -95,11 +95,12 @@ The purpose of this note is to collect references for modern machine learning as
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [ Track Seeding and Labelling with Embedded-space Graph Neural Networks](https://arxiv.org/abs/2007.00149)
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688)
-            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network ](https://arxiv.org/abs/2010.05464)
+            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [ 34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2012.01563)
             * [ Particle Track Reconstruction using Geometric Deep Learning](https://arxiv.org/abs/2012.08515)
             * [ Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
             * [ Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
+            * [ MLPF: Efficient machine-learned particle-flow reconstruction using graph neural networks](https://arxiv.org/abs/2101.08578)
 
         *  Sets (point clouds)
 
@@ -138,7 +139,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
             * [ Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
             * [ Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
-            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network ](https://arxiv.org/abs/2010.05464)
+            * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [ Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
 
         *  quarks and gluons
@@ -528,12 +529,13 @@ The purpose of this note is to collect references for modern machine learning as
     * [ Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
     * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792)
     * [ Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
-    * [Anomaly Detection With Conditional Variational Autoencoders ](https://arxiv.org/abs/2010.05531)
+    * [Anomaly Detection With Conditional Variational Autoencoders](https://arxiv.org/abs/2010.05531)
     * [ Unsupervised clustering for collider physics](https://arxiv.org/abs/2010.07106)
     * [ Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
     * [ Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
     * [ Uncovering hidden patterns in collider events with Bayesian probabilistic models](https://arxiv.org/abs/2012.08579)
     * [ Unsupervised in-distribution anomaly detection of new physics through conditional density estimation](https://arxiv.org/abs/2012.11638)
+    * [ The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
