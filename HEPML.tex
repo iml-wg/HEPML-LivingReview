@@ -111,7 +111,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{In addition to learnable weights $w$, classifiers have a number of non-differentiable parameters like the number of layers in a neural network.  These parameters are called hyperparameters.}
 				\item \textbf{Weak supervision}~\cite{Dery:2017fap,Metodiev:2017vrx,Komiske:2018oaa,Collins:2018epr,Collins:2019jip,Borisyak:2019vbz,Cohen:2017exh,Komiske:2018vkc,Metodiev:2018ftz,collaboration2020dijet,Amram:2020ykb,Brewer:2020och,Dahbi:2020zjw,Lee:2019ssx}
 				\\\textit{For supervised learning, the labels $y_i$ are known.  In the case that the labels are noisy or only known with some uncertainty, then the learning is called weak supervision.  Semi-supervised learning is the related case where labels are known for only a fraction of the training examples.}
-				\item \textbf{Unsupervised}~\cite{Mackey:2015hwa,Komiske:2019fks,1797846,Dillon:2019cqt,Cai:2020vzx}
+				\item \textbf{Unsupervised}~\cite{Mackey:2015hwa,Komiske:2019fks,1797846,Dillon:2019cqt,Cai:2020vzx,Howard:2021pos}
 				\\\textit{When no labels are provided, the learning is called unsupervised.}
 				\item \textbf{Reinforcement Learning}~\cite{Carrazza:2019efs,Brehmer:2020brs,John:2020sak}
 				\\\textit{Instead of learning to distinguish different types of examples, the goal of reinforcement learning is to learn a strategy (policy).  The prototypical example of reinforcement learning in learning a strategy to play video games using some kind of score as a feedback during the learning.}
@@ -156,7 +156,7 @@ The purpose of this note is to collect references for modern machine learning as
 	\begin{itemize}
 		\item \textbf{GANs}:~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Alonso-Monsalve:2018aqs,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx,buhmann2020getting,Alanazi:2020jod,2009.03796,2008.06545,Kansal:2020svm,Maevskiy:2020ank,Lai:2020byl}
 		\\\textit{Generative Adversarial Networks~\cite{Goodfellow:2014upx} learn $p(x)$ implicitly through the minimax optimization of two networks: one that maps noise to structure $G(z)$ and one a classifier (called the discriminator) that learns to distinguish examples generated from $G(z)$ and those generated from the target process.  When the discriminator is maximally `confused', then the generator is effectively mimicking $p(x)$.}
-		\item \textbf{Autoencoders}~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001,Cheng:2020dal,1816035}
+		\item \textbf{Autoencoders}~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001,Cheng:2020dal,1816035,Howard:2021pos}
 		\\\textit{An autoencoder consists of two functions: one that maps $x$ into a latent space $z$ (encoder) and a second one that maps the latent space back into the original space (decoder).  The encoder and decoder are simultaneously trained so that their composition is nearly the identity.  When the latent space has a well-defined probability density (as in variational autoencoders), then one can sample from the autoencoder by applying the detector to a randomly chosen element of the latent space.}
 \item \textbf{Normalizing flows}~\cite{Albergo:2019eim,Kanwar:2003.06413,Brehmer:2020vwc,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Nachman:2020lpy,Choi:2020bnf,Lu:2020npg,Bieringer:2020tnw}
 		\\\textit{Normalizing flows~\cite{pmlr-v37-rezende15} learn $p(x)$ explicitly by starting with a simple probability density and then applyinga series of bijective transformations with tractable Jacobians.}
@@ -176,7 +176,7 @@ The purpose of this note is to collect references for modern machine learning as
 	\begin{itemize}
 		\item \textbf{Parameter estimation}~\cite{Andreassen:2019nnm,Stoye:2018ovl,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2019xox,Brehmer:2018hga,Cranmer:2015bka,Andreassen:2020gtw,Coogan:2020yux,Flesher:2020kuy,Bieringer:2020tnw,Nachman:2021yvi}
 		\\\textit{This can also be viewed as a regression problem, but there the goal is typically to do maximum likelihood estimation in contrast to directly minimizing the mean squared error between a function and the target.}
-		\item \textbf{Unfolding}~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB,1800956,Vandegar:2020yvw}
+		\item \textbf{Unfolding}~\cite{Andreassen:2019cjw,Datta:2018mwd,Bellagente:2019uyp,Gagunashvili:2010zw,Glazov:2017vni,Martschei:2012pr,Lindemann:1995ut,Zech2003BinningFreeUB,1800956,Vandegar:2020yvw,Howard:2021pos}
 		\\\textit{This is the task of removing detector distortions.  In contrast to parameter estimation, the goal is not to infer model parameters, but instead, the undistorted phase space probability density.  This is often also called deconvlution.}
 		\item \textbf{Domain adaptation}~\cite{Rogozhnikov:2016bdp,Andreassen:2019nnm,Cranmer:2015bka,2009.03796}
 		\\\textit{Morphing simulations to look like data is a form of domain adaptation.}

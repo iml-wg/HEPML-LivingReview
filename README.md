@@ -297,6 +297,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319)
             * [Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
             * [Linearized Optimal Transport for Collider Events](https://arxiv.org/abs/2008.08604)
+            * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
 
         *  Reinforcement Learning
 
@@ -462,6 +463,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
         * [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
         * [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
+        * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
 
     *  Normalizing flows
 
@@ -575,6 +577,7 @@ The purpose of this note is to collect references for modern machine learning as
         * Binning-Free Unfolding Based on Monte Carlo Migration
         * [Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685)
         * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836)
+        * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
 
     *  Domain adaptation
 
