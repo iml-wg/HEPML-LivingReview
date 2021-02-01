@@ -26,13 +26,6 @@
 
 \title{\boldmath A Living Review of Machine \\ Learning for Particle Physics}
 
-\author{\textbf{Matthew Feickert$^a$ and Benjamin Nachman$^b$}, \textit{for the Inter-Experimental LHC Machine Learning Working Group}}
-\affiliation{$^a$Department of Physics, University of Illinois at Urbana Champaign\\
-$^b$Physics Division, Lawrence Berkeley National Laboratory}
-
-\emailAdd{matthew.feickert@cern.ch}
-\emailAdd{bpnachman@lbl.gov}
-
 \abstract{
 Modern machine learning techniques, including deep learning, are rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.
 }
@@ -62,7 +55,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{Jets are collimated sprays of particles.  They have a complex radiation pattern and such, have been a prototypical example for many machine learning studies.  See the next item for a specific description about images.}
 				\item \textbf{Event images}~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf}
 				\\\textit{A grayscale image is a regular grid with a scalar value at each grid point.  `Color' images have a fixed-length vector at each grid point.  Many detectors are analogous to digital cameras and thus images are a natural representation.  In other cases, images can be created by discretizing.   Convolutional neural networks are natural tools for processing image data.  One downside of the image representation is that high energy physics data tend to be sparse, unlike natural images.}
-				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb}
+				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb,goto2021development}
 				\\\textit{Data that have a variable with a particular order may be represented as a sequence.  Recurrent neural networks are natural tools for processing sequence data. }
 				\item \textbf{Trees}~\cite{Louppe:2017ipp,Cheng:2017rdo}
 				\\\textit{Recursive neural networks are natural tools for processing data in a tree structure.}
@@ -93,13 +86,13 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{There are many proposals to train classifiers to enhance the presence of particular new physics models.}
 			\item \textbf{Particle identification}~\cite{deOliveira:2018lqd,Paganini:DLPS2017,Hooberman:DLPS2017,Belayneh:2019vyx,Qasim:2019otl,Collado:2020fwm}
 			\\\textit{This is a generic category for direct particle identification and categorization using various detector technologies.  Direct means that the particle directly interacts with the detector (in contrast with $b$-tagging).}
-			\item \textbf{Neutrino Detectors}~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg,Liu:2020pzv,Abratenko:2020ocq,Chen:2020zkj,Qian:2021vnh}
+			\item \textbf{Neutrino Detectors}~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg,Liu:2020pzv,Abratenko:2020ocq,Chen:2020zkj,Qian:2021vnh,abbasi2021convolutional}
 			\\\textit{Neutrino detectors are very large in order to have a sizable rate of neutrino detection.  The entire neutrino interaction can be characterized to distinguish different neutrino flavors.}
 			\item \textbf{Direct Dark Matter Detectors}~\cite{Ilyasov_2020,Akerib:2020aws,Khosa:2019qgp}
 			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
-			\item \textbf{Astro Particle and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg}
+			\item \textbf{Cosmology, Astro Particle, and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg,gonzalez2021tackling,Conceicao:2021xgn,huang2021convolutionalneuralnetwork}
 			\\\textit{Machine learning is often used in astrophysics and cosmology in different ways than terrestrial particle physics experiments due to a general divide between Bayesian and Frequentist statistics.  However, there are many similar tasks and a growing number of proposals designed for one domain that apply to the other.}
-			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm,Amrouche:2021tlm}
+			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm,Amrouche:2021tlm,goto2021development}
 			\\\textit{Charged particle tracking is a challenging pattern recognition task.  This category is for various classification tasks associated with tracking, such as seed selection.}
 			\item \textbf{Heavy ions}~\cite{Pang:2016vdc,Chien:2018dfn,Du:2020pmp}
 			\\\textit{Many tools in high energy nuclear physics are similar to high energy particle physics.  The physics target of these studies are to understand collective properties of the strong force.}
@@ -119,6 +112,8 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{Quantum computers are based on unitary operations applied to quantum states.  These states live in a vast Hilbert space which may have a usefully large information capacity for machine learning.}
 				\item \textbf{Feature ranking}~\cite{Faucett:2020vbu}
 				\\\textit{It is often useful to take a set of input features and rank them based on their usefulness.}
+				\item \textbf{Attention}~\cite{goto2021development}
+				\\\textit{This is an ML tool for helping the network to focus on particularly useful features.}
 			\end{itemize}
 		\item \textbf{Fast inference / deployment}
 		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}

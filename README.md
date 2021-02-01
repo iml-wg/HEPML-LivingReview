@@ -75,6 +75,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
             * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
             * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519)
+            * [{Development of a Vertex Finding Algorithm using Recurrent Neural Network ](https://arxiv.org/abs/{2101.11906)
 
         *  Trees
 
@@ -234,6 +235,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Semantic Segmentation with a Sparse Convolutional Neural Network for Event Reconstruction in MicroBooNE](https://arxiv.org/abs/2012.08513)
             * [Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
             * [Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
+            * [{A Convolutional Neural Network based Cascade Reconstruction for the IceCube Neutrino Observatory ](https://arxiv.org/abs/{2101.11589)
 
         *  Direct Dark Matter Detectors
 
@@ -241,7 +243,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
             * [Convolutional Neural Networks for Direct Detection of Dark Matter](https://arxiv.org/abs/1911.09210) [[DOI](https://doi.org/10.1088/1361-6471/ab8e94)]
 
-        *  Astro Particle and Cosmic Ray physics
+        *  Cosmology, Astro Particle, and Cosmic Ray physics
 
             * [Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation](https://arxiv.org/abs/2009.06663)
             * [Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning](https://arxiv.org/abs/1909.02005) [[DOI](https://doi.org/10.3847/1538-4357/ab4c41)]
@@ -249,6 +251,9 @@ The purpose of this note is to collect references for modern machine learning as
             * [Particle Track Reconstruction using Geometric Deep Learning](https://arxiv.org/abs/2012.08515)
             * [Deep-Learning based Reconstruction of the Shower Maximum $X_{\mathrm{max}}$ using the Water-Cherenkov Detectors of the Pierre Auger Observatory](https://arxiv.org/abs/2101.02946)
             * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
+            * [{Tackling the muon identification in water Cherenkov detectors problem for the future Southern Wide-field Gamma-ray Observatory by means of Machine Learning ](https://arxiv.org/abs/{2101.11924)
+            * [Muon identification in a compact single-layered water Cherenkov detector and gamma/hadron discrimination using Machine Learning techniques](https://arxiv.org/abs/2101.10109)
+            * [{A convolutional-neural-network estimator of CMB constraints on dark matter energy injection ](https://arxiv.org/abs/{2101.10360)
 
         *  Tracking
 
@@ -262,6 +267,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [First application of machine learning algorithms to the position reconstruction in Resistive Silicon Detectors](https://arxiv.org/abs/2011.02410)
             * [Beyond 4D Tracking: Using Cluster Shapes for Track Seeding](https://arxiv.org/abs/2012.04533)
             * [Hashing and metric learning for charged particle tracking](https://arxiv.org/abs/2101.06428)
+            * [{Development of a Vertex Finding Algorithm using Recurrent Neural Network ](https://arxiv.org/abs/{2101.11906)
 
         *  Heavy ions
 
@@ -319,6 +325,10 @@ The purpose of this note is to collect references for modern machine learning as
         *  Feature ranking
 
             * [Mapping Machine-Learned Physics into a Human-Readable Space](https://arxiv.org/abs/2010.11998)
+
+        *  Attention
+
+            * [{Development of a Vertex Finding Algorithm using Recurrent Neural Network ](https://arxiv.org/abs/{2101.11906)
 
         *  Software
 
