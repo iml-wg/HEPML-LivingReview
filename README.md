@@ -61,6 +61,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Reconstructing boosted Higgs jets from event image segmentation](https://arxiv.org/abs/2008.13529)
             * [An Attention Based Neural Network for Jet Tagging](https://arxiv.org/abs/2009.00170)
             * [Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
+            * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
 
         *  Event images
 
@@ -114,6 +115,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964)
             * [Permutationless Many-Jet Event Reconstruction with Symmetry Preserving Attention Networks](https://arxiv.org/abs/2010.09206)
             * [Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
+            * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
 
         *  Physics-inspired basis
 
