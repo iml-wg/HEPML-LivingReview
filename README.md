@@ -129,6 +129,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Novel Jet Observables from Machine Learning](https://arxiv.org/abs/1710.01305) [[DOI](https://doi.org/10.1007/JHEP03(2018)086)]
             * [Energy flow polynomials: A complete linear basis for jet substructure](https://arxiv.org/abs/1712.07124) [[DOI](https://doi.org/10.1007/JHEP04(2018)013)]
             * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
         *  $W/Z$ tagging
 
@@ -152,6 +153,10 @@ The purpose of this note is to collect references for modern machine learning as
             * [Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
+
+        *  $b$-Yukawa measurememts
+
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
         *  quarks and gluons
 
@@ -337,6 +342,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Feature ranking
 
             * [Mapping Machine-Learned Physics into a Human-Readable Space](https://arxiv.org/abs/2010.11998)
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
         *  Attention
 
@@ -631,6 +637,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [What is the Machine Learning?](https://arxiv.org/abs/1709.10106) [[DOI](https://doi.org/10.1103/PhysRevD.97.056009)]
         * [CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265) [[DOI](https://doi.org/10.21468/SciPostPhys.8.2.023)]
         * [Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)
+        * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
     *  Estimation
 
