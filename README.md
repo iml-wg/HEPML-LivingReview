@@ -123,7 +123,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [How Much Information is in a Jet?](https://arxiv.org/abs/1704.08249) [[DOI](https://doi.org/10.1007/JHEP06(2017)073)]
             * [Novel Jet Observables from Machine Learning](https://arxiv.org/abs/1710.01305) [[DOI](https://doi.org/10.1007/JHEP03(2018)086)]
             * [Energy flow polynomials: A complete linear basis for jet substructure](https://arxiv.org/abs/1712.07124) [[DOI](https://doi.org/10.1007/JHEP04(2018)013)]
-            * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]
+            * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]  
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
         *  $W/Z$ tagging
 
@@ -133,7 +134,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Identification of heavy, energetic, hadronically decaying particles using machine-learning techniques](https://arxiv.org/abs/2004.08262) [[DOI](https://doi.org/10.1088/1748-0221/15/06/P06005)]
             * [Boosted $W$ and $Z$ tagging with jet charge and deep learning](https://arxiv.org/abs/1908.08256) [[DOI](https://doi.org/10.1103/PhysRevD.101.053001)]
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
-            * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
+            * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)  
 
         *  $H\rightarrow b\bar{b$}
 
@@ -146,6 +147,9 @@ The purpose of this note is to collect references for modern machine learning as
             * [Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
+            
+        * $b$-Yukawa measurements  
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)  
 
         *  quarks and gluons
 
@@ -326,7 +330,8 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Feature ranking
 
-            * [Mapping Machine-Learned Physics into a Human-Readable Space](https://arxiv.org/abs/2010.11998)
+            * [Mapping Machine-Learned Physics into a Human-Readable Space](https://arxiv.org/abs/2010.11998)  
+            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)  
 
         *  Attention
 
@@ -614,7 +619,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
         * [What is the Machine Learning?](https://arxiv.org/abs/1709.10106) [[DOI](https://doi.org/10.1103/PhysRevD.97.056009)]
         * [CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265) [[DOI](https://doi.org/10.21468/SciPostPhys.8.2.023)]
-        * [Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)
+        * [Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)  
+        * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)  
 
     *  Estimation
 
