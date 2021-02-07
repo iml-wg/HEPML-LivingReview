@@ -62,6 +62,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [An Attention Based Neural Network for Jet Tagging](https://arxiv.org/abs/2009.00170)
             * [Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
+            * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
 
         *  Event images
 
@@ -70,6 +71,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
             * [End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916)
             * [Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
+            * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
 
         *  Sequences
 
@@ -275,9 +277,10 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Heavy ions
 
-            * [An EoS-meter of QCD transition from deep learning](https://arxiv.org/abs/1612.04262)
+            * [An equation-of-state-meter of quantum chromodynamics transition from deep learning](https://arxiv.org/abs/1612.04262) [[DOI](https://doi.org/10.1038/s41467-017-02726-3)]
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
+            * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
 
         *  Hyperparameters
 
@@ -383,6 +386,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099)
         * [A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046)
         * [How to GAN Higher Jet Resolution](https://arxiv.org/abs/2012.11944)
+        * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
 
     *  Recasting
 
