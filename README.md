@@ -174,6 +174,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Boosted Top Quark Tagging and Polarization Measurement using Machine Learning](https://arxiv.org/abs/2010.11778)
             * [Morphology for Jet Classification](https://arxiv.org/abs/2010.13469)
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
+            * [Pulling the Higgs and Top needles from the jet stack with Feature Extended Supervised Tagging](https://arxiv.org/abs/2102.01667)
 
         *  strange jets
 
@@ -238,6 +239,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Convolutional Neural Networks for High Energy Physics Data Analysis](https://arxiv.org/abs/2012.12177)
             * [Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
             * [A Convolutional Neural Network based Cascade Reconstruction for the IceCube Neutrino Observatory](https://arxiv.org/abs/2101.11589)
+            * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2102.01033)
 
         *  Direct Dark Matter Detectors
 
@@ -331,6 +333,10 @@ The purpose of this note is to collect references for modern machine learning as
         *  Attention
 
             * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906)
+
+        *  Regularization
+
+            * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
 
         *  Software
 
@@ -627,6 +633,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf})
         * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
         * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
+        * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
 
     *  Uncertainty-aware inference
 

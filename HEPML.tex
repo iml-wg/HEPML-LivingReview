@@ -33,7 +33,7 @@ Modern machine learning techniques, including deep learning, are rapidly being a
 \begin{document}
 \maketitle
 
-The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back\footnote{See \href{https://github.com/iml-wg/HEPML-LivingReview}{https://github.com/iml-wg/HEPML-LivingReview}.} before you write your next paper.  You can simply download the .bib file to get all of the latest references.
+The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back\footnote{See \href{https://github.com/iml-wg/HEPML-LivingReview}{https://github.com/iml-wg/HEPML-LivingReview}.} before you write your next paper.  You can simply download the .bib file to get all of the latest references.  Please consider citing Ref.~\cite{Feickert:2021ajf} when referring to this living review.
 
 \begin{itemize}
 \item \textbf{Reviews}
@@ -74,7 +74,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{Due to the fidelity of $b$-tagging, boosted, hadronically decaying Higgs bosons (predominantly decaying to $b\bar{b}$) has unique challenged and opportunities compared with $W/Z$ tagging.}
 			\item \textbf{quarks and gluons}~\cite{ATL-PHYS-PUB-2017-017,Komiske:2016rsd,Cheng:2017rdo,Stoye:DLPS2017,Chien:2018dfn,Moreno:2019bmu,Kasieczka:2018lwf,1806025,Lee:2019ssx,Lee:2019cad,Dreyer:2020brq}
 			\\\textit{Quark jets tend to be narrower and have fewer particles than gluon jets.  This classification task has been a benchmark for many new machine learning models.}
-			\item \textbf{top quark} tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi,Dreyer:2020brq}
+			\item \textbf{top quark} tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi,Dreyer:2020brq,Aguilar-Saavedra:2021rjk}
 			\\\textit{Boosted top quarks form jets that have a three-prong substructure ($t\rightarrow Wb,W\rightarrow q\bar{q}$).}
 			\item \textbf{strange jets}~\cite{Nakai:2020kuu,Erdmann:2019blf,Erdmann:2020ovh}
 			\\\textit{Strange quarks have a very similar fragmentation to generic quark and gluon jets, so this is a particularly challenging task.}
@@ -86,7 +86,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{There are many proposals to train classifiers to enhance the presence of particular new physics models.}
 			\item \textbf{Particle identification}~\cite{deOliveira:2018lqd,Paganini:DLPS2017,Hooberman:DLPS2017,Belayneh:2019vyx,Qasim:2019otl,Collado:2020fwm}
 			\\\textit{This is a generic category for direct particle identification and categorization using various detector technologies.  Direct means that the particle directly interacts with the detector (in contrast with $b$-tagging).}
-			\item \textbf{Neutrino Detectors}~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg,Liu:2020pzv,Abratenko:2020ocq,Chen:2020zkj,Qian:2021vnh,abbasi2021convolutional}
+			\item \textbf{Neutrino Detectors}~\cite{Adams:2018bvi,Aurisano:2016jvx,Acciarri:2016ryt,Hertel:DLPS2017,Aiello:2020orq,Adams:2020vlj,Domine:2020tlx,1805474,1808859,Psihas:2020pby,alonsomonsalve2020graph,Abratenko:2020pbp,Clerbaux:2020ttg,Liu:2020pzv,Abratenko:2020ocq,Chen:2020zkj,Qian:2021vnh,abbasi2021convolutional,Drielsma:2021jdv}
 			\\\textit{Neutrino detectors are very large in order to have a sizable rate of neutrino detection.  The entire neutrino interaction can be characterized to distinguish different neutrino flavors.}
 			\item \textbf{Direct Dark Matter Detectors}~\cite{Ilyasov_2020,Akerib:2020aws,Khosa:2019qgp}
 			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
@@ -114,6 +114,8 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{It is often useful to take a set of input features and rank them based on their usefulness.}
 				\item \textbf{Attention}~\cite{goto2021development}
 				\\\textit{This is an ML tool for helping the network to focus on particularly useful features.}
+				\item \textbf{Regularization}~\cite{Araz:2021wqm}
+				\\\textit{This is a term referring to any learning strategy that improves the robustness of a classifier to statistical fluctuations in the data and in the model initialization.}
 			\end{itemize}
 		\item \textbf{Fast inference / deployment}
 		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}
@@ -185,7 +187,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\\\textit{Machine learning methods that are interpretable maybe more robust and thus less susceptible to various sources of uncertainty.}
 		\item \textbf{Estimation}~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma}
 		\\\textit{A first step in reducing uncertainties is estimating their size.}
-		\item \textbf{Mitigation}~\cite{Estrade:DLPS2017,Englert:2018cfo,Louppe:2016ylz}
+		\item \textbf{Mitigation}~\cite{Estrade:DLPS2017,Englert:2018cfo,Louppe:2016ylz,Araz:2021wqm}
 		\\\textit{This category is for proposals to reduce uncertainty.}
 		\item \textbf{Uncertainty-aware inference}~\cite{Caron:2019xkx,Bollweg:2019skg,deCastro:2018mgh,Wunsch:2020iuh}
 		\\\textit{The usual path for inference is that a machine learning method is trained for a nominal setup.  Uncertainties are then propagated in the usual way.  This is suboptimal and so there  are multiple proposals for incorporating uncertainties into the learning to get as close to making the final statistical test the target of the machine learning as possible.}
