@@ -89,7 +89,9 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf})
             * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
+            * [Probing stop pair production at the LHC with graph neural networks](https://arxiv.org/abs/1807.09088) [[DOI](https://doi.org/10.1007/JHEP08(2019)055)]
             * [Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988) [[DOI](https://doi.org/10.1140/epjp/i2019-12710-3)]
+            * [Unveiling CP property of top-Higgs coupling with graph neural networks at the LHC](https://arxiv.org/abs/1901.05627) [[DOI](https://doi.org/10.1016/j.physletb.2020.135198)]
             * [JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
             * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
             * [Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
