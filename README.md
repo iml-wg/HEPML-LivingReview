@@ -398,6 +398,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Matrix elements
 
+        * [Using neural networks for efficient evaluation of high multiplicity scattering amplitudes](https://arxiv.org/abs/2002.07516) [[DOI](https://doi.org/10.1007/JHEP06(2020)114)]
         * [(Machine) Learning Amplitudes for Faster Event Generation](https://arxiv.org/abs/1912.11055)
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273)
         * [Matrix Element Regression with Deep Neural Networks -- breaking the CPU barrier](https://arxiv.org/abs/2008.10949)
