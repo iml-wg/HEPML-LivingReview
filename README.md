@@ -120,6 +120,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Permutationless Many-Jet Event Reconstruction with Symmetry Preserving Attention Networks](https://arxiv.org/abs/2010.09206)
             * [Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
+            * [Point Cloud Transformers applied to Collider Physics](https://arxiv.org/abs/2102.05073)
 
         *  Physics-inspired basis
 
@@ -138,6 +139,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Boosted $W$ and $Z$ tagging with jet charge and deep learning](https://arxiv.org/abs/1908.08256) [[DOI](https://doi.org/10.1103/PhysRevD.101.053001)]
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064)
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
+            * [A $W^\pm$ polarization analyzer from Deep Neural Networks](https://arxiv.org/abs/2102.05124)
 
         *  $H\rightarrow b\bar{b$}
 
@@ -262,6 +264,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Tackling the muon identification in water Cherenkov detectors problem for the future Southern Wide-field Gamma-ray Observatory by means of Machine Learning](https://arxiv.org/abs/2101.11924)
             * [Muon identification in a compact single-layered water Cherenkov detector and gamma/hadron discrimination using Machine Learning techniques](https://arxiv.org/abs/2101.10109)
             * [A convolutional-neural-network estimator of CMB constraints on dark matter energy injection](https://arxiv.org/abs/2101.10360)
+            * [A neural network classifier for electron identification on the DAMPE experiment](https://arxiv.org/abs/2102.05534)
 
         *  Tracking
 
