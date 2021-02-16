@@ -154,10 +154,6 @@ The purpose of this note is to collect references for modern machine learning as
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
 
-        *  $b$-Yukawa measurememts
-
-            * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
-
         *  quarks and gluons
 
             * [Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641)
