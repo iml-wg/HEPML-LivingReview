@@ -32,6 +32,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine Learning scientific competitions and datasets](https://arxiv.org/abs/2012.08520)
         * [Image-Based Jet Analysis](https://arxiv.org/abs/2012.09719)
         * [Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
+        * [Sequence-based Machine Learning Models in Jet Physics](https://arxiv.org/abs/2102.06128)
 
     *  Classical papers
 
@@ -79,6 +80,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
             * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519)
             * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906)
+            * [Sequence-based Machine Learning Models in Jet Physics](https://arxiv.org/abs/2102.06128)
 
         *  Trees
 
@@ -577,6 +579,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [Uncovering hidden patterns in collider events with Bayesian probabilistic models](https://arxiv.org/abs/2012.08579)
     * [Unsupervised in-distribution anomaly detection of new physics through conditional density estimation](https://arxiv.org/abs/2012.11638)
     * [The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
+    * [Model-Independent Detection of New Physics Signals Using Interpretable Semi-Supervised Classifier Tests](https://arxiv.org/abs/2102.07679)
+    * [Topological Obstructions to Autoencoding](https://arxiv.org/abs/2102.08380)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation

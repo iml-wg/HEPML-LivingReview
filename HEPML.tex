@@ -40,7 +40,7 @@ The purpose of this note is to collect references for modern machine learning as
 \\\textit{Below are links to many (static) general and specialized reviews.  The third bullet contains links to classic papers that applied shallow learning methods many decades before the deep learning revolution.}
 	\begin{itemize}
 		\item Modern reviews~\cite{Larkoski:2017jix,Guest:2018yhq,Albertsson:2018maf,Radovic:2018dip,Carleo:2019ptp,Bourilkov:2019yoi}
-		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz,Cranmer:2019eaq,Rousseau:2020rnz,Kagan:2020yrm,Guan:2020bdl}
+		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz,Cranmer:2019eaq,Rousseau:2020rnz,Kagan:2020yrm,Guan:2020bdl,deLima:2021fwm}
 		 \item Classical papers~\cite{Denby:1987rk,Lonnblad:1990bi}
 	\end{itemize}
 \item \textbf{Classification}
@@ -55,7 +55,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{Jets are collimated sprays of particles.  They have a complex radiation pattern and such, have been a prototypical example for many machine learning studies.  See the next item for a specific description about images.}
 				\item \textbf{Event images}~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf,Du:2019civ}
 				\\\textit{A grayscale image is a regular grid with a scalar value at each grid point.  `Color' images have a fixed-length vector at each grid point.  Many detectors are analogous to digital cameras and thus images are a natural representation.  In other cases, images can be created by discretizing.   Convolutional neural networks are natural tools for processing image data.  One downside of the image representation is that high energy physics data tend to be sparse, unlike natural images.}
-				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb,goto2021development}
+				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb,goto2021development,deLima:2021fwm}
 				\\\textit{Data that have a variable with a particular order may be represented as a sequence.  Recurrent neural networks are natural tools for processing sequence data. }
 				\item \textbf{Trees}~\cite{Louppe:2017ipp,Cheng:2017rdo}
 				\\\textit{Recursive neural networks are natural tools for processing data in a tree structure.}
@@ -166,7 +166,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\item \textbf{Gaussian processes}~\cite{Frate:2017mai,Bertone:2016mdy,1804325}
 		\\\textit{These are non-parametric tools for modeling the `time'-dependence of a random variable.  The `time' need not be actual time - for instance, one can use Gaussian processes to model the energy dependence of some probability density.}
 	\end{itemize}
-\item \textbf{Anomaly detection}~\cite{DAgnolo:2018cun,Collins:2018epr,Collins:2019jip,DAgnolo:2019vbw,Farina:2018fyg,Heimel:2018mkt,Roy:2019jae,Cerri:2018anq,Blance:2019ibf,Hajer:2018kqm,DeSimone:2018efk,Mullin:2019mmh,1809.02977,Dillon:2019cqt,Andreassen:2020nkr,Nachman:2020lpy,Aguilar-Saavedra:2017rzt,Romao:2019dvs,Romao:2020ojy,knapp2020adversarially,collaboration2020dijet,1797846,1800445,Amram:2020ykb,Cheng:2020dal,Khosa:2020qrz,Thaprasop:2020mzp,Alexander:2020mbx,aguilarsaavedra2020mass,1815227,pol2020anomaly,Mikuni:2020qds,vanBeekveld:2020txa,Park:2020pak,Faroughy:2020gas,Stein:2020rou,Kasieczka:2021xcg}
+\item \textbf{Anomaly detection}~\cite{DAgnolo:2018cun,Collins:2018epr,Collins:2019jip,DAgnolo:2019vbw,Farina:2018fyg,Heimel:2018mkt,Roy:2019jae,Cerri:2018anq,Blance:2019ibf,Hajer:2018kqm,DeSimone:2018efk,Mullin:2019mmh,1809.02977,Dillon:2019cqt,Andreassen:2020nkr,Nachman:2020lpy,Aguilar-Saavedra:2017rzt,Romao:2019dvs,Romao:2020ojy,knapp2020adversarially,collaboration2020dijet,1797846,1800445,Amram:2020ykb,Cheng:2020dal,Khosa:2020qrz,Thaprasop:2020mzp,Alexander:2020mbx,aguilarsaavedra2020mass,1815227,pol2020anomaly,Mikuni:2020qds,vanBeekveld:2020txa,Park:2020pak,Faroughy:2020gas,Stein:2020rou,Kasieczka:2021xcg,Chakravarti:2021svb,Batson:2021agz}
 \\\textit{The goal of anomaly detection is to identify abnormal events.  The abnormal events could be from physics beyond the Standard Model or from faults in a detector.  While nearly all searches for new physics are technically anomaly detection, this category is for methods that are mode-independent (broadly defined).  Anomalies in high energy physics tend to manifest as over-densities in phase space (often called `population anomalies') in contrast to off-manifold anomalies where you can flag individual examples as anomalous. }
 \item \textbf{Simulation-based (`likelihood-free') Inference}
 \\\textit{Likelihood-based inference is the case where $p(x|\theta)$ is known and $\theta$ can be determined by maximizing the probability of the data.  In high energy physics, $p(x|\theta)$ is often not known analytically, but it is often possible to sample from the density implicitly using simulations.}
