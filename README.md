@@ -373,6 +373,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Accelerated Charged Particle Tracking with Graph Neural Networks on FPGAs](https://arxiv.org/abs/2012.01563)
             * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
             * [Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
+            * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
 
         *  Deployment
 
@@ -488,6 +489,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173)
         * [Simulating the Time Projection Chamber responses at the MPD detector using Generative Adversarial Networks](https://arxiv.org/abs/2012.04595)
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
+        * [A Data-driven Event Generator for Hadron Colliders using Wasserstein Generative Adversarial Network](https://arxiv.org/abs/2102.11524) [[DOI](https://doi.org/10.1007/s40042-021-00095-1)]
 
     *  Autoencoders
 
@@ -496,6 +498,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
         * [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
+        * [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://arxiv.org/abs/2102.12491)
 
     *  Normalizing flows
 
