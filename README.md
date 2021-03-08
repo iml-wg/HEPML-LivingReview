@@ -111,6 +111,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
             * [Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
             * [MLPF: Efficient machine-learned particle-flow reconstruction using graph neural networks](https://arxiv.org/abs/2101.08578)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.00916)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
 
         *  Sets (point clouds)
 
@@ -249,6 +251,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Vertex and Energy Reconstruction in JUNO with Machine Learning Methods](https://arxiv.org/abs/2101.04839)
             * [A Convolutional Neural Network based Cascade Reconstruction for the IceCube Neutrino Observatory](https://arxiv.org/abs/2101.11589)
             * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2102.01033)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
 
         *  Direct Dark Matter Detectors
 
@@ -282,6 +285,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Beyond 4D Tracking: Using Cluster Shapes for Track Seeding](https://arxiv.org/abs/2012.04533)
             * [Hashing and metric learning for charged particle tracking](https://arxiv.org/abs/2101.06428)
             * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.00916)
 
         *  Heavy ions
 
@@ -289,6 +293,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
+            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
 
         *  Hyperparameters
 
