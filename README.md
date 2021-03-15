@@ -113,6 +113,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [MLPF: Efficient machine-learned particle-flow reconstruction using graph neural networks](https://arxiv.org/abs/2101.08578)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.00916)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
+            * [Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2103.06233)
+            * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
 
         *  Sets (point clouds)
 
@@ -252,6 +254,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [A Convolutional Neural Network based Cascade Reconstruction for the IceCube Neutrino Observatory](https://arxiv.org/abs/2101.11589)
             * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2102.01033)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
+            * [Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2103.06233)
+            * [A deep-learning based raw waveform region-of-interest finder for the liquid argon time projection chamber](https://arxiv.org/abs/2103.06391)
 
         *  Direct Dark Matter Detectors
 
@@ -271,6 +275,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Muon identification in a compact single-layered water Cherenkov detector and gamma/hadron discrimination using Machine Learning techniques](https://arxiv.org/abs/2101.10109)
             * [A convolutional-neural-network estimator of CMB constraints on dark matter energy injection](https://arxiv.org/abs/2101.10360)
             * [A neural network classifier for electron identification on the DAMPE experiment](https://arxiv.org/abs/2102.05534)
+            * [Bayesian nonparametric inference of neutron star equation of state via neural network](https://arxiv.org/abs/2103.05408)
+            * [Novel null tests for the spatial curvature and homogeneity of the Universe and their machine learning reconstructions](https://arxiv.org/abs/2103.06789)
 
         *  Tracking
 
@@ -286,6 +292,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Hashing and metric learning for charged particle tracking](https://arxiv.org/abs/2101.06428)
             * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.00916)
+            * [Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2103.04962)
+            * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
 
         *  Heavy ions
 
@@ -330,6 +338,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
             * [Hierarchical clustering in particle physics through reinforcement learning](https://arxiv.org/abs/2011.08191)
             * [Real-time Artificial Intelligence for Accelerator Control: A Study at the Fermilab Booster](https://arxiv.org/abs/2011.07371)
+            * [Particle Physics Model Building with Reinforcement Learning](https://arxiv.org/abs/2103.04759)
 
         *  Quantum Machine Learning
 
@@ -341,6 +350,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Application of Quantum Machine Learning using the Quantum Variational Classifier Method to High Energy Physics Analysis at the LHC on IBM Quantum Computer Simulator and Hardware with 10 qubits](https://arxiv.org/abs/2012.11560)
             * [Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
             * [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189)
+            * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
 
         *  Feature ranking
 
@@ -504,6 +514,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://arxiv.org/abs/2102.12491)
+        * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
+        * [{End-to-end Sinkhorn Autoencoder with Noise Generator ](https://arxiv.org/abs/{2006.06704)
 
     *  Normalizing flows
 
@@ -524,6 +536,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
         * [Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110)
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
+        * [Symmetry meets AI](https://arxiv.org/abs/2103.06115)
 
     *  Mixture Models
 
@@ -589,6 +602,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
     * [Model-Independent Detection of New Physics Signals Using Interpretable Semi-Supervised Classifier Tests](https://arxiv.org/abs/2102.07679)
     * [Topological Obstructions to Autoencoding](https://arxiv.org/abs/2102.08380)
+    * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
+    * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
