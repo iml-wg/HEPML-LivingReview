@@ -159,6 +159,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Benchmarking Machine Learning Techniques with Di-Higgs Production at the LHC](https://arxiv.org/abs/2009.06754)
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
+            * [Learning to increase matching efficiency in identifying additional b-jets in the $\text{t}\bar{\text{t}}\text{b}\bar{\text{b}}$ process](https://arxiv.org/abs/2103.09129)
 
         *  quarks and gluons
 
@@ -173,6 +174,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quark Gluon Jet Discrimination with Weakly Supervised Learning](https://arxiv.org/abs/2012.02540) [[DOI](https://doi.org/10.3938/jkps.75.652)]
             * [Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526)
+            * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
 
         *  top quark tagging
 
@@ -294,6 +296,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.00916)
             * [Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2103.04962)
             * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
+            * [Physics and Computing Performance of the Exa.TrkX TrackML Pipeline](https://arxiv.org/abs/2103.06995)
 
         *  Heavy ions
 
@@ -374,6 +377,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
             * [Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744)
             * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
+            * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
 
         *  Hardware/firmware
 
@@ -505,6 +509,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Simulating the Time Projection Chamber responses at the MPD detector using Generative Adversarial Networks](https://arxiv.org/abs/2012.04595)
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
         * [A Data-driven Event Generator for Hadron Colliders using Wasserstein Generative Adversarial Network](https://arxiv.org/abs/2102.11524) [[DOI](https://doi.org/10.1007/s40042-021-00095-1)]
+        * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
 
     *  Autoencoders
 
@@ -529,6 +534,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
         * [SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017)
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
+        * [Efficient sampling of constrained high-dimensional theoretical spaces with machine learning](https://arxiv.org/abs/2103.06957)
 
     *  Physics-inspired
 
@@ -661,6 +667,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265) [[DOI](https://doi.org/10.21468/SciPostPhys.8.2.023)]
         * [Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)
         * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
+        * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
 
     *  Estimation
 
