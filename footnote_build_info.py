@@ -1,5 +1,5 @@
-import subprocess
 import os
+import subprocess
 from shutil import copyfile
 
 
