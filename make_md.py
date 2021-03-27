@@ -93,7 +93,6 @@ def convert_from_bib(myline):
             pass
         pass
 
-    print(myline)
     if "eprint" in myentry_dict and 'doi' not in myentry_dict and update_journal:
         #check inspire
         inspire_dict = summarize_record(myentry_dict['eprint'])

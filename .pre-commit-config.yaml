@@ -11,7 +11,7 @@ repos:
     - id: check-toml
     - id: check-xml
     - id: debug-statements
-    - id: end-of-file-fixer
+    # - id: end-of-file-fixer # TODO: Fix make_md.py
     - id: mixed-line-ending
     - id: requirements-txt-fixer
     - id: trailing-whitespace
