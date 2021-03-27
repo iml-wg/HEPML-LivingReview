@@ -697,3 +697,4 @@ The purpose of this note is to collect references for modern machine learning as
         * [Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678) [[DOI](https://doi.org/10.1103/PhysRevLett.125.221802)]
         * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983) [[DOI](https://doi.org/10.1103/PhysRevLett.125.131801)]
         * [Inclusive search for highly boosted Higgs bosons decaying to bottom quark-antiquark pairs in proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2006.13251) [[DOI](https://doi.org/10.1007/JHEP12(2020)085)]
+
