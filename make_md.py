@@ -1,4 +1,9 @@
 import os
+import requests
+import json
+import yaml
+
+update_journal = False
 
 myfile = open("HEPML.tex")
 myfile_out = open("README.md","w")
@@ -10,6 +15,41 @@ myfile_out.write("*Modern machine learning techniques, including deep learning, 
 myfile_out.write("[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)\n\n")
 
 myfile_out.write("The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.  If you find this review helpful, please consider citing it using \\cite{hepmllivingreview} in HEPML.bib.\n\n")
+
+###This bit is slightly modified from Kyle Cranmer https://github.com/cranmer/inspire_play
+def summarize_record(recid):
+    url = 'https://labs.inspirehep.net/api/arxiv/'+str(recid)
+    max_authors = 5
+    r = requests.get(url)
+    mini_dict = {'recid':recid}
+    if 'metadata' in r.json():
+        data = r.json()['metadata']
+        mini_dict.update({'title':data['titles'][0]['title']})
+        if len(data['authors'])>max_authors:
+            #mini_dict.update({'authors':[a['full_name'] for a in data['authors'][:max_authors]]+['et. al.']})
+            mini_dict.update({'authors':"; ".join([a['full_name'] for a in data['authors'][:max_authors]]+['et. al.'])})
+        else:
+            mini_dict.update({'authors':[a['full_name'] for a in data['authors']]})
+
+        if 'collaborations' in data:
+            mini_dict.update({'collaboration': data['collaborations'][0]['value']})
+
+        mini_dict.update({'arxiv_eprint': data['arxiv_eprints'][0]['value']})
+        mini_dict.update({'url': 'https://arxiv.org/abs/'+data['arxiv_eprints'][0]['value']})
+        mini_dict.update({'creation_date': data['legacy_creation_date']})
+
+        if 'journal_title' in data:
+            mini_dict.update({'journal_title':data['publication_info'][0]['journal_title']})
+        if 'journal_volume' in data:
+            mini_dict.update({'journal_volume':data['publication_info'][0]['journal_volume']})
+        if 'page_start' in data:
+            mini_dict.update({'page_start':data['publication_info'][0]['page_start']})
+        if 'journal_year' in data:
+            mini_dict.update({'journal_year':data['publication_info'][0]['year']})
+        
+        if 'dois' in data:
+            mini_dict.update({'doi': data['dois'][0]['value']})
+    return mini_dict
 
 def convert_from_bib(myline):
     #Not the most elegant way, but quick and dirty.  Files are not big, so this doesn't take long.
@@ -51,6 +91,36 @@ def convert_from_bib(myline):
             #print(entry_cleaned)
             pass
         pass
+
+    print(myline)
+    if "eprint" in myentry_dict and 'doi' not in myentry_dict and update_journal:
+        #check inspire
+        inspire_dict = summarize_record(myentry_dict['eprint'])
+        if 'doi' in inspire_dict:
+            print("Updating journal ref for ",myline)
+            myentry_dict['doi'] = inspire_dict['doi']
+
+            #print(inspire_dict)
+
+            myfile_bib_copy = open("HEPML_copy.bib","w")
+            myfile_bib = open("HEPML.bib")
+            for line in myfile_bib:
+                myfile_bib_copy.write(line)
+                if myentry_dict['eprint'] in line and "eprint" in line:
+                    if "journal_title" in inspire_dict:
+                        myfile_bib_copy.write("      journal=\""+inspire_dict['journal_title']+"\",\n")
+                    if "journal_volume" in inspire_dict:
+                        myfile_bib_copy.write("      volume=\""+inspire_dict['journal_volume']+"\",\n")
+                    if "page_start" in inspire_dict:
+                        myfile_bib_copy.write("      pages=\""+inspire_dict['page_start']+"\",\n")
+                    if "doi" in inspire_dict:
+                        myfile_bib_copy.write("      doi=\""+inspire_dict['doi']+"\",\n")
+                        pass
+                    pass
+                pass
+            os.system("mv HEPML_copy.bib HEPML.bib")
+            #exit(1)
+
     if "title" not in myentry_dict:
         print(myline)
         print(myentry)
