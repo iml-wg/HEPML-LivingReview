@@ -20,6 +20,11 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        python -m pip install --quiet --no-cache-dir --requirement requirements.txt
+        python -m pip list
     - name: Test README generation
       run: |
         cp README.md README.bak

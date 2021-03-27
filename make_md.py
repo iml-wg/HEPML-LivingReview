@@ -1,6 +1,7 @@
-import os
-import requests
 import json
+import os
+
+import requests
 import yaml
 
 update_journal = False
@@ -46,7 +47,7 @@ def summarize_record(recid):
             mini_dict.update({'page_start':data['publication_info'][0]['page_start']})
         if 'journal_year' in data:
             mini_dict.update({'journal_year':data['publication_info'][0]['year']})
-        
+
         if 'dois' in data:
             mini_dict.update({'doi': data['dois'][0]['value']})
     return mini_dict
@@ -92,7 +93,6 @@ def convert_from_bib(myline):
             pass
         pass
 
-    print(myline)
     if "eprint" in myentry_dict and 'doi' not in myentry_dict and update_journal:
         #check inspire
         inspire_dict = summarize_record(myentry_dict['eprint'])

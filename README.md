@@ -520,7 +520,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://arxiv.org/abs/2102.12491)
         * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
-        * [{End-to-end Sinkhorn Autoencoder with Noise Generator ](https://arxiv.org/abs/{2006.06704)
+        * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/{2006.06704)
 
     *  Normalizing flows
 
