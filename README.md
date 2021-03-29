@@ -15,6 +15,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine learning at the energy and intensity frontiers of particle physics](https://doi.org/10.1038/s41586-018-0361-2)
         * [Machine learning and the physical sciences](https://arxiv.org/abs/1903.10563) [[DOI](https://doi.org/10.1103/RevModPhys.91.045002)]
         * [Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245) [[DOI](https://doi.org/10.1142/S0217751X19300199)]
+        * [Modern Machine Learning and Particle Physics](https://arxiv.org/abs/2103.12226)
 
     *  Specialized reviews
 
@@ -279,6 +280,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [A neural network classifier for electron identification on the DAMPE experiment](https://arxiv.org/abs/2102.05534)
             * [Bayesian nonparametric inference of neutron star equation of state via neural network](https://arxiv.org/abs/2103.05408)
             * [Novel null tests for the spatial curvature and homogeneity of the Universe and their machine learning reconstructions](https://arxiv.org/abs/2103.06789)
+            * [Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations](https://arxiv.org/abs/2103.14039)
 
         *  Tracking
 
@@ -354,6 +356,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
             * [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189)
             * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
+            * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
 
         *  Feature ranking
 
@@ -393,6 +396,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
             * [Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
             * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
+            * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
 
         *  Deployment
 
@@ -446,6 +450,10 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
         * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
+
+    *  Function Approximation
+
+        * [Elvet -- a neural network-based differential equation and variational problem solver](https://arxiv.org/abs/2103.14575)
 
 *  Decorrelation methods.
 
@@ -510,6 +518,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
         * [A Data-driven Event Generator for Hadron Colliders using Wasserstein Generative Adversarial Network](https://arxiv.org/abs/2102.11524) [[DOI](https://doi.org/10.1007/s40042-021-00095-1)]
         * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
+        * [Validation of Deep Convolutional Generative Adversarial Networks for High Energy Physics Calorimeter Simulations](https://arxiv.org/abs/2103.13698)
 
     *  Autoencoders
 
@@ -547,6 +556,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Mixture Models
 
         * [Data Augmentation at the LHC through Analysis-specific Fast Simulation with Deep Learning](https://arxiv.org/abs/2010.01835)
+        * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416)
 
     *  Phase space generation
 
