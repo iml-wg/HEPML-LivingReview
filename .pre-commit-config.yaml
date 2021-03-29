@@ -23,6 +23,6 @@ repos:
       args: ["--py37-plus"]
 
 -   repo: https://github.com/pycqa/isort
-    rev: 5.7.0
+    rev: 5.8.0
     hooks:
     - id: isort
