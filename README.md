@@ -116,6 +116,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
             * [Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2103.06233)
             * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
+            * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
+            * [Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks](https://arxiv.org/abs/2103.14906)
 
         *  Sets (point clouds)
 
@@ -234,6 +236,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8251-9)]
             * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
             * [Learning to Identify Electrons](https://arxiv.org/abs/2011.01984)
+            * [Shower Identification in Calorimeter using Deep Learning](https://arxiv.org/abs/2103.16247)
 
         *  Neutrino Detectors
 
@@ -299,6 +302,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Progress in developing a hybrid deep learning algorithm for identifying and locating primary vertices](https://arxiv.org/abs/2103.04962)
             * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
             * [Physics and Computing Performance of the Exa.TrkX TrackML Pipeline](https://arxiv.org/abs/2103.06995)
+            * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
 
         *  Heavy ions
 
@@ -450,6 +454,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
         * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
+        * [Generalization capabilities of translationally equivariant neural networks](https://arxiv.org/abs/2103.14686)
 
     *  Function Approximation
 
