@@ -118,6 +118,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
             * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
             * [Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks](https://arxiv.org/abs/2103.14906)
+            * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
+            * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
 
         *  Sets (point clouds)
 
@@ -262,6 +264,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2103.01596)
             * [Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2103.06233)
             * [A deep-learning based raw waveform region-of-interest finder for the liquid argon time projection chamber](https://arxiv.org/abs/2103.06391)
+            * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
 
         *  Direct Dark Matter Detectors
 
@@ -401,6 +404,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
             * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
             * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
+            * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
 
         *  Deployment
 
@@ -535,6 +539,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://arxiv.org/abs/2102.12491)
         * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
         * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/{2006.06704)
+        * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
 
     *  Normalizing flows
 
@@ -625,6 +630,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Topological Obstructions to Autoencoding](https://arxiv.org/abs/2102.08380)
     * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
     * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
+    * [Comparing Weak- and Unsupervised Methods for Resonant Anomaly Detection](https://arxiv.org/abs/2104.02092)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -656,6 +662,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685) [[DOI](https://doi.org/10.21468/SciPostPhys.9.5.074)]
         * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836)
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
+        * [Comparison of Machine Learning Approach to other Unfolding Methods](https://arxiv.org/abs/2104.03036)
 
     *  Domain adaptation
 
