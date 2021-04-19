@@ -364,6 +364,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Hybrid Quantum-Classical Graph Convolutional Network](https://arxiv.org/abs/2101.06189)
             * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
+            * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
 
         *  Feature ranking
 
@@ -453,6 +454,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Neural-network analysis of Parton Distribution Functions from Ioffe-time pseudodistributions](https://arxiv.org/abs/2010.03996) [[DOI](https://doi.org/10.1007/JHEP02(2021)138)]
         * [Deep Learning Analysis of Deeply Virtual Exclusive Photoproduction](https://arxiv.org/abs/2012.04801)
         * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
+        * [Compressing PDF sets using generative adversarial networks](https://arxiv.org/abs/2104.04535)
 
     *  Lattice Gauge Theory
 
@@ -528,6 +530,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A Data-driven Event Generator for Hadron Colliders using Wasserstein Generative Adversarial Network](https://arxiv.org/abs/2102.11524) [[DOI](https://doi.org/10.1007/s40042-021-00095-1)]
         * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
         * [Validation of Deep Convolutional Generative Adversarial Networks for High Energy Physics Calorimeter Simulations](https://arxiv.org/abs/2103.13698)
+        * [Compressing PDF sets using generative adversarial networks](https://arxiv.org/abs/2104.04535)
 
     *  Autoencoders
 
@@ -696,6 +699,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A guide for deploying Deep Learning in LHC searches: How to achieve optimality and account for uncertainty](https://arxiv.org/abs/1909.03081) [[DOI](https://doi.org/10.21468/SciPostPhys.8.6.090)]
         * [AI Safety for High Energy Physics](https://arxiv.org/abs/1910.08606)
         * [Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607) [[DOI](https://doi.org/10.1103/PhysRevD.95.014018)]
+        * [Understanding Event-Generation Networks via Uncertainties](https://arxiv.org/abs/2104.04543)
 
     *  Mitigation
 

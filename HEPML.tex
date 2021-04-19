@@ -108,7 +108,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\\\textit{When no labels are provided, the learning is called unsupervised.}
 				\item \textbf{Reinforcement Learning}~\cite{Carrazza:2019efs,Brehmer:2020brs,John:2020sak,Harvey:2021oue}
 				\\\textit{Instead of learning to distinguish different types of examples, the goal of reinforcement learning is to learn a strategy (policy).  The prototypical example of reinforcement learning in learning a strategy to play video games using some kind of score as a feedback during the learning.}
-				\item \textbf{Quantum Machine Learning}~\cite{Mott:2017xdb,Zlokapa:2019lvv,Blance:2020nhl,Terashi:2020wfi,Chen:2020zkj,Wu:2020cye,Guan:2020bdl,Chen:2021ouz,Blance:2021gcs,Heredge:2021vww}
+				\item \textbf{Quantum Machine Learning}~\cite{Mott:2017xdb,Zlokapa:2019lvv,Blance:2020nhl,Terashi:2020wfi,Chen:2020zkj,Wu:2020cye,Guan:2020bdl,Chen:2021ouz,Blance:2021gcs,Heredge:2021vww,Wu:2021xsj}
 				\\\textit{Quantum computers are based on unitary operations applied to quantum states.  These states live in a vast Hilbert space which may have a usefully large information capacity for machine learning.}
 				\item \textbf{Feature ranking}~\cite{Faucett:2020vbu,Grojean:2020ech}
 				\\\textit{It is often useful to take a set of input features and rank them based on their usefulness.}
@@ -141,7 +141,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\\\textit{Regression methods can be used as surrogate models for functions that are too slow to evaluate.  One important class of functions are matrix elements, which form the core component of cross section calculations in quantum field theory.}
 		\item \textbf{Parameter estimation}~\cite{Lei:2020ucb,1808105,Lazzarin:2020uvv}
 		\\\textit{The target features could be parameters of a model, which can be learned directly through a regression setup.  Other forms of inference are described in later sections (which could also be viewed as regression).}
-		\item \textbf{Parton Distribution Functions (and related)}~\cite{DelDebbio:2020rgv,Grigsby:2020auv,Rossi:2020sbh}
+		\item \textbf{Parton Distribution Functions (and related)}~\cite{DelDebbio:2020rgv,Grigsby:2020auv,Rossi:2020sbh,Carrazza:2021hny}
 		\\\textit{Various machine learning models can provide flexible function approximators, which can be useful for modeling functions that cannot be determined easily from first principles such as parton distribution functions.}
 		\item \textbf{Lattice Gauge Theory}~\cite{Kanwar:2003.06413,Favoni:2020reg,Bulusu:2021rqz}
 		\\\textit{Lattice methods offer a complementary approach to perturbation theory.  A key challenge is to create approaches that respect the local gauge symmetry (equivariant networks).}
@@ -153,7 +153,7 @@ The purpose of this note is to collect references for modern machine learning as
 \item \textbf{Generative models / density estimation}
 \\\textit{The goal of generative modeling is to learn (explicitly or implicitly) a probability density $p(x)$ for the features $x\in\mathbb{R}^n$.  This task is usually unsupervised (no labels).}
 	\begin{itemize}
-		\item \textbf{GANs}:~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Alonso-Monsalve:2018aqs,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx,buhmann2020getting,Alanazi:2020jod,2009.03796,2008.06545,Kansal:2020svm,Maevskiy:2020ank,Lai:2020byl,Choi:2021sku,Rehm:2021zow,Rehm:2021zoz}
+		\item \textbf{GANs}:~\cite{deOliveira:2017pjk,Paganini:2017hrr,Paganini:2017dwg,Alonso-Monsalve:2018aqs,Butter:2019eyo,Martinez:2019jlu,Bellagente:2019uyp,Vallecorsa:2019ked,SHiP:2019gcl,Carrazza:2019cnt,Butter:2019cae,Lin:2019htn,DiSipio:2019imz,Hashemi:2019fkn,Chekalina:2018hxi,ATL-SOFT-PUB-2018-001,Zhou:2018ill,Carminati:2018khv,Vallecorsa:2018zco,Datta:2018mwd,Musella:2018rdi,Erdmann:2018kuh,Deja:2019vcv,Derkach:2019qfk,Erbin:2018csv,Erdmann:2018jxd,Urban:2018tqv,Oliveira:DLPS2017,deOliveira:2017rwa,Farrell:2019fsm,Hooberman:DLPS2017,Belayneh:2019vyx,buhmann2020getting,Alanazi:2020jod,2009.03796,2008.06545,Kansal:2020svm,Maevskiy:2020ank,Lai:2020byl,Choi:2021sku,Rehm:2021zow,Rehm:2021zoz,Carrazza:2021hny}
 		\\\textit{Generative Adversarial Networks~\cite{Goodfellow:2014upx} learn $p(x)$ implicitly through the minimax optimization of two networks: one that maps noise to structure $G(z)$ and one a classifier (called the discriminator) that learns to distinguish examples generated from $G(z)$ and those generated from the target process.  When the discriminator is maximally `confused', then the generator is effectively mimicking $p(x)$.}
 		\item \textbf{Autoencoders}~\cite{Monk:2018zsb,ATL-SOFT-PUB-2018-001,Cheng:2020dal,1816035,Howard:2021pos,Buhmann:2021lxj,Bortolato:2021zic,deja2020endtoend,Hariri:2021clz}
 		\\\textit{An autoencoder consists of two functions: one that maps $x$ into a latent space $z$ (encoder) and a second one that maps the latent space back into the original space (decoder).  The encoder and decoder are simultaneously trained so that their composition is nearly the identity.  When the latent space has a well-defined probability density (as in variational autoencoders), then one can sample from the autoencoder by applying the detector to a randomly chosen element of the latent space.}
@@ -187,7 +187,7 @@ The purpose of this note is to collect references for modern machine learning as
 	\begin{itemize}
 		\item \textbf{Interpretability}~\cite{deOliveira:2015xxd,Chang:2017kvc,Diefenbacher:2019ezd,Agarwal:2020fpt,Grojean:2020ech,Romero:2021qlf}
 		\\\textit{Machine learning methods that are interpretable maybe more robust and thus less susceptible to various sources of uncertainty.}
-		\item \textbf{Estimation}~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma}
+		\item \textbf{Estimation}~\cite{Nachman:2019dol,Nachman:2019yfl,Barnard:2016qma,Bellagente:2021yyh}
 		\\\textit{A first step in reducing uncertainties is estimating their size.}
 		\item \textbf{Mitigation}~\cite{Estrade:DLPS2017,Englert:2018cfo,Louppe:2016ylz,Araz:2021wqm}
 		\\\textit{This category is for proposals to reduce uncertainty.}
