@@ -365,6 +365,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
             * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2104.07692)
 
         *  Feature ranking
 
@@ -389,6 +390,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12006)]
             * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
             * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
+            * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2104.06622)
 
         *  Hardware/firmware
 
@@ -634,6 +636,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
     * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
     * [Comparing Weak- and Unsupervised Methods for Resonant Anomaly Detection](https://arxiv.org/abs/2104.02092)
+    * [Better Latent Spaces for Better Autoencoders](https://arxiv.org/abs/2104.08291)
+    * [Autoencoders for unsupervised anomaly detection in high energy physics](https://arxiv.org/abs/2104.09051)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
