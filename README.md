@@ -545,6 +545,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
         * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/{2006.06704)
         * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
+        * [DeepRICH: Learning Deeply Cherenkov Detectors](https://arxiv.org/abs/1911.11717) [[DOI](https://doi.org/10.1088/2632-2153/ab845a)]
 
     *  Normalizing flows
 
@@ -591,6 +592,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://arxiv.org/abs/1709.05681)
         * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
+        * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
 
 *  Anomaly detection.
 
