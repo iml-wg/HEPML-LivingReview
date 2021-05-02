@@ -265,6 +265,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Graph Neural Network for Object Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2103.06233)
             * [A deep-learning based raw waveform region-of-interest finder for the liquid argon time projection chamber](https://arxiv.org/abs/2103.06391)
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
+            * [CNNs for enhanced background discrimination in DSNB searches in large-scale water-Gd detectors](https://arxiv.org/abs/2104.13426)
 
         *  Direct Dark Matter Detectors
 
@@ -287,6 +288,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Bayesian nonparametric inference of neutron star equation of state via neural network](https://arxiv.org/abs/2103.05408)
             * [Novel null tests for the spatial curvature and homogeneity of the Universe and their machine learning reconstructions](https://arxiv.org/abs/2103.06789)
             * [Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations](https://arxiv.org/abs/2103.14039)
+            * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
 
         *  Tracking
 
@@ -444,6 +446,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [(Machine) Learning Amplitudes for Faster Event Generation](https://arxiv.org/abs/1912.11055)
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [Matrix Element Regression with Deep Neural Networks -- breaking the CPU barrier](https://arxiv.org/abs/2008.10949)
+        * [Unveiling the pole structure of S-matrix using deep learning](https://arxiv.org/abs/2104.14182)
 
     *  Parameter estimation
 
@@ -467,6 +470,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Function Approximation
 
         * [Elvet -- a neural network-based differential equation and variational problem solver](https://arxiv.org/abs/2103.14575)
+        * [Invariant polynomials and machine learning](https://arxiv.org/abs/2104.12733)
 
 *  Decorrelation methods.
 
@@ -640,6 +644,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Comparing Weak- and Unsupervised Methods for Resonant Anomaly Detection](https://arxiv.org/abs/2104.02092)
     * [Better Latent Spaces for Better Autoencoders](https://arxiv.org/abs/2104.08291)
     * [Autoencoders for unsupervised anomaly detection in high energy physics](https://arxiv.org/abs/2104.09051)
+    * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
