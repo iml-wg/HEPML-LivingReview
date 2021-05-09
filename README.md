@@ -74,6 +74,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916) [[DOI](https://doi.org/10.1007/s41781-020-00038-8)]
             * [Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
+            * [End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data](https://arxiv.org/abs/2104.14659)
 
         *  Sequences
 
@@ -195,6 +196,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Morphology for Jet Classification](https://arxiv.org/abs/2010.13469)
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [Pulling the Higgs and Top needles from the jet stack with Feature Extended Supervised Tagging](https://arxiv.org/abs/2102.01667)
+            * [End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data](https://arxiv.org/abs/2104.14659)
 
         *  strange jets
 
@@ -289,6 +291,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Novel null tests for the spatial curvature and homogeneity of the Universe and their machine learning reconstructions](https://arxiv.org/abs/2103.06789)
             * [Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations](https://arxiv.org/abs/2103.14039)
             * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
+            * [Development of Convolutional Neural Networks for an Electron-Tracking Compton Camera](https://arxiv.org/abs/2105.02512)
 
         *  Tracking
 
@@ -393,6 +396,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
             * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
             * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2104.06622)
+            * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
 
         *  Hardware/firmware
 
@@ -410,6 +414,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
             * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
             * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
+            * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
 
         *  Deployment
 

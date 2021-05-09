@@ -53,7 +53,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\begin{itemize}
 				\item \textbf{Jet images}~\cite{Pumplin:1991kc,Cogan:2014oua,Almeida:2015jua,deOliveira:2015xxd,ATL-PHYS-PUB-2017-017,Lin:2018cin,Komiske:2018oaa,Barnard:2016qma,Komiske:2016rsd,Kasieczka:2017nvn,Macaluso:2018tck,li2020reconstructing,li2020attention,Lee:2019cad,collado2021learning,Du:2020pmp}
 				\\\textit{Jets are collimated sprays of particles.  They have a complex radiation pattern and such, have been a prototypical example for many machine learning studies.  See the next item for a specific description about images.}
-				\item \textbf{Event images}~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf,Du:2019civ}
+				\item \textbf{Event images}~\cite{Nguyen:2018ugw,ATL-PHYS-PUB-2019-028,Lin:2018cin,Andrews:2018nwy,Chung:2020ysf,Du:2019civ,Andrews:2021ejw}
 				\\\textit{A grayscale image is a regular grid with a scalar value at each grid point.  `Color' images have a fixed-length vector at each grid point.  Many detectors are analogous to digital cameras and thus images are a natural representation.  In other cases, images can be created by discretizing.   Convolutional neural networks are natural tools for processing image data.  One downside of the image representation is that high energy physics data tend to be sparse, unlike natural images.}
 				\item \textbf{Sequences}~\cite{Guest:2016iqz,Nguyen:2018ugw,Bols:2020bkb,goto2021development,deLima:2021fwm}
 				\\\textit{Data that have a variable with a particular order may be represented as a sequence.  Recurrent neural networks are natural tools for processing sequence data. }
@@ -74,7 +74,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{Due to the fidelity of $b$-tagging, boosted, hadronically decaying Higgs bosons (predominantly decaying to $b\bar{b}$) has unique challenged and opportunities compared with $W/Z$ tagging.}
 			\item \textbf{quarks and gluons}~\cite{ATL-PHYS-PUB-2017-017,Komiske:2016rsd,Cheng:2017rdo,Stoye:DLPS2017,Chien:2018dfn,Moreno:2019bmu,Kasieczka:2018lwf,1806025,Lee:2019ssx,Lee:2019cad,Dreyer:2020brq,Romero:2021qlf}
 			\\\textit{Quark jets tend to be narrower and have fewer particles than gluon jets.  This classification task has been a benchmark for many new machine learning models.}
-			\item \textbf{top quark} tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi,Dreyer:2020brq,Aguilar-Saavedra:2021rjk}
+			\item \textbf{top quark} tagging~\cite{Almeida:2015jua,Stoye:DLPS2017,Kasieczka:2019dbj,Chakraborty:2020yfc,Diefenbacher:2019ezd,Butter:2017cot,Kasieczka:2017nvn,Macaluso:2018tck,Bhattacharya:2020vzu,Lim:2020igi,Dreyer:2020brq,Aguilar-Saavedra:2021rjk,Andrews:2021ejw}
 			\\\textit{Boosted top quarks form jets that have a three-prong substructure ($t\rightarrow Wb,W\rightarrow q\bar{q}$).}
 			\item \textbf{strange jets}~\cite{Nakai:2020kuu,Erdmann:2019blf,Erdmann:2020ovh}
 			\\\textit{Strange quarks have a very similar fragmentation to generic quark and gluon jets, so this is a particularly challenging task.}
@@ -90,7 +90,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\\\textit{Neutrino detectors are very large in order to have a sizable rate of neutrino detection.  The entire neutrino interaction can be characterized to distinguish different neutrino flavors.}
 			\item \textbf{Direct Dark Matter Detectors}~\cite{Ilyasov_2020,Akerib:2020aws,Khosa:2019qgp}
 			\\\textit{Dark matter detectors are similar to neutrino detectors, but aim to achieve `zero' background.}
-			\item \textbf{Cosmology, Astro Particle, and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg,gonzalez2021tackling,Conceicao:2021xgn,huang2021convolutionalneuralnetwork,Droz:2021wnh,Han:2021kjx,Arjona:2021hmg,1853992,Shih:2021kbt}
+			\item \textbf{Cosmology, Astro Particle, and Cosmic Ray physics}~\cite{Ostdiek:2020cqz,Brehmer:2019jyt,Tsai:2020vcx,Verma:2020gnq,Aab:2021rcn,Balazs:2021uhg,gonzalez2021tackling,Conceicao:2021xgn,huang2021convolutionalneuralnetwork,Droz:2021wnh,Han:2021kjx,Arjona:2021hmg,1853992,Shih:2021kbt,Ikeda:2021sxm}
 			\\\textit{Machine learning is often used in astrophysics and cosmology in different ways than terrestrial particle physics experiments due to a general divide between Bayesian and Frequentist statistics.  However, there are many similar tasks and a growing number of proposals designed for one domain that apply to the other.}
 			\item \textbf{Tracking}~\cite{Farrell:DLPS2017,Farrell:2018cjr,Amrouche:2019wmx,Ju:2020xty,Akar:2020jti,Shlomi:2020ufi,Choma:2020cry,Siviero:2020tim,Fox:2020hfm,Amrouche:2021tlm,goto2021development,Biscarat:2021dlj,Akar:2021gns,Thais:2021qcb,Ju:2021ayy,Dezoort:2021kfk}
 			\\\textit{Charged particle tracking is a challenging pattern recognition task.  This category is for various classification tasks associated with tracking, such as seed selection.}
@@ -120,9 +120,9 @@ The purpose of this note is to collect references for modern machine learning as
 		\item \textbf{Fast inference / deployment}
 		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}
 			\begin{itemize}
-				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136,Balazs:2021uhg,Rehm:2021zow,Mahesh:2021iph}
+				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136,Balazs:2021uhg,Rehm:2021zow,Mahesh:2021iph,Amrouche:2021tio}
 				\\\textit{Strategies for efficient inference for a given hardware architecture.}
-				\item \textbf{Hardware/firmware}~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Rankin:2020usv,Heintz:2020soy,Rossi:2020sbh,Aarrestad:2021zos,Hawks:2021ruw,Teixeira:2021yhl,Hong:2021snb}
+				\item \textbf{Hardware/firmware}~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Rankin:2020usv,Heintz:2020soy,Rossi:2020sbh,Aarrestad:2021zos,Hawks:2021ruw,Teixeira:2021yhl,Hong:2021snb,DiGuglielmo:2021ide}
 				\\\textit{Various accelerators have been studied for fast inference that is very important for latency-limited applications like the trigger at collider experiments.}
 				\item \textbf{Deployment}~\cite{Kuznetsov:2020mcj}
 				\\\textit{This category is for the deployment of machine learning interfaces, such as in the cloud.}
