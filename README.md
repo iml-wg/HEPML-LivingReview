@@ -65,6 +65,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
+            * [Identifying the Quantum Properties of Hadronic Resonances using Machine Learning](https://arxiv.org/abs/2105.04582)
 
         *  Event images
 
@@ -75,6 +76,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
             * [End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data](https://arxiv.org/abs/2104.14659)
+            * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
 
         *  Sequences
 
@@ -166,6 +168,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [The Boosted Higgs Jet Reconstruction via Graph Neural Network](https://arxiv.org/abs/2010.05464)
             * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201)
             * [Learning to increase matching efficiency in identifying additional b-jets in the $\text{t}\bar{\text{t}}\text{b}\bar{\text{b}}$ process](https://arxiv.org/abs/2103.09129)
+            * [Higgs tagging with the Lund jet plane](https://arxiv.org/abs/2105.03989)
 
         *  quarks and gluons
 
@@ -181,6 +184,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quark-Gluon Jet Discrimination Using Convolutional Neural Networks](https://arxiv.org/abs/2012.02531) [[DOI](https://doi.org/10.3938/jkps.74.219)]
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
+            * [Identifying the Quantum Properties of Hadronic Resonances using Machine Learning](https://arxiv.org/abs/2105.04582)
 
         *  top quark tagging
 
@@ -397,6 +401,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
             * [34th Conference on Neural Information Processing Systems](https://arxiv.org/abs/2104.06622)
             * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
+            * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
 
         *  Hardware/firmware
 
@@ -415,6 +420,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
             * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
             * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
+            * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
 
         *  Deployment
 
@@ -452,6 +458,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [Matrix Element Regression with Deep Neural Networks -- breaking the CPU barrier](https://arxiv.org/abs/2008.10949)
         * [Unveiling the pole structure of S-matrix using deep learning](https://arxiv.org/abs/2104.14182)
+        * [Model independent analysis of coupled-channel scattering: a deep learning approach](https://arxiv.org/abs/2105.04898)
 
     *  Parameter estimation
 
@@ -682,6 +689,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836)
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Comparison of Machine Learning Approach to other Unfolding Methods](https://arxiv.org/abs/2104.03036)
+        * [Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution](https://arxiv.org/abs/2105.04448)
 
     *  Domain adaptation
 
