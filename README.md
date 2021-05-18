@@ -579,7 +579,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Physics-inspired
 
-        * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
+        * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/1804.09720)
         * [Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
         * [Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110) [[DOI](https://doi.org/10.3390/e22090994)]
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
