@@ -123,6 +123,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet characterization in Heavy Ion Collisions by QCD-Aware Graph Neural Networks](https://arxiv.org/abs/2103.14906)
             * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
+            * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
 
         *  Sets (point clouds)
 
@@ -235,6 +236,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Phenomenology of vector-like leptons with Deep Learning at the Large Hadron Collider](https://arxiv.org/abs/2010.01307) [[DOI](https://doi.org/10.1007/JHEP01(2021)076)]
             * [WIMPs or else? Using Machine Learning to disentangle LHC signatures](https://arxiv.org/abs/1910.06058)
             * [Exploring the standard model EFT in VH production with machine learning](https://arxiv.org/abs/1902.05803) [[DOI](https://doi.org/10.1103/PhysRevD.100.035040)]
+            * [Advanced Multi-Variate Analysis Methods for New Physics Searches at the Large Hadron Collider](https://arxiv.org/abs/2105.07530)
 
         *  Particle identification
 
@@ -478,6 +480,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
         * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
         * [Generalization capabilities of translationally equivariant neural networks](https://arxiv.org/abs/2103.14686)
+        * [Heavy Quark Potential in QGP: DNN meets LQCD](https://arxiv.org/abs/2105.07862)
 
     *  Function Approximation
 
@@ -549,6 +552,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
         * [Validation of Deep Convolutional Generative Adversarial Networks for High Energy Physics Calorimeter Simulations](https://arxiv.org/abs/2103.13698)
         * [Compressing PDF sets using generative adversarial networks](https://arxiv.org/abs/2104.04535)
+        * [Physics Validation of Novel Convolutional 2D Architectures for Speeding Up High Energy Physics Simulations](https://arxiv.org/abs/2105.08960)
 
     *  Autoencoders
 
@@ -657,6 +661,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [Better Latent Spaces for Better Autoencoders](https://arxiv.org/abs/2104.08291)
     * [Autoencoders for unsupervised anomaly detection in high energy physics](https://arxiv.org/abs/2104.09051)
     * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
+    * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
+    * [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -690,6 +696,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Comparison of Machine Learning Approach to other Unfolding Methods](https://arxiv.org/abs/2104.03036)
         * [Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution](https://arxiv.org/abs/2105.04448)
+        * [Preserving New Physics while Simultaneously Unfolding All Observables](https://arxiv.org/abs/2105.09923)
 
     *  Domain adaptation
 
@@ -738,6 +745,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Deep-Learning Jets with Uncertainties and More](https://arxiv.org/abs/1904.10004) [[DOI](https://doi.org/10.21468/SciPostPhys.8.1.006)]
         * [INFERNO: Inference-Aware Neural Optimisation](https://arxiv.org/abs/1806.04743) [[DOI](https://doi.org/10.1016/j.cpc.2019.06.007)]
         * [Optimal statistical inference in the presence of systematic uncertainties using neural network optimization based on binned Poisson likelihoods with nuisance parameters](https://arxiv.org/abs/2003.07186) [[DOI](https://doi.org/10.1007/s41781-020-00049-5)]
+        * [Uncertainty Aware Learning for High Energy Physics](https://arxiv.org/abs/2105.08742)
 
 *  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
 
