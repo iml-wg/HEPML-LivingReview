@@ -84,6 +84,9 @@ def convert_from_bib(myline):
             pass
         elif "eprint" in first_entry:
             myentry_dict["eprint"] = entry_cleaned.split("eprint")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
+            if "{" in myentry_dict["eprint"]:
+                myentry_dict["eprint"] = myentry_dict["eprint"][1:]
+                pass
         elif "doi" in first_entry:
             myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         elif "url" in first_entry:

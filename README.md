@@ -556,14 +556,14 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Autoencoders
 
-        * [Deep Learning as a Parton Shower](https://arxiv.org/abs/{1807.03685)
+        * [Deep Learning as a Parton Shower](https://arxiv.org/abs/1807.03685)
         * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433)
         * [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
         * [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842)
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Decoding Photons: Physics in the Latent Space of a BIB-AE Generative Network](https://arxiv.org/abs/2102.12491)
         * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
-        * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/{2006.06704)
+        * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/2006.06704)
         * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
         * [DeepRICH: Learning Deeply Cherenkov Detectors](https://arxiv.org/abs/1911.11717) [[DOI](https://doi.org/10.1088/2632-2153/ab845a)]
 
@@ -583,7 +583,7 @@ The purpose of this note is to collect references for modern machine learning as
 
     *  Physics-inspired
 
-        * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/{1804.09720)
+        * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/1804.09720)
         * [Binary JUNIPR: an interpretable probabilistic model for discrimination](https://arxiv.org/abs/1906.10137) [[DOI](https://doi.org/10.1103/PhysRevLett.123.182001)]
         * [Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110) [[DOI](https://doi.org/10.3390/e22090994)]
         * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
