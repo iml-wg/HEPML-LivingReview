@@ -237,6 +237,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [WIMPs or else? Using Machine Learning to disentangle LHC signatures](https://arxiv.org/abs/1910.06058)
             * [Exploring the standard model EFT in VH production with machine learning](https://arxiv.org/abs/1902.05803) [[DOI](https://doi.org/10.1103/PhysRevD.100.035040)]
             * [Advanced Multi-Variate Analysis Methods for New Physics Searches at the Large Hadron Collider](https://arxiv.org/abs/2105.07530)
+            * [Towards a method to anticipate dark matter signals with deep learning at the LHC](https://arxiv.org/abs/2105.12018)
 
         *  Particle identification
 
@@ -325,6 +326,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
             * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
+            * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
 
         *  Hyperparameters
 
@@ -362,6 +364,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Hierarchical clustering in particle physics through reinforcement learning](https://arxiv.org/abs/2011.08191)
             * [Real-time Artificial Intelligence for Accelerator Control: A Study at the Fermilab Booster](https://arxiv.org/abs/2011.07371)
             * [Particle Physics Model Building with Reinforcement Learning](https://arxiv.org/abs/2103.04759)
+            * [Reframing Jet Physics with New Computational Methods](https://arxiv.org/abs/2105.10512)
 
         *  Quantum Machine Learning
 
@@ -467,6 +470,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Numerical analysis of neutrino physics within a high scale supersymmetry model via machine learning](https://arxiv.org/abs/2006.01495) [[DOI](https://doi.org/10.1142/S0217732320502181)]
         * [Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356)
         * [MCNNTUNES: tuning Shower Monte Carlo generators with machine learning](https://arxiv.org/abs/2010.02213) [[DOI](https://doi.org/10.1016/j.cpc.2021.107908)]
+        * [Deep-Learned Event Variables for Collider Phenomenology](https://arxiv.org/abs/2105.10126)
 
     *  Parton Distribution Functions (and related)
 
