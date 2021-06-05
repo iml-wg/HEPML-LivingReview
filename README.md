@@ -34,6 +34,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Image-Based Jet Analysis](https://arxiv.org/abs/2012.09719)
         * [Quantum Machine Learning in High Energy Physics](https://arxiv.org/abs/2005.08582) [[DOI](https://doi.org/10.1088/2632-2153/abc17d)]
         * [Sequence-based Machine Learning Models in Jet Physics](https://arxiv.org/abs/2102.06128)
+        * [A survey of machine learning-based physics event generation](https://arxiv.org/abs/2106.00643)
 
     *  Classical papers
 
@@ -299,6 +300,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations](https://arxiv.org/abs/2103.14039)
             * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
             * [Development of Convolutional Neural Networks for an Electron-Tracking Compton Camera](https://arxiv.org/abs/2105.02512)
+            * [Machine Learning improved fits of the sound horizon at the baryon drag epoch](https://arxiv.org/abs/2106.00428)
 
         *  Tracking
 
@@ -327,6 +329,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
             * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
+            * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
 
         *  Hyperparameters
 
@@ -557,6 +560,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Validation of Deep Convolutional Generative Adversarial Networks for High Energy Physics Calorimeter Simulations](https://arxiv.org/abs/2103.13698)
         * [Compressing PDF sets using generative adversarial networks](https://arxiv.org/abs/2104.04535)
         * [Physics Validation of Novel Convolutional 2D Architectures for Speeding Up High Energy Physics Simulations](https://arxiv.org/abs/2105.08960)
+        * [The use of Generative Adversarial Networks to characterise new physics in multi-lepton final states at the LHC](https://arxiv.org/abs/2105.14933)
+        * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
 
     *  Autoencoders
 
@@ -584,6 +589,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017) [[DOI](https://doi.org/10.1103/PhysRevD.103.036012)]
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [Efficient sampling of constrained high-dimensional theoretical spaces with machine learning](https://arxiv.org/abs/2103.06957)
+        * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
 
     *  Physics-inspired
 
@@ -667,6 +673,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
     * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
     * [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
+    * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
