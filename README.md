@@ -137,6 +137,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
             * [Point Cloud Transformers applied to Collider Physics](https://arxiv.org/abs/2102.05073)
+            * [SPANet: Generalized Permutationless Set Assignment for Particle Physics using Symmetry Preserving Attention](https://arxiv.org/abs/2106.03898)
 
         *  Physics-inspired basis
 
@@ -276,6 +277,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [A deep-learning based raw waveform region-of-interest finder for the liquid argon time projection chamber](https://arxiv.org/abs/2103.06391)
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
             * [CNNs for enhanced background discrimination in DSNB searches in large-scale water-Gd detectors](https://arxiv.org/abs/2104.13426)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2106.02907)
 
         *  Direct Dark Matter Detectors
 
@@ -321,7 +323,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Physics and Computing Performance of the Exa.TrkX TrackML Pipeline](https://arxiv.org/abs/2103.06995)
             * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
 
-        *  Heavy ions
+        *  Heavy Ions / Nuclear Physics
 
             * [An equation-of-state-meter of quantum chromodynamics transition from deep learning](https://arxiv.org/abs/1612.04262) [[DOI](https://doi.org/10.1038/s41467-017-02726-3)]
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
@@ -330,6 +332,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
             * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
+            * [8th Asia-Pacific conference on Few-Body problems in Physics}: {Yamada Conference LXXII](https://arxiv.org/abs/2106.03453)
 
         *  Hyperparameters
 
@@ -590,6 +593,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [Efficient sampling of constrained high-dimensional theoretical spaces with machine learning](https://arxiv.org/abs/2103.06957)
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
+        * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows ](https://arxiv.org/abs/2106.05285)
 
     *  Physics-inspired
 
@@ -674,6 +678,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
     * [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
     * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
+    * [RanBox: Anomaly Detection in the Copula Space](https://arxiv.org/abs/2106.05747)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
