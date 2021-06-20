@@ -240,6 +240,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Exploring the standard model EFT in VH production with machine learning](https://arxiv.org/abs/1902.05803) [[DOI](https://doi.org/10.1103/PhysRevD.100.035040)]
             * [Advanced Multi-Variate Analysis Methods for New Physics Searches at the Large Hadron Collider](https://arxiv.org/abs/2105.07530)
             * [Towards a method to anticipate dark matter signals with deep learning at the LHC](https://arxiv.org/abs/2105.12018)
+            * [Top squark signal significance enhancement by different Machine Learning Algorithms](https://arxiv.org/abs/2106.06813)
+            * [Detecting an axion-like particle with machine learning at the LHC](https://arxiv.org/abs/2106.07018)
 
         *  Particle identification
 
@@ -303,6 +305,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
             * [Development of Convolutional Neural Networks for an Electron-Tracking Compton Camera](https://arxiv.org/abs/2105.02512)
             * [Machine Learning improved fits of the sound horizon at the baryon drag epoch](https://arxiv.org/abs/2106.00428)
+            * [37th International Cosmic Ray Conference](https://arxiv.org/abs/2106.06718)
 
         *  Tracking
 
@@ -322,6 +325,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509)
             * [Physics and Computing Performance of the Exa.TrkX TrackML Pipeline](https://arxiv.org/abs/2103.06995)
             * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
+            * [Using Machine Learning to Select High-Quality Measurements](https://arxiv.org/abs/2106.08891)
 
         *  Heavy Ions / Nuclear Physics
 
@@ -333,6 +337,9 @@ The purpose of this note is to collect references for modern machine learning as
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
             * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
             * [8th Asia-Pacific conference on Few-Body problems in Physics}: {Yamada Conference LXXII](https://arxiv.org/abs/2106.03453)
+            * [Application of radial basis functions neutral networks in spectral functions](https://arxiv.org/abs/2106.08168)
+            * [Deep Learning for the Classification of Quenched Jets](https://arxiv.org/abs/2106.08869)
+            * [inclusiveAI: A machine learning representation of the $F_2$ structure function over all charted $Q^2$ and $x$ range](https://arxiv.org/abs/2106.06390)
 
         *  Hyperparameters
 
@@ -386,6 +393,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
             * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2104.07692)
+            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334)
 
         *  Feature ranking
 
@@ -470,6 +478,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Matrix Element Regression with Deep Neural Networks -- breaking the CPU barrier](https://arxiv.org/abs/2008.10949)
         * [Unveiling the pole structure of S-matrix using deep learning](https://arxiv.org/abs/2104.14182)
         * [Model independent analysis of coupled-channel scattering: a deep learning approach](https://arxiv.org/abs/2105.04898)
+        * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
 
     *  Parameter estimation
 
