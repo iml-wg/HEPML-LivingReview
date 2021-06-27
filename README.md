@@ -286,6 +286,7 @@ The purpose of this note is to collect references for modern machine learning as
             * Boosted decision trees approach to neck alpha events discrimination in DEAP-3600 experiment
             * [Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
             * [Convolutional Neural Networks for Direct Detection of Dark Matter](https://arxiv.org/abs/1911.09210) [[DOI](https://doi.org/10.1088/1361-6471/ab8e94)]
+            * [Deep Learning for direct Dark Matter search with nuclear emulsions](https://arxiv.org/abs/2106.11995)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -340,6 +341,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Application of radial basis functions neutral networks in spectral functions](https://arxiv.org/abs/2106.08168)
             * [Deep Learning for the Classification of Quenched Jets](https://arxiv.org/abs/2106.08869)
             * [inclusiveAI: A machine learning representation of the $F_2$ structure function over all charted $Q^2$ and $x$ range](https://arxiv.org/abs/2106.06390)
+            * [Jet tomography in heavy ion collisions with deep learning](https://arxiv.org/abs/2106.11271)
 
         *  Hyperparameters
 
@@ -574,6 +576,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Physics Validation of Novel Convolutional 2D Architectures for Speeding Up High Energy Physics Simulations](https://arxiv.org/abs/2105.08960)
         * [The use of Generative Adversarial Networks to characterise new physics in multi-lepton final states at the LHC](https://arxiv.org/abs/2105.14933)
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
+        * [Particle Cloud Generation with Message Passing Generative Adversarial Networks](https://arxiv.org/abs/2106.11535)
 
     *  Autoencoders
 
@@ -688,6 +691,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
     * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
     * [RanBox: Anomaly Detection in the Copula Space](https://arxiv.org/abs/2106.05747)
+    * [Rare and Different: Anomaly Scores from a combination of likelihood and out-of-distribution models to detect new physics at the LHC](https://arxiv.org/abs/2106.10164)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
