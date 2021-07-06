@@ -605,7 +605,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [Efficient sampling of constrained high-dimensional theoretical spaces with machine learning](https://arxiv.org/abs/2103.06957)
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
-        * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows ](https://arxiv.org/abs/2106.05285)
+        * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
 
     *  Physics-inspired
 
