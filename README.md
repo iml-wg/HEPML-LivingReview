@@ -41,6 +41,13 @@ The purpose of this note is to collect references for modern machine learning as
         * [Neural Networks and Cellular Automata in Experimental High-energy Physics](https://doi.org/10.1016/0010-4655(88)90004-5)
         * [Finding Gluon Jets With a Neural Trigger](https://doi.org/10.1103/PhysRevLett.65.1321)
 
+    *  Datasets
+
+        * [The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
+        * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
+        * [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://arxiv.org/abs/2107.00656)
+        * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
+
 *  Classification
     *  Parameterized classifiers
 
@@ -138,6 +145,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
             * [Point Cloud Transformers applied to Collider Physics](https://arxiv.org/abs/2102.05073)
             * [SPANet: Generalized Permutationless Set Assignment for Particle Physics using Symmetry Preserving Attention](https://arxiv.org/abs/2106.03898)
+            * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908)
 
         *  Physics-inspired basis
 
@@ -454,6 +462,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070)
         * [Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988) [[DOI](https://doi.org/10.1140/epjp/i2019-12710-3)]
         * [Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
+        * [Pile-Up Mitigation using Attention](https://arxiv.org/abs/2107.02779)
 
     *  Calibration
 
@@ -465,6 +474,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046) [[DOI](https://doi.org/10.1007/s41781-020-00041-z)]
         * [How to GAN Higher Jet Resolution](https://arxiv.org/abs/2012.11944)
         * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
+        * [Calorimetric Measurement of Multi-TeV Muons via Deep Regression](https://arxiv.org/abs/2107.02119)
 
     *  Recasting
 
@@ -502,6 +512,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
         * [Generalization capabilities of translationally equivariant neural networks](https://arxiv.org/abs/2103.14686)
         * [Heavy Quark Potential in QGP: DNN meets LQCD](https://arxiv.org/abs/2105.07862)
+        * [Flow-based sampling for multimodal distributions in lattice field theory](https://arxiv.org/abs/2107.00734)
 
     *  Function Approximation
 
@@ -606,6 +617,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Efficient sampling of constrained high-dimensional theoretical spaces with machine learning](https://arxiv.org/abs/2103.06957)
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
         * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
+        * [Flow-based sampling for multimodal distributions in lattice field theory](https://arxiv.org/abs/2107.00734)
 
     *  Physics-inspired
 
@@ -692,6 +704,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
     * [RanBox: Anomaly Detection in the Copula Space](https://arxiv.org/abs/2106.05747)
     * [Rare and Different: Anomaly Scores from a combination of likelihood and out-of-distribution models to detect new physics at the LHC](https://arxiv.org/abs/2106.10164)
+    * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
+    * [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
