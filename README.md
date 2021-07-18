@@ -350,6 +350,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep Learning for the Classification of Quenched Jets](https://arxiv.org/abs/2106.08869)
             * [inclusiveAI: A machine learning representation of the $F_2$ structure function over all charted $Q^2$ and $x$ range](https://arxiv.org/abs/2106.06390)
             * [Jet tomography in heavy ion collisions with deep learning](https://arxiv.org/abs/2106.11271)
+            * [An equation-of-state-meter for CBM using PointNet](https://arxiv.org/abs/2107.05590)
 
         *  Hyperparameters
 
@@ -491,6 +492,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Unveiling the pole structure of S-matrix using deep learning](https://arxiv.org/abs/2104.14182)
         * [Model independent analysis of coupled-channel scattering: a deep learning approach](https://arxiv.org/abs/2105.04898)
         * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
+        * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
 
     *  Parameter estimation
 
