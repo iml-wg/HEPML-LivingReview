@@ -315,6 +315,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Development of Convolutional Neural Networks for an Electron-Tracking Compton Camera](https://arxiv.org/abs/2105.02512)
             * [Machine Learning improved fits of the sound horizon at the baryon drag epoch](https://arxiv.org/abs/2106.00428)
             * [37th International Cosmic Ray Conference](https://arxiv.org/abs/2106.06718)
+            * [Dim but not entirely dark: Extracting the Galactic Center Excess' source-count distribution with neural nets](https://arxiv.org/abs/2107.09070)
 
         *  Tracking
 
@@ -335,6 +336,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Physics and Computing Performance of the Exa.TrkX TrackML Pipeline](https://arxiv.org/abs/2103.06995)
             * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
             * [Using Machine Learning to Select High-Quality Measurements](https://arxiv.org/abs/2106.08891)
+            * [Optical Inspection of the Silicon Micro-strip Sensors for the CBM Experiment employing Artificial Intelligence](https://arxiv.org/abs/2107.07714)
 
         *  Heavy Ions / Nuclear Physics
 
@@ -476,6 +478,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [How to GAN Higher Jet Resolution](https://arxiv.org/abs/2012.11944)
         * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
         * [Calorimetric Measurement of Multi-TeV Muons via Deep Regression](https://arxiv.org/abs/2107.02119)
+        * [Transport away your problems: Calibrating stochastic simulations with optimal transport](https://arxiv.org/abs/2107.08648)
+        * [On the Use of Neural Networks for Energy Reconstruction in High-granularity Calorimeters](https://arxiv.org/abs/2107.10207)
 
     *  Recasting
 
@@ -749,6 +753,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
         * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
+        * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
 
     *  BSM
 
