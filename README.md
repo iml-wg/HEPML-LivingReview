@@ -250,6 +250,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Towards a method to anticipate dark matter signals with deep learning at the LHC](https://arxiv.org/abs/2105.12018)
             * [Top squark signal significance enhancement by different Machine Learning Algorithms](https://arxiv.org/abs/2106.06813)
             * [Detecting an axion-like particle with machine learning at the LHC](https://arxiv.org/abs/2106.07018)
+            * [Unsupervised Hadronic SUEP at the LHC](https://arxiv.org/abs/2107.12379)
+            * [Extract the energy scale of anomalous $\gamma\gamma \to W^+W^-$ scattering in the vector boson scattering process using artificial neural networks](https://arxiv.org/abs/2107.13624)
 
         *  Particle identification
 
@@ -288,6 +290,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
             * [CNNs for enhanced background discrimination in DSNB searches in large-scale water-Gd detectors](https://arxiv.org/abs/2104.13426)
             * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2106.02907)
+            * [Deep learning reconstruction in ANTARES](https://arxiv.org/abs/2107.13654)
 
         *  Direct Dark Matter Detectors
 
@@ -316,6 +319,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine Learning improved fits of the sound horizon at the baryon drag epoch](https://arxiv.org/abs/2106.00428)
             * [37th International Cosmic Ray Conference](https://arxiv.org/abs/2106.06718)
             * [Dim but not entirely dark: Extracting the Galactic Center Excess' source-count distribution with neural nets](https://arxiv.org/abs/2107.09070)
+            * [Constraining dark matter annihilation with cosmic ray antiprotons using neural networks](https://arxiv.org/abs/2107.12395)
 
         *  Tracking
 
@@ -353,6 +357,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [inclusiveAI: A machine learning representation of the $F_2$ structure function over all charted $Q^2$ and $x$ range](https://arxiv.org/abs/2106.06390)
             * [Jet tomography in heavy ion collisions with deep learning](https://arxiv.org/abs/2106.11271)
             * [An equation-of-state-meter for CBM using PointNet](https://arxiv.org/abs/2107.05590)
+            * [Probing criticality with deep learning in relativistic heavy-ion collisions](https://arxiv.org/abs/2107.11828)
 
         *  Hyperparameters
 
@@ -480,6 +485,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Calorimetric Measurement of Multi-TeV Muons via Deep Regression](https://arxiv.org/abs/2107.02119)
         * [Transport away your problems: Calibrating stochastic simulations with optimal transport](https://arxiv.org/abs/2107.08648)
         * [On the Use of Neural Networks for Energy Reconstruction in High-granularity Calorimeters](https://arxiv.org/abs/2107.10207)
+        * [Object condensation: one-stage grid-free multi-object reconstruction in physics detectors, graph and image data](https://arxiv.org/abs/2002.03605) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08461-2)]
 
     *  Recasting
 
@@ -712,6 +718,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Rare and Different: Anomaly Scores from a combination of likelihood and out-of-distribution models to detect new physics at the LHC](https://arxiv.org/abs/2106.10164)
     * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
     * [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
+    * [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -729,6 +736,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Parameter Inference from Event Ensembles and the Top-Quark Mass](https://arxiv.org/abs/2011.04666)
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
+        * [Tree boosting for learning EFT parameters](https://arxiv.org/abs/2107.10859)
 
     *  Unfolding
 
