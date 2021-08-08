@@ -47,6 +47,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
         * [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://arxiv.org/abs/2107.00656)
         * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
+        * [A FAIR and AI-ready Higgs Boson Decay Dataset](https://arxiv.org/abs/2108.02214)
 
 *  Classification
     *  Parameterized classifiers
