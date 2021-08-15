@@ -253,6 +253,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Detecting an axion-like particle with machine learning at the LHC](https://arxiv.org/abs/2106.07018)
             * [Unsupervised Hadronic SUEP at the LHC](https://arxiv.org/abs/2107.12379)
             * [Extract the energy scale of anomalous $\gamma\gamma \to W^+W^-$ scattering in the vector boson scattering process using artificial neural networks](https://arxiv.org/abs/2107.13624)
+            * [Beyond Cuts in Small Signal Scenarios - Enhanced Sneutrino Detectability Using Machine Learning](https://arxiv.org/abs/2108.03125)
+            * [Deep Learning Searches for Vector-Like Leptons at the LHC and Electron/Muon Colliders](https://arxiv.org/abs/2108.03926)
 
         *  Particle identification
 
@@ -342,6 +344,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Charged particle tracking via edge-classifying interaction networks](https://arxiv.org/abs/2103.16701)
             * [Using Machine Learning to Select High-Quality Measurements](https://arxiv.org/abs/2106.08891)
             * [Optical Inspection of the Silicon Micro-strip Sensors for the CBM Experiment employing Artificial Intelligence](https://arxiv.org/abs/2107.07714)
+            * [25th International Conference on Computing in High-Energy and Nuclear Physics](https://arxiv.org/abs/2108.03068)
 
         *  Heavy Ions / Nuclear Physics
 
@@ -389,6 +392,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
             * [Linearized Optimal Transport for Collider Events](https://arxiv.org/abs/2008.08604) [[DOI](https://doi.org/10.1103/PhysRevD.102.116019)]
             * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
+            * [Symmetries, Safety, and Self-Supervision](https://arxiv.org/abs/2108.04253)
 
         *  Reinforcement Learning
 
@@ -459,6 +463,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
             * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
             * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
+            * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
 
         *  Deployment
 
@@ -720,6 +725,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
     * [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
     * [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
+    * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
