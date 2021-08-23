@@ -323,6 +323,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [37th International Cosmic Ray Conference](https://arxiv.org/abs/2106.06718)
             * [Dim but not entirely dark: Extracting the Galactic Center Excess' source-count distribution with neural nets](https://arxiv.org/abs/2107.09070)
             * [Constraining dark matter annihilation with cosmic ray antiprotons using neural networks](https://arxiv.org/abs/2107.12395)
+            * [Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks](https://arxiv.org/abs/2108.07972)
 
         *  Tracking
 
@@ -362,6 +363,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tomography in heavy ion collisions with deep learning](https://arxiv.org/abs/2106.11271)
             * [An equation-of-state-meter for CBM using PointNet](https://arxiv.org/abs/2107.05590)
             * [Probing criticality with deep learning in relativistic heavy-ion collisions](https://arxiv.org/abs/2107.11828)
+            * [Modeling of charged-particle multiplicity and transverse-momentum distributions in pp collisions using a DNN](https://arxiv.org/abs/2108.06102)
 
         *  Hyperparameters
 
