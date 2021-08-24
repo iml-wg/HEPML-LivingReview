@@ -466,6 +466,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
             * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
             * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
+            * [Automatic heterogeneous quantization of deep neural networks for low-latency inference on the edge for particle detectors](https://www.nature.com/articles/s42256-021-00356-5)
 
         *  Deployment
 
