@@ -494,6 +494,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Transport away your problems: Calibrating stochastic simulations with optimal transport](https://arxiv.org/abs/2107.08648)
         * [On the Use of Neural Networks for Energy Reconstruction in High-granularity Calorimeters](https://arxiv.org/abs/2107.10207)
         * [Object condensation: one-stage grid-free multi-object reconstruction in physics detectors, graph and image data](https://arxiv.org/abs/2002.03605) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08461-2)]
+        * [Perspectives on the Calibration of CNN Energy Reconstruction in Highly Granular Calorimeters](https://arxiv.org/abs/2108.10963)
+        * [Deeply Learning Deep Inelastic Scattering Kinematics](https://arxiv.org/abs/2108.11638)
 
     *  Recasting
 
@@ -638,6 +640,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
         * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
         * [Flow-based sampling for multimodal distributions in lattice field theory](https://arxiv.org/abs/2107.00734)
+        * [Learning to discover: expressive Gaussian mixture models for multi-dimensional simulation and parameter inference in the physical sciences](https://arxiv.org/abs/2108.11481)
 
     *  Physics-inspired
 
