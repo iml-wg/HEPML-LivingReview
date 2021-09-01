@@ -79,7 +79,7 @@ def convert_from_bib(myline):
         entry_cleaned = entry_cleaned.replace(" =","=")
         entry_cleaned = entry_cleaned.replace("= ","=")
         first_entry = entry_cleaned.split("=")[0]
-        if "title" in first_entry:
+        if "title" in first_entry and not "booktitle" in first_entry:
             myentry_dict["title"] = entry_cleaned.split("title")[1].split("=")[1].split("\n")[0]
             pass
         elif "eprint" in first_entry:
