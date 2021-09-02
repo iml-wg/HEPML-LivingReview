@@ -79,7 +79,7 @@ def convert_from_bib(myline):
         entry_cleaned = entry_cleaned.replace(" =","=")
         entry_cleaned = entry_cleaned.replace("= ","=")
         first_entry = entry_cleaned.split("=")[0]
-        if "title" in first_entry:
+        if "title" in first_entry and not "booktitle" in first_entry:
             myentry_dict["title"] = entry_cleaned.split("title")[1].split("=")[1].split("\n")[0]
             pass
         elif "eprint" in first_entry:
@@ -132,6 +132,8 @@ def convert_from_bib(myline):
         paper=""
         if "doi" in myentry_dict:
             paper=f" [[DOI](https://doi.org/{myentry_dict['doi']})]"
+        elif "url" in myentry_dict:
+            paper=f" [[url]({myentry_dict['url']})]"
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
     elif "doi" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
