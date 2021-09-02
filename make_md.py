@@ -132,6 +132,9 @@ def convert_from_bib(myline):
         paper=""
         if "doi" in myentry_dict:
             paper=f" [[DOI](https://doi.org/{myentry_dict['doi']})]"
+        elif "url" in myentry_dict:
+            paper=f" [[url]({myentry_dict['url']})]"
+        return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
     elif "doi" in myentry_dict:
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
