@@ -301,6 +301,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Improving sensitivity to low-mass dark matter in LUX using a novel electrode background mitigation technique](https://arxiv.org/abs/2011.09602)
             * [Convolutional Neural Networks for Direct Detection of Dark Matter](https://arxiv.org/abs/1911.09210) [[DOI](https://doi.org/10.1088/1361-6471/ab8e94)]
             * [Deep Learning for direct Dark Matter search with nuclear emulsions](https://arxiv.org/abs/2106.11995)
+            * [Scanning the landscape of axion dark matter detectors: applying gradient descent to experimental design](https://arxiv.org/abs/2108.13894)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -470,6 +471,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Deployment
 
             * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
+            * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
 
 *  Regression
     *  Pileup
@@ -641,6 +643,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
         * [Flow-based sampling for multimodal distributions in lattice field theory](https://arxiv.org/abs/2107.00734)
         * [Learning to discover: expressive Gaussian mixture models for multi-dimensional simulation and parameter inference in the physical sciences](https://arxiv.org/abs/2108.11481)
+        * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
 
     *  Physics-inspired
 
@@ -731,6 +734,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
     * [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
     * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
+    * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -766,6 +770,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Comparison of Machine Learning Approach to other Unfolding Methods](https://arxiv.org/abs/2104.03036)
         * [Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution](https://arxiv.org/abs/2105.04448)
         * [Preserving New Physics while Simultaneously Unfolding All Observables](https://arxiv.org/abs/2105.09923)
+        * [Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding](https://arxiv.org/abs/2108.12376)
 
     *  Domain adaptation
 
@@ -825,4 +830,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Search for Higgs boson decays into a $Z$ boson and a light hadronically decaying resonance using 13 TeV $pp$ collision data from the ATLAS detector](https://arxiv.org/abs/2004.01678) [[DOI](https://doi.org/10.1103/PhysRevLett.125.221802)]
         * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983) [[DOI](https://doi.org/10.1103/PhysRevLett.125.131801)]
         * [Inclusive search for highly boosted Higgs bosons decaying to bottom quark-antiquark pairs in proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2006.13251) [[DOI](https://doi.org/10.1007/JHEP12(2020)085)]
+
+    *  Measurements using deep learning directly (not through object reconstruction)
+
+        * [Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding](https://arxiv.org/abs/2108.12376)
 
