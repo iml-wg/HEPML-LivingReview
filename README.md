@@ -94,6 +94,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12012)]
             * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906)
             * [Sequence-based Machine Learning Models in Jet Physics](https://arxiv.org/abs/2102.06128)
+            * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226)
 
         *  Trees
 
@@ -147,6 +148,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Point Cloud Transformers applied to Collider Physics](https://arxiv.org/abs/2102.05073)
             * [SPANet: Generalized Permutationless Set Assignment for Particle Physics using Symmetry Preserving Attention](https://arxiv.org/abs/2106.03898)
             * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908)
+            * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948)
 
         *  Physics-inspired basis
 
@@ -226,6 +228,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
             * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842) [[DOI](https://doi.org/10.1088/1748-0221/16/03/P03017)]
             * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12012)]
+            * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226)
+            * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948)
 
         *  Flavor physics
 
@@ -545,7 +549,7 @@ The purpose of this note is to collect references for modern machine learning as
 
 *  Decorrelation methods.
 
-    * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
+    * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
     * [Thinking outside the ROCs: Designing Decorrelated Taggers (DDT) for jet substructure](https://arxiv.org/abs/1603.00027) [[DOI](https://doi.org/10.1007/JHEP05(2016)156)]
     * Convolved Substructure: Analytically Decorrelating Jet Substructure Observables
     * [uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://arxiv.org/abs/1305.7248) [[DOI](https://doi.org/10.1088/1748-0221/8/12/P12013)]
@@ -612,6 +616,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [The use of Generative Adversarial Networks to characterise new physics in multi-lepton final states at the LHC](https://arxiv.org/abs/2105.14933)
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
         * [Particle Cloud Generation with Message Passing Generative Adversarial Networks](https://arxiv.org/abs/2106.11535)
+        * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
 
     *  Autoencoders
 
@@ -644,6 +649,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Flow-based sampling for multimodal distributions in lattice field theory](https://arxiv.org/abs/2107.00734)
         * [Learning to discover: expressive Gaussian mixture models for multi-dimensional simulation and parameter inference in the physical sciences](https://arxiv.org/abs/2108.11481)
         * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
+        * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
+        * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836) [[url](https://proceedings.mlr.press/v130/vandegar21a.html)]
 
     *  Physics-inspired
 
@@ -753,6 +760,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
         * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
         * [Tree boosting for learning EFT parameters](https://arxiv.org/abs/2107.10859)
+        * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
 
     *  Unfolding
 
@@ -765,7 +773,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Unfolding by weighting Monte Carlo events](https://doi.org/10.1016/0168-9002(94)01067-6)
         * Binning-Free Unfolding Based on Monte Carlo Migration
         * [Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685) [[DOI](https://doi.org/10.21468/SciPostPhys.9.5.074)]
-        * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836)
+        * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836) [[url](https://proceedings.mlr.press/v130/vandegar21a.html)]
         * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944)
         * [Comparison of Machine Learning Approach to other Unfolding Methods](https://arxiv.org/abs/2104.03036)
         * [Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution](https://arxiv.org/abs/2105.04448)
@@ -811,7 +819,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf})
         * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
-        * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046)
+        * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
         * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
 
     *  Uncertainty-aware inference
