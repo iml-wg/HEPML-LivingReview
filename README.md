@@ -533,6 +533,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Deep Learning Analysis of Deeply Virtual Exclusive Photoproduction](https://arxiv.org/abs/2012.04801)
         * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
         * [Compressing PDF sets using generative adversarial networks](https://arxiv.org/abs/2104.04535)
+        * [The Path to Proton Structure at One-Percent Accuracy](https://arxiv.org/abs/2109.02653)
+        * [An open-source machine learning framework for global analyses of parton distributions](https://arxiv.org/abs/2109.02671)
 
     *  Lattice Gauge Theory
 
