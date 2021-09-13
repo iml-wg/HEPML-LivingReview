@@ -259,6 +259,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Extract the energy scale of anomalous $\gamma\gamma \to W^+W^-$ scattering in the vector boson scattering process using artificial neural networks](https://arxiv.org/abs/2107.13624)
             * [Beyond Cuts in Small Signal Scenarios - Enhanced Sneutrino Detectability Using Machine Learning](https://arxiv.org/abs/2108.03125)
             * [Deep Learning Searches for Vector-Like Leptons at the LHC and Electron/Muon Colliders](https://arxiv.org/abs/2108.03926)
+            * [Probing Higgs exotic decay at the LHC with machine learning](https://arxiv.org/abs/2109.03294)
 
         *  Particle identification
 
@@ -744,6 +745,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
     * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
     * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
+    * [Deep Set Auto Encoders for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2109.01695)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
