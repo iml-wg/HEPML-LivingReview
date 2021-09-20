@@ -260,6 +260,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Beyond Cuts in Small Signal Scenarios - Enhanced Sneutrino Detectability Using Machine Learning](https://arxiv.org/abs/2108.03125)
             * [Deep Learning Searches for Vector-Like Leptons at the LHC and Electron/Muon Colliders](https://arxiv.org/abs/2108.03926)
             * [Probing Higgs exotic decay at the LHC with machine learning](https://arxiv.org/abs/2109.03294)
+            * [Machine Learning Optimized Search for the $Z'$ from $U(1)_{L_\mu-L_\tau}$ at the LHC](https://arxiv.org/abs/2109.07674)
 
         *  Particle identification
 
@@ -370,12 +371,15 @@ The purpose of this note is to collect references for modern machine learning as
             * [An equation-of-state-meter for CBM using PointNet](https://arxiv.org/abs/2107.05590)
             * [Probing criticality with deep learning in relativistic heavy-ion collisions](https://arxiv.org/abs/2107.11828)
             * [Modeling of charged-particle multiplicity and transverse-momentum distributions in pp collisions using a DNN](https://arxiv.org/abs/2108.06102)
+            * [Machine-learning-based identification for initial clustering structure in relativistic heavy-ion collisions](https://arxiv.org/abs/2109.06277)
+            * [Particles Multiplicity Based on Rapidity in Landau and Artificial Neural Network(ANN) Models](https://arxiv.org/abs/2109.07191)
 
         *  Hyperparameters
 
             * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
+            * [Application of Deep Learning Technique to an Analysis of Hard Scattering Processes at Colliders](https://arxiv.org/abs/2109.08520)
 
-        *  Weak supervision
+        *  Weak/Semi supervision
 
             * [Weakly Supervised Classification in High Energy Physics](https://arxiv.org/abs/1702.00414) [[DOI](https://doi.org/10.1007/JHEP05(2017)145)]
             * [Classification without labels: Learning from mixed samples in high energy physics](https://arxiv.org/abs/1708.02949) [[DOI](https://doi.org/10.1007/JHEP10(2017)174)]
@@ -391,6 +395,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Data-driven quark and gluon jet modification in heavy-ion collisions](https://arxiv.org/abs/2008.08596) [[DOI](https://doi.org/10.1103/PhysRevC.103.L021901)]
             * [Machine learning approach for the search of resonances with topological features at the Large Hadron Collider](https://arxiv.org/abs/2011.09863)
             * [Quark Gluon Jet Discrimination with Weakly Supervised Learning](https://arxiv.org/abs/2012.02540) [[DOI](https://doi.org/10.3938/jkps.75.652)]
+            * [An investigation of over-training within semi-supervised machine learning models in the search for heavy resonances at the LHC](https://arxiv.org/abs/2109.07287)
 
         *  Unsupervised
 
@@ -503,6 +508,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Object condensation: one-stage grid-free multi-object reconstruction in physics detectors, graph and image data](https://arxiv.org/abs/2002.03605) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08461-2)]
         * [Perspectives on the Calibration of CNN Energy Reconstruction in Highly Granular Calorimeters](https://arxiv.org/abs/2108.10963)
         * [Deeply Learning Deep Inelastic Scattering Kinematics](https://arxiv.org/abs/2108.11638)
+        * [Energy reconstruction in a liquid argon calorimeter cell using convolutional neural networks](https://arxiv.org/abs/2109.05124)
+        * [Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos](https://arxiv.org/abs/2109.08152)
 
     *  Recasting
 
@@ -527,6 +534,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Parametrized classifiers for optimal EFT sensitivity](https://arxiv.org/abs/2007.10356)
         * [MCNNTUNES: tuning Shower Monte Carlo generators with machine learning](https://arxiv.org/abs/2010.02213) [[DOI](https://doi.org/10.1016/j.cpc.2021.107908)]
         * [Deep-Learned Event Variables for Collider Phenomenology](https://arxiv.org/abs/2105.10126)
+        * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
 
     *  Parton Distribution Functions (and related)
 
@@ -568,6 +576,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
     * [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
     * [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
+    * [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
 
 *  Generative models / density estimation
     *  GANs:
@@ -620,6 +629,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Latent Space Refinement for Deep Generative Models](https://arxiv.org/abs/2106.00792)
         * [Particle Cloud Generation with Message Passing Generative Adversarial Networks](https://arxiv.org/abs/2106.11535)
         * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
+        * [Fast Simulation of a High Granularity Calorimeter by Generative Adversarial Networks](https://arxiv.org/abs/2109.07388)
+        * [Photon detection probability prediction using one-dimensional generative neural network](https://arxiv.org/abs/2109.07277)
 
     *  Autoencoders
 
