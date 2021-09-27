@@ -353,6 +353,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Using Machine Learning to Select High-Quality Measurements](https://arxiv.org/abs/2106.08891)
             * [Optical Inspection of the Silicon Micro-strip Sensors for the CBM Experiment employing Artificial Intelligence](https://arxiv.org/abs/2107.07714)
             * [Machine learning for surface prediction in ACTS](https://arxiv.org/abs/2108.03068)
+            * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
 
         *  Heavy Ions / Nuclear Physics
 
@@ -457,6 +458,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Towards an Interpretable Data-driven Trigger System for High-throughput Physics Facilities](https://arxiv.org/abs/2104.06622)
             * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
             * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
+            * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
 
         *  Hardware/firmware
 
@@ -558,6 +560,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Elvet -- a neural network-based differential equation and variational problem solver](https://arxiv.org/abs/2103.14575)
         * [Invariant polynomials and machine learning](https://arxiv.org/abs/2104.12733)
 
+    *  Symbolic Regression
+
+        * [Back to the Formula -- LHC Edition](https://arxiv.org/abs/2109.10414)
+
 *  Decorrelation methods.
 
     * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
@@ -631,6 +637,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
         * [Fast Simulation of a High Granularity Calorimeter by Generative Adversarial Networks](https://arxiv.org/abs/2109.07388)
         * [Photon detection probability prediction using one-dimensional generative neural network](https://arxiv.org/abs/2109.07277)
+        * [Polarization measurement for the dileptonic channel of $W^+ W^-$ scattering using generative adversarial network](https://arxiv.org/abs/2109.09924)
 
     *  Autoencoders
 
@@ -644,6 +651,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [{End-to-end Sinkhorn Autoencoder with Noise Generator](https://arxiv.org/abs/2006.06704)
         * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
         * [DeepRICH: Learning Deeply Cherenkov Detectors](https://arxiv.org/abs/1911.11717) [[DOI](https://doi.org/10.1088/2632-2153/ab845a)]
+        * [An Exploration of Learnt Representations of W Jets](https://arxiv.org/abs/2109.10919)
 
     *  Normalizing flows
 
@@ -822,6 +830,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Explainable AI for ML jet taggers using expert variables and layerwise relevance propagation](https://arxiv.org/abs/2011.13466)
         * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
         * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
+        * [An Exploration of Learnt Representations of W Jets](https://arxiv.org/abs/2109.10919)
 
     *  Estimation
 
