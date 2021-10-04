@@ -134,6 +134,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
             * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
+            * [Energy-weighted Message Passing: an infra-red and collinear safe graph neural network algorithm](https://arxiv.org/abs/2109.14636)
 
         *  Sets (point clouds)
 
@@ -261,6 +262,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep Learning Searches for Vector-Like Leptons at the LHC and Electron/Muon Colliders](https://arxiv.org/abs/2108.03926)
             * [Probing Higgs exotic decay at the LHC with machine learning](https://arxiv.org/abs/2109.03294)
             * [Machine Learning Optimized Search for the $Z'$ from $U(1)_{L_\mu-L_\tau}$ at the LHC](https://arxiv.org/abs/2109.07674)
+            * [Boosted decision trees in the era of new physics: a smuon analysis case study](https://arxiv.org/abs/2109.11815)
 
         *  Particle identification
 
@@ -652,6 +654,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Graph Generative Models for Fast Detector Simulations in High Energy Physics](https://arxiv.org/abs/2104.01725)
         * [DeepRICH: Learning Deeply Cherenkov Detectors](https://arxiv.org/abs/1911.11717) [[DOI](https://doi.org/10.1088/2632-2153/ab845a)]
         * [An Exploration of Learnt Representations of W Jets](https://arxiv.org/abs/2109.10919)
+        * [Sparse Data Generation for Particle-Based Simulation of Hadronic Jets in the LHC](https://arxiv.org/abs/2109.15197)
 
     *  Normalizing flows
 
@@ -699,6 +702,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Improved Neural Network Monte Carlo Simulation](https://arxiv.org/abs/2009.07819) [[DOI](https://doi.org/10.21468/SciPostPhys.10.1.023)]
         * [Phase Space Sampling and Inference from Weighted Events with Autoregressive Flows](https://arxiv.org/abs/2011.13445) [[DOI](https://doi.org/10.21468/SciPostPhys.10.2.038)]
         * [How to GAN Event Unweighting](https://arxiv.org/abs/2012.07873)
+        * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
 
     *  Gaussian processes
 
@@ -802,6 +806,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution](https://arxiv.org/abs/2105.04448)
         * [Preserving New Physics while Simultaneously Unfolding All Observables](https://arxiv.org/abs/2105.09923)
         * [Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding](https://arxiv.org/abs/2108.12376)
+        * [Presenting Unbinned Differential Cross Section Results](https://arxiv.org/abs/2109.13243)
 
     *  Domain adaptation
 
