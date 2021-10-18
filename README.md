@@ -537,6 +537,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Model independent analysis of coupled-channel scattering: a deep learning approach](https://arxiv.org/abs/2105.04898)
         * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
         * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
+        * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
 
     *  Parameter estimation
 
