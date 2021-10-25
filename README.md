@@ -696,7 +696,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836) [[url](https://proceedings.mlr.press/v130/vandegar21a.html)]
         * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
         * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
-        * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
+        * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
 
     *  Physics-inspired
 
