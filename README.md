@@ -273,6 +273,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
             * [Learning to Identify Electrons](https://arxiv.org/abs/2011.01984)
             * [Shower Identification in Calorimeter using Deep Learning](https://arxiv.org/abs/2103.16247)
+            * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259)
 
         *  Neutrino Detectors
 
@@ -302,6 +303,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [CNNs for enhanced background discrimination in DSNB searches in large-scale water-Gd detectors](https://arxiv.org/abs/2104.13426)
             * [The use of Boosted Decision Trees for Energy Reconstruction in JUNO experiment](https://arxiv.org/abs/2106.02907)
             * [Deep learning reconstruction in ANTARES](https://arxiv.org/abs/2107.13654)
+            * [Convolutional Neural Networks for Shower Energy Prediction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2110.10766)
+            * [Electromagnetic Shower Reconstruction and Energy Validation with Michel Electrons and $\pi^0$ Samples for the Deep-Learning-Based Analyses in MicroBooNE](https://arxiv.org/abs/2110.11874)
 
         *  Direct Dark Matter Detectors
 
@@ -310,6 +313,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Convolutional Neural Networks for Direct Detection of Dark Matter](https://arxiv.org/abs/1911.09210) [[DOI](https://doi.org/10.1088/1361-6471/ab8e94)]
             * [Deep Learning for direct Dark Matter search with nuclear emulsions](https://arxiv.org/abs/2106.11995)
             * [Scanning the landscape of axion dark matter detectors: applying gradient descent to experimental design](https://arxiv.org/abs/2108.13894)
+            * [Machine-learning techniques applied to three-year exposure of ANAIS-112](https://arxiv.org/abs/2110.10649)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -335,6 +339,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks](https://arxiv.org/abs/2108.07972)
             * [Inferring dark matter substructure with astrometric lensing beyond the power spectrum](https://arxiv.org/abs/2110.01620)
             * [A neural simulation-based inference approach for characterizing the Galactic Center $\gamma$-ray excess](https://arxiv.org/abs/2110.06931)
+            * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
 
         *  Tracking
 
@@ -651,6 +656,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Photon detection probability prediction using one-dimensional generative neural network](https://arxiv.org/abs/2109.07277)
         * [Polarization measurement for the dileptonic channel of $W^+ W^-$ scattering using generative adversarial network](https://arxiv.org/abs/2109.09924)
         * [Style-based quantum generative adversarial networks for Monte Carlo events](https://arxiv.org/abs/2110.06933)
+        * [Machine Learning for the LHCb Simulation](https://arxiv.org/abs/2110.07925)
 
     *  Autoencoders
 
@@ -666,6 +672,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [DeepRICH: Learning Deeply Cherenkov Detectors](https://arxiv.org/abs/1911.11717) [[DOI](https://doi.org/10.1088/2632-2153/ab845a)]
         * [An Exploration of Learnt Representations of W Jets](https://arxiv.org/abs/2109.10919)
         * [Sparse Data Generation for Particle-Based Simulation of Hadronic Jets in the LHC](https://arxiv.org/abs/2109.15197)
+        * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
 
     *  Normalizing flows
 
@@ -687,6 +694,9 @@ The purpose of this note is to collect references for modern machine learning as
         * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
         * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
         * [Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference](https://arxiv.org/abs/2011.05836) [[url](https://proceedings.mlr.press/v130/vandegar21a.html)]
+        * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
+        * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
+        * [CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2106.05285)
 
     *  Physics-inspired
 
@@ -700,6 +710,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Data Augmentation at the LHC through Analysis-specific Fast Simulation with Deep Learning](https://arxiv.org/abs/2010.01835)
         * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416)
+        * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259)
 
     *  Phase space generation
 
@@ -782,6 +793,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
     * [Deep Set Auto Encoders for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2109.01695)
     * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
+    * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -802,6 +814,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Tree boosting for learning EFT parameters](https://arxiv.org/abs/2107.10859)
         * [Black-Box Optimization with Local Generative Surrogates](https://arxiv.org/abs/2002.04632) [[url](https://proceedings.neurips.cc/paper/2020/hash/a878dbebc902328b41dbf02aa87abb58-Abstract.html)]
         * [A neural simulation-based inference approach for characterizing the Galactic Center $\gamma$-ray excess](https://arxiv.org/abs/2110.06931)
+        * [Machine Learning the Higgs-Top CP Phase](https://arxiv.org/abs/2110.07635)
+        * [Constraining CP-violation in the Higgs-top-quark interaction using machine-learning-based inference](https://arxiv.org/abs/2110.10177)
 
     *  Unfolding
 
