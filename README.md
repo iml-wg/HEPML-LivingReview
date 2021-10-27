@@ -277,13 +277,15 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Neutrino Detectors
 
-            * [Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/1808.07269) [[DOI](https://doi.org/10.1103/PhysRevD.99.092001)]
             * [A Convolutional Neural Network Neutrino Event Classifier](https://arxiv.org/abs/1604.01444) [[DOI](https://doi.org/10.1088/1748-0221/11/09/P09001)]
             * [Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://arxiv.org/abs/1611.05531) [[DOI](https://doi.org/10.1088/1748-0221/12/03/P03011)]
             * [Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf})
+            * [Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/1808.07269) [[DOI](https://doi.org/10.1103/PhysRevD.99.092001)]
+            * [Scalable deep convolutional neural networks for sparse, locally dense liquid argon time projection chamber data](https://arxiv.org/abs/1903.05663) [[DOI](https://doi.org/10.1103/PhysRevD.102.012005)]
             * [Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254) [[DOI](https://doi.org/10.1088/1748-0221/15/10/P10005)]
             * [PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
             * [Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
+            * [Clustering of electromagnetic showers and particle interactions with graph neural networks in liquid argon time projection chambers](https://arxiv.org/abs/2007.01335) [[DOI](https://doi.org/10.1103/PhysRevD.104.072004)]
             * [Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
             * [Augmented Signal Processing in Liquid Argon Time Projection Chamber with Deep Neural Network](https://arxiv.org/abs/2007.12743) [[DOI](https://doi.org/10.1088/1748-0221/16/01/P01036)]
             * [A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242) [[DOI](https://doi.org/10.1142/S0217751X20430058)]
