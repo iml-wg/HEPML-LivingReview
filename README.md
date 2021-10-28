@@ -285,7 +285,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
             * [Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
             * [Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
-            * [Augmented Signal Processing in Liquid Argon Time Projection Chamber with Deep Neural Network](https://arxiv.org/abs/2007.12743) [[DOI](https://doi.org/10.1088/1748-0221/16/01/P01036)]
+            * [Augmented signal processing in Liquid Argon Time Projection Chambers with a deep neural network](https://arxiv.org/abs/2007.12743) [[DOI](https://doi.org/10.1088/1748-0221/16/01/P01036)]
             * [A Review on Machine Learning for Neutrino Experiments](https://arxiv.org/abs/2008.01242) [[DOI](https://doi.org/10.1142/S0217751X20430058)]
             * [Graph neural network for 3D classification of ambiguities and optical crosstalk in scintillator-based neutrino detectors](https://arxiv.org/abs/2009.00688) [[DOI](https://doi.org/10.1103/PhysRevD.103.032005)]
             * [A Convolutional Neural Network for Multiple Particle Identification in the MicroBooNE Liquid Argon Time Projection Chamber](https://arxiv.org/abs/2010.08653)
