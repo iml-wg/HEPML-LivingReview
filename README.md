@@ -263,6 +263,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Probing Higgs exotic decay at the LHC with machine learning](https://arxiv.org/abs/2109.03294)
             * [Machine Learning Optimized Search for the $Z'$ from $U(1)_{L_\mu-L_\tau}$ at the LHC](https://arxiv.org/abs/2109.07674)
             * [Boosted decision trees in the era of new physics: a smuon analysis case study](https://arxiv.org/abs/2109.11815)
+            * [How to use Machine Learning to improve the discrimination between signal and background at particle colliders](https://arxiv.org/abs/2110.15099)
 
         *  Particle identification
 
@@ -307,6 +308,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep learning reconstruction in ANTARES](https://arxiv.org/abs/2107.13654)
             * [Convolutional Neural Networks for Shower Energy Prediction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2110.10766)
             * [Electromagnetic Shower Reconstruction and Energy Validation with Michel Electrons and $\pi^0$ Samples for the Deep-Learning-Based Analyses in MicroBooNE](https://arxiv.org/abs/2110.11874)
+            * [Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation](https://arxiv.org/abs/2110.13961)
 
         *  Direct Dark Matter Detectors
 
@@ -316,6 +318,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep Learning for direct Dark Matter search with nuclear emulsions](https://arxiv.org/abs/2106.11995)
             * [Scanning the landscape of axion dark matter detectors: applying gradient descent to experimental design](https://arxiv.org/abs/2108.13894)
             * [Machine-learning techniques applied to three-year exposure of ANAIS-112](https://arxiv.org/abs/2110.10649)
+            * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -387,6 +390,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Particles Multiplicity Based on Rapidity in Landau and Artificial Neural Network(ANN) Models](https://arxiv.org/abs/2109.07191)
             * [Multiparton Interactions in pp collisions from Machine Learning](https://arxiv.org/abs/2110.01748)
             * [Implementation of machine learning techniques to predict impact parameter and transverse spherocity in heavy-ion collisions at the LHC](https://arxiv.org/abs/2110.04026)
+            * [Deep Learning Exotic Hadrons](https://arxiv.org/abs/2110.13742)
+            * [Entropy per rapidity in Pb-Pb central collisions using Thermal and Artificial neural network(ANN) models at LHC energies](https://arxiv.org/abs/2110.15026)
 
         *  Hyperparameters
 
@@ -700,6 +705,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
         * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
         * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
+        * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
 
     *  Physics-inspired
 
@@ -797,6 +803,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Deep Set Auto Encoders for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2109.01695)
     * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
     * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
+    * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -892,6 +899,11 @@ The purpose of this note is to collect references for modern machine learning as
         * [Punzi-loss: A non-differentiable metric approximation for sensitivity optimisation in the search for new particles](https://arxiv.org/abs/2110.00810)
 
 *  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
+
+    *  Searches and measurements were ML reconstruction is a core component
+
+        * [Search for an anomalous excess of inclusive charged-current $\nu_e$ interactions in the MicroBooNE experiment using Wire-Cell reconstruction](https://arxiv.org/abs/2110.13978)
+        * [Search for an anomalous excess of charged-current quasi-elastic $\nu_e$ interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction](https://arxiv.org/abs/2110.14080)
 
     *  Final analysis discriminate for searches
 
