@@ -135,6 +135,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Segmentation of EM showers for neutrino experiments with deep graph neural networks](https://arxiv.org/abs/2104.02040)
             * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
             * [Energy-weighted Message Passing: an infra-red and collinear safe graph neural network algorithm](https://arxiv.org/abs/2109.14636)
+            * [Improved Constraints on Effective Top Quark Interactions using Edge Convolution Networks](https://arxiv.org/abs/2111.01838)
 
         *  Sets (point clouds)
 
@@ -345,6 +346,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Inferring dark matter substructure with astrometric lensing beyond the power spectrum](https://arxiv.org/abs/2110.01620)
             * [A neural simulation-based inference approach for characterizing the Galactic Center $\gamma$-ray excess](https://arxiv.org/abs/2110.06931)
             * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
+            * [Novel pre-burst stage of gamma-ray bursts from machine learning](https://arxiv.org/abs/1910.08043) [[DOI](https://doi.org/10.1016/j.jheap.2021.09.002)]
 
         *  Tracking
 
@@ -464,6 +466,14 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
 
+        *  Optimal Transport
+
+            * [Metric Space of Collider Events](https://arxiv.org/abs/1902.02346) [[DOI](https://doi.org/10.1103/PhysRevLett.123.041801)]
+            * [Linearized Optimal Transport for Collider Events](https://arxiv.org/abs/2008.08604) [[DOI](https://doi.org/10.1103/PhysRevD.102.116019)]
+            * [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
+            * [Transport away your problems: Calibrating stochastic simulations with optimal transport](https://arxiv.org/abs/2107.08648)
+            * [Which Metric on the Space of Collider Events?](https://arxiv.org/abs/2111.03670)
+
         *  Software
 
             * [On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427) [[DOI](https://doi.org/10.1088/2632-2153/ab983a)]
@@ -579,6 +589,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine Learning Estimators for Lattice QCD Observables](https://arxiv.org/abs/1807.05971) [[DOI](https://doi.org/10.1103/PhysRevD.100.014504)]
         * [Machine-learning prediction for quasiparton distribution function matrix elements](https://arxiv.org/abs/1909.10990) [[DOI](https://doi.org/10.1103/PhysRevD.101.034516)]
         * [A regression algorithm for accelerated lattice QCD that exploits sparse inference on the D-Wave quantum annealer](https://arxiv.org/abs/1911.06267) [[DOI](https://doi.org/10.1038/s41598-020-67769-x)]
+        * [Lattice gauge symmetry in neural networks](https://arxiv.org/abs/2111.04389)
 
     *  Function Approximation
 
@@ -608,6 +619,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
     * [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
     * [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
+    * [Meta-learning and data augmentation for mass-generalised jet taggers](https://arxiv.org/abs/2111.06047)
 
 *  Generative models / density estimation
     *  GANs:
@@ -804,6 +816,9 @@ The purpose of this note is to collect references for modern machine learning as
     * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
     * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
     * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
+    * [Anomaly detection from mass unspecific jet tagging](https://arxiv.org/abs/2111.02647)
+    * [A method to challenge symmetries in data with self-supervised learning](https://arxiv.org/abs/2111.05442)
+    * [Stressed GANs snag desserts, a.k.a Spotting Symmetry Violation with Symmetric Functions](https://arxiv.org/abs/2111.00616)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
