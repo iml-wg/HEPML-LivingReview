@@ -205,6 +205,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
             * [Identifying the Quantum Properties of Hadronic Resonances using Machine Learning](https://arxiv.org/abs/2105.04582)
+            * [Quarks and gluons in the Lund plane](https://arxiv.org/abs/2112.09140)
 
         *  top quark tagging
 
@@ -326,6 +327,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Scanning the landscape of axion dark matter detectors: applying gradient descent to experimental design](https://arxiv.org/abs/2108.13894)
             * [Machine-learning techniques applied to three-year exposure of ANAIS-112](https://arxiv.org/abs/2110.10649)
             * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
+            * [Domain-informed neural networks for interaction localization within astroparticle experiments](https://arxiv.org/abs/2112.07995)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -446,6 +448,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Real-time Artificial Intelligence for Accelerator Control: A Study at the Fermilab Booster](https://arxiv.org/abs/2011.07371)
             * [Particle Physics Model Building with Reinforcement Learning](https://arxiv.org/abs/2103.04759)
             * [Reframing Jet Physics with New Computational Methods](https://arxiv.org/abs/2105.10512)
+            * [A machine learning pipeline for autonomous numerical analytic continuation of Dyson-Schwinger equations](https://arxiv.org/abs/2112.13011)
 
         *  Quantum Machine Learning
 
@@ -576,6 +579,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
         * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
         * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
+        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)
 
     *  Parameter estimation
 
@@ -584,6 +588,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [MCNNTUNES: tuning Shower Monte Carlo generators with machine learning](https://arxiv.org/abs/2010.02213) [[DOI](https://doi.org/10.1016/j.cpc.2021.107908)]
         * [Deep-Learned Event Variables for Collider Phenomenology](https://arxiv.org/abs/2105.10126)
         * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
+        * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
 
     *  Parton Distribution Functions (and related)
 
@@ -607,6 +612,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A regression algorithm for accelerated lattice QCD that exploits sparse inference on the D-Wave quantum annealer](https://arxiv.org/abs/1911.06267) [[DOI](https://doi.org/10.1038/s41598-020-67769-x)]
         * [Lattice gauge symmetry in neural networks](https://arxiv.org/abs/2111.04389)
         * [Machine learning Hadron Spectral Functions in Lattice QCD](https://arxiv.org/abs/2112.00460)
+        * [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
 
     *  Function Approximation
 
@@ -700,6 +706,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine Learning for the LHCb Simulation](https://arxiv.org/abs/2110.07925)
         * [Non-Parametric Data-Driven Background Modelling using Conditional Probabilities](https://arxiv.org/abs/2112.00650)
         * [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/abs/2112.05722)
+        * [Hadrons, Better, Faster, Stronger](https://arxiv.org/abs/2112.09709)
 
     *  Autoencoders
 
@@ -717,6 +724,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Sparse Data Generation for Particle-Based Simulation of Hadronic Jets in the LHC](https://arxiv.org/abs/2109.15197)
         * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
         * [Particle Graph Autoencoders and Differentiable, Learned Energy Mover's Distance](https://arxiv.org/abs/2111.12849)
+        * [Hadrons, Better, Faster, Stronger](https://arxiv.org/abs/2112.09709)
 
     *  Normalizing flows
 
@@ -889,6 +897,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Preserving New Physics while Simultaneously Unfolding All Observables](https://arxiv.org/abs/2105.09923)
         * [Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding](https://arxiv.org/abs/2108.12376)
         * [Presenting Unbinned Differential Cross Section Results](https://arxiv.org/abs/2109.13243)
+        * [Feed-forward neural network unfolding](https://arxiv.org/abs/2112.08180)
 
     *  Domain adaptation
 
