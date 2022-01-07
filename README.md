@@ -683,6 +683,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Next Generation Generative Neural Networks for HEP](https://doi.org/10.1051/epjconf/201921409005)
         * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
         * [Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8251-9)]
+        * [A Novel Scenario in the Semi-constrained NMSSM](https://arxiv.org/abs/2002.05554) [[DOI](https://doi.org/10.1007/JHEP06(2020)078)]
         * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334)
         * [AI-based Monte Carlo event generator for electron-proton scattering](https://arxiv.org/abs/2008.03151)
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
