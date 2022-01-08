@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [ '3.8' ]
+        python-version: [ '3.10' ]
 
     steps:
     - uses: actions/checkout@v2
@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip setuptools wheel
-        python -m pip install --quiet --no-cache-dir --requirement requirements.txt
+        python -m pip install --quiet --requirement requirements.txt
         python -m pip list
     - name: Test README generation
       run: |
