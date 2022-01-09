@@ -17,6 +17,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine and Deep Learning Applications in Particle Physics](https://arxiv.org/abs/1912.08245) [[DOI](https://doi.org/10.1142/S0217751X19300199)]
         * [Modern Machine Learning and Particle Physics](https://arxiv.org/abs/2103.12226)
         * [Machine Learning in the Search for New Fundamental Physics](https://arxiv.org/abs/2112.03769)
+        * [Artificial Intelligence and Machine Learning in Nuclear Physics](https://arxiv.org/abs/2112.02309)
 
     *  Specialized reviews
 
@@ -271,6 +272,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Boosted decision trees in the era of new physics: a smuon analysis case study](https://arxiv.org/abs/2109.11815)
             * [How to use Machine Learning to improve the discrimination between signal and background at particle colliders](https://arxiv.org/abs/2110.15099)
             * [Event-level variables for semivisible jets using anomalous jet tagging](https://arxiv.org/abs/2111.12156)
+            * [Improving heavy Dirac neutrino prospects at future hadron colliders using machine learning](https://arxiv.org/abs/2112.15312)
+            * [Influence of QCD parton shower in deep learning invisible Higgs through vector boson fusion](https://arxiv.org/abs/2201.01040)
 
         *  Particle identification
 
@@ -407,6 +410,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Classification of quark and gluon jets in hot QCD medium with deep learning](https://arxiv.org/abs/2112.00681)
             * [Jet tomography in hot QCD medium with deep learning](https://arxiv.org/abs/2112.00679)
             * [Determination of impact parameter in high-energy heavy-ion collisions via deep learning](https://arxiv.org/abs/2112.03824)
+            * [Neural network reconstruction of the dense matter equation of state from neutron star observables](https://arxiv.org/abs/2201.01756)
 
         *  Hyperparameters
 
