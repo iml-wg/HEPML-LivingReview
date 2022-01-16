@@ -274,6 +274,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Event-level variables for semivisible jets using anomalous jet tagging](https://arxiv.org/abs/2111.12156)
             * [Improving heavy Dirac neutrino prospects at future hadron colliders using machine learning](https://arxiv.org/abs/2112.15312)
             * [Influence of QCD parton shower in deep learning invisible Higgs through vector boson fusion](https://arxiv.org/abs/2201.01040)
+            * [Solving Combinatorial Problems at Particle Colliders Using Machine Learning](https://arxiv.org/abs/2201.02205)
 
         *  Particle identification
 
@@ -411,6 +412,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tomography in hot QCD medium with deep learning](https://arxiv.org/abs/2112.00679)
             * [Determination of impact parameter in high-energy heavy-ion collisions via deep learning](https://arxiv.org/abs/2112.03824)
             * [Neural network reconstruction of the dense matter equation of state from neutron star observables](https://arxiv.org/abs/2201.01756)
+            * [Particle ratios with in Hadron Resonance Gas (HRG) and Artificial Neural Network (ANN) models](https://arxiv.org/abs/2201.04444)
 
         *  Hyperparameters
 
@@ -529,6 +531,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
             * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
             * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
+            * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
 
         *  Deployment
 
@@ -584,6 +587,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
         * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
         * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)
+        * [Fast and precise model calculation for KATRIN using a neural network](https://arxiv.org/abs/2201.04523)
 
     *  Parameter estimation
 
@@ -617,6 +621,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Lattice gauge symmetry in neural networks](https://arxiv.org/abs/2111.04389)
         * [Machine learning Hadron Spectral Functions in Lattice QCD](https://arxiv.org/abs/2112.00460)
         * [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
+        * [Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help](https://arxiv.org/abs/2201.02564)
 
     *  Function Approximation
 
