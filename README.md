@@ -141,6 +141,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Improved Constraints on Effective Top Quark Interactions using Edge Convolution Networks](https://arxiv.org/abs/2111.01838)
             * [Particle Graph Autoencoders and Differentiable, Learned Energy Mover's Distance](https://arxiv.org/abs/2111.12849)
             * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
+            * [Machine Learning for Particle Flow Reconstruction at CMS](https://arxiv.org/abs/2203.00330)
+            * [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
 
         *  Sets (point clouds)
 
@@ -413,6 +415,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Determination of impact parameter in high-energy heavy-ion collisions via deep learning](https://arxiv.org/abs/2112.03824)
             * [Neural network reconstruction of the dense matter equation of state from neutron star observables](https://arxiv.org/abs/2201.01756)
             * [Particle ratios with in Hadron Resonance Gas (HRG) and Artificial Neural Network (ANN) models](https://arxiv.org/abs/2201.04444)
+            * [New tool for kinematic regime estimation in semi-inclusive deep-inelastic scattering](https://arxiv.org/abs/2201.12197)
+            * [Efficient emulation of relativistic heavy ion collisions with transfer learning](https://arxiv.org/abs/2201.07302)
 
         *  Hyperparameters
 
@@ -474,6 +478,9 @@ The purpose of this note is to collect references for modern machine learning as
             * [Style-based quantum generative adversarial networks for Monte Carlo events](https://arxiv.org/abs/2110.06933)
             * [Leveraging Quantum Annealer to identify an Event-topology at High Energy Colliders](https://arxiv.org/abs/2111.07806)
             * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
+            * [Quantum Machine Learning for $b$-jet identification](https://arxiv.org/abs/2202.13943)
+            * [Completely Quantum Neural Networks](https://arxiv.org/abs/2202.11727)
+            * [Classical versus Quantum: comparing Tensor Network-based Quantum Circuits on LHC data](https://arxiv.org/abs/2202.10471)
 
         *  Feature ranking
 
@@ -532,6 +539,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
             * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
             * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
+            * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
 
         *  Deployment
 
@@ -568,6 +576,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Reconstructing the Kinematics of Deep Inelastic Scattering with Deep Learning](https://arxiv.org/abs/2110.05505)
         * [Implicit Quantile Neural Networks for Jet Simulation and Correction](https://arxiv.org/abs/2111.11415)
         * [Reconstructing partonic kinematics at colliders with Machine Learning](https://arxiv.org/abs/2112.05043)
+        * [Machine Learning for Particle Flow Reconstruction at CMS](https://arxiv.org/abs/2203.00330)
 
     *  Recasting
 
@@ -607,6 +616,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [The Path to Proton Structure at One-Percent Accuracy](https://arxiv.org/abs/2109.02653)
         * [An open-source machine learning framework for global analyses of parton distributions](https://arxiv.org/abs/2109.02671)
         * [Exploring the substructure of nucleons and nuclei with machine learning](https://arxiv.org/abs/2110.01924)
+        * [A new generation of simultaneous fits to LHC data using deep learning](https://arxiv.org/abs/2201.07240)
 
     *  Lattice Gauge Theory
 
@@ -717,6 +727,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Non-Parametric Data-Driven Background Modelling using Conditional Probabilities](https://arxiv.org/abs/2112.00650)
         * [SymmetryGAN: Symmetry Discovery with Deep Learning](https://arxiv.org/abs/2112.05722)
         * [Hadrons, Better, Faster, Stronger](https://arxiv.org/abs/2112.09709)
+        * [Calomplification - The Power of Generative Calorimeter Models](https://arxiv.org/abs/2202.07352)
 
     *  Autoencoders
 
@@ -735,6 +746,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
         * [Particle Graph Autoencoders and Differentiable, Learned Energy Mover's Distance](https://arxiv.org/abs/2111.12849)
         * [Hadrons, Better, Faster, Stronger](https://arxiv.org/abs/2112.09709)
+        * [Particle-based Fast Jet Simulation at the LHC with Variational Autoencoders](https://arxiv.org/abs/2203.00520)
 
     *  Normalizing flows
 
@@ -760,6 +772,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
         * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
+        * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
 
     *  Physics-inspired
 
@@ -866,6 +879,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [Learning New Physics from an Imperfect Machine](https://arxiv.org/abs/2111.13633)
     * [Autoencoders for Semivisible Jet Detection](https://arxiv.org/abs/2112.02864)
     * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
+    * [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
+    * [Taming modeling uncertainties with Mass Unspecific Supervised Tagging](https://arxiv.org/abs/2201.11143)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -927,6 +942,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621) [[DOI](https://doi.org/10.1007/s41781-020-0035-2)]
         * [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
 
+    *  Differentiable Simulation
+
+        * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
+
 *  Uncertainty Quantification
     *  Interpretability
 
@@ -938,6 +957,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
         * [An Exploration of Learnt Representations of W Jets](https://arxiv.org/abs/2109.10919)
         * [Explaining machine-learned particle-flow reconstruction](https://arxiv.org/abs/2111.12840)
+        * [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
+        * [Improving Parametric Neural Networks for High-Energy Physics (and Beyond)](https://arxiv.org/abs/2202.00424)
 
     *  Estimation
 
@@ -963,6 +984,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Punzi-loss: A non-differentiable metric approximation for sensitivity optimisation in the search for new particles](https://arxiv.org/abs/2110.00810)
 
 *  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
+
+    *  Performance studies
+
+        * [Identification of hadronic tau lepton decays using a deep neural network](https://arxiv.org/abs/2201.08458)
 
     *  Searches and measurements were ML reconstruction is a core component
 
