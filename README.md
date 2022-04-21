@@ -387,6 +387,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Heavy Ions / Nuclear Physics
 
+            * [Estimating Elliptic Flow Coefficient in Heavy Ion Collisions using Deep Learning](https://arxiv.org/abs/2203.01246)
             * [An equation-of-state-meter of quantum chromodynamics transition from deep learning](https://arxiv.org/abs/1612.04262) [[DOI](https://doi.org/10.1038/s41467-017-02726-3)]
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
