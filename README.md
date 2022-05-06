@@ -50,6 +50,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Shared Data and Algorithms for Deep Learning in Fundamental Physics](https://arxiv.org/abs/2107.00656)
         * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
         * [A FAIR and AI-ready Higgs Boson Decay Dataset](https://arxiv.org/abs/2108.02214)
+        * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
 
 *  Classification
     *  Parameterized classifiers
@@ -158,6 +159,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [SPANet: Generalized Permutationless Set Assignment for Particle Physics using Symmetry Preserving Attention](https://arxiv.org/abs/2106.03898)
             * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908)
             * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948)
+            * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
 
         *  Physics-inspired basis
 
