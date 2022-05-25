@@ -301,6 +301,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254) [[DOI](https://doi.org/10.1088/1748-0221/15/10/P10005)]
             * [PILArNet: Public Dataset for Particle Imaging Liquid Argon Detectors in High Energy Physics](https://arxiv.org/abs/2006.01993)
             * [Point Proposal Network for Reconstructing 3D Particle Positions with Sub-Pixel Precision in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2006.14745)
+            * [Neutrino interaction classification with a convolutional neural network in the DUNE far detector](https://arxiv.org/abs/2006.15052) [[DOI](https://doi.org/10.1103/PhysRevD.102.092003)]
             * [Clustering of electromagnetic showers and particle interactions with graph neural networks in liquid argon time projection chambers](https://arxiv.org/abs/2007.01335) [[DOI](https://doi.org/10.1103/PhysRevD.104.072004)]
             * [Scalable, Proposal-free Instance Segmentation Network for 3D Pixel Clustering and Particle Trajectory Reconstruction in Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2007.03083)
             * [Augmented signal processing in Liquid Argon Time Projection Chambers with a deep neural network](https://arxiv.org/abs/2007.12743) [[DOI](https://doi.org/10.1088/1748-0221/16/01/P01036)]
@@ -325,6 +326,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Electromagnetic Shower Reconstruction and Energy Validation with Michel Electrons and $\pi^0$ Samples for the Deep-Learning-Based Analyses in MicroBooNE](https://arxiv.org/abs/2110.11874)
             * [Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation](https://arxiv.org/abs/2110.13961)
             * [Improvement of the NOvA Near Detector Event Reconstruction and Primary Vertexing through the Application of Machine Learning Methods](https://arxiv.org/abs/2112.01494)
+            * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
 
         *  Direct Dark Matter Detectors
 
