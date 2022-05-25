@@ -1,8 +1,6 @@
-import json
 import os
 
 import requests
-import yaml
 
 update_journal = False
 
