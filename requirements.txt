@@ -1,2 +1,2 @@
-PyYAML~=5.3
+PyYAML~=6.0
 requests~=2.25
