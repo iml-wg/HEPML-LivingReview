@@ -391,11 +391,12 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Heavy Ions / Nuclear Physics
 
+            * [Estimating Elliptic Flow Coefficient in Heavy Ion Collisions using Deep Learning](https://arxiv.org/abs/2203.01246)
             * [An equation-of-state-meter of quantum chromodynamics transition from deep learning](https://arxiv.org/abs/1612.04262) [[DOI](https://doi.org/10.1038/s41467-017-02726-3)]
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
-            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
+            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736) [[DOI](https://doi.org/10.1103/PhysRevD.103.094031)]
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
             * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
             * [Classifying near-threshold enhancement using deep neural network](https://arxiv.org/abs/2106.03453)
@@ -409,7 +410,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine-learning-based identification for initial clustering structure in relativistic heavy-ion collisions](https://arxiv.org/abs/2109.06277)
             * [Particles Multiplicity Based on Rapidity in Landau and Artificial Neural Network(ANN) Models](https://arxiv.org/abs/2109.07191)
             * [Multiparton Interactions in pp collisions from Machine Learning](https://arxiv.org/abs/2110.01748)
-            * [Implementation of machine learning techniques to predict impact parameter and transverse spherocity in heavy-ion collisions at the LHC](https://arxiv.org/abs/2110.04026)
+            * [Implementation of machine learning techniques to predict impact parameter and transverse spherocity in heavy-ion collisions at the LHC](https://arxiv.org/abs/2110.04026) [[DOI](https://doi.org/10.22323/1.397.0265)]
             * [Deep Learning Exotic Hadrons](https://arxiv.org/abs/2110.13742)
             * [Entropy per rapidity in Pb-Pb central collisions using Thermal and Artificial neural network(ANN) models at LHC energies](https://arxiv.org/abs/2110.15026)
             * [Studying Hadronization by Machine Learning Techniques](https://arxiv.org/abs/2111.15655)
