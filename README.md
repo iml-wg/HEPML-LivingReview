@@ -599,7 +599,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
         * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
         * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
-        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)
+        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)[[DOI](https://doi.org/10.21468/SciPostPhys.12.4.129)]
         * [Fast and precise model calculation for KATRIN using a neural network](https://arxiv.org/abs/2201.04523)
 
     *  Parameter estimation
@@ -761,6 +761,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Event Generation with Normalizing Flows](https://arxiv.org/abs/2001.10028) [[DOI](https://doi.org/10.1103/PhysRevD.101.076002)]
         * [i-flow: High-Dimensional Integration and Sampling with Normalizing Flows](https://arxiv.org/abs/2001.05486) [[DOI](https://doi.org/10.1088/2632-2153/abab62)]
         * [Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
+        * [Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685) [[DOI](https://doi.org/10.21468/SciPostPhys.9.5.074)]
         * [Data-driven Estimation of Background Distribution through Neural Autoregressive Flows](https://arxiv.org/abs/2008.03636)
         * [SARM: Sparse Autoregressive Model for Scalable Generation of Sparse Images in Particle Physics](https://arxiv.org/abs/2009.14017) [[DOI](https://doi.org/10.1103/PhysRevD.103.036012)]
         * [Measuring QCD Splittings with Invertible Networks](https://arxiv.org/abs/2012.09873)
@@ -776,6 +777,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
         * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
+        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)[[DOI](https://doi.org/10.21468/SciPostPhys.12.4.129)]
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
 
     *  Physics-inspired
