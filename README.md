@@ -45,7 +45,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [New directions for surrogate models and differentiable programming for High Energy Physics detector simulation](https://arxiv.org/abs/2203.08806)
         * [Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges](https://arxiv.org/abs/2203.12852)
         * [Physics Community Needs, Tools, and Resources for Machine Learning](https://arxiv.org/abs/2203.16255)
-        * [Boosted decision trees](https://arxiv.org/abs/2206.09645) [[DOI](https://doi.org/10.1142/9789811234033_0002)]
+        * [Boosted decision trees](https://arxiv.org/abs/2206.09645)
 
     *  Classical papers
 
