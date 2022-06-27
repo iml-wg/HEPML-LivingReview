@@ -45,6 +45,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [New directions for surrogate models and differentiable programming for High Energy Physics detector simulation](https://arxiv.org/abs/2203.08806)
         * [Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges](https://arxiv.org/abs/2203.12852)
         * [Physics Community Needs, Tools, and Resources for Machine Learning](https://arxiv.org/abs/2203.16255)
+        * [Boosted decision trees](https://arxiv.org/abs/2206.09645) [[DOI](https://doi.org/10.1142/9789811234033_0002)]
 
     *  Classical papers
 
@@ -474,6 +475,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [An investigation of over-training within semi-supervised machine learning models in the search for heavy resonances at the LHC](https://arxiv.org/abs/2109.07287)
             * [Disentangling Quarks and Gluons with CMS Open Data](https://arxiv.org/abs/2205.04459)
             * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
+            * [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
 
         *  Unsupervised
 
@@ -824,6 +826,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
 
+    *  Diffusion Models
+
+        * [Score-based Generative Models for Calorimeter Shower Simulation](https://arxiv.org/abs/2206.11898)
+
     *  Physics-inspired
 
         * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/1804.09720)
@@ -999,6 +1005,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Mining gold from implicit models to improve likelihood-free inference](https://arxiv.org/abs/1805.12244) [[DOI](https://doi.org/10.1073/pnas.1915980117)]
         * [MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621) [[DOI](https://doi.org/10.1007/s41781-020-0035-2)]
         * [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
+        * [Exploring Parameter Spaces with Artificial Intelligence and Machine Learning Black-Box Optimisation Algorithms](https://arxiv.org/abs/2206.09223)
 
     *  Differentiable Simulation
 

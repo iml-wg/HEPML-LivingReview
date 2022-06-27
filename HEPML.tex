@@ -40,7 +40,7 @@ The purpose of this note is to collect references for modern machine learning as
 \\\textit{Below are links to many (static) general and specialized reviews.  The third bullet contains links to classic papers that applied shallow learning methods many decades before the deep learning revolution.}
 	\begin{itemize}
 		\item Modern reviews~\cite{Larkoski:2017jix,Guest:2018yhq,Albertsson:2018maf,Radovic:2018dip,Carleo:2019ptp,Bourilkov:2019yoi,Schwartz:2021ftp,Karagiorgi:2021ngt,Boehnlein:2021eym}
-		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz,Cranmer:2019eaq,Rousseau:2020rnz,Kagan:2020yrm,Guan:2020bdl,deLima:2021fwm,Alanazi:2021grv,Baldi:2022okj,Viren:2022qon,Bogatskiy:2022hub,Butter:2022rso,Dvorkin:2022pwo,Adelmann:2022ozp,Thais:2022iok,Harris:2022qtm}
+		\item Specialized reviews~\cite{Kasieczka:2019dbj,1807719,1808887,Psihas:2020pby,Butter:2020tvl,Forte:2020yip,Brehmer:2020cvb,Nachman:2020ccu,Duarte:2020ngm,Vlimant:2020enz,Cranmer:2019eaq,Rousseau:2020rnz,Kagan:2020yrm,Guan:2020bdl,deLima:2021fwm,Alanazi:2021grv,Baldi:2022okj,Viren:2022qon,Bogatskiy:2022hub,Butter:2022rso,Dvorkin:2022pwo,Adelmann:2022ozp,Thais:2022iok,Harris:2022qtm,Coadou:2022nsh}
 		 \item Classical papers~\cite{Denby:1987rk,Lonnblad:1990bi}
 		 \item Datasets~\cite{Kasieczka:2021xcg,Aarrestad:2021oeb,Benato:2021olt,Govorkova:2021hqu,Chen:2021euv,Qu:2022mxj}
 	\end{itemize}
@@ -103,7 +103,7 @@ The purpose of this note is to collect references for modern machine learning as
 			\begin{itemize}
 				\item \textbf{Hyperparameters}~\cite{Tani:2020dyi,Dudko:2021cie}
 				\\\textit{In addition to learnable weights $w$, classifiers have a number of non-differentiable parameters like the number of layers in a neural network.  These parameters are called hyperparameters.}
-				\item \textbf{Weak/Semi supervision}~\cite{Dery:2017fap,Metodiev:2017vrx,Komiske:2018oaa,Collins:2018epr,Collins:2019jip,Borisyak:2019vbz,Cohen:2017exh,Komiske:2018vkc,Metodiev:2018ftz,collaboration2020dijet,Amram:2020ykb,Brewer:2020och,Dahbi:2020zjw,Lee:2019ssx,Lieberman:2021krq,Komiske:2022vxg,Li:2022omf}
+				\item \textbf{Weak/Semi supervision}~\cite{Dery:2017fap,Metodiev:2017vrx,Komiske:2018oaa,Collins:2018epr,Collins:2019jip,Borisyak:2019vbz,Cohen:2017exh,Komiske:2018vkc,Metodiev:2018ftz,collaboration2020dijet,Amram:2020ykb,Brewer:2020och,Dahbi:2020zjw,Lee:2019ssx,Lieberman:2021krq,Komiske:2022vxg,Li:2022omf,LeBlanc:2022bwd}
 				\\\textit{For supervised learning, the labels $y_i$ are known.  In the case that the labels are noisy or only known with some uncertainty, then the learning is called weak supervision.  Semi-supervised learning is the related case where labels are known for only a fraction of the training examples.}
 				\item \textbf{Unsupervised}~\cite{Mackey:2015hwa,Komiske:2019fks,1797846,Dillon:2019cqt,Cai:2020vzx,Howard:2021pos,Dillon:2021gag}
 				\\\textit{When no labels are provided, the learning is called unsupervised.}
@@ -164,6 +164,8 @@ The purpose of this note is to collect references for modern machine learning as
 		\\\textit{An autoencoder consists of two functions: one that maps $x$ into a latent space $z$ (encoder) and a second one that maps the latent space back into the original space (decoder).  The encoder and decoder are simultaneously trained so that their composition is nearly the identity.  When the latent space has a well-defined probability density (as in variational autoencoders), then one can sample from the autoencoder by applying the detector to a randomly chosen element of the latent space.}
 \item \textbf{Normalizing flows}~\cite{Albergo:2019eim,Kanwar:2003.06413,Brehmer:2020vwc,Bothmann:2020ywa,Gao:2020zvv,Gao:2020vdv,Nachman:2020lpy,Choi:2020bnf,Lu:2020npg,Bieringer:2020tnw,Hollingsworth:2021sii,Winterhalder:2021ave,Krause:2021ilc,Hackett:2021idh,Menary:2021tjg,Hallin:2021wme,NEURIPS2020_a878dbeb,Vandegar:2020yvw,Jawahar:2021vyu,Bister:2021arb,Krause:2021wez,Butter:2021csz,Butter:2022lkf}
 		\\\textit{Normalizing flows~\cite{pmlr-v37-rezende15} learn $p(x)$ explicitly by starting with a simple probability density and then applyinga series of bijective transformations with tractable Jacobians.}
+\item \textbf{Diffusion Models}~\cite{Mikuni:2022xry}
+		\\\textit{These approaches learn the gradient of the density instead of the density directly.}
 		\item \textbf{Physics-inspired}~\cite{Andreassen:2018apy,Andreassen:2019txo,1808876,Lai:2020byl,Barenboim:2021vzh}
 		\\\textit{A variety of methods have been proposed to use machine learning tools (e.g. neural networks) combined with physical components.}
 		\item \textbf{Mixture Models}~\cite{Chen:2020uds,Burton:2021tsd,Graziani:2021vai}
@@ -184,7 +186,7 @@ The purpose of this note is to collect references for modern machine learning as
 		\\\textit{This is the task of removing detector distortions.  In contrast to parameter estimation, the goal is not to infer model parameters, but instead, the undistorted phase space probability density.  This is often also called deconvolution.}
 		\item \textbf{Domain adaptation}~\cite{Rogozhnikov:2016bdp,Andreassen:2019nnm,Cranmer:2015bka,2009.03796,Nachman:2021opi}
 		\\\textit{Morphing simulations to look like data is a form of domain adaptation.}
-		\item \textbf{BSM}~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox,Romao:2020ojy}
+		\item \textbf{BSM}~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox,Romao:2020ojy,deSouza:2022uhk}
 		\\\textit{This category is for parameter estimation when the parameter is the signal strength of new physics.}
 		\item \textbf{Differentiable Simulation}~\cite{Heinrich:2022xfa,Simpson:2022suz}
 		\\\textit{Coding up a simulation using a differentiable programming language like TensorFlow, PyTorch, or JAX.}
