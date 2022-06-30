@@ -825,6 +825,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
+        * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
 
     *  Diffusion Models
 
@@ -943,6 +944,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](https://arxiv.org/abs/2203.09470)
     * [Learning new physics efficiently with nonparametric methods](https://arxiv.org/abs/2204.02317)
     * [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
+    * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
