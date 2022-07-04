@@ -945,6 +945,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Learning new physics efficiently with nonparametric methods](https://arxiv.org/abs/2204.02317)
     * [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
     * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
+    * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
