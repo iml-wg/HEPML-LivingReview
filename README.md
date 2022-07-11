@@ -348,6 +348,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
             * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
             * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2204.02496)
+            * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139)
 
         *  Direct Dark Matter Detectors
 
@@ -578,6 +579,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
             * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
             * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
+            * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
 
         *  Deployment
 
@@ -624,6 +626,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Learning Uncertainties the Frequentist Way: Calibration and Correlation in High Energy Physics](https://arxiv.org/abs/2205.03413)
         * [Bias and Priors in Machine Learning Calibrations for High Energy Physics](https://arxiv.org/abs/2205.05084)
         * [Deep learning techniques for energy clustering in the CMS ECAL](https://arxiv.org/abs/2204.10277)
+        * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
 
     *  Recasting
 
@@ -826,6 +829,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
+        * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
 
     *  Diffusion Models
 
