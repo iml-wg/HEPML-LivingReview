@@ -2,6 +2,8 @@ import os
 
 import requests
 
+import re
+
 update_journal = False
 
 myfile = open("HEPML.tex")
@@ -148,12 +150,16 @@ for line in myfile:
         continue
 
     if "\\item \\textbf{" in line:
-        line = line[0:line.find("}")]+line[line.find("}")+1:-1]
-    line = line.replace("\\textbf{","")
+        line = line.replace("\\textbf{","")
+        i = line.find("}")
+        j = line.find("{")
+        while j != -1 and j < i:
+            i = line.find("}", i+1)
+            j = line.find("{", i+1)
+        line = line[0:i]+line[i+1:-1]
 
     if "textit{" in line:
         continue
-
     if "item" in line:
         if "begin{itemize}" in line:
             itemize_counter+=1
