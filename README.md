@@ -1017,7 +1017,6 @@ The purpose of this note is to collect references for modern machine learning as
     *  Differentiable Simulation
 
         * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
-        * [neos: End-to-End-Optimised Summary Statistics for High Energy Physics](https://arxiv.org/abs/2203.05570) [[DOI](https://doi.org/10.48550/arXiv.2203.05570)]
 
 *  Uncertainty Quantification
     *  Interpretability
@@ -1058,6 +1057,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Optimal statistical inference in the presence of systematic uncertainties using neural network optimization based on binned Poisson likelihoods with nuisance parameters](https://arxiv.org/abs/2003.07186) [[DOI](https://doi.org/10.1007/s41781-020-00049-5)]
         * [Uncertainty Aware Learning for High Energy Physics](https://arxiv.org/abs/2105.08742)
         * [Punzi-loss: A non-differentiable metric approximation for sensitivity optimisation in the search for new particles](https://arxiv.org/abs/2110.00810)
+        * [neos: End-to-End-Optimised Summary Statistics for High Energy Physics](https://arxiv.org/abs/2203.05570) [[DOI](https://doi.org/10.48550/arXiv.2203.05570)]
 
 *  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
 
