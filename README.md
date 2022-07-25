@@ -46,6 +46,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges](https://arxiv.org/abs/2203.12852)
         * [Physics Community Needs, Tools, and Resources for Machine Learning](https://arxiv.org/abs/2203.16255)
         * [Boosted decision trees](https://arxiv.org/abs/2206.09645)
+        * [Data Science and Machine Learning in Education](https://arxiv.org/abs/2207.09060)
 
     *  Classical papers
 
@@ -239,6 +240,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data](https://arxiv.org/abs/2104.14659)
             * [Leveraging universality of jet taggers through transfer learning](https://arxiv.org/abs/2203.06210)
             * [Application of deep learning in top pair and single top quark production at the LHC](https://arxiv.org/abs/2203.12871)
+            * [BIP: Boost Invariant Polynomials for Efficient Jet Tagging](https://arxiv.org/abs/2207.08272)
 
         *  strange jets
 
@@ -296,6 +298,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep Learning Jet Image as a Probe of Light Higgsino Dark Matter at the LHC](https://arxiv.org/abs/2203.14569)
             * [Probing highly collimated photon-jets with deep learning](https://arxiv.org/abs/2203.16703)
             * [Measuring the anomalous quartic gauge couplings in the $W^+W^-\to W^+W^-$ process at muon collider using artificial neural networks](https://arxiv.org/abs/2204.10034)
+            * [Machine learning the trilinear and light-quark Yukawa couplings from Higgs pair kinematic shapes](https://arxiv.org/abs/2207.04157)
 
         *  Particle identification
 
@@ -390,6 +393,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Novel pre-burst stage of gamma-ray bursts from machine learning](https://arxiv.org/abs/1910.08043) [[DOI](https://doi.org/10.1016/j.jheap.2021.09.002)]
             * [Deep learning techniques for Imaging Air Cherenkov Telescopes](https://arxiv.org/abs/2206.05296)
             * [Estimating the warm dark matter mass from strong lensing images with truncated marginal neural ratio estimation](https://arxiv.org/abs/2205.09126)
+            * [BlaST -- A Machine-Learning Estimator for the Synchrotron Peak of Blazars](https://arxiv.org/abs/2207.03813)
+            * [Modeling early-universe energy injection with Dense Neural Networks](https://arxiv.org/abs/2207.06425)
 
         *  Tracking
 
@@ -580,6 +585,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
             * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
             * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
+            * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
 
         *  Deployment
 
@@ -633,6 +639,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [The BSM-AI project: SUSY-AI--generalizing LHC limits on supersymmetry with machine learning](https://doi.org/{10.1140/epjc/s10052-017-4814-9)
         * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
         * [Bayesian Neural Networks for Fast SUSY Predictions](https://arxiv.org/abs/2007.04506) [[DOI](https://doi.org/10.1016/j.physletb.2020.136041)]
+        * [Exploration of Parameter Spaces Assisted by Machine Learning](https://arxiv.org/abs/2207.09959)
 
     *  Matrix elements
 
@@ -782,6 +789,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Calomplification - The Power of Generative Calorimeter Models](https://arxiv.org/abs/2202.07352)
         * [Towards a Deep Learning Model for Hadronization](https://arxiv.org/abs/2203.12660)
         * [Towards Reliable Neural Generative Modeling of Detectors](https://arxiv.org/abs/2204.09947)
+        * [Generative Surrogates for Fast Simulation: TPC Case](https://arxiv.org/abs/2207.04340)
+        * [GAN with an Auxiliary Regressor for the Fast Simulation of the Electromagnetic Calorimeter Response](https://arxiv.org/abs/2207.06329)
 
     *  Autoencoders
 
@@ -950,6 +959,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
     * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
     * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
+    * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -1002,6 +1012,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
         * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
+        * [Model independent measurements of Standard Model cross sections with Domain Adaptation](https://arxiv.org/abs/2207.09293)
 
     *  BSM
 
