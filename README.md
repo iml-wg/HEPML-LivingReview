@@ -99,6 +99,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
             * [End-to-End Jet Classification of Boosted Top Quarks with the CMS Open Data](https://arxiv.org/abs/2104.14659)
             * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
+            * [Large-Scale Deep Learning for Multi-Jet Event Classification](https://arxiv.org/abs/2207.11710)
 
         *  Sequences
 
@@ -222,6 +223,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Safety of Quark/Gluon Jet Classification](https://arxiv.org/abs/2103.09103)
             * [Identifying the Quantum Properties of Hadronic Resonances using Machine Learning](https://arxiv.org/abs/2105.04582)
             * [Quarks and gluons in the Lund plane](https://arxiv.org/abs/2112.09140)
+            * [Systematic Quark/Gluon Identification with Ratios of Likelihoods](https://arxiv.org/abs/2207.12411)
 
         *  top quark tagging
 
@@ -633,6 +635,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Bias and Priors in Machine Learning Calibrations for High Energy Physics](https://arxiv.org/abs/2205.05084)
         * [Deep learning techniques for energy clustering in the CMS ECAL](https://arxiv.org/abs/2204.10277)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
+        * [Machine Learned Particle Detector Simulations](https://arxiv.org/abs/2207.11254)
 
     *  Recasting
 
