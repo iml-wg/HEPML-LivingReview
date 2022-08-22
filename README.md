@@ -47,6 +47,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Physics Community Needs, Tools, and Resources for Machine Learning](https://arxiv.org/abs/2203.16255)
         * [Boosted decision trees](https://arxiv.org/abs/2206.09645)
         * [Data Science and Machine Learning in Education](https://arxiv.org/abs/2207.09060)
+        * [Interpretable Uncertainty Quantification in AI for HEP](https://arxiv.org/abs/2208.03284)
 
     *  Classical papers
 
@@ -354,6 +355,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
             * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2204.02496)
             * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139)
+            * [Partition Pooling for Convolutional Graph Network Applications in Particle Physics](https://arxiv.org/abs/2208.05952)
 
         *  Direct Dark Matter Detectors
 
@@ -548,6 +550,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
             * [Transport away your problems: Calibrating stochastic simulations with optimal transport](https://arxiv.org/abs/2107.08648)
             * [Which Metric on the Space of Collider Events?](https://arxiv.org/abs/2111.03670)
+            * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
 
         *  Software
 
@@ -636,6 +639,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Deep learning techniques for energy clustering in the CMS ECAL](https://arxiv.org/abs/2204.10277)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
         * [Machine Learned Particle Detector Simulations](https://arxiv.org/abs/2207.11254)
+        * [A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning](https://arxiv.org/abs/2208.02145)
 
     *  Recasting
 
@@ -706,6 +710,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Symbolic Regression
 
         * [Back to the Formula -- LHC Edition](https://arxiv.org/abs/2109.10414)
+        * [Discover the GellMann-Okubo formula with machine learning](https://arxiv.org/abs/2208.03165)
 
 *  Decorrelation methods.
 
@@ -963,6 +968,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
     * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
     * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
+    * [Neural Embedding: Learning the Embedding of the Manifold of Physics Data](https://arxiv.org/abs/2208.05484)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -1031,6 +1037,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Differentiable Simulation
 
         * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
+        * [Morphing parton showers with event derivatives](https://arxiv.org/abs/2208.02274)
 
 *  Uncertainty Quantification
     *  Interpretability
