@@ -465,6 +465,7 @@ The purpose of this note is to collect references for modern machine learning as
 
             * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
             * [Application of Deep Learning Technique to an Analysis of Hard Scattering Processes at Colliders](https://arxiv.org/abs/2109.08520)
+            * [Support vector machines and generalisation in HEP](https://arxiv.org/abs/1702.04686) [[DOI](https://doi.org/10.1088/1742-6596/898/7/072021)]
 
         *  Weak/Semi supervision
 
@@ -542,6 +543,7 @@ The purpose of this note is to collect references for modern machine learning as
         *  Regularization
 
             * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
+            * [Support vector machine classification on a biased training set: Multi-jet background rejection at hadron colliders](https://arxiv.org/abs/1407.0317) [[DOI](https://doi.org/10.1016/j.nima.2013.04.046)]
 
         *  Optimal Transport
 
