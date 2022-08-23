@@ -1,2 +1,1 @@
-PyYAML~=5.3
-requests~=2.25
+requests~=2.27
