@@ -593,6 +593,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
             * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
             * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
+            * [Event Classification with Multi-step Machine Learning](https://arxiv.org/abs/2106.02301) [[DOI](https://doi.org/10.1051/epjconf/202125103036)]
 
         *  Hardware/firmware
 
