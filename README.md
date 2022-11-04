@@ -460,6 +460,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [AI-assisted Optimization of the ECCE Tracking System at the Electron Ion Collider](https://arxiv.org/abs/2205.09185)
             * [Identify Hadronic Molecule States by Neural Network](https://arxiv.org/abs/2205.03572)
             * [Machine Learning model driven prediction of the initial geometry in Heavy-Ion Collision experiments](https://arxiv.org/abs/2203.15433)
+            * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
 
         *  Hyperparameters
 
@@ -714,6 +715,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Back to the Formula -- LHC Edition](https://arxiv.org/abs/2109.10414)
         * [Discover the GellMann-Okubo formula with machine learning](https://arxiv.org/abs/2208.03165)
+        * [Rediscovery of Numerical Luscher's Formula from the Neural Network](https://arxiv.org/abs/2210.02184)
 
 *  Decorrelation methods.
 
@@ -802,6 +804,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Towards Reliable Neural Generative Modeling of Detectors](https://arxiv.org/abs/2204.09947)
         * [Generative Surrogates for Fast Simulation: TPC Case](https://arxiv.org/abs/2207.04340)
         * [GAN with an Auxiliary Regressor for the Fast Simulation of the Electromagnetic Calorimeter Response](https://arxiv.org/abs/2207.06329)
+        * [Deep generative models for fast photon shower simulation in ATLAS](https://arxiv.org/abs/2210.06204)
 
     *  Autoencoders
 
@@ -974,6 +977,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
     * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
     * [Neural Embedding: Learning the Embedding of the Manifold of Physics Data](https://arxiv.org/abs/2208.05484)
+    * [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -997,6 +1001,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine Learning the Higgs-Top CP Phase](https://arxiv.org/abs/2110.07635)
         * [Constraining CP-violation in the Higgs-top-quark interaction using machine-learning-based inference](https://arxiv.org/abs/2110.10177)
         * [A method for approximating optimal statistical significances with machine-learned likelihoods](https://arxiv.org/abs/2205.05952)
+        * [New Machine Learning Techniques for Simulation-Based Inference: InferoStatic Nets, Kernel Score Estimation, and Kernel Likelihood Ratio Estimation](https://arxiv.org/abs/2210.01680)
 
     *  Unfolding
 
@@ -1058,6 +1063,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
         * [Improving Parametric Neural Networks for High-Energy Physics (and Beyond)](https://arxiv.org/abs/2202.00424)
         * [Lessons on interpretable machine learning from particle physics](https://arxiv.org/abs/2203.08021) [[DOI](https://doi.org/10.1038/s42254-022-00456-0)]
+        * [A Detailed Study of Interpretability of Deep Neural Network based Top Taggers](https://arxiv.org/abs/2210.04371)
 
     *  Estimation
 
