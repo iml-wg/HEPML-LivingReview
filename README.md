@@ -74,6 +74,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
 
+    *  Representations
+
         *  Jet images
 
             * [How to tell quark jets from gluon jets](https://doi.org/10.1103/PhysRevD.44.2025)
@@ -188,6 +190,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]
             * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
 
+    *  Targets
+
         *  $W/Z$ tagging
 
             * [Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]
@@ -199,7 +203,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [A $W^\pm$ polarization analyzer from Deep Neural Networks](https://arxiv.org/abs/2102.05124)
 
-        *  $H\rightarrow b\bar{b$}
+        *  $H\rightarrow b\bar{b}$
 
             * [Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
             * [Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
@@ -483,6 +487,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
 
+    *  Learning strategies
+
         *  Hyperparameters
 
             * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
@@ -578,50 +584,51 @@ The purpose of this note is to collect references for modern machine learning as
             * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
             * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029)
 
-        *  Software
+*  Fast inference / deployment
+    *  Software
 
-            * [On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427) [[DOI](https://doi.org/10.1088/2632-2153/ab983a)]
-            * [Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://arxiv.org/abs/1210.6861) [[DOI](https://doi.org/10.1088/1748-0221/8/02/P02013)]
-            * [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf})
-            * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
-            * [Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
-            * [Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12006)]
-            * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
-            * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
-            * [Towards an Interpretable Data-driven Trigger System for High-throughput Physics Facilities](https://arxiv.org/abs/2104.06622)
-            * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
-            * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
-            * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
+        * [On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427) [[DOI](https://doi.org/10.1088/2632-2153/ab983a)]
+        * [Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://arxiv.org/abs/1210.6861) [[DOI](https://doi.org/10.1088/1748-0221/8/02/P02013)]
+        * [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf})
+        * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)]
+        * [Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711)
+        * [Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12006)]
+        * [A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications](https://arxiv.org/abs/2101.04525)
+        * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
+        * [Towards an Interpretable Data-driven Trigger System for High-throughput Physics Facilities](https://arxiv.org/abs/2104.06622)
+        * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
+        * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
+        * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
 
-        *  Hardware/firmware
+    *  Hardware/firmware
 
-            * [Fast inference of deep neural networks in FPGAs for particle physics](https://arxiv.org/abs/1804.06913) [[DOI](https://doi.org/10.1088/1748-0221/13/07/P07027)]
-            * [Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308) [[DOI](https://doi.org/10.1088/2632-2153/aba042)]
-            * [Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05026)]
-            * [GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
-            * [Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
-            * [Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210) [[DOI](https://doi.org/10.1007/s41781-021-00057-z)]
-            * [PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
-            * [FPGAs-as-a-Service Toolkit (FaaST)](https://arxiv.org/abs/2010.08556) [[DOI](https://doi.org/10.1109/H2RC51942.2020.00010)]
-            * [Accelerated Charged Particle Tracking with Graph Neural Networks on FPGAs](https://arxiv.org/abs/2012.01563)
-            * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
-            * [Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
-            * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
-            * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
-            * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
-            * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
-            * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
-            * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
-            * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
-            * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
-            * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
-            * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
-            * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
+        * [Fast inference of deep neural networks in FPGAs for particle physics](https://arxiv.org/abs/1804.06913) [[DOI](https://doi.org/10.1088/1748-0221/13/07/P07027)]
+        * [Compressing deep neural networks on FPGAs to binary and ternary precision with HLS4ML](https://arxiv.org/abs/2003.06308) [[DOI](https://doi.org/10.1088/2632-2153/aba042)]
+        * [Fast inference of Boosted Decision Trees in FPGAs for particle physics](https://arxiv.org/abs/2002.02534) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05026)]
+        * [GPU coprocessors as a service for deep learning inference in high energy physics](https://arxiv.org/abs/2007.10359)
+        * [Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/abs/2008.03601) [[DOI](https://doi.org/10.3389/fdata.2020.598927)]
+        * [Studying the potential of Graphcore IPUs for applications in Particle Physics](https://arxiv.org/abs/2008.09210) [[DOI](https://doi.org/10.1007/s41781-021-00057-z)]
+        * [PDFFlow: parton distribution functions on GPU](https://arxiv.org/abs/2009.06635)
+        * [FPGAs-as-a-Service Toolkit (FaaST)](https://arxiv.org/abs/2010.08556) [[DOI](https://doi.org/10.1109/H2RC51942.2020.00010)]
+        * [Accelerated Charged Particle Tracking with Graph Neural Networks on FPGAs](https://arxiv.org/abs/2012.01563)
+        * [PDFFlow: hardware accelerating parton density access](https://arxiv.org/abs/2012.08221) [[DOI](https://doi.org/10.5821/zenodo.4286175)]
+        * [Fast convolutional neural networks on FPGAs with hls4ml](https://arxiv.org/abs/2101.05108)
+        * [Ps and Qs: Quantization-aware pruning for efficient low latency neural network inference](https://arxiv.org/abs/2102.11289)
+        * [Sparse Deconvolution Methods for Online Energy Estimation in Calorimeters Operating in High Luminosity Conditions](https://arxiv.org/abs/2103.12467)
+        * [Nanosecond machine learning event classification with boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2104.03408)
+        * [A reconfigurable neural network ASIC for detector front-end data compression at the HL-LHC](https://arxiv.org/abs/2105.01683)
+        * [Muon trigger with fast Neural Networks on FPGA, a demonstrator](https://arxiv.org/abs/2105.04428)
+        * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
+        * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
+        * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
+        * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
+        * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
+        * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
 
-        *  Deployment
+    *  Deployment
 
-            * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
-            * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
+        * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
+        * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
 
 *  Regression
     *  Pileup

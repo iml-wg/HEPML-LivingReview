@@ -1,4 +1,5 @@
 import os
+import re
 
 import requests
 
@@ -148,12 +149,16 @@ for line in myfile:
         continue
 
     if "\\item \\textbf{" in line:
-        line = line[0:line.find("}")]+line[line.find("}")+1:-1]
-    line = line.replace("\\textbf{","")
+        line = line.replace("\\textbf{","")
+        i = line.find("}")
+        j = line.find("{")
+        while j != -1 and j < i:
+            i = line.find("}", i+1)
+            j = line.find("{", i+1)
+        line = line[0:i]+line[i+1:-1]
 
     if "textit{" in line:
         continue
-
     if "item" in line:
         if "begin{itemize}" in line:
             itemize_counter+=1
@@ -165,12 +170,12 @@ for line in myfile:
                 hascites = len(line.split("cite"))
                 if (hascites==1):
                     if "Experimental" not in line:
-                        myfile_out.write("* "+line.replace(r"\item","")+"\n")
+                        myfile_out.write("* "+line.strip().replace(r"\item","")+"\n")
                     else:
                         myfile_out.write("*  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*\n\n")
                 else:
-                    myfile_out.write("* "+line.replace(r"\item","").split(r"~\cite")[0]+".\n\n")
-                    mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
+                    myfile_out.write("* "+line.strip().replace(r"\item","").split(r"~\cite")[0]+".\n\n")
+                    mycites = line.strip().split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
                         myfile_out.write("    * "+convert_from_bib(cite)+"\n")
                         pass
@@ -183,18 +188,23 @@ for line in myfile:
                      mybuffer+="    "
                      pass
                 if (":~" in line):
-                    myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
-                    mycites = line.split(r"~\cite{")[1].replace("}","").split(",")
+                    myfile_out.write(mybuffer+"* "+line.strip().split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
+                    mycites = line.strip().split(r"~\cite{")[1].replace("}","").split(",")
                     for cite in mycites:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
                     myfile_out.write("\n")
                 else:
-                    myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
-                    mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
+                    myfile_out.write(mybuffer+"* "+line.strip().split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
+                    mycites = line.strip().split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
                     myfile_out.write("\n")
                     pass
                 pass
+            else:
+                mybuffer = ""
+                for j in range(itemize_counter-1):
+                     mybuffer+="    "
+                myfile_out.write(mybuffer+"* "+line.strip().split(r"\item")[1]+"\n\n")
