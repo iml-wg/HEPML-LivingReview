@@ -35,3 +35,4 @@ repos:
     rev: V3.19
     hooks:
       - id: latexindent-conda
+        exclude: jheppub.sty
