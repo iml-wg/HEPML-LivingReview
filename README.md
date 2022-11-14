@@ -6,7 +6,7 @@
 
 The purpose of this note is to collect references for modern machine learning as applied to particle physics.  A minimal number of categories is chosen in order to be as useful as possible.  Note that papers may be referenced in more than one category.  The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide.  Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available.  In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper.  If you find this review helpful, please consider citing it using \cite{hepmllivingreview} in HEPML.bib.
 
-* 	 Reviews
+*  Reviews
     *  Modern reviews
 
         * [Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning](https://arxiv.org/abs/1709.04464) [[DOI](https://doi.org/10.1016/j.physrep.2019.11.001)]
@@ -67,7 +67,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [A FAIR and AI-ready Higgs Boson Decay Dataset](https://arxiv.org/abs/2108.02214)
         * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
 
-* 	 Classification
+*  Classification
     *  Parameterized classifiers
 
         * [Parameterized neural networks for high-energy physics](https://arxiv.org/abs/1601.07913) [[DOI](https://doi.org/10.1140/epjc/s10052-016-4099-4)]
@@ -578,7 +578,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
             * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029)
 
-* 	 Fast inference / deployment
+*  Fast inference / deployment
     *  Software
 
         * [On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427) [[DOI](https://doi.org/10.1088/2632-2153/ab983a)]
@@ -624,7 +624,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
         * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
 
-* 	 Regression
+*  Regression
     *  Pileup
 
         * [Pileup Mitigation with Machine Learning (PUMML)](https://arxiv.org/abs/1707.08600) [[DOI](https://doi.org/10.1007/JHEP12(2017)051)]
@@ -763,7 +763,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
     * [Decorrelation with conditional normalizing flows](https://arxiv.org/abs/2211.02486)
 
-* 	 Generative models / density estimation
+*  Generative models / density estimation
     *  GANs:
 
         * [Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://arxiv.org/abs/1701.05927) [[DOI](https://doi.org/10.1007/s41781-017-0004-6)]
@@ -1009,7 +1009,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
 
-* 	 Simulation-based (`likelihood-free') Inference
+*  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
 
         * [Neural Networks for Full Phase-space Reweighting and Parameter Tuning](https://arxiv.org/abs/1907.08209) [[DOI](https://doi.org/10.1103/PhysRevD.101.091901)]
@@ -1080,7 +1080,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
         * [Morphing parton showers with event derivatives](https://arxiv.org/abs/2208.02274)
 
-* 	 Uncertainty Quantification
+*  Uncertainty Quantification
     *  Interpretability
 
         * [Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)]

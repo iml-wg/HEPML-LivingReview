@@ -165,7 +165,7 @@ for line in myfile:
                 hascites = len(line.split("cite"))
                 if (hascites==1):
                     if "Experimental" not in line:
-                        myfile_out.write("* "+line.replace(r"\item","")+"\n")
+                        myfile_out.write("* "+line.strip().replace(r"\item","")+"\n")
                     else:
                         myfile_out.write("*  Experimental results. *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*\n\n")
                 else:
