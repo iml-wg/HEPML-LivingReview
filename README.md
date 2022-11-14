@@ -74,6 +74,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
 
+    *  Representations
+
         *  Jet images
 
             * [How to tell quark jets from gluon jets](https://doi.org/10.1103/PhysRevD.44.2025)
@@ -187,6 +189,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Energy flow polynomials: A complete linear basis for jet substructure](https://arxiv.org/abs/1712.07124) [[DOI](https://doi.org/10.1007/JHEP04(2018)013)]
             * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]
             * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
+
+    *  Targets
 
         *  $W/Z$ tagging
 
@@ -483,6 +487,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
 
+    *  Learning strategies
+
         *  Hyperparameters
 
             * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
@@ -740,7 +746,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Discover the GellMann-Okubo formula with machine learning](https://arxiv.org/abs/2208.03165)
         * [Rediscovery of Numerical Luscher's Formula from the Neural Network](https://arxiv.org/abs/2210.02184)
 
-* 	 Decorrelation methods.
+*  Decorrelation methods.
 
     * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
     * [Thinking outside the ROCs: Designing Decorrelated Taggers (DDT) for jet substructure](https://arxiv.org/abs/1603.00027) [[DOI](https://doi.org/10.1007/JHEP05(2016)156)]
@@ -924,7 +930,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
 
-* 	 Anomaly detection.
+*  Anomaly detection.
 
     * [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350) [[DOI](https://doi.org/10.1103/PhysRevD.99.015014)]
     * [Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664) [[DOI](https://doi.org/10.1103/PhysRevLett.121.241803)]
