@@ -1,8 +1,7 @@
 import os
+import re
 
 import requests
-
-import re
 
 update_journal = False
 
