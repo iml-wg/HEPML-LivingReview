@@ -543,7 +543,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
             * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
             * [Higgs analysis with quantum classifiers](https://arxiv.org/abs/2104.07692)
-            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334)
+            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334) [[DOI](https://doi.org/10.1007/JHEP08(2021)112)]
             * [Style-based quantum generative adversarial networks for Monte Carlo events](https://arxiv.org/abs/2110.06933)
             * [Leveraging Quantum Annealer to identify an Event-topology at High Energy Colliders](https://arxiv.org/abs/2111.07806)
             * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
@@ -553,6 +553,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Unsupervised Quantum Circuit Learning in High Energy Physics](https://arxiv.org/abs/2203.03578)
             * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
             * [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/abs/2211.03233)
+            * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
 
         *  Feature ranking
 
