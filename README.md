@@ -543,7 +543,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
             * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
             * [Higgs analysis with quantum classifiers](https://arxiv.org/abs/2104.07692)
-            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334)
+            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334) [[DOI](https://doi.org/10.1007/JHEP08(2021)112)]
             * [Style-based quantum generative adversarial networks for Monte Carlo events](https://arxiv.org/abs/2110.06933)
             * [Leveraging Quantum Annealer to identify an Event-topology at High Energy Colliders](https://arxiv.org/abs/2111.07806)
             * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
@@ -553,6 +553,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Unsupervised Quantum Circuit Learning in High Energy Physics](https://arxiv.org/abs/2203.03578)
             * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
             * [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/abs/2211.03233)
+            * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
 
         *  Feature ranking
 
@@ -565,7 +566,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Regularization
 
-            * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
+            * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078) [[DOI](https://doi.org/10.1007/JHEP04(2021)296)]
             * [Support vector machine classification on a biased training set: Multi-jet background rejection at hadron colliders](https://arxiv.org/abs/1407.0317) [[DOI](https://doi.org/10.1016/j.nima.2013.04.046)]
 
         *  Optimal Transport
@@ -1007,6 +1008,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226)
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
+    * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -1108,7 +1110,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf})
         * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
         * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
-        * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
+        * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078) [[DOI](https://doi.org/10.1007/JHEP04(2021)296)]
         * [Improving robustness of jet tagging algorithms with adversarial training](https://arxiv.org/abs/2203.13890)
 
     *  Uncertainty- and inference-aware learning
