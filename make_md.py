@@ -148,12 +148,16 @@ for line in myfile:
         continue
 
     if "\\item \\textbf{" in line:
-        line = line[0:line.find("}")]+line[line.find("}")+1:-1]
-    line = line.replace("\\textbf{","")
+        line = line.replace("\\textbf{","")
+        i = line.find("}")
+        j = line.find("{")
+        while j != -1 and j < i:
+            i = line.find("}", i+1)
+            j = line.find("{", i+1)
+        line = line[:i] + line[i+1:-1]
 
     if "textit{" in line:
         continue
-
     if "item" in line:
         if "begin{itemize}" in line:
             itemize_counter+=1
