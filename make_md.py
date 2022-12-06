@@ -155,7 +155,7 @@ for line in myfile:
         while j != -1 and j < i:
             i = line.find("}", i+1)
             j = line.find("{", i+1)
-        line = line[0:i]+line[i+1:-1]
+        line = line[:i] + line[i+1:-1]
 
     if "textit{" in line:
         continue
