@@ -169,7 +169,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ParticleNet: Jet Tagging via Particle Clouds](https://arxiv.org/abs/1902.08570) [[DOI](https://doi.org/10.1103/PhysRevD.101.056019)]
             * [ABCNet: An attention-based method for particle tagging](https://arxiv.org/abs/2001.05311) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00497-3)]
             * [Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
-            * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964)
+            * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964) [[DOI](https://doi.org/10.1103/PhysRevD.103.074022)]
             * [Permutationless Many-Jet Event Reconstruction with Symmetry Preserving Attention Networks](https://arxiv.org/abs/2010.09206)
             * [Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
@@ -508,6 +508,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Disentangling Quarks and Gluons with CMS Open Data](https://arxiv.org/abs/2205.04459)
             * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
             * [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
+            * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
 
         *  Unsupervised
 
@@ -759,7 +760,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
     * [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
     * [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
-    * [Meta-learning and data augmentation for mass-generalised jet taggers](https://arxiv.org/abs/2111.06047)
+    * [Metalearning and data augmentation for mass-generalized jet taggers](https://arxiv.org/abs/2111.06047) [[DOI](https://doi.org/10.1103/PhysRevD.105.094030)]
     * [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
     * [Decorrelation with conditional normalizing flows](https://arxiv.org/abs/2211.02486)
 
@@ -881,6 +882,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
         * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
+        * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
 
     *  Diffusion Models
 
