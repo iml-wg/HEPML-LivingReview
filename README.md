@@ -364,9 +364,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation](https://arxiv.org/abs/2110.13961)
             * [Improvement of the NOvA Near Detector Event Reconstruction and Primary Vertexing through the Application of Machine Learning Methods](https://arxiv.org/abs/2112.01494)
             * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
-            * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
             * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2204.02496)
-            * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139)
+            * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139) [[DOI](https://doi.org/10.1140/epjc/s10052-022-11066-6)]
             * [Partition Pooling for Convolutional Graph Network Applications in Particle Physics](https://arxiv.org/abs/2208.05952)
             * [GraphNeT: Graph neural networks for neutrino telescope event reconstruction](https://arxiv.org/abs/2210.12194)
             * [Graph Neural Networks for low-energy event classification \& reconstruction in IceCube](https://arxiv.org/abs/2209.03042) [[DOI](https://doi.org/10.1088/1748-0221/17/11/P11003)]
