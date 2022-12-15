@@ -887,6 +887,10 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Score-based Generative Models for Calorimeter Shower Simulation](https://arxiv.org/abs/2206.11898)
 
+    *  Set transformer
+
+        * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
+
     *  Physics-inspired
 
         * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/1804.09720)
