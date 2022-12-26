@@ -74,6 +74,8 @@ The purpose of this note is to collect references for modern machine learning as
         * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169)
         * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263)
 
+    *  Representations
+
         *  Jet images
 
             * [How to tell quark jets from gluon jets](https://doi.org/10.1103/PhysRevD.44.2025)
@@ -187,6 +189,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Energy flow polynomials: A complete linear basis for jet substructure](https://arxiv.org/abs/1712.07124) [[DOI](https://doi.org/10.1007/JHEP04(2018)013)]
             * [Deep-learned Top Tagging with a Lorentz Layer](https://arxiv.org/abs/1707.08966) [[DOI](https://doi.org/10.21468/SciPostPhys.5.3.028)]
             * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
+
+    *  Targets
 
         *  $W/Z$ tagging
 
@@ -482,6 +486,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
 
+    *  Learning strategies
+
         *  Hyperparameters
 
             * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
@@ -577,6 +583,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Which Metric on the Space of Collider Events?](https://arxiv.org/abs/2111.03670)
             * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
             * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029)
+
+    *  Fast inference / deployment
 
         *  Software
 

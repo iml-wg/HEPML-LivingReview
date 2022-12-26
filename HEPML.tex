@@ -47,8 +47,8 @@ The purpose of this note is to collect references for modern machine learning as
 \item \textbf{Classification}
 \\\textit{Given a feature space $x\in\mathbb{R}^n$, a binary classifier is a function $f:\mathbb{R}^n\rightarrow [0,1]$, where $0$ corresponds to features that are more characteristic of the zeroth class (e.g. background) and $1$ correspond to features that are more characteristic of the one class (e.g. signal).  Typically, $f$ will be a function specified by some parameters $w$ (e.g. weights and biases of a neural network) that are determined by minimizing a loss of the form $L[f]=\sum_{i}\ell(f(x_i),y_i)$, where $y_i\in\{0,1\}$ are labels.  The function $\ell$ is smaller when $f(x_i)$ and $y_i$ are closer.  Two common loss functions are the mean squared error $\ell(x,y)=(x-y)^2$ and the binary cross entropy $\ell(x,y)=y\log(x)+(1-y)\log(1-x)$.  Exactly what `more characteristic of' means depends on the loss function used to determine $f$.  It is also possible to make a multi-class classifier.  A common strategy for the multi-class case is to represent each class as a different basis vector in $\mathbb{R}^{n_\text{classes}}$ and then $f(x)\in[0,1]^{n_\text{classes}}$.  In this case, $f(x)$ is usually restricted to have its $n_\text{classes}$ components sum to one and the loss function is typically the cross entropy $\ell(x,y)=\sum_\text{classes $i$} y_i\log(x)$.}
 	\begin{itemize}
-		\item \textbf{Parameterized classifiers}~\cite{Baldi:2016fzo,Cranmer:2015bka,Nachman:2021yvi}.
-			\\\textit{A classifier that is conditioned on model parameters $f(x|\theta)$ is called a parameterized classifier.}
+		\item \textbf{Parameterized classifiers}~\cite{Baldi:2016fzo,Cranmer:2015bka,Nachman:2021yvi}
+		\\\textit{A classifier that is conditioned on model parameters $f(x|\theta)$ is called a parameterized classifier.}
 		\item \textbf{Representations}
 			\\\textit{There is no unique way to represent high energy physics data.  It is often natural to encode $x$ as an image or another one of the structures listed below.}
 			\begin{itemize}
@@ -67,7 +67,7 @@ The purpose of this note is to collect references for modern machine learning as
 				\item \textbf{Physics-inspired basis}~\cite{Datta:2019,Datta:2017rhs,Datta:2017lxt,Komiske:2017aww,Butter:2017cot,Grojean:2020ech}
 				\\\textit{This is a catch-all category for learning using other representations that use some sort of manual or automated physics-preprocessing.}
 			\end{itemize}
-		\item Targets
+		\item \textbf{Targets}
 			\begin{itemize}
 			\item \textbf{$W/Z$ tagging}~\cite{deOliveira:2015xxd,Barnard:2016qma,Louppe:2017ipp,Sirunyan:2020lcu,Chen:2019uar,1811770,Dreyer:2020brq,Kim:2021gtv}
 			\\\textit{Boosted, hadronically decaying $W$ and $Z$ bosons form jets that are distinguished from generic quark and gluon jets by their mass near the boson mass and their two-prong substructure.}
