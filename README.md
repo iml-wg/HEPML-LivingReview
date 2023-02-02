@@ -888,10 +888,6 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Score-based Generative Models for Calorimeter Shower Simulation](https://arxiv.org/abs/2206.11898)
 
-    *  Set transformer
-
-        * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
-
     *  Physics-inspired
 
         * [JUNIPR: a Framework for Unsupervised Machine Learning in Particle Physics](https://arxiv.org/abs/1804.09720)
@@ -929,6 +925,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
+
+    *  Other/hybrid
+
+        * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
 
 *  Anomaly detection.
 
