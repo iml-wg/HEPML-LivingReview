@@ -481,6 +481,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine Learning model driven prediction of the initial geometry in Heavy-Ion Collision experiments](https://arxiv.org/abs/2203.15433)
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
+            * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
 
         *  Hyperparameters
 
