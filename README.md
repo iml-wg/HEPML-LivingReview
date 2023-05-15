@@ -131,6 +131,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
             * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
             * [Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
+            * [Towards a Computer Vision Particle Flow](https://arxiv.org/abs/2003.08863) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08897-0)]
             * [Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787) [[DOI](https://doi.org/10.1007/JHEP07(2020)111)]
             * [Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639) [[DOI](https://doi.org/10.21468/SciPostPhys.10.2.046)]
@@ -162,6 +163,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
             * [End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks](https://arxiv.org/abs/2204.01681)
             * [A jet tagging algorithm of graph network with HaarPooling message passing](https://arxiv.org/abs/2210.13869)
+            * [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
 
         *  Sets (point clouds)
 
@@ -169,7 +171,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [ParticleNet: Jet Tagging via Particle Clouds](https://arxiv.org/abs/1902.08570) [[DOI](https://doi.org/10.1103/PhysRevD.101.056019)]
             * [ABCNet: An attention-based method for particle tagging](https://arxiv.org/abs/2001.05311) [[DOI](https://doi.org/10.1140/epjp/s13360-020-00497-3)]
             * [Secondary Vertex Finding in Jets with Neural Networks](https://arxiv.org/abs/2008.02831)
-            * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964)
+            * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964) [[DOI](https://doi.org/10.1103/PhysRevD.103.074022)]
             * [Permutationless Many-Jet Event Reconstruction with Symmetry Preserving Attention Networks](https://arxiv.org/abs/2010.09206)
             * [Zero-Permutation Jet-Parton Assignment using a Self-Attention Network](https://arxiv.org/abs/2012.03542)
             * [Learning to Isolate Muons](https://arxiv.org/abs/2102.02278)
@@ -199,7 +201,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [A $W^\pm$ polarization analyzer from Deep Neural Networks](https://arxiv.org/abs/2102.05124)
 
-        *  $H\rightarrow b\bar{b$}
+        *  $H\rightarrow b\bar{b}$
 
             * [Automating the Construction of Jet Observables with Machine Learning](https://arxiv.org/abs/1902.07180) [[DOI](https://doi.org/10.1103/PhysRevD.100.095016)]
             * [Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)]
@@ -364,9 +366,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Wire-Cell 3D Pattern Recognition Techniques for Neutrino Event Reconstruction in Large LArTPCs: Algorithm Description and Quantitative Evaluation with MicroBooNE Simulation](https://arxiv.org/abs/2110.13961)
             * [Improvement of the NOvA Near Detector Event Reconstruction and Primary Vertexing through the Application of Machine Learning Methods](https://arxiv.org/abs/2112.01494)
             * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
-            * [Separation of track- and shower-like energy deposits in ProtoDUNE-SP using a convolutional neural network](https://arxiv.org/abs/2203.17053)
             * [Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers](https://arxiv.org/abs/2204.02496)
-            * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139)
+            * [Application of Transfer Learning to Neutrino Interaction Classification](https://arxiv.org/abs/2207.03139) [[DOI](https://doi.org/10.1140/epjc/s10052-022-11066-6)]
             * [Partition Pooling for Convolutional Graph Network Applications in Particle Physics](https://arxiv.org/abs/2208.05952)
             * [GraphNeT: Graph neural networks for neutrino telescope event reconstruction](https://arxiv.org/abs/2210.12194)
             * [Graph Neural Networks for low-energy event classification \& reconstruction in IceCube](https://arxiv.org/abs/2209.03042) [[DOI](https://doi.org/10.1088/1748-0221/17/11/P11003)]
@@ -450,7 +451,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
-            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
+            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736) [[DOI](https://doi.org/10.1103/PhysRevD.103.094031)]
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
             * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
             * [Classifying near-threshold enhancement using deep neural network](https://arxiv.org/abs/2106.03453)
@@ -482,6 +483,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine Learning model driven prediction of the initial geometry in Heavy-Ion Collision experiments](https://arxiv.org/abs/2203.15433)
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
+            * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
+            * [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426)
 
         *  Hyperparameters
 
@@ -510,6 +513,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
             * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
             * [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
+            * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
 
         *  Unsupervised
 
@@ -529,6 +533,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Particle Physics Model Building with Reinforcement Learning](https://arxiv.org/abs/2103.04759)
             * [Reframing Jet Physics with New Computational Methods](https://arxiv.org/abs/2105.10512)
             * [A machine learning pipeline for autonomous numerical analytic continuation of Dyson-Schwinger equations](https://arxiv.org/abs/2112.13011)
+            * [Simplifying Polylogarithms with Machine Learning](https://arxiv.org/abs/2206.04115)
 
         *  Quantum Machine Learning
 
@@ -544,7 +549,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Quantum Support Vector Machines for Continuum Suppression in B Meson Decays](https://arxiv.org/abs/2103.12257)
             * [Application of Quantum Machine Learning using the Quantum Kernel Algorithm on High Energy Physics Analysis at the LHC](https://arxiv.org/abs/2104.05059)
             * [Higgs analysis with quantum classifiers](https://arxiv.org/abs/2104.07692)
-            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334)
+            * [Quantum-inspired event reconstruction with Tensor Networks: Matrix Product States](https://arxiv.org/abs/2106.08334) [[DOI](https://doi.org/10.1007/JHEP08(2021)112)]
             * [Style-based quantum generative adversarial networks for Monte Carlo events](https://arxiv.org/abs/2110.06933)
             * [Leveraging Quantum Annealer to identify an Event-topology at High Energy Colliders](https://arxiv.org/abs/2111.07806)
             * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
@@ -554,6 +559,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Unsupervised Quantum Circuit Learning in High Energy Physics](https://arxiv.org/abs/2203.03578)
             * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
             * [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/abs/2211.03233)
+            * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
 
         *  Feature ranking
 
@@ -566,7 +572,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         *  Regularization
 
-            * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
+            * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078) [[DOI](https://doi.org/10.1007/JHEP04(2021)296)]
             * [Support vector machine classification on a biased training set: Multi-jet background rejection at hadron colliders](https://arxiv.org/abs/1407.0317) [[DOI](https://doi.org/10.1016/j.nima.2013.04.046)]
 
         *  Optimal Transport
@@ -593,6 +599,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [The Tracking Machine Learning challenge : Throughput phase](https://arxiv.org/abs/2105.01160)
             * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
             * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
+            * [Event Classification with Multi-step Machine Learning](https://arxiv.org/abs/2106.02301) [[DOI](https://doi.org/10.1051/epjconf/202125103036)]
 
         *  Hardware/firmware
 
@@ -759,7 +766,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
     * [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
     * [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
-    * [Meta-learning and data augmentation for mass-generalised jet taggers](https://arxiv.org/abs/2111.06047)
+    * [Metalearning and data augmentation for mass-generalized jet taggers](https://arxiv.org/abs/2111.06047) [[DOI](https://doi.org/10.1103/PhysRevD.105.094030)]
     * [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
     * [Decorrelation with conditional normalizing flows](https://arxiv.org/abs/2211.02486)
 
@@ -852,6 +859,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Modeling hadronization using machine learning](https://arxiv.org/abs/2203.04983)
         * [Machine-Learning Compression for Particle Physics Discoveries](https://arxiv.org/abs/2210.11489)
         * [CaloDVAE : Discrete Variational Autoencoders for Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2210.07430)
+        * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
     *  Normalizing flows
 
@@ -881,6 +889,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
         * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
+        * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
 
     *  Diffusion Models
 
@@ -923,6 +932,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
+
+    *  Other/hybrid
+
+        * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
 
 *  Anomaly detection.
 
@@ -1010,6 +1023,8 @@ The purpose of this note is to collect references for modern machine learning as
     * [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226)
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
+    * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
+    * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
@@ -1111,7 +1126,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf})
         * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
         * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
-        * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078)
+        * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078) [[DOI](https://doi.org/10.1007/JHEP04(2021)296)]
         * [Improving robustness of jet tagging algorithms with adversarial training](https://arxiv.org/abs/2203.13890)
 
     *  Uncertainty- and inference-aware learning
