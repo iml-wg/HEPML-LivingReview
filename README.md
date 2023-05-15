@@ -131,6 +131,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)]
             * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
             * [Interpretable deep learning for two-prong jet classification with jet spectra](https://arxiv.org/abs/1904.02092) [[DOI](https://doi.org/10.1007/JHEP07(2019)135)]
+            * [Towards a Computer Vision Particle Flow](https://arxiv.org/abs/2003.08863) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08897-0)]
             * [Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787) [[DOI](https://doi.org/10.1007/JHEP07(2020)111)]
             * [Probing triple Higgs coupling with machine learning at the LHC](https://arxiv.org/abs/2005.11086)
             * [Casting a graph net to catch dark showers](https://arxiv.org/abs/2006.08639) [[DOI](https://doi.org/10.21468/SciPostPhys.10.2.046)]
@@ -162,6 +163,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
             * [End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks](https://arxiv.org/abs/2204.01681)
             * [A jet tagging algorithm of graph network with HaarPooling message passing](https://arxiv.org/abs/2210.13869)
+            * [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
 
         *  Sets (point clouds)
 
@@ -449,7 +451,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589)
             * [Deep learning jet modifications in heavy-ion collisions](https://arxiv.org/abs/2012.07797)
             * [Identifying the nature of the QCD transition in relativistic collision of heavy nuclei with deep learning](https://arxiv.org/abs/1910.11530) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8030-7)]
-            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736)
+            * [Estimation of Impact Parameter and Transverse Spherocity in heavy-ion collisions at the LHC energies using Machine Learning](https://arxiv.org/abs/2103.01736) [[DOI](https://doi.org/10.1103/PhysRevD.103.094031)]
             * [Constraining nuclear effects in Argon using machine learning algorithms](https://arxiv.org/abs/2105.12733)
             * [Detecting Chiral Magnetic Effect via Deep Learning](https://arxiv.org/abs/2105.13761)
             * [Classifying near-threshold enhancement using deep neural network](https://arxiv.org/abs/2106.03453)
@@ -481,6 +483,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Machine Learning model driven prediction of the initial geometry in Heavy-Ion Collision experiments](https://arxiv.org/abs/2203.15433)
             * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
+            * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
+            * [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426)
 
         *  Hyperparameters
 
@@ -854,6 +858,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Modeling hadronization using machine learning](https://arxiv.org/abs/2203.04983)
         * [Machine-Learning Compression for Particle Physics Discoveries](https://arxiv.org/abs/2210.11489)
         * [CaloDVAE : Discrete Variational Autoencoders for Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2210.07430)
+        * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
     *  Normalizing flows
 
@@ -926,6 +931,10 @@ The purpose of this note is to collect references for modern machine learning as
         * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
         * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
         * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
+
+    *  Other/hybrid
+
+        * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
 
 *  Anomaly detection.
 
@@ -1012,6 +1021,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
     * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
+    * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
