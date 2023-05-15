@@ -511,6 +511,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [An investigation of over-training within semi-supervised machine learning models in the search for heavy resonances at the LHC](https://arxiv.org/abs/2109.07287)
             * [Disentangling Quarks and Gluons with CMS Open Data](https://arxiv.org/abs/2205.04459)
             * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
+            * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
             * [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
             * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
 
@@ -1007,12 +1008,14 @@ The purpose of this note is to collect references for modern machine learning as
     * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
     * [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
     * [Taming modeling uncertainties with Mass Unspecific Supervised Tagging](https://arxiv.org/abs/2201.11143)
+    * [What's Anomalous in LHC Jets?](https://arxiv.org/abs/2202.00686)
     * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
     * [Self-supervised Anomaly Detection for New Physics](https://arxiv.org/abs/2205.10380)
     * [Data-directed search for new physics based on symmetries of the SM](https://arxiv.org/abs/2203.07529) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10454-2)]
     * [CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](https://arxiv.org/abs/2203.09470)
     * [Learning new physics efficiently with nonparametric methods](https://arxiv.org/abs/2204.02317)
     * [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
+    * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
     * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
     * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
     * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
