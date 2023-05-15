@@ -448,6 +448,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field](https://arxiv.org/abs/2211.04890)
             * [Deep learning for track recognition in pixel and strip-based particle detectors](https://arxiv.org/abs/2210.00599)
             * [Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment](https://arxiv.org/abs/2208.12178)
+            * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
 
         *  Heavy Ions / Nuclear Physics
 
@@ -633,6 +634,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
             * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
             * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
+            * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
 
         *  Deployment
 

@@ -4,8 +4,8 @@ import requests
 
 update_journal = False
 
-myfile = open("HEPML.tex")
-myfile_out = open("README.md","w")
+myfile = open("HEPML.tex", encoding="utf8")
+myfile_out = open("README.md","w", encoding="utf8")
 
 myfile_out.write("#  **A Living Review of Machine Learning for Particle Physics**\n\n")
 
@@ -55,7 +55,7 @@ def convert_from_bib(myline):
 
     myline = myline.replace(" ","").replace("\n","")
 
-    myfile_bib = open("HEPML.bib")
+    myfile_bib = open("HEPML.bib", encoding="utf8")
     mylines = []
     for line in myfile_bib:
         mylines+=[line]
@@ -103,8 +103,8 @@ def convert_from_bib(myline):
 
             #print(inspire_dict)
 
-            myfile_bib_copy = open("HEPML_copy.bib","w")
-            myfile_bib = open("HEPML.bib")
+            myfile_bib_copy = open("HEPML_copy.bib","w", encoding="utf8")
+            myfile_bib = open("HEPML.bib", encoding="utf8")
             for line in myfile_bib:
                 myfile_bib_copy.write(line)
                 if myentry_dict['eprint'] in line and "eprint" in line:
