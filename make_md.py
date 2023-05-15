@@ -181,7 +181,7 @@ for line in myfile:
                     myfile_out.write("\n")
                     pass
                 pass
-            elif "cite" in line:
+            else:
                 mybuffer = ""
                 for j in range(itemize_counter-1):
                      mybuffer+="    "
@@ -193,7 +193,7 @@ for line in myfile:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
                     myfile_out.write("\n")
-                else:
+                elif "cite" in line:
                     myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
                     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
@@ -201,4 +201,6 @@ for line in myfile:
                         pass
                     myfile_out.write("\n")
                     pass
+                else:
+                    myfile_out.write(mybuffer+"* "+line.split(r"\item")[1]+"\n\n")
                 pass
