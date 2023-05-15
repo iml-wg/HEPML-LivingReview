@@ -855,6 +855,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Modeling hadronization using machine learning](https://arxiv.org/abs/2203.04983)
         * [Machine-Learning Compression for Particle Physics Discoveries](https://arxiv.org/abs/2210.11489)
         * [CaloDVAE : Discrete Variational Autoencoders for Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2210.07430)
+        * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
     *  Normalizing flows
 
@@ -1012,6 +1013,7 @@ The purpose of this note is to collect references for modern machine learning as
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
     * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
+    * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 
 *  Simulation-based (`likelihood-free') Inference
     *  Parameter estimation
