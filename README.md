@@ -529,6 +529,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Particle Physics Model Building with Reinforcement Learning](https://arxiv.org/abs/2103.04759)
             * [Reframing Jet Physics with New Computational Methods](https://arxiv.org/abs/2105.10512)
             * [A machine learning pipeline for autonomous numerical analytic continuation of Dyson-Schwinger equations](https://arxiv.org/abs/2112.13011)
+            * [Simplifying Polylogarithms with Machine Learning](https://arxiv.org/abs/2206.04115)
 
         *  Quantum Machine Learning
 
