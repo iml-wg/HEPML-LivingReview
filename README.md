@@ -521,7 +521,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
             * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
             * [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
-            * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
+            * [TopicFlow: Disentangling quark and gluon jets with normalizing flows](https://arxiv.org/abs/2211.16053)
 
         *  Unsupervised
 
@@ -902,7 +902,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
         * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
-        * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
+        * [TopicFlow: Disentangling quark and gluon jets with normalizing flows](https://arxiv.org/abs/2211.16053)
 
     *  Diffusion Models
 
