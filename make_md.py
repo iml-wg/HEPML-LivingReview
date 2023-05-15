@@ -4,8 +4,8 @@ import requests
 
 update_journal = False
 
-myfile = open("HEPML.tex")
-myfile_out = open("README.md","w")
+myfile = open("HEPML.tex", encoding="utf8")
+myfile_out = open("README.md","w", encoding="utf8")
 
 myfile_out.write("#  **A Living Review of Machine Learning for Particle Physics**\n\n")
 
@@ -55,7 +55,7 @@ def convert_from_bib(myline):
 
     myline = myline.replace(" ","").replace("\n","")
 
-    myfile_bib = open("HEPML.bib")
+    myfile_bib = open("HEPML.bib", encoding="utf8")
     mylines = []
     for line in myfile_bib:
         mylines+=[line]
@@ -103,8 +103,8 @@ def convert_from_bib(myline):
 
             #print(inspire_dict)
 
-            myfile_bib_copy = open("HEPML_copy.bib","w")
-            myfile_bib = open("HEPML.bib")
+            myfile_bib_copy = open("HEPML_copy.bib","w", encoding="utf8")
+            myfile_bib = open("HEPML.bib", encoding="utf8")
             for line in myfile_bib:
                 myfile_bib_copy.write(line)
                 if myentry_dict['eprint'] in line and "eprint" in line:
@@ -148,12 +148,16 @@ for line in myfile:
         continue
 
     if "\\item \\textbf{" in line:
-        line = line[0:line.find("}")]+line[line.find("}")+1:-1]
-    line = line.replace("\\textbf{","")
+        line = line.replace("\\textbf{","")
+        i = line.find("}")
+        j = line.find("{")
+        while j != -1 and j < i:
+            i = line.find("}", i+1)
+            j = line.find("{", i+1)
+        line = line[:i] + line[i+1:-1]
 
     if "textit{" in line:
         continue
-
     if "item" in line:
         if "begin{itemize}" in line:
             itemize_counter+=1
@@ -177,7 +181,7 @@ for line in myfile:
                     myfile_out.write("\n")
                     pass
                 pass
-            elif "cite" in line:
+            else:
                 mybuffer = ""
                 for j in range(itemize_counter-1):
                      mybuffer+="    "
@@ -189,7 +193,7 @@ for line in myfile:
                         myfile_out.write(mybuffer+"    * "+convert_from_bib(cite)+"\n")
                         pass
                     myfile_out.write("\n")
-                else:
+                elif "cite" in line:
                     myfile_out.write(mybuffer+"* "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
                     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
@@ -197,4 +201,6 @@ for line in myfile:
                         pass
                     myfile_out.write("\n")
                     pass
+                else:
+                    myfile_out.write(mybuffer+"* "+line.split(r"\item")[1]+"\n\n")
                 pass
