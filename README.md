@@ -703,7 +703,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Optimising simulations for diphoton production at hadron colliders using amplitude neural networks](https://arxiv.org/abs/2106.09474)
         * [A factorisation-aware Matrix element emulator](https://arxiv.org/abs/2107.06625)
         * [Accelerating Monte Carlo event generation -- rejection sampling using neural network event-weight estimates](https://arxiv.org/abs/2109.11964)
-        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145)
+        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145) [[DOI](https://doi.org/10.21468/SciPostPhys.12.4.129)]
         * [Fast and precise model calculation for KATRIN using a neural network](https://arxiv.org/abs/2201.04523)
         * [SYMBA: Symbolic Computation of Squared Amplitudes in High Energy Physics with Machine ALearning](https://arxiv.org/abs/2206.08901)
         * [Simplifying Polylogarithms with Machine Learning](https://arxiv.org/abs/2206.04115)
@@ -874,6 +874,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Normalizing flows
 
         * [Flow-based generative models for Markov chain Monte Carlo in lattice field theory](https://arxiv.org/abs/1904.12072) [[DOI](https://doi.org/10.1103/PhysRevD.100.034515)]
+        * [Invertible Networks or Partons to Detector and Back Again](https://arxiv.org/abs/2006.06685) [[DOI](https://doi.org/10.21468/SciPostPhys.9.5.074)]
         * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
         * [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913)
         * [Exploring phase space with Neural Importance Sampling](https://arxiv.org/abs/2001.05478) [[DOI](https://doi.org/10.21468/SciPostPhys.8.4.069)]
@@ -895,6 +896,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Inference of cosmic-ray source properties by conditional invertible neural networks](https://arxiv.org/abs/2110.09493)
         * [CaloFlow II: Even Faster and Still Accurate Generation of Calorimeter Showers with Normalizing Flows](https://arxiv.org/abs/2110.11377)
         * [Generative Networks for Precision Enthusiasts](https://arxiv.org/abs/2110.13632)
+        * [Targeting Multi-Loop Integrals with Neural Networks](https://arxiv.org/abs/2112.09145) [[DOI](https://doi.org/10.21468/SciPostPhys.12.4.129)]
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
