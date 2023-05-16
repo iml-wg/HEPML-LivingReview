@@ -717,6 +717,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Deep-Learned Event Variables for Collider Phenomenology](https://arxiv.org/abs/2105.10126)
         * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
         * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
+        * [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 
     *  Parton Distribution Functions (and related)
 
@@ -901,6 +902,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
         * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
         * [{{TopicFlow: Disentangling quark and gluon jets with normalizing flows}](https://arxiv.org/abs/2211.16053)
+        * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
 
     *  Diffusion Models
 
