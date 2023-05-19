@@ -183,6 +183,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908)
             * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948)
             * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
+            * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
 
         *  Physics-inspired basis
 
@@ -205,6 +206,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Supervised Jet Clustering with Graph Neural Networks for Lorentz Boosted Bosons](https://arxiv.org/abs/2008.06064) [[DOI](https://doi.org/10.1103/PhysRevD.102.075014)]
             * [Jet tagging in the Lund plane with graph networks](https://arxiv.org/abs/2012.08526) [[DOI](https://doi.org/10.1007/JHEP03(2021)052)]
             * [A $W^\pm$ polarization analyzer from Deep Neural Networks](https://arxiv.org/abs/2102.05124)
+            * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
 
         *  $H\rightarrow b\bar{b}$
 
@@ -237,6 +239,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Identifying the Quantum Properties of Hadronic Resonances using Machine Learning](https://arxiv.org/abs/2105.04582)
             * [Quarks and gluons in the Lund plane](https://arxiv.org/abs/2112.09140)
             * [Systematic Quark/Gluon Identification with Ratios of Likelihoods](https://arxiv.org/abs/2207.12411)
+            * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
 
         *  top quark tagging
 
@@ -388,6 +391,7 @@ The purpose of this note is to collect references for modern machine learning as
             * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
             * [Domain-informed neural networks for interaction localization within astroparticle experiments](https://arxiv.org/abs/2112.07995)
             * [Improving the machine learning based vertex reconstruction for large liquid scintillator detectors with multiple types of PMTs](https://arxiv.org/abs/2205.04039)
+            * [Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors](https://arxiv.org/abs/2305.09744)
 
         *  Cosmology, Astro Particle, and Cosmic Ray physics
 
@@ -491,6 +495,8 @@ The purpose of this note is to collect references for modern machine learning as
             * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
             * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
             * [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426)
+            * [Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor](https://arxiv.org/abs/2305.09562)
+            * [A machine learning study to identify collective flow in small and large colliding systems](https://arxiv.org/abs/2305.09937)
 
     *  Learning strategies
 
@@ -909,6 +915,8 @@ The purpose of this note is to collect references for modern machine learning as
     *  Diffusion Models
 
         * [Score-based Generative Models for Calorimeter Shower Simulation](https://arxiv.org/abs/2206.11898)
+        * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
+        * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 
     *  Physics-inspired
 
@@ -951,6 +959,7 @@ The purpose of this note is to collect references for modern machine learning as
     *  Other/hybrid
 
         * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
+        * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 
 *  Anomaly detection.
 
@@ -1064,6 +1073,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Constraining CP-violation in the Higgs-top-quark interaction using machine-learning-based inference](https://arxiv.org/abs/2110.10177)
         * [A method for approximating optimal statistical significances with machine-learned likelihoods](https://arxiv.org/abs/2205.05952)
         * [New Machine Learning Techniques for Simulation-Based Inference: InferoStatic Nets, Kernel Score Estimation, and Kernel Likelihood Ratio Estimation](https://arxiv.org/abs/2210.01680)
+        * [Learning Likelihood Ratios with Neural Network Classifiers](https://arxiv.org/abs/2305.10500)
 
     *  Unfolding
 
@@ -1085,6 +1095,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [Presenting Unbinned Differential Cross Section Results](https://arxiv.org/abs/2109.13243)
         * [Feed-forward neural network unfolding](https://arxiv.org/abs/2112.08180)
         * [Optimizing Observables with Machine Learning for Better Unfolding](https://arxiv.org/abs/2203.16722)
+        * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
 
     *  Domain adaptation
 
@@ -1164,6 +1175,7 @@ The purpose of this note is to collect references for modern machine learning as
 
         * [Search for an anomalous excess of inclusive charged-current $\nu_e$ interactions in the MicroBooNE experiment using Wire-Cell reconstruction](https://arxiv.org/abs/2110.13978)
         * [Search for an anomalous excess of charged-current quasi-elastic $\nu_e$ interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction](https://arxiv.org/abs/2110.14080)
+        * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
 
     *  Final analysis discriminate for searches
 
