@@ -785,6 +785,7 @@ The purpose of this note is to collect references for modern machine learning as
         * [An open-source machine learning framework for global analyses of parton distributions](https://arxiv.org/abs/2109.02671)
         * [Exploring the substructure of nucleons and nuclei with machine learning](https://arxiv.org/abs/2110.01924)
         * [A new generation of simultaneous fits to LHC data using deep learning](https://arxiv.org/abs/2201.07240)
+        * [Unpolarized proton PDF at NNLO from lattice QCD with physical quark masses](https://arxiv.org/abs/2212.12569) [[DOI](https://doi.org/10.1103/PhysRevD.107.074509)]
         * [Simultaneous CTEQ-TEA extraction of PDFs and SMEFT parameters from jet and $ t\overline{t} $ data](https://arxiv.org/abs/2211.01094) [[DOI](https://doi.org/10.1007/JHEP05(2023)003)]
         * [Neutrino Structure Functions from GeV to EeV Energies](https://arxiv.org/abs/2302.08527)
         * [Determination of the distribution of strong coupling constant with machine learning](https://arxiv.org/abs/2303.07968)
@@ -806,10 +807,33 @@ The purpose of this note is to collect references for modern machine learning as
         * [Machine learning Hadron Spectral Functions in Lattice QCD](https://arxiv.org/abs/2112.00460)
         * [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
         * [Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help](https://arxiv.org/abs/2201.02564)
+        * [Gauge Equivariant Neural Networks for 2+1D U(1) Gauge Theory Simulations in Hamiltonian Formulation](https://arxiv.org/abs/2211.03198)
+        * [Fourier-flow model generating Feynman paths](https://arxiv.org/abs/2211.03470) [[DOI](https://doi.org/10.1103/PhysRevD.107.056001)]
         * [Deep-learning quasi-particle masses from QCD equation of state](https://arxiv.org/abs/2211.07994)
         * [Massive gauge theory with quasigluon for hot SU(N): Phase transition and thermodynamics](https://arxiv.org/abs/2211.09442) [[DOI](https://doi.org/10.1103/PhysRevD.107.076005)]
+        * [Learning trivializing flows](https://arxiv.org/abs/2211.12806) [[DOI](https://doi.org/10.22323/1.430.0001)]
+        * [Gluon helicity distribution in the nucleon from lattice QCD and machine learning](https://arxiv.org/abs/2211.15587)
+        * [Persistent homology as a probe for center vortices and deconfinement in SU(2) lattice gauge theory](https://arxiv.org/abs/2211.16273) [[DOI](https://doi.org/10.22323/1.430.0387)]
+        * [Error reduction using machine learning on Ising worm simulation](https://arxiv.org/abs/2212.02365) [[DOI](https://doi.org/10.22323/1.430.0018)]
+        * [A machine learning approach to the classification of phase transitions in many flavor QCD](https://arxiv.org/abs/2211.16232) [[DOI](https://doi.org/10.22323/1.430.0027)]
+        * [Applications of Lattice Gauge Equivariant Neural Networks](https://arxiv.org/abs/2212.00832) [[DOI](https://doi.org/10.1051/epjconf/202227409001)]
+        * [Simulating 2+1D Lattice Quantum Electrodynamics at Finite Density with Neural Flow Wavefunctions](https://arxiv.org/abs/2212.06835)
+        * [Learning trivializing gradient flows for lattice gauge theories](https://arxiv.org/abs/2212.08469) [[DOI](https://doi.org/10.1103/PhysRevD.107.L051504)]
+        * [Learning trivializing gradient flows for lattice gauge theories](https://arxiv.org/abs/2212.08469) [[DOI](https://doi.org/10.1103/PhysRevD.107.L051504)]
+        * [Unpolarized proton PDF at NNLO from lattice QCD with physical quark masses](https://arxiv.org/abs/2212.12569) [[DOI](https://doi.org/10.1103/PhysRevD.107.074509)]
         * [Schwinger mechanism for gluons from lattice QCD](https://arxiv.org/abs/2211.12594) [[DOI](https://doi.org/10.1016/j.physletb.2023.137906)]
+        * [Deep Learning of Fermion Sign Fluctuations](https://arxiv.org/abs/2212.14606)
+        * [Machine learning phases of an Abelian gauge theory](https://arxiv.org/abs/2212.14655)
+        * [Gauge-equivariant neural networks as preconditioners in lattice QCD](https://arxiv.org/abs/2302.05419)
+        * [Learning Trivializing Flows](https://arxiv.org/abs/2302.08408)
+        * [Detecting and Mitigating Mode-Collapse for Flow-based Sampling of Lattice Field Theories](https://arxiv.org/abs/2302.14082)
+        * [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
         * [Exploring QCD matter in extreme conditions with Machine Learning](https://arxiv.org/abs/2303.15136)
+        * [Exotic Tetraquark states with two $\bar{b}$-quarks and $J^P](https://arxiv.org/abs/2303.17295)
+        * [Locality-constrained autoregressive cum conditional normalizing flow for lattice field theory simulations](https://arxiv.org/abs/2304.01798)
+        * [A variational Monte Carlo algorithm for lattice gauge theories with continuous gauge groups: a study of (2+1)-dimensional compact QED with dynamical fermions at finite density](https://arxiv.org/abs/2304.05916)
+        * [Evidence of the Schwinger mechanism from lattice QCD](https://arxiv.org/abs/2304.07800)
+        * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
 
     *  Function Approximation
 
@@ -834,11 +858,16 @@ The purpose of this note is to collect references for modern machine learning as
     * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
     * [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
     * [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
+    * [Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help](https://arxiv.org/abs/2201.02564)
     * [Symmetry Group Equivariant Architectures for Physics](https://arxiv.org/abs/2203.06153)
+    * [Applications of Lattice Gauge Equivariant Neural Networks](https://arxiv.org/abs/2212.00832) [[DOI](https://doi.org/10.1051/epjconf/202227409001)]
     * [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
+    * [Gauge-equivariant neural networks as preconditioners in lattice QCD](https://arxiv.org/abs/2302.05419)
     * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
+    * [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
     * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
     * [Discovering Sparse Representations of Lie Groups with Machine Learning](https://arxiv.org/abs/2302.05383)
+    * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
 
 *  Decorrelation methods.
 
@@ -986,12 +1015,17 @@ The purpose of this note is to collect references for modern machine learning as
         * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
         * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
         * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
+        * [Fourier-flow model generating Feynman paths](https://arxiv.org/abs/2211.03470) [[DOI](https://doi.org/10.1103/PhysRevD.107.056001)]
+        * [Learning trivializing flows](https://arxiv.org/abs/2211.12806) [[DOI](https://doi.org/10.22323/1.430.0001)]
         * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
         * [CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds](https://arxiv.org/abs/2211.15380)
         * [TopicFlow: Disentangling quark and gluon jets with normalizing flows](https://arxiv.org/abs/2211.16053)
         * [An unfolding method based on conditional Invertible Neural Networks (cINN) using iterative training](https://arxiv.org/abs/2212.08674)
         * [MadNIS -- Neural Multi-Channel Importance Sampling](https://arxiv.org/abs/2212.06172)
+        * [Learning Trivializing Flows](https://arxiv.org/abs/2302.08408)
         * [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906)
+        * [Detecting and Mitigating Mode-Collapse for Flow-based Sampling of Lattice Field Theories](https://arxiv.org/abs/2302.14082)
+        * [Locality-constrained autoregressive cum conditional normalizing flow for lattice field theory simulations](https://arxiv.org/abs/2304.01798)
         * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
 
     *  Diffusion Models
