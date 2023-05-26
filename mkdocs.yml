@@ -39,7 +39,7 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
-  palette: 
+  palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch
