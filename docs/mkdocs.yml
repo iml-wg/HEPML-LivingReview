@@ -1,7 +1,7 @@
 site_name: HEP ML Living Review
 site_url: https://iml-wg.github.io/HEPML-LivingReview/
 nav:
-  - Home : index.md
+  - Home: index.md
   - About: about.md
   - Contribute: contribute.md
   - Resources: resources.md
@@ -13,17 +13,6 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - md_in_html
-  - pymdownx.arithmatex:
-      generic: true
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 theme:
   name: material
@@ -35,16 +24,6 @@ theme:
     - navigation.top
     # - toc.integrate
     - search.share
-    - search.suggest
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
-  palette: 
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
