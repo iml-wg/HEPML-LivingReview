@@ -197,14 +197,14 @@ for line in myfile:
                 hascites = len(line.split("cite"))
                 if (hascites==1):
                     if "Experimental" not in line:
-                        write_to_files("## "+line.replace(r"\item","")+"\n")#,add_header=True)
+                        write_to_files("## "+line.replace(r"\item","")+"\n")
                     else:
                         write_to_files("##  Experimental results.\n *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*\n\n")
                 else:
                     write_to_files("## "+line.replace(r"\item","").split(r"~\cite")[0]+".\n\n",add_header=True)
                     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
                     for cite in mycites:
-                        write_to_files("    * "+convert_from_bib(cite)+"\n")
+                        write_to_files("* "+convert_from_bib(cite)+"\n")
                         pass
                     write_to_files("\n")
                     pass

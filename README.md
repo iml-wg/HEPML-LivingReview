@@ -855,45 +855,45 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Equivariant networks.
 
-    * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
-    * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964) [[DOI](https://doi.org/10.1103/PhysRevD.103.074022)]
-    * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
-    * [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
-    * [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
-    * [Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help](https://arxiv.org/abs/2201.02564)
-    * [Symmetry Group Equivariant Architectures for Physics](https://arxiv.org/abs/2203.06153)
-    * [Applications of Lattice Gauge Equivariant Neural Networks](https://arxiv.org/abs/2212.00832) [[DOI](https://doi.org/10.1051/epjconf/202227409001)]
-    * [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
-    * [Gauge-equivariant neural networks as preconditioners in lattice QCD](https://arxiv.org/abs/2302.05419)
-    * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
-    * [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
-    * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
-    * [Discovering Sparse Representations of Lie Groups with Machine Learning](https://arxiv.org/abs/2302.05383)
-    * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
+* [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)]
+* [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964) [[DOI](https://doi.org/10.1103/PhysRevD.103.074022)]
+* [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901)
+* [Equivariance and generalization in neural networks](https://arxiv.org/abs/2112.12493)
+* [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/abs/2201.08187)
+* [Rethinking the ill-posedness of the spectral function reconstruction -- why is it fundamentally hard and how Artificial Neural Networks can help](https://arxiv.org/abs/2201.02564)
+* [Symmetry Group Equivariant Architectures for Physics](https://arxiv.org/abs/2203.06153)
+* [Applications of Lattice Gauge Equivariant Neural Networks](https://arxiv.org/abs/2212.00832) [[DOI](https://doi.org/10.1051/epjconf/202227409001)]
+* [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
+* [Gauge-equivariant neural networks as preconditioners in lattice QCD](https://arxiv.org/abs/2302.05419)
+* [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
+* [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
+* [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
+* [Discovering Sparse Representations of Lie Groups with Machine Learning](https://arxiv.org/abs/2302.05383)
+* [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
 
 ##  Decorrelation methods.
 
-    * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
-    * [Thinking outside the ROCs: Designing Decorrelated Taggers (DDT) for jet substructure](https://arxiv.org/abs/1603.00027) [[DOI](https://doi.org/10.1007/JHEP05(2016)156)]
-    * Convolved Substructure: Analytically Decorrelating Jet Substructure Observables
-    * [uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://arxiv.org/abs/1305.7248) [[DOI](https://doi.org/10.1088/1748-0221/8/12/P12013)]
-    * [Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://arxiv.org/abs/1703.03507) [[DOI](https://doi.org/10.1103/PhysRevD.96.074034)]
-    * [Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959) [[DOI](https://doi.org/10.21468/SciPostPhys.8.1.011)]
-    * [Performance of mass-decorrelated jet substructure](http://cds.cern.ch/record/2630973)
-    * [DisCo Fever: Robust Networks Through Distance Correlation](https://arxiv.org/abs/2001.05310) [[DOI](https://doi.org/10.1103/PhysRevLett.125.122001)]
-    * [QBDT, a new boosting decision tree method with systematical uncertainties into training for High Energy Physics](https://arxiv.org/abs/1810.08387) [[DOI](https://doi.org/10.1016/j.nima.2019.03.088)]
-    * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
-    * [Reducing the dependence of the neural network function to systematic uncertainties in the input space](https://arxiv.org/abs/1907.11674) [[DOI](https://doi.org/10.1007/s41781-020-00037-9)]
-    * [New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140) [[DOI](https://doi.org/10.1088/1748-0221/10/03/T03002)]
-    * [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
-    * [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
-    * [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
-    * [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
-    * [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
-    * [Metalearning and data augmentation for mass-generalized jet taggers](https://arxiv.org/abs/2111.06047) [[DOI](https://doi.org/10.1103/PhysRevD.105.094030)]
-    * [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
-    * [Decorrelation with conditional normalizing flows](https://arxiv.org/abs/2211.02486)
-    * [Feature Selection with Distance Correlation](https://arxiv.org/abs/2212.00046)
+* [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)]
+* [Thinking outside the ROCs: Designing Decorrelated Taggers (DDT) for jet substructure](https://arxiv.org/abs/1603.00027) [[DOI](https://doi.org/10.1007/JHEP05(2016)156)]
+* Convolved Substructure: Analytically Decorrelating Jet Substructure Observables
+* [uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://arxiv.org/abs/1305.7248) [[DOI](https://doi.org/10.1088/1748-0221/8/12/P12013)]
+* [Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://arxiv.org/abs/1703.03507) [[DOI](https://doi.org/10.1103/PhysRevD.96.074034)]
+* [Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959) [[DOI](https://doi.org/10.21468/SciPostPhys.8.1.011)]
+* [Performance of mass-decorrelated jet substructure](http://cds.cern.ch/record/2630973)
+* [DisCo Fever: Robust Networks Through Distance Correlation](https://arxiv.org/abs/2001.05310) [[DOI](https://doi.org/10.1103/PhysRevLett.125.122001)]
+* [QBDT, a new boosting decision tree method with systematical uncertainties into training for High Energy Physics](https://arxiv.org/abs/1810.08387) [[DOI](https://doi.org/10.1016/j.nima.2019.03.088)]
+* [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)]
+* [Reducing the dependence of the neural network function to systematic uncertainties in the input space](https://arxiv.org/abs/1907.11674) [[DOI](https://doi.org/10.1007/s41781-020-00037-9)]
+* [New approaches for boosting to uniformity](https://arxiv.org/abs/1410.4140) [[DOI](https://doi.org/10.1088/1748-0221/10/03/T03002)]
+* [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
+* [Adversarial domain adaptation to reduce sample bias of a high energy physics classifier](https://arxiv.org/abs/2005.00568)
+* [ABCDisCo: Automating the ABCD Method with Machine Learning](https://arxiv.org/abs/2007.14400) [[DOI](https://doi.org/10.1103/PhysRevD.103.035021)]
+* [Enhancing searches for resonances with machine learning and moment decomposition](https://arxiv.org/abs/2010.09745)
+* [A Cautionary Tale of Decorrelating Theory Uncertainties](https://arxiv.org/abs/2109.08159)
+* [Metalearning and data augmentation for mass-generalized jet taggers](https://arxiv.org/abs/2111.06047) [[DOI](https://doi.org/10.1103/PhysRevD.105.094030)]
+* [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
+* [Decorrelation with conditional normalizing flows](https://arxiv.org/abs/2211.02486)
+* [Feature Selection with Distance Correlation](https://arxiv.org/abs/2212.00046)
 
 ##  Generative models / density estimation
 ###  GANs
@@ -1089,94 +1089,94 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Anomaly detection.
 
-    * [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350) [[DOI](https://doi.org/10.1103/PhysRevD.99.015014)]
-    * [Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664) [[DOI](https://doi.org/10.1103/PhysRevLett.121.241803)]
-    * [Extending the search for new resonances with machine learning](https://arxiv.org/abs/1902.02634) [[DOI](https://doi.org/10.1103/PhysRevD.99.014038)]
-    * [Learning Multivariate New Physics](https://arxiv.org/abs/1912.12155) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08853-y)]
-    * [Searching for New Physics with Deep Autoencoders](https://arxiv.org/abs/1808.08992) [[DOI](https://doi.org/10.1103/PhysRevD.101.075021)]
-    * [QCD or What?](https://arxiv.org/abs/1808.08979) [[DOI](https://doi.org/10.21468/SciPostPhys.6.3.030)]
-    * [A robust anomaly finder based on autoencoder](https://arxiv.org/abs/1903.02032)
-    * [Variational Autoencoders for New Physics Mining at the Large Hadron Collider](https://arxiv.org/abs/1811.10276) [[DOI](https://doi.org/10.1007/JHEP05(2019)036)]
-    * [Adversarially-trained autoencoders for robust unsupervised new physics searches](https://arxiv.org/abs/1905.10384) [[DOI](https://doi.org/10.1007/JHEP10(2019)047)]
-    * [Novelty Detection Meets Collider Physics](https://arxiv.org/abs/1807.10261) [[DOI](https://doi.org/10.1103/PhysRevD.101.076015)]
-    * [Guiding New Physics Searches with Unsupervised Learning](https://arxiv.org/abs/1807.06038) [[DOI](https://doi.org/10.1140/epjc/s10052-019-6787-3)]
-    * [Does SUSY have friends? A new approach for LHC event analysis](https://arxiv.org/abs/1912.10625) [[DOI](https://doi.org/10.1007/JHEP02(2021)160)]
-    * [Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
-    * [Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
-    * [Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001) [[DOI](https://doi.org/10.1103/PhysRevD.101.095004)]
-    * [Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
-    * [A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087) [[DOI](https://doi.org/10.1007/JHEP11(2017)163)]
-    * [Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220) [[DOI](https://doi.org/10.1103/PhysRevD.101.035042)]
-    * [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
-    * [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598) [[DOI](https://doi.org/10.1140/epjp/s13360-021-01109-4)]
-    * [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983) [[DOI](https://doi.org/10.1103/PhysRevLett.125.131801)]
-    * [Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319) [[DOI](https://doi.org/10.1007/JHEP10(2020)206)]
-    * [Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08807-w)]
-    * [Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376) [[DOI](https://doi.org/10.1007/JHEP01(2021)153)]
-    * [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
-    * [Anomaly Awareness](https://arxiv.org/abs/2007.14462)
-    * [Unsupervised Outlier Detection in Heavy-Ion Collisions](https://arxiv.org/abs/2007.15830)
-    * [Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
-    * [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792) [[DOI](https://doi.org/10.1007/JHEP03(2021)012)]
-    * [Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
-    * [Anomaly Detection With Conditional Variational Autoencoders](https://arxiv.org/abs/2010.05531)
-    * [Unsupervised clustering for collider physics](https://arxiv.org/abs/2010.07106)
-    * [Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
-    * [Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
-    * [Uncovering hidden patterns in collider events with Bayesian probabilistic models](https://arxiv.org/abs/2012.08579)
-    * [Unsupervised in-distribution anomaly detection of new physics through conditional density estimation](https://arxiv.org/abs/2012.11638)
-    * [The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
-    * [Model-Independent Detection of New Physics Signals Using Interpretable Semi-Supervised Classifier Tests](https://arxiv.org/abs/2102.07679)
-    * [Topological Obstructions to Autoencoding](https://arxiv.org/abs/2102.08380)
-    * [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
-    * [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
-    * [Comparing Weak- and Unsupervised Methods for Resonant Anomaly Detection](https://arxiv.org/abs/2104.02092)
-    * [Better Latent Spaces for Better Autoencoders](https://arxiv.org/abs/2104.08291)
-    * [Autoencoders for unsupervised anomaly detection in high energy physics](https://arxiv.org/abs/2104.09051)
-    * [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
-    * [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
-    * [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
-    * [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
-    * [RanBox: Anomaly Detection in the Copula Space](https://arxiv.org/abs/2106.05747)
-    * [Rare and Different: Anomaly Scores from a combination of likelihood and out-of-distribution models to detect new physics at the LHC](https://arxiv.org/abs/2106.10164)
-    * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
-    * [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
-    * [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
-    * [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
-    * [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
-    * [Deep Set Auto Encoders for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2109.01695)
-    * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
-    * [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
-    * [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
-    * [Anomaly detection from mass unspecific jet tagging](https://arxiv.org/abs/2111.02647)
-    * [A method to challenge symmetries in data with self-supervised learning](https://arxiv.org/abs/2111.05442)
-    * [Stressed GANs snag desserts, a.k.a Spotting Symmetry Violation with Symmetric Functions](https://arxiv.org/abs/2111.00616)
-    * [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
-    * [Event-based anomaly detection for new physics searches at the LHC using machine learning](https://arxiv.org/abs/2111.12119)
-    * [Learning New Physics from an Imperfect Machine](https://arxiv.org/abs/2111.13633)
-    * [Autoencoders for Semivisible Jet Detection](https://arxiv.org/abs/2112.02864)
-    * [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
-    * [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
-    * [Taming modeling uncertainties with Mass Unspecific Supervised Tagging](https://arxiv.org/abs/2201.11143)
-    * [What's Anomalous in LHC Jets?](https://arxiv.org/abs/2202.00686)
-    * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
-    * [Self-supervised Anomaly Detection for New Physics](https://arxiv.org/abs/2205.10380)
-    * [Data-directed search for new physics based on symmetries of the SM](https://arxiv.org/abs/2203.07529) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10454-2)]
-    * [CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](https://arxiv.org/abs/2203.09470)
-    * [Learning new physics efficiently with nonparametric methods](https://arxiv.org/abs/2204.02317)
-    * [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
-    * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
-    * [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
-    * [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
-    * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
-    * [Neural Embedding: Learning the Embedding of the Manifold of Physics Data](https://arxiv.org/abs/2208.05484)
-    * [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226)
-    * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
-    * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
-    * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
-    * [Efficiently Moving Instead of Reweighting Collider Events with Machine Learning](https://arxiv.org/abs/2212.06155)
-    * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
-    * [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
+* [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350) [[DOI](https://doi.org/10.1103/PhysRevD.99.015014)]
+* [Anomaly Detection for Resonant New Physics with Machine Learning](https://arxiv.org/abs/1805.02664) [[DOI](https://doi.org/10.1103/PhysRevLett.121.241803)]
+* [Extending the search for new resonances with machine learning](https://arxiv.org/abs/1902.02634) [[DOI](https://doi.org/10.1103/PhysRevD.99.014038)]
+* [Learning Multivariate New Physics](https://arxiv.org/abs/1912.12155) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08853-y)]
+* [Searching for New Physics with Deep Autoencoders](https://arxiv.org/abs/1808.08992) [[DOI](https://doi.org/10.1103/PhysRevD.101.075021)]
+* [QCD or What?](https://arxiv.org/abs/1808.08979) [[DOI](https://doi.org/10.21468/SciPostPhys.6.3.030)]
+* [A robust anomaly finder based on autoencoder](https://arxiv.org/abs/1903.02032)
+* [Variational Autoencoders for New Physics Mining at the Large Hadron Collider](https://arxiv.org/abs/1811.10276) [[DOI](https://doi.org/10.1007/JHEP05(2019)036)]
+* [Adversarially-trained autoencoders for robust unsupervised new physics searches](https://arxiv.org/abs/1905.10384) [[DOI](https://doi.org/10.1007/JHEP10(2019)047)]
+* [Novelty Detection Meets Collider Physics](https://arxiv.org/abs/1807.10261) [[DOI](https://doi.org/10.1103/PhysRevD.101.076015)]
+* [Guiding New Physics Searches with Unsupervised Learning](https://arxiv.org/abs/1807.06038) [[DOI](https://doi.org/10.1140/epjc/s10052-019-6787-3)]
+* [Does SUSY have friends? A new approach for LHC event analysis](https://arxiv.org/abs/1912.10625) [[DOI](https://doi.org/10.1007/JHEP02(2021)160)]
+* [Nonparametric semisupervised classification for signal detection in high energy physics](https://arxiv.org/abs/1809.02977)
+* [Uncovering latent jet substructure](https://arxiv.org/abs/1904.04200) [[DOI](https://doi.org/10.1103/PhysRevD.100.056002)]
+* [Simulation Assisted Likelihood-free Anomaly Detection](https://arxiv.org/abs/2001.05001) [[DOI](https://doi.org/10.1103/PhysRevD.101.095004)]
+* [Anomaly Detection with Density Estimation](https://arxiv.org/abs/2001.04990) [[DOI](https://doi.org/10.1103/PhysRevD.101.075042)]
+* [A generic anti-QCD jet tagger](https://arxiv.org/abs/1709.01087) [[DOI](https://doi.org/10.1007/JHEP11(2017)163)]
+* [Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://arxiv.org/abs/1912.04220) [[DOI](https://doi.org/10.1103/PhysRevD.101.035042)]
+* [Use of a Generalized Energy Mover's Distance in the Search for Rare Phenomena at Colliders](https://arxiv.org/abs/2004.09360) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08891-6)]
+* [Adversarially Learned Anomaly Detection on CMS Open Data: re-discovering the top quark](https://arxiv.org/abs/2005.01598) [[DOI](https://doi.org/10.1140/epjp/s13360-021-01109-4)]
+* [Dijet resonance search with weak supervision using 13 TeV pp collisions in the ATLAS detector](https://arxiv.org/abs/2005.02983) [[DOI](https://doi.org/10.1103/PhysRevLett.125.131801)]
+* [Learning the latent structure of collider events](https://arxiv.org/abs/2005.12319) [[DOI](https://doi.org/10.1007/JHEP10(2020)206)]
+* [Finding New Physics without learning about it: Anomaly Detection as a tool for Searches at Colliders](https://arxiv.org/abs/2006.05432) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08807-w)]
+* [Tag N' Train: A Technique to Train Improved Classifiers on Unlabeled Data](https://arxiv.org/abs/2002.12376) [[DOI](https://doi.org/10.1007/JHEP01(2021)153)]
+* [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850)
+* [Anomaly Awareness](https://arxiv.org/abs/2007.14462)
+* [Unsupervised Outlier Detection in Heavy-Ion Collisions](https://arxiv.org/abs/2007.15830)
+* [Decoding Dark Matter Substructure without Supervision](https://arxiv.org/abs/2008.12731)
+* [Mass Unspecific Supervised Tagging (MUST) for boosted jets](https://arxiv.org/abs/2008.12792) [[DOI](https://doi.org/10.1007/JHEP03(2021)012)]
+* [Simulation-Assisted Decorrelation for Resonant Anomaly Detection](https://arxiv.org/abs/2009.02205)
+* [Anomaly Detection With Conditional Variational Autoencoders](https://arxiv.org/abs/2010.05531)
+* [Unsupervised clustering for collider physics](https://arxiv.org/abs/2010.07106)
+* [Combining outlier analysis algorithms to identify new physics at the LHC](https://arxiv.org/abs/2010.07940)
+* [Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge](https://arxiv.org/abs/2011.03550)
+* [Uncovering hidden patterns in collider events with Bayesian probabilistic models](https://arxiv.org/abs/2012.08579)
+* [Unsupervised in-distribution anomaly detection of new physics through conditional density estimation](https://arxiv.org/abs/2012.11638)
+* [The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics](https://arxiv.org/abs/2101.08320)
+* [Model-Independent Detection of New Physics Signals Using Interpretable Semi-Supervised Classifier Tests](https://arxiv.org/abs/2102.07679)
+* [Topological Obstructions to Autoencoding](https://arxiv.org/abs/2102.08380)
+* [Unsupervised Event Classification with Graphs on Classical and Photonic Quantum Computers](https://arxiv.org/abs/2103.03897)
+* [Bump Hunting in Latent Space](https://arxiv.org/abs/2103.06595)
+* [Comparing Weak- and Unsupervised Methods for Resonant Anomaly Detection](https://arxiv.org/abs/2104.02092)
+* [Better Latent Spaces for Better Autoencoders](https://arxiv.org/abs/2104.08291)
+* [Autoencoders for unsupervised anomaly detection in high energy physics](https://arxiv.org/abs/2104.09051)
+* [Via Machinae: Searching for Stellar Streams using Unsupervised Machine Learning](https://arxiv.org/abs/2104.12789)
+* [Anomaly detection with Convolutional Graph Neural Networks](https://arxiv.org/abs/2105.07988)
+* [Anomalous Jet Identification via Sequence Modeling](https://arxiv.org/abs/2105.09274)
+* [The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider](https://arxiv.org/abs/2105.14027)
+* [RanBox: Anomaly Detection in the Copula Space](https://arxiv.org/abs/2106.05747)
+* [Rare and Different: Anomaly Scores from a combination of likelihood and out-of-distribution models to detect new physics at the LHC](https://arxiv.org/abs/2106.10164)
+* [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
+* [New Methods and Datasets for Group Anomaly Detection From Fundamental Physics](https://arxiv.org/abs/2107.02821)
+* [The Data-Directed Paradigm for BSM searches](https://arxiv.org/abs/2107.11573)
+* [Autoencoders on FPGAs for real-time, unsupervised new physics detection at 40 MHz at the Large Hadron Collider](https://arxiv.org/abs/2108.03986)
+* [Classifying Anomalies THrough Outer Density Estimation (CATHODE)](https://arxiv.org/abs/2109.00546)
+* [Deep Set Auto Encoders for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2109.01695)
+* [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
+* [Improving Variational Autoencoders for New Physics Detection at the LHC with Normalizing Flows](https://arxiv.org/abs/2110.08508)
+* [Signal-agnostic dark matter searches in direct detection data with machine learning](https://arxiv.org/abs/2110.12248)
+* [Anomaly detection from mass unspecific jet tagging](https://arxiv.org/abs/2111.02647)
+* [A method to challenge symmetries in data with self-supervised learning](https://arxiv.org/abs/2111.05442)
+* [Stressed GANs snag desserts, a.k.a Spotting Symmetry Violation with Symmetric Functions](https://arxiv.org/abs/2111.00616)
+* [Online-compatible Unsupervised Non-resonant Anomaly Detection](https://arxiv.org/abs/2111.06417)
+* [Event-based anomaly detection for new physics searches at the LHC using machine learning](https://arxiv.org/abs/2111.12119)
+* [Learning New Physics from an Imperfect Machine](https://arxiv.org/abs/2111.13633)
+* [Autoencoders for Semivisible Jet Detection](https://arxiv.org/abs/2112.02864)
+* [Anomaly detection in high-energy physics using a quantum autoencoder](https://arxiv.org/abs/2112.04958)
+* [Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](https://arxiv.org/abs/2203.01343)
+* [Taming modeling uncertainties with Mass Unspecific Supervised Tagging](https://arxiv.org/abs/2201.11143)
+* [What's Anomalous in LHC Jets?](https://arxiv.org/abs/2202.00686)
+* [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391)
+* [Self-supervised Anomaly Detection for New Physics](https://arxiv.org/abs/2205.10380)
+* [Data-directed search for new physics based on symmetries of the SM](https://arxiv.org/abs/2203.07529) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10454-2)]
+* [CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](https://arxiv.org/abs/2203.09470)
+* [Learning new physics efficiently with nonparametric methods](https://arxiv.org/abs/2204.02317)
+* [''Flux+Mutability'': A Conditional Generative Approach to One-Class Classification and Anomaly Detection](https://arxiv.org/abs/2204.08609)
+* [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
+* [Event Generation and Density Estimation with Surjective Normalizing Flows](https://arxiv.org/abs/2205.01697)
+* [A Normalized Autoencoder for LHC Triggers](https://arxiv.org/abs/2206.14225)
+* [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631)
+* [Neural Embedding: Learning the Embedding of the Manifold of Physics Data](https://arxiv.org/abs/2208.05484)
+* [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226)
+* [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924)
+* [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
+* [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
+* [Efficiently Moving Instead of Reweighting Collider Events with Machine Learning](https://arxiv.org/abs/2212.06155)
+* [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
+* [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
 
 ##  Simulation-based (`likelihood-free') Inference
 ###  Parameter estimation
