@@ -223,15 +223,7 @@ for line in myfile:
                         write_to_files(mybuffer+"* "+convert_from_bib(cite)+"\n")
                         pass
                     write_to_files("\n")
-                # if ("cite" in line) and (itemize_counter==3):
-                #     write_to_files(header+" "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
-                #     write_to_files(header+'#'+" "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
-                #     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
-                #     for cite in mycites:
-                #         write_to_files(mybuffer+"* "+convert_from_bib(cite)+"\n")
-                #         pass
-                #     write_to_files("\n")
-                #     pass
+
                 elif "cite" in line:
                     write_to_files(header+" "+line.split(r"~\cite{")[0].split(r"\item")[1]+"\n\n")
                     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
