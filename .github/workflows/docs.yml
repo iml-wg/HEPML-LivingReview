@@ -49,14 +49,11 @@ jobs:
           apk add make
           make document
 
-    - name: Setup docs for deployment
+    - name: Build and deploy
       run: |
-        mkdir -p docs/_build/review
-        cp README.md docs/_build/
-        cp HEPML.pdf docs/_build/review/hepml-review.pdf
-
-    - name: Deploy docs to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+        mkdir docs/review/
+        cp HEPML.pdf docs/review/hepml-review.pdf
+        mkdocs gh-deploy
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: docs/_build
