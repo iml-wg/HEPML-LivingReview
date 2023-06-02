@@ -644,6 +644,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
             * [Which Metric on the Space of Collider Events?](https://arxiv.org/abs/2111.03670)
             * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
             * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029)
+            * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 
     *  Fast inference / deployment
 
