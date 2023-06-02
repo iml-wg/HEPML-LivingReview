@@ -566,7 +566,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Disentangling Quarks and Gluons with CMS Open Data](https://arxiv.org/abs/2205.04459)
 * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
 * [Boosting mono-jet searches with model-agnostic machine learning](https://arxiv.org/abs/2204.11889) [[DOI](https://doi.org/10.1007/JHEP08(2022)015)]
-* [Going off topics to demix quark and gluon jets in $\alpha_S$ extractions](https://arxiv.org/abs/2206.10642)
+* [Going off topics to demix quark and gluon jets in \ensuremath{\alpha}$_{S}$ extractions](https://arxiv.org/abs/2206.10642) [[DOI](https://doi.org/10.1007/JHEP02(2023)150)]
 * [TopicFlow: Disentangling quark and gluon jets with normalizing flows](https://arxiv.org/abs/2211.16053)
 * [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
 
