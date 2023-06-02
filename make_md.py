@@ -153,9 +153,6 @@ def convert_from_bib(myline):
 def write_to_files(*args,readme=myfile_readme,webpage=myfile_out,add_header=False):
     for line in args:
         readme.write(line)
-
-
-
         split = line.split("###")
         if line.find('####') == -1:
             if len(split) > 1:
