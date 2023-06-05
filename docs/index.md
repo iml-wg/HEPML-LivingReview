@@ -3,6 +3,23 @@ hide:
   - navigation
 ---
 
+<script>
+// Toggle open all details elements, onload
+// Regardless of their initial status
+// StackOverflow 43008609
+const expandElements = shouldExpand => {
+    let detailsElements = document.querySelectorAll("details");
+    
+    detailsElements = [...detailsElements];
+
+    if (shouldExpand) {
+        detailsElements.map(item => item.setAttribute("open", shouldExpand));
+    } else {
+        detailsElements.map(item => item.removeAttribute("open"));
+    }
+};
+</script>
+
 #  **A Living Review of Machine Learning for Particle Physics**
 
 *Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*
@@ -10,6 +27,9 @@ hide:
 [![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)
 [![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)
 
+
+<a class="md-button" onClick="expandElements(true)">Expand all sections</a>
+<a class="md-button" onClick="expandElements(false)">Collapse all sections</a>
 ##  Reviews
 
 ??? example "Modern reviews"

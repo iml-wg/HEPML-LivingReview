@@ -13,6 +13,12 @@ myfile_about = open("docs/about.md", "w",encoding="utf8")
 for file in myfile_about,myfile_out:
     file.write("---\nhide:\n  - navigation\n---\n\n")
 
+with open("script.js") as script:
+    myfile_out.write('<script>\n')
+    for line in script:
+        myfile_out.write(line)
+    myfile_out.write('\n</script>\n\n')
+
 for file in myfile_readme,myfile_out:
     file.write("#  **A Living Review of Machine Learning for Particle Physics**\n\n")
     file.write("*Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*\n\n")
@@ -23,6 +29,8 @@ for file in myfile_readme,myfile_about:
     file.write(r"The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.")
     file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, and Ramon Winterhalder.\n\n")
 
+###Add buttons
+myfile_out.write("""\n<a class="md-button" onClick="expandElements(true)">Expand all sections</a>\n<a class="md-button" onClick="expandElements(false)">Collapse all sections</a>\n""")
 
 ###This bit is slightly modified from Kyle Cranmer https://github.com/cranmer/inspire_play
 def summarize_record(recid):
