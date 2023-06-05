@@ -2,6 +2,10 @@ import os
 
 import requests
 
+from datetime import datetime
+from dataclasses import dataclass
+
+
 update_journal = False
 
 
@@ -243,3 +247,81 @@ for line in myfile:
                 else:
                     write_to_files(header+line.split(r"\item")[1]+"\n\n")
                 pass
+
+def get_year_month(period_months=3):
+    month_up = datetime.now().month
+    year = datetime.now().year
+    month_low = month_up - period_months
+    dates = []
+    if month_low < 1:
+        month_n = 12 + month_low
+        dates += [(year-1,m) for m in range(month_n,13)]
+    month_low = 1 if month_low < 1 else month_low
+    dates += [(year,m+1) for m in range(month_low,month_up)]
+    return dates
+
+@dataclass
+class Cite:
+    name: str
+    month: int
+    year: int
+
+refs = []
+
+prev_months = 4
+dates = get_year_month(prev_months)
+
+month_dict = {
+    1: "January",
+    2: "February",
+    3: "March",
+    4: "April",
+    5: "May",
+    6: "June",
+    7: "July",
+    8: "August",
+    9: "September",
+    10: "October",
+    11: "November",
+    12: "December"
+}
+
+
+print("Compiling new references in dates:",dates)
+
+with open('HEPML.bib','r') as bibfile:
+    id = None
+    month = None
+    year = None
+    for line in bibfile:        
+        if len(line.split('@')) > 1:
+            id = line.split('{')[-1]
+        elif 'month' in line:
+            month = int(''.join(filter(str.isdigit,line.split('=')[1])))
+        elif 'year' in line:
+            year = int(''.join(filter(str.isdigit,line.split('=')[1])))
+        if id and month and year:
+            # print((month,year))
+            # print((month,year) in dates)
+            if (year,month) in dates:
+                refs.append(Cite(id,month,year))
+            else:
+                break
+            id,month,year = None,None,None
+
+myfile_out = open("docs/recent.md", "w",encoding="utf8")
+
+myfile_out.write("---\nhide:\n  - navigation\nsearch:\n  exclude: true\n---\n\n")
+myfile_out.write(f"Here is an automatically compiled list of papers which have been added to the living review within the previous {prev_months} months of the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
+
+current_year = refs[0].year
+current_month = refs[0].month
+myfile_out.write(f'\n# {month_dict[current_month]} {current_year}\n')
+for cite in refs:
+    if (cite.year != current_year) | (cite.month != current_month):
+        current_year = cite.year
+        current_month = cite.month
+        myfile_out.write(f'\n# {month_dict[current_month]} {current_year}\n')
+
+    myfile_out.write("* "+convert_from_bib(cite.name)+"\n")
+myfile_out.write('\n')

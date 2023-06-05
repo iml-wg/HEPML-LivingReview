@@ -2,6 +2,7 @@ site_name: HEP ML Living Review
 site_url: https://iml-wg.github.io/HEPML-LivingReview/
 nav:
   - Home : index.md
+  - Recent: recent.md
   - About: about.md
   - Contribute: contribute.md
   - Resources: resources.md
