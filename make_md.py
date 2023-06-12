@@ -1,10 +1,8 @@
 import os
+from dataclasses import dataclass
+from datetime import datetime
 
 import requests
-
-from datetime import datetime
-from dataclasses import dataclass
-
 
 update_journal = False
 
@@ -289,11 +287,11 @@ month_dict = {
 
 print("Compiling new references in dates:",dates)
 
-with open('HEPML.bib','r') as bibfile:
+with open('HEPML.bib') as bibfile:
     id = None
     month = None
     year = None
-    for line in bibfile:        
+    for line in bibfile:
         if len(line.split('@')) > 1:
             id = line.split('{')[-1]
         elif 'month' in line:

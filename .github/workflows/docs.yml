@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-  
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
-          
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip setuptools wheel
@@ -29,7 +29,7 @@ jobs:
       - name: Generate README
         run: |
           cp README.md README.bak
-          python make_md.py          
+          python make_md.py
           if [[ "$(diff README.md README.bak)" ]]; then
              echo "ERROR: README is out of sync with HEPML.bib"
              echo "       run make_md.py and commit changes"
@@ -56,11 +56,11 @@ jobs:
             git commit -m "Update pdf"
             git status
             git push origin
-          
+
       - name: Setup mkdocs 1
         uses: actions/checkout@v3
       - name: Setup mkdocs 2
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
       - name: Setup mkdocs 3
         uses: actions/cache@v3
         with:

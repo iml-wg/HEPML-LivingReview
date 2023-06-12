@@ -9,7 +9,7 @@ hide:
 // StackOverflow 43008609
 const expandElements = shouldExpand => {
     let detailsElements = document.querySelectorAll("details");
-    
+
     detailsElements = [...detailsElements];
 
     if (shouldExpand) {
