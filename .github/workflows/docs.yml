@@ -36,6 +36,7 @@ jobs:
              exit 1
           fi
 
+
       - name: Add build info footnote to jheppub.sty
         run: |
           python footnote_build_info.py
