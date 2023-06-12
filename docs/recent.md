@@ -5,9 +5,11 @@ search:
   exclude: true
 ---
 
-Here is an automatically compiled list of papers which have been added to the living review within the previous 4 months of the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
+# Recent Publications
 
-# May 2023
+This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
+
+## May 2023
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
@@ -26,7 +28,7 @@ Here is an automatically compiled list of papers which have been added to the li
 * [$\Sigma$ Resonances from a Neural Network-based Partial Wave Analysis on $K^-p$ Scattering](https://arxiv.org/abs/2305.01852)
 * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 
-# April 2023
+## April 2023
 * [Estimation of collision centrality in terms of the number of participating nucleons in heavy-ion collisions using deep learning](https://arxiv.org/abs/2305.00493)
 * [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 * [A Modern Global Extraction of the Sivers Function](https://arxiv.org/abs/2304.14328)
@@ -45,7 +47,7 @@ Here is an automatically compiled list of papers which have been added to the li
 * [Fast Point Cloud Generation with Diffusion Models in High Energy Physics](https://arxiv.org/abs/2304.01266)
 * [Invariant mass reconstruction of heavy gauge bosons decaying to $\tau$ leptons using machine learning techniques](https://arxiv.org/abs/2304.01126)
 
-# March 2023
+## March 2023
 * [Exotic Tetraquark states with two $\bar{b}$-quarks and $J^P](https://arxiv.org/abs/2303.17295)
 * [Optimal Mass Variables for Semivisible Jets](https://arxiv.org/abs/2303.16253)
 * [Probing Heavy Neutrinos at the LHC from Fat-jet using Machine Learning](https://arxiv.org/abs/2303.15920)

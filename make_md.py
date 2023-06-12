@@ -312,7 +312,7 @@ with open('HEPML.bib','r') as bibfile:
 myfile_out = open("docs/recent.md", "w",encoding="utf8")
 
 myfile_out.write("---\nhide:\n  - navigation\nsearch:\n  exclude: true\n---\n\n")
-myfile_out.write(f"Here is an automatically compiled list of papers which have been added to the living review within the previous {prev_months} months of the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
+myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled list of papers which have been added to the living review that were made public within the previous {prev_months} months  the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
 
 current_year = refs[0].year
 current_month = refs[0].month
@@ -321,7 +321,7 @@ for cite in refs:
     if (cite.year != current_year) | (cite.month != current_month):
         current_year = cite.year
         current_month = cite.month
-        myfile_out.write(f'\n# {month_dict[current_month]} {current_year}\n')
+        myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
 
     myfile_out.write("* "+convert_from_bib(cite.name)+"\n")
 myfile_out.write('\n')
