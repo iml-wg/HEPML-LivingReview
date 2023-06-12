@@ -2,7 +2,7 @@
 
 *Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*
 
-[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/review/hepml-review.pdf)
+[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml-review.pdf)
 [![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)
 
 The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.
@@ -644,6 +644,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Which Metric on the Space of Collider Events?](https://arxiv.org/abs/2111.03670)
 * [Background Modeling for Double Higgs Boson Production: Density Ratios and Optimal Transport](https://arxiv.org/abs/2208.02807)
 * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029)
+* [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 
 ### Fast inference / deployment
 

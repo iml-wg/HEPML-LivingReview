@@ -8,6 +8,7 @@ search:
 Here is an automatically compiled list of papers which have been added to the living review within the previous 4 months of the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 # May 2023
+* [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
