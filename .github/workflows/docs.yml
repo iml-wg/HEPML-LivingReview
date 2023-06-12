@@ -57,22 +57,16 @@ jobs:
             git status
             git push origin
           
-      - name: Deploy mkdocs 1
+      - name: Setup mkdocs 1
         uses: actions/checkout@v3
-      - name: Deploy mkdocs 2
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-      - name: Deploy mkdocs 3
+      - name: Setup mkdocs 2
         run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - name: Deploy mkdocs 4
+      - name: Setup mkdocs 3
         uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - name: Deploy mkdocs 5
-        run: pip install mkdocs-material
-      - name: Deploy mkdocs 6
+      - name: Deploy mkdocs
         run: mkdocs gh-deploy --force
