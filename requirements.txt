@@ -1,1 +1,4 @@
+mkdocs~=1.4.3
+mkdocs-material~=9.1.14
+mkdocs-material-extensions~=1.1.1
 requests~=2.27
