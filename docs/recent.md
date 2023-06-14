@@ -7,7 +7,7 @@ search:
 
 # Recent Publications
 
-This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months  the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
+This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## May 2023
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
