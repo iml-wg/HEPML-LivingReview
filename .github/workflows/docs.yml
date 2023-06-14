@@ -47,15 +47,15 @@ jobs:
           run: |
             apk add make
             make document
-            cp HEPML.pdf docs/assets/hepml_review.pdf
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git config --global --add safe.directory /github/workspace
-            git add -f docs/assets/hepml_review.pdf
-            git status
-            git commit -m "Update pdf"
-            git status
-            git push origin
+      #      cp HEPML.pdf docs/assets/hepml_review.pdf
+      #      git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      #      git config --global user.name "github-actions[bot]"
+      #      git config --global --add safe.directory /github/workspace
+      #      git add -f docs/assets/hepml_review.pdf
+      #      git status
+      #      git commit -m "Update pdf"
+      #      git status
+      #      git push origin
 
       - name: Setup mkdocs 1
         uses: actions/checkout@v3
