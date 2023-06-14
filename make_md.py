@@ -24,7 +24,7 @@ with open("script.js") as script:
 for file in myfile_readme,myfile_out:
     file.write("#  **A Living Review of Machine Learning for Particle Physics**\n\n")
     file.write("*Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*\n\n")
-    file.write("[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml-review.pdf)\n[![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)\n\n")
+    file.write("[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml_review.pdf)\n[![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)\n\n")
 
 
 for file in myfile_readme,myfile_about:
@@ -310,11 +310,11 @@ with open('HEPML.bib') as bibfile:
 myfile_out = open("docs/recent.md", "w",encoding="utf8")
 
 myfile_out.write("---\nhide:\n  - navigation\nsearch:\n  exclude: true\n---\n\n")
-myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled list of papers which have been added to the living review that were made public within the previous {prev_months} months  the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
+myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled list of papers which have been added to the living review that were made public within the previous {prev_months} months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
 
 current_year = refs[0].year
 current_month = refs[0].month
-myfile_out.write(f'\n# {month_dict[current_month]} {current_year}\n')
+myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
 for cite in refs:
     if (cite.year != current_year) | (cite.month != current_month):
         current_year = cite.year
