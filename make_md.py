@@ -314,7 +314,7 @@ myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled li
 
 current_year = refs[0].year
 current_month = refs[0].month
-myfile_out.write(f'\n# {month_dict[current_month]} {current_year}\n')
+myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
 for cite in refs:
     if (cite.year != current_year) | (cite.month != current_month):
         current_year = cite.year
