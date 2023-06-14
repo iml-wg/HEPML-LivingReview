@@ -47,15 +47,12 @@ jobs:
           run: |
             apk add make
             make document
-      #      cp HEPML.pdf docs/assets/hepml_review.pdf
-      #      git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      #      git config --global user.name "github-actions[bot]"
-      #      git config --global --add safe.directory /github/workspace
-      #      git add -f docs/assets/hepml_review.pdf
-      #      git status
-      #      git commit -m "Update pdf"
-      #      git status
-      #      git push origin
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hepml-review
+          path: HEPML.pdf
 
       - name: Setup mkdocs 1
         uses: actions/checkout@v3
@@ -70,3 +67,26 @@ jobs:
             mkdocs-material-
       - name: Deploy mkdocs
         run: mkdocs gh-deploy --force
+
+      - name: Checkout gh-pages branch
+        run: |
+          git checkout gh-pages
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global --add safe.directory /github/workspace
+
+      - name: Download HEP review pdf
+        uses: actions/download-artifact@v3
+        with:
+          name: hepml-review
+
+      - name: Add HEP review pdf to gh-page
+        run: |
+          mkdir -p assets
+          cp HEPML.pdf assets/hepml_review.pdf
+          git add -f assets/hepml_review.pdf
+          git status
+          git commit -m "Update pdf"
+          git status
+          git push --set-upstream origin gh-pages
+          

@@ -5,9 +5,8 @@ nav:
   - Recent: recent.md
   - About: about.md
   - Contribute: contribute.md
-  - Resources:
-    - Resouces: resources.md
-    - Report [PDF]: assets/hepml_review.pdf
+  - Resources: resources.md
+    # - Report [PDF]: assets/hepml_review.pdf
   - Cite Us: cite.md
 
 repo_url: https://github.com/iml-wg/HEPML-LivingReview/
