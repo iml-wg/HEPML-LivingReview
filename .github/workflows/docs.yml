@@ -89,4 +89,3 @@ jobs:
           git commit -m "Update pdf"
           git status
           git push --set-upstream origin gh-pages
-          
