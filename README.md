@@ -55,6 +55,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Modern Machine Learning for LHC Physicists](https://arxiv.org/abs/2211.01421)
 * [Bridging Machine Learning and Sciences: Opportunities and Challenges](https://arxiv.org/abs/2210.13441)
 * [FAIR for AI: An interdisciplinary, international, inclusive, and diverse community building perspective](https://arxiv.org/abs/2210.08973)
+* [Machine learning transforms the inference of the nuclear equation of state](https://arxiv.org/abs/2305.16686) [[DOI](https://doi.org/10.1007/s11467-023-1313-3)]
 
 ###  Classical papers
 
@@ -780,7 +781,9 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
 * [LHC EFT WG Report: Experimental Measurements and Observables](https://arxiv.org/abs/2211.08353)
 * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
-* [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
+* [Nuclear mass predictions based on deep neural network and finite-range droplet model (2012)](https://arxiv.org/abs/2306.04171)
+* [Decoding Neutron Star Observations: Revealing Composition through Bayesian Neural Networks](https://arxiv.org/abs/2306.06929)
+* [Analysis of a Skyrme energy density functional with deep learning](https://arxiv.org/abs/2306.11314)
 
 ###  Parton Distribution Functions (and related)
 
@@ -993,6 +996,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [CaloDVAE : Discrete Variational Autoencoders for Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2210.07430)
 * [CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds](https://arxiv.org/abs/2211.15380)
 * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
+* [Generative deep-learning reveals collective variables of Fermionic systems](https://arxiv.org/abs/2306.08348)
 
 ###  Normalizing flows
 
@@ -1047,6 +1051,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [Learning the language of QCD jets with transformers](https://arxiv.org/abs/2303.07364)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
+* [Generative modeling of nucleon-nucleon interactions](https://arxiv.org/abs/2306.13007)
 
 ###  Physics-inspired
 
@@ -1055,6 +1060,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Exploring the Possibility of a Recovery of Physics Process Properties from a Neural Network Model](https://arxiv.org/abs/2007.13110) [[DOI](https://doi.org/10.3390/e22090994)]
 * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
 * [Symmetry meets AI](https://arxiv.org/abs/2103.06115)
+* [IMSRG-Net: A machine learning-based solver for In-Medium Similarity Renormalization Group](https://arxiv.org/abs/2306.08878)
+* [Constraining the Woods-Saxon potential in fusion reactions based on a physics-informed neural network](https://arxiv.org/abs/2306.11236)
 
 ###  Mixture Models
 
@@ -1087,6 +1094,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Accelerating the BSM interpretation of LHC data with machine learning](https://arxiv.org/abs/1611.02704) [[DOI](https://doi.org/10.1016/j.dark.2019.100293)]
 * [$\textsf{Xsec}$: the cross-section evaluation code](https://arxiv.org/abs/2006.16273) [[DOI](https://doi.org/10.1140/epjc/s10052-020-08635-y)]
 * [AI-optimized detector design for the future Electron-Ion Collider: the dual-radiator RICH case](https://arxiv.org/abs/1911.05797) [[DOI](https://doi.org/10.1088/1748-0221/15/05/P05009)]
+* [Nonparametric Model for the Equations of State of a Neutron Star from Deep Neural Network](https://arxiv.org/abs/2305.03323) [[DOI](https://doi.org/10.3847/1538-4357/acd335)]
 
 ###  Other/hybrid
 
@@ -1211,6 +1219,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [New Machine Learning Techniques for Simulation-Based Inference: InferoStatic Nets, Kernel Score Estimation, and Kernel Likelihood Ratio Estimation](https://arxiv.org/abs/2210.01680)
 * [Machine-Learned Exclusion Limits without Binning](https://arxiv.org/abs/2211.04806)
 * [Learning Likelihood Ratios with Neural Network Classifiers](https://arxiv.org/abs/2305.10500)
+* [Predicting nuclear masses with product-unit networks](https://arxiv.org/abs/2305.04675)
+* [Neural network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217) [[DOI](https://doi.org/10.1103/PhysRevC.107.065501)]
 
 ###  Unfolding
 

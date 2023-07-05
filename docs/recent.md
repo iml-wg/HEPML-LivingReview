@@ -10,6 +10,18 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## May 2023
+* [Predicting nuclear masses with product-unit networks](https://arxiv.org/abs/2305.04675)
+
+## June 2023
+* [Nuclear mass predictions based on deep neural network and finite-range droplet model (2012)](https://arxiv.org/abs/2306.04171)
+* [Decoding Neutron Star Observations: Revealing Composition through Bayesian Neural Networks](https://arxiv.org/abs/2306.06929)
+* [Generative deep-learning reveals collective variables of Fermionic systems](https://arxiv.org/abs/2306.08348)
+* [IMSRG-Net: A machine learning-based solver for In-Medium Similarity Renormalization Group](https://arxiv.org/abs/2306.08878)
+* [Constraining the Woods-Saxon potential in fusion reactions based on a physics-informed neural network](https://arxiv.org/abs/2306.11236)
+* [Analysis of a Skyrme energy density functional with deep learning](https://arxiv.org/abs/2306.11314)
+* [Generative modeling of nucleon-nucleon interactions](https://arxiv.org/abs/2306.13007)
+
+## May 2023
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
@@ -19,7 +31,6 @@ This is an automatically compiled list of papers which have been added to the li
 * [Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors](https://arxiv.org/abs/2305.09744)
 * [Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor](https://arxiv.org/abs/2305.09562)
 * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
-* [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
 * [Gradient Boosting MUST taggers for highly-boosted jets](https://arxiv.org/abs/2305.04957)
 * [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
@@ -46,20 +57,4 @@ This is an automatically compiled list of papers which have been added to the li
 * [Searching for anomalous quartic gauge couplings at muon colliders using principle component analysis](https://arxiv.org/abs/2304.01505)
 * [Fast Point Cloud Generation with Diffusion Models in High Energy Physics](https://arxiv.org/abs/2304.01266)
 * [Invariant mass reconstruction of heavy gauge bosons decaying to $\tau$ leptons using machine learning techniques](https://arxiv.org/abs/2304.01126)
-
-## March 2023
-* [Exotic Tetraquark states with two $\bar{b}$-quarks and $J^P](https://arxiv.org/abs/2303.17295)
-* [Optimal Mass Variables for Semivisible Jets](https://arxiv.org/abs/2303.16253)
-* [Probing Heavy Neutrinos at the LHC from Fat-jet using Machine Learning](https://arxiv.org/abs/2303.15920)
-* [Exploring QCD matter in extreme conditions with Machine Learning](https://arxiv.org/abs/2303.15136)
-* [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
-* [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
-* [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
-* [Probing Cosmological Particle Production and Pairwise Hotspots with Deep Neural Networks](https://arxiv.org/abs/2303.08869)
-* [Determination of the distribution of strong coupling constant with machine learning](https://arxiv.org/abs/2303.07968)
-* [Learning the language of QCD jets with transformers](https://arxiv.org/abs/2303.07364)
-* [The top quark legacy of the LHC Run II for PDF and SMEFT analyses](https://arxiv.org/abs/2303.06159)
-* [High energy nuclear physics meets Machine Learning](https://arxiv.org/abs/2303.06752)
-* [Machine Learning based KNO-scaling of charged hadron multiplicities with Hijing++](https://arxiv.org/abs/2303.05422)
-* [Deep learning for flow observables in ultrarelativistic heavy-ion collisions](https://arxiv.org/abs/2303.04517)
 
