@@ -50,8 +50,14 @@ All paper additions should be submitted as a single pull request on a source bra
    - **N.B.:** If you have already found the paper on [arXiv](https://arxiv.org/) you should be able to find the INSPIRE listing linked under "References & Citations"
 3. Get the BibTeX for the paper citation provided by INSPIRE (under "Export" at the bottom of the page)
 4. Add this BibTeX entry to [`HEPML.bib`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.bib) in the appropriate chronological position
-5. Add the citation to [`HEPML.tex`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.tex) in the appropriate categories
-6. Verify that if you run `make` the LaTeX will compile
-7. Run `make_md.py` to update the `README` with the new references
-8. Add and commit `HEPML.bib`, `HEPML.tex`, and `README.md` to your pull request
-9. If you haven't yet, push your branch to GitHub and open a pull request to the main project
+   - If the entry is from a collaboration like for instance ATLAS, remove the collaboration entry and change the author, for instance, according to
+      ```diff
+      - author = "Aad, Georges and others",
+      - collaboration = "ATLAS",
+      + author = "{ATLAS Collaboration}",
+      ```
+6. Add the citation to [`HEPML.tex`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.tex) in the appropriate categories
+7. Verify that if you run `make` the LaTeX will compile
+8. Run `make_md.py` to update the `README`, `docs/index.md` with the new references
+9. Add and commit `HEPML.bib`, `HEPML.tex`, `README.md`, and all new `docs/*.md` to your pull request
+10. If you haven't yet, push your branch to GitHub and open a pull request to the main project
