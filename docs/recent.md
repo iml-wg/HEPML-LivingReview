@@ -47,19 +47,3 @@ This is an automatically compiled list of papers which have been added to the li
 * [Fast Point Cloud Generation with Diffusion Models in High Energy Physics](https://arxiv.org/abs/2304.01266)
 * [Invariant mass reconstruction of heavy gauge bosons decaying to $\tau$ leptons using machine learning techniques](https://arxiv.org/abs/2304.01126)
 
-## March 2023
-* [Exotic Tetraquark states with two $\bar{b}$-quarks and $J^P](https://arxiv.org/abs/2303.17295)
-* [Optimal Mass Variables for Semivisible Jets](https://arxiv.org/abs/2303.16253)
-* [Probing Heavy Neutrinos at the LHC from Fat-jet using Machine Learning](https://arxiv.org/abs/2303.15920)
-* [Exploring QCD matter in extreme conditions with Machine Learning](https://arxiv.org/abs/2303.15136)
-* [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
-* [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
-* [Geometrical aspects of lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2303.11448)
-* [Probing Cosmological Particle Production and Pairwise Hotspots with Deep Neural Networks](https://arxiv.org/abs/2303.08869)
-* [Determination of the distribution of strong coupling constant with machine learning](https://arxiv.org/abs/2303.07968)
-* [Learning the language of QCD jets with transformers](https://arxiv.org/abs/2303.07364)
-* [The top quark legacy of the LHC Run II for PDF and SMEFT analyses](https://arxiv.org/abs/2303.06159)
-* [High energy nuclear physics meets Machine Learning](https://arxiv.org/abs/2303.06752)
-* [Machine Learning based KNO-scaling of charged hadron multiplicities with Hijing++](https://arxiv.org/abs/2303.05422)
-* [Deep learning for flow observables in ultrarelativistic heavy-ion collisions](https://arxiv.org/abs/2303.04517)
-
