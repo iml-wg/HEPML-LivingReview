@@ -223,6 +223,7 @@ const expandElements = shouldExpand => {
     * [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
     * [Climbing four tops with graph networks, transformers and pairwise features](https://arxiv.org/abs/2211.05143)
     * [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
+    * [Heterogeneous Graph Neural Network for identifying hadronically decayed tau leptons at the High Luminosity LHC](https://arxiv.org/abs/2301.00501) [[DOI](https://doi.org/10.1088/1748-0221/18/07/P07001)]
     * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
     * [On the BSM reach of four top production at the LHC](https://arxiv.org/abs/2302.08281)
     * [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
@@ -541,6 +542,8 @@ const expandElements = shouldExpand => {
     * [Deep learning for track recognition in pixel and strip-based particle detectors](https://arxiv.org/abs/2210.00599)
     * [Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment](https://arxiv.org/abs/2208.12178)
     * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
+    * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
+    * [Reconstruction of fast neutron direction in segmented organic detectors using deep learning](https://arxiv.org/abs/2301.10796) [[DOI](https://doi.org/10.1016/j.nima.2023.168024)]
 
     ####  Heavy Ions / Nuclear Physics
 
@@ -729,7 +732,9 @@ const expandElements = shouldExpand => {
     * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
     * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
     * [Event Classification with Multi-step Machine Learning](https://arxiv.org/abs/2106.02301) [[DOI](https://doi.org/10.1051/epjconf/202125103036)]
+    * [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
     * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
+    * [Deep learning level-3 electron trigger for CLAS12](https://arxiv.org/abs/2302.07635) [[DOI](https://doi.org/10.1016/j.cpc.2023.108783)]
 
     ####  Hardware/firmware
 
@@ -753,9 +758,11 @@ const expandElements = shouldExpand => {
     * [Graph Neural Networks for Charged Particle Tracking on FPGAs](https://arxiv.org/abs/2112.02048)
     * [Accelerating Deep Neural Networks for Real-time Data Selection for High-resolution Imaging Particle Detectors](https://arxiv.org/abs/2201.04740) [[DOI](https://doi.org/10.1109/NYSDS.2019.8909784)]
     * [Ephemeral Learning -- Augmenting Triggers with Online-Trained Normalizing Flows](https://arxiv.org/abs/2202.09375)
+    * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
     * [Ultra-low latency recurrent neural network inference on FPGAs for physics applications with hls4ml](https://arxiv.org/abs/2207.00559)
     * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
-    * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
+    * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
+    * [Neural-network-based level-1 trigger upgrade for the SuperCDMS experiment at SNOLAB](https://arxiv.org/abs/2212.07864) [[DOI](https://doi.org/10.1088/1748-0221/18/06/P06012)]
 
     ####  Deployment
 
@@ -776,6 +783,7 @@ const expandElements = shouldExpand => {
     * [Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
     * [Pile-Up Mitigation using Attention](https://arxiv.org/abs/2107.02779)
     * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
+    * [Towards an automated data cleaning with deep learning in CRESST](https://arxiv.org/abs/2211.00564) [[DOI](https://doi.org/10.1140/epjp/s13360-023-03674-2)]
 
 
 ??? example "Calibration"
@@ -815,6 +823,8 @@ const expandElements = shouldExpand => {
     * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
     * [Machine Learned Particle Detector Simulations](https://arxiv.org/abs/2207.11254)
     * [A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning](https://arxiv.org/abs/2208.02145)
+    * [Firmware implementation of a recurrent neural network for the computation of the energy deposited in the liquid argon calorimeter of the ATLAS experiment](https://arxiv.org/abs/2302.07555) [[DOI](https://doi.org/10.1088/1748-0221/18/05/P05017)]
+    * [Restoring the saturation response of a PMT using pulse shape and artificial neural networks](https://arxiv.org/abs/2302.06170) [[DOI](https://doi.org/10.1093/ptep/ptad047)]
 
 
 ??? example "Recasting"
@@ -866,6 +876,7 @@ const expandElements = shouldExpand => {
     * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
     * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
     * [LHC EFT WG Report: Experimental Measurements and Observables](https://arxiv.org/abs/2211.08353)
+    * [Machine Learning Assisted Vector Atomic Magnetometry](https://arxiv.org/abs/2301.05707)
     * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
     * [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 
@@ -951,6 +962,7 @@ const expandElements = shouldExpand => {
     * [Function Approximation for High-Energy Physics: Comparing Machine Learning and Interpolation Methods](https://arxiv.org/abs/2111.14788)
     * [Reconstructing spectral functions via automatic differentiation](https://arxiv.org/abs/2111.14760)
     * [Robust and Provably Monotonic Networks](https://arxiv.org/abs/2112.00038)
+    * [Implicit Neural Representation as a Differentiable Surrogate for Photon Propagation in a Monolithic Neutrino Detector](https://arxiv.org/abs/2211.01505)
     * [Determination of the distribution of strong coupling constant with machine learning](https://arxiv.org/abs/2303.07968)
 
 
@@ -964,6 +976,17 @@ const expandElements = shouldExpand => {
     * [Discover the GellMann-Okubo formula with machine learning](https://arxiv.org/abs/2208.03165)
     * [Rediscovery of Numerical Luscher's Formula from the Neural Network](https://arxiv.org/abs/2210.02184)
     * [Research on the distribution formula of QCD strong coupling constant in medium and high energy scale region based on symbolic regression algorithm](https://arxiv.org/abs/2304.07682)
+
+
+??? example "Monitoring"
+    <div class="meta_for_parser tablespecs"
+    style="font-size: 1pt;visibility:hidden" markdown>
+    ###  Monitoring
+    </div>
+
+    * [First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory](https://arxiv.org/abs/2301.06221)
+    * [High-availability displacement sensing with multi-channel self mixing interferometry](https://arxiv.org/abs/2302.00065) [[DOI](https://doi.org/10.1364/OE.485955)]
+    * [Machine Learning based tool for CMS RPC currents quality monitoring](https://arxiv.org/abs/2302.02764) [[DOI](https://doi.org/10.1016/j.nima.2023.168449)]
 
 ##  Equivariant networks.
 
@@ -1086,6 +1109,8 @@ const expandElements = shouldExpand => {
     * [Deep generative models for fast photon shower simulation in ATLAS](https://arxiv.org/abs/2210.06204)
     * [Generative models uncertainty estimation](https://arxiv.org/abs/2210.09767)
     * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
+    * [Ultrafast CMOS image sensors and data-enabled super-resolution for multimodal radiographic imaging and tomography](https://arxiv.org/abs/2301.11865) [[DOI](https://doi.org/10.22323/1.420.0041)]
+    * [Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning](https://arxiv.org/abs/2303.08046)
 
 
 ??? example "Autoencoders"
@@ -1159,6 +1184,7 @@ const expandElements = shouldExpand => {
     * [MadNIS -- Neural Multi-Channel Importance Sampling](https://arxiv.org/abs/2212.06172)
     * [Learning Trivializing Flows](https://arxiv.org/abs/2302.08408)
     * [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906)
+    * [L2LFlows: Generating High-Fidelity 3D Calorimeter Images](https://arxiv.org/abs/2302.11594)
     * [Detecting and Mitigating Mode-Collapse for Flow-based Sampling of Lattice Field Theories](https://arxiv.org/abs/2302.14082)
     * [Locality-constrained autoregressive cum conditional normalizing flow for lattice field theory simulations](https://arxiv.org/abs/2304.01798)
     * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
@@ -1208,6 +1234,7 @@ const expandElements = shouldExpand => {
     * [Data Augmentation at the LHC through Analysis-specific Fast Simulation with Deep Learning](https://arxiv.org/abs/2010.01835)
     * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416)
     * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259)
+    * [Geometry-aware Autoregressive Models for Calorimeter Shower Simulations](https://arxiv.org/abs/2212.08233)
 
 
 ??? example "Phase space generation"
@@ -1253,6 +1280,7 @@ const expandElements = shouldExpand => {
 
     * [CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds](https://arxiv.org/abs/2211.15380)
     * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
+    * [Ad-hoc Pulse Shape Simulation using Cyclic Positional U-Net](https://arxiv.org/abs/2212.04950)
     * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 
 ##  Anomaly detection.
@@ -1422,6 +1450,7 @@ const expandElements = shouldExpand => {
     * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
     * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
     * [Model independent measurements of Standard Model cross sections with Domain Adaptation](https://arxiv.org/abs/2207.09293)
+    * [Mimicking non-ideal instrument behavior for hologram processing using neural style translation](https://arxiv.org/abs/2301.02757) [[DOI](https://doi.org/10.1364/OE.486741)]
 
 
 ??? example "BSM"
@@ -1452,6 +1481,7 @@ const expandElements = shouldExpand => {
 
     * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
     * [Morphing parton showers with event derivatives](https://arxiv.org/abs/2208.02274)
+    * [Implicit Neural Representation as a Differentiable Surrogate for Photon Propagation in a Monolithic Neutrino Detector](https://arxiv.org/abs/2211.01505)
 
 ##  Uncertainty Quantification
 
@@ -1526,6 +1556,9 @@ const expandElements = shouldExpand => {
     </div>
 
     * [Identification of hadronic tau lepton decays using a deep neural network](https://arxiv.org/abs/2201.08458)
+    * [A feasibility study of multi-electrode high-purity germanium detector for $^{76}$Ge neutrinoless double beta decay searching](https://arxiv.org/abs/2211.06180) [[DOI](https://doi.org/10.1088/1748-0221/18/05/P05025)]
+    * [Pulse shape discrimination using a convolutional neural network for organic liquid scintillator signals](https://arxiv.org/abs/2211.07892) [[DOI](https://doi.org/10.1088/1748-0221/18/03/P03003)]
+    * [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
 
 
 ??? example "Searches and measurements were ML reconstruction is a core component"
