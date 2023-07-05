@@ -1,4 +1,4 @@
-""" Uses the inspirehep API of https://github.com/inspirehep/rest-api-doc to look for papers 
+""" Uses the inspirehep API of https://github.com/inspirehep/rest-api-doc to look for papers
 
     checks for all entries in 'categories'
     with keywords 'keywords'
@@ -7,8 +7,9 @@
     and prints title, arXiv id, inspirehep cite id
 """
 
-from datetime import datetime, date
 import json
+from datetime import date, datetime
+
 # Import the modules to open and reading URLs and the JSON encoder
 import requests
 
