@@ -423,6 +423,7 @@ const expandElements = shouldExpand => {
     * [Using Machine Learning for Particle Identification in ALICE](https://arxiv.org/abs/2204.06900)
     * [Artificial Intelligence for Imaging Cherenkov Detectors at the EIC](https://arxiv.org/abs/2204.08645)
     * [Using Artificial Intelligence in the Reconstruction of Signals from the PADME Electromagnetic Calorimeter](https://arxiv.org/abs/2210.00811) [[DOI](https://doi.org/10.3390/instruments6040046)]
+    * [Separation of electrons from pions in GEM TRD using deep learning](https://arxiv.org/abs/2303.10776)
 
     ####  Neutrino Detectors
 
@@ -987,6 +988,7 @@ const expandElements = shouldExpand => {
     * [First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory](https://arxiv.org/abs/2301.06221)
     * [High-availability displacement sensing with multi-channel self mixing interferometry](https://arxiv.org/abs/2302.00065) [[DOI](https://doi.org/10.1364/OE.485955)]
     * [Machine Learning based tool for CMS RPC currents quality monitoring](https://arxiv.org/abs/2302.02764) [[DOI](https://doi.org/10.1016/j.nima.2023.168449)]
+    * [Predicting the Future of the CMS Detector: Crystal Radiation Damage and Machine Learning at the LHC](https://arxiv.org/abs/2303.15291)
 
 ##  Equivariant networks.
 
@@ -1559,6 +1561,7 @@ const expandElements = shouldExpand => {
     * [A feasibility study of multi-electrode high-purity germanium detector for $^{76}$Ge neutrinoless double beta decay searching](https://arxiv.org/abs/2211.06180) [[DOI](https://doi.org/10.1088/1748-0221/18/05/P05025)]
     * [Pulse shape discrimination using a convolutional neural network for organic liquid scintillator signals](https://arxiv.org/abs/2211.07892) [[DOI](https://doi.org/10.1088/1748-0221/18/03/P03003)]
     * [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
+    * [Automated visual inspection of CMS HGCAL silicon sensor surface using an ensemble of a deep convolutional autoencoder and classifier](https://arxiv.org/abs/2303.15319)
 
 
 ??? example "Searches and measurements were ML reconstruction is a core component"
