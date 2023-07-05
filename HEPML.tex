@@ -126,7 +126,7 @@ This review was built with the help of the HEP-ML community, the INSPIRE REST AP
 		\item \textbf{Fast inference / deployment}
 		\\\textit{There are many practical issues that can be critical for the actual application of machine learning models.}
 			\begin{itemize}
-				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136,Balazs:2021uhg,Rehm:2021zow,Mahesh:2021iph,Amrouche:2021tio,Pol:2021iqw,Goncharov:2021wvd,Saito:2021vpp,Guo:2023nfu}
+				\item \textbf{Software}~\cite{Strong:2020mge,Gligorov:2012qt,Weitekamp:DLPS2017,Nguyen:2018ugw,Bourgeois:2018nvk,1792136,Balazs:2021uhg,Rehm:2021zow,Mahesh:2021iph,Amrouche:2021tio,Pol:2021iqw,Goncharov:2021wvd,Saito:2021vpp,Jiang:2022zho,Guo:2023nfu}
 				\\\textit{Strategies for efficient inference for a given hardware architecture.}
 				\item \textbf{Hardware/firmware}~\cite{Duarte:2018ite,DiGuglielmo:2020eqx,Summers:2020xiy,1808088,Iiyama:2020wap,Mohan:2020vvi,Carrazza:2020qwu,Rankin:2020usv,Heintz:2020soy,Rossi:2020sbh,Aarrestad:2021zos,Hawks:2021ruw,Teixeira:2021yhl,Hong:2021snb,DiGuglielmo:2021ide,Migliorini:2021fuj,Govorkova:2021utb,Elabd:2021lgo,Jwa:2019zlh,Butter:2022lkf,Khoda:2022dwz,Carlson:2022vac,Sun:2022bxx}
 				\\\textit{Various accelerators have been studied for fast inference that is very important for latency-limited applications like the trigger at collider experiments.}
@@ -137,7 +137,7 @@ This review was built with the help of the HEP-ML community, the INSPIRE REST AP
 \item \textbf{Regression}
 \\\textit{In contrast to classification, the goal of regression is to learn a function $f:\mathbb{R}^n\rightarrow\mathbb{R}^m$ for input features $x\in\mathbb{R}^n$ and target features $y\in\mathbb{R}^m$.  The learning setup is very similar to classification, where the network architectures and loss functions may need to be tweaked.  For example, the mean squared error is the most common loss function for regression, but the network output is no longer restricted to be between $0$ and $1$.}
 	\begin{itemize}
-		\item \textbf{Pileup}~\cite{Komiske:2017ubm,ATL-PHYS-PUB-2019-028,Martinez:2018fwc,Carrazza:2019efs,Maier:2021ymx,Li:2022omf}
+		\item \textbf{Pileup}~\cite{Komiske:2017ubm,ATL-PHYS-PUB-2019-028,Martinez:2018fwc,Carrazza:2019efs,Maier:2021ymx,Li:2022omf,CRESST:2022qor}
 		\\\textit{A given bunch crossing at the LHC will have many nearly simultaneous proton-proton collisions.  Only one of those is usually interesting and the rest introduce a source of noise (pileup) that must be mitigating for precise final state reconstruction.}
 		\item \textbf{Calibration}~\cite{Cheong:2019upg,ATL-PHYS-PUB-2020-001,ATL-PHYS-PUB-2018-013,Hooberman:DLPS2017,Kasieczka:2020vlh,Sirunyan:2019wwa,Baldi:2020hjm,Du:2020pmp,Kieseler:2021jxc,Pollard:2021fqv,Akchurin:2021afn,Kieseler:2020wcq,Akchurin:2021ahx,Diefenthaler:2021rdj,Polson:2021kvr,Micallef:2021src,Arratia:2021tsq,Kronheim:2021hdb,Renteria-Estrada:2021zrd,Pata:2022wam,Chadeeva:2022kay,Dorigo:2022tfi,Alves:2022gnw,Qiu:2022xvr,Akchurin:2022apq,Gambhir:2022gua,Gambhir:2022dut,Valsecchi:2022rla,Leigh:2022lpn,Darulis:2022brn,Ge:2022xrv}
 		\\\textit{The goal of calibration is to remove the bias (and reduce variance if possible) from detector (or related) effects.}
@@ -151,7 +151,7 @@ This review was built with the help of the HEP-ML community, the INSPIRE REST AP
 		\\\textit{Various machine learning models can provide flexible function approximators, which can be useful for modeling functions that cannot be determined easily from first principles such as parton distribution functions.}
 		\item \textbf{Lattice Gauge Theory}~\cite{Kanwar:2003.06413,Favoni:2020reg,Bulusu:2021rqz,Shi:2021qri,Hackett:2021idh,Yoon:2018krb,Zhang:2019qiq,Nguyen:2019gpo,Favoni:2021epq,Chen:2021jey,Bulusu:2021njs,Shi:2022yqw,Luo:2022jzl,Chen:2022ytr,Li:2022ozl,Kang:2022jbg,Albandea:2022fky,Khan:2022vot,Sale:2022snt,Kim:2022rna,Karsch:2022yka,Favoni:2022mcg,Chen:2022asj,Bacchio:2022vje,Bacchio:2022vje,Gao:2022uhg,Aguilar:2022thg,Lawrence:2022dba,Peng:2022wdl,Lehner:2023bba,Albandea:2023wgd,Nicoli:2023qsl,Aronsson:2023rli,Zhou:2023pti,Hudspith:2023loy,R:2023dcr,Bender:2023gwr,NarcisoFerreira:2023kak,Lehner:2023prf}
 		\\\textit{Lattice methods offer a complementary approach to perturbation theory.  A key challenge is to create approaches that respect the local gauge symmetry (equivariant networks).}
-		\item \textbf{Function Approximation}~\cite{1853982,Haddadin:2021mmo,Chahrour:2021eiv,Wang:2021jou,Kitouni:2021fkh,Wang:2023nab}
+		\item \textbf{Function Approximation}~\cite{1853982,Haddadin:2021mmo,Chahrour:2021eiv,Wang:2021jou,Kitouni:2021fkh,Lei:2022dvn,Wang:2023nab}
 		\\\textit{Approximating functions that obey certain (physical) constraints.}
 		\item \textbf{Symbolic Regression}~\cite{Butter:2021rvz,Zhang:2022uqk,Lu:2022joy,Wang:2023poi}
 		\\\textit{Regression where the result is a (relatively) simple formula.}
@@ -197,7 +197,7 @@ This review was built with the help of the HEP-ML community, the INSPIRE REST AP
 		\\\textit{Morphing simulations to look like data is a form of domain adaptation.}
 		\item \textbf{BSM}~\cite{Andreassen:2020nkr,Hollingsworth:2020kjg,Brehmer:2018kdj,Brehmer:2018eca,Brehmer:2018hga,Brehmer:2019xox,Romao:2020ojy,deSouza:2022uhk,GomezAmbrosio:2022mpm,Castro:2022zpq,Anisha:2023xmh,Dennis:2023kfe}
 		\\\textit{This category is for parameter estimation when the parameter is the signal strength of new physics.}
-		\item \textbf{Differentiable Simulation}~\cite{Heinrich:2022xfa,Nachman:2022jbj}
+		\item \textbf{Differentiable Simulation}~\cite{Heinrich:2022xfa,Nachman:2022jbj,Lei:2022dvn}
 		\\\textit{Coding up a simulation using a differentiable programming language like TensorFlow, PyTorch, or JAX.}
 	\end{itemize}
 \item \textbf{Uncertainty Quantification}
@@ -215,7 +215,7 @@ This review was built with the help of the HEP-ML community, the INSPIRE REST AP
 \item \textbf{Experimental results}
 \\\textit{This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.}
 	\begin{itemize}
-		\item Performance studies~\cite{CMS:2022prd}
+		\item Performance studies~\cite{CMS:2022prd,Yang:2022dwu,NEOS-II:2022mov,Jiang:2022zho}
 		\item Searches and measurements were ML reconstruction is a core component~\cite{MicroBooNE:2021nxr,MicroBooNE:2021jwr,ATLAS:2023hbp}.
 		\item Final analysis discriminate for searches~\cite{Aad:2019yxi,Aad:2020hzm,collaboration2020dijet,Sirunyan:2020hwz}.
 		\item Measurements using deep learning directly (not through object reconstruction)~\cite{H1:2021wkz}

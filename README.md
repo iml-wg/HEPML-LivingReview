@@ -663,6 +663,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Jet Single Shot Detection](https://arxiv.org/abs/2105.05785)
 * [Ariadne: PyTorch Library for Particle Track Reconstruction Using Deep Learning](https://arxiv.org/abs/2109.08982)
 * [Event Classification with Multi-step Machine Learning](https://arxiv.org/abs/2106.02301) [[DOI](https://doi.org/10.1051/epjconf/202125103036)]
+* [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
 * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 
 ####  Hardware/firmware
@@ -705,6 +706,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)]
 * [Pile-Up Mitigation using Attention](https://arxiv.org/abs/2107.02779)
 * [Semi-supervised Graph Neural Networks for Pileup Noise Removal](https://arxiv.org/abs/2203.15823)
+* [Towards an automated data cleaning with deep learning in CRESST](https://arxiv.org/abs/2211.00564) [[DOI](https://doi.org/10.1140/epjp/s13360-023-03674-2)]
 
 ###  Calibration
 
@@ -845,6 +847,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Function Approximation for High-Energy Physics: Comparing Machine Learning and Interpolation Methods](https://arxiv.org/abs/2111.14788)
 * [Reconstructing spectral functions via automatic differentiation](https://arxiv.org/abs/2111.14760)
 * [Robust and Provably Monotonic Networks](https://arxiv.org/abs/2112.00038)
+* [Implicit Neural Representation as a Differentiable Surrogate for Photon Propagation in a Monolithic Neutrino Detector](https://arxiv.org/abs/2211.01505)
 * [Determination of the distribution of strong coupling constant with machine learning](https://arxiv.org/abs/2303.07968)
 
 ###  Symbolic Regression
@@ -1257,6 +1260,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [Differentiable Matrix Elements with MadJax](https://arxiv.org/abs/2203.00057)
 * [Morphing parton showers with event derivatives](https://arxiv.org/abs/2208.02274)
+* [Implicit Neural Representation as a Differentiable Surrogate for Photon Propagation in a Monolithic Neutrino Detector](https://arxiv.org/abs/2211.01505)
 
 ##  Uncertainty Quantification
 ###  Interpretability
@@ -1306,6 +1310,9 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ###  Performance studies
 
 * [Identification of hadronic tau lepton decays using a deep neural network](https://arxiv.org/abs/2201.08458)
+* [A feasibility study of multi-electrode high-purity germanium detector for $^{76}$Ge neutrinoless double beta decay searching](https://arxiv.org/abs/2211.06180) [[DOI](https://doi.org/10.1088/1748-0221/18/05/P05025)]
+* [Pulse shape discrimination using a convolutional neural network for organic liquid scintillator signals](https://arxiv.org/abs/2211.07892) [[DOI](https://doi.org/10.1088/1748-0221/18/03/P03003)]
+* [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
 
 ###  Searches and measurements were ML reconstruction is a core component
 
