@@ -28,12 +28,30 @@ jobs:
         python -m pip install --quiet --requirement requirements.txt
         python -m pip list
 
-    - name: Test README generation
+    - name: Test README and doc generation
       run: |
         cp README.md README.bak
+        cp docs/about.md docs/about.bak
+        cp docs/index.md docs/index.bak
+        cp docs/recent.md docs/recent.bak
         python make_md.py
         if [[ "$(diff README.md README.bak)" ]]; then
            echo "ERROR: README is out of sync with HEPML.bib"
+           echo "       run make_md.py and commit changes"
+           exit 1
+        fi
+        if [[ "$(diff docs/about.md docs/about.bak)" ]]; then
+           echo "ERROR: docs/about.md is out of sync"
+           echo "       run make_md.py and commit changes"
+           exit 1
+        fi
+        if [[ "$(diff docs/index.md docs/index.bak)" ]]; then
+           echo "ERROR: docs/index.md is out of sync with HEPML.bib"
+           echo "       run make_md.py and commit changes"
+           exit 1
+        fi
+        if [[ "$(diff docs/recent.md docs/recent.bak)" ]]; then
+           echo "ERROR: docs/recent.md is out of sync with HEPML.bib"
            echo "       run make_md.py and commit changes"
            exit 1
         fi
