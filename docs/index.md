@@ -223,6 +223,7 @@ const expandElements = shouldExpand => {
     * [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
     * [Climbing four tops with graph networks, transformers and pairwise features](https://arxiv.org/abs/2211.05143)
     * [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
+    * [Heterogeneous Graph Neural Network for identifying hadronically decayed tau leptons at the High Luminosity LHC](https://arxiv.org/abs/2301.00501) [[DOI](https://doi.org/10.1088/1748-0221/18/07/P07001)]
     * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
     * [On the BSM reach of four top production at the LHC](https://arxiv.org/abs/2302.08281)
     * [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
@@ -819,6 +820,7 @@ const expandElements = shouldExpand => {
     * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
     * [Machine Learned Particle Detector Simulations](https://arxiv.org/abs/2207.11254)
     * [A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning](https://arxiv.org/abs/2208.02145)
+    * [First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory](https://arxiv.org/abs/2301.06221)
 
 
 ??? example "Recasting"
@@ -870,6 +872,7 @@ const expandElements = shouldExpand => {
     * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
     * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
     * [LHC EFT WG Report: Experimental Measurements and Observables](https://arxiv.org/abs/2211.08353)
+    * [Machine Learning Assisted Vector Atomic Magnetometry](https://arxiv.org/abs/2301.05707)
     * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
     * [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 
@@ -1429,6 +1432,7 @@ const expandElements = shouldExpand => {
     * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
     * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
     * [Model independent measurements of Standard Model cross sections with Domain Adaptation](https://arxiv.org/abs/2207.09293)
+    * [Mimicking non-ideal instrument behavior for hologram processing using neural style translation](https://arxiv.org/abs/2301.02757) [[DOI](https://doi.org/10.1364/OE.486741)]
 
 
 ??? example "BSM"
