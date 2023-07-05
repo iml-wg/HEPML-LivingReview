@@ -47,6 +47,6 @@ All paper additions should be submitted as a single pull request on a source bra
 4. Add this BibTeX entry to [`HEPML.bib`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.bib) in the appropriate chronological position
 5. Add the citation to [`HEPML.tex`](https://github.com/iml-wg/HEPML-LivingReview/blob/master/HEPML.tex) in the appropriate categories
 6. Verify that if you run `make` the LaTeX will compile
-7. Run `make_md.py` to update the `README` with the new references
-8. Add and commit `HEPML.bib`, `HEPML.tex`, and `README.md` to your pull request
+7. Run `make_md.py` to update the `README`, `docs/index.md` with the new references
+8. Add and commit `HEPML.bib`, `HEPML.tex`, `README.md`, and all new `docs/*.md` to your pull request
 9. If you haven't yet, push your branch to GitHub and open a pull request to the main project
