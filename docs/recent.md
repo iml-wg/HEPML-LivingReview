@@ -9,7 +9,12 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## June 2023
+* [Neutron-Gamma Pulse Shape Discrimination for Organic Scintillation Detector using 2D CNN based Image Classification](https://arxiv.org/abs/2306.09356)
+* [Deep Learning-Based Spatiotemporal Multi-Event Reconstruction for Delay Line Detectors](https://arxiv.org/abs/2306.09359)
+
 ## May 2023
+* [Implementation of a framework for deploying AI inference engines in FPGAs](https://arxiv.org/abs/2305.19455)
 * [Magnetic field regression using artificial neural networks for cold atom experiments](https://arxiv.org/abs/2305.18822)
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 * [Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment](https://arxiv.org/abs/2305.17153)

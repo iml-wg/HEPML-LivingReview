@@ -548,6 +548,7 @@ const expandElements = shouldExpand => {
     * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
     * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
     * [Reconstruction of fast neutron direction in segmented organic detectors using deep learning](https://arxiv.org/abs/2301.10796) [[DOI](https://doi.org/10.1016/j.nima.2023.168024)]
+    * [Deep Learning-Based Spatiotemporal Multi-Event Reconstruction for Delay Line Detectors](https://arxiv.org/abs/2306.09359)
 
     ####  Heavy Ions / Nuclear Physics
 
@@ -601,6 +602,7 @@ const expandElements = shouldExpand => {
     * [Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor](https://arxiv.org/abs/2305.09562)
     * [A machine learning study to identify collective flow in small and large colliding systems](https://arxiv.org/abs/2305.09937)
     * [Label-free timing analysis of modularized nuclear detectors with physics-constrained deep learning](https://arxiv.org/abs/2304.11930)
+    * [Neutron-Gamma Pulse Shape Discrimination for Organic Scintillation Detector using 2D CNN based Image Classification](https://arxiv.org/abs/2306.09356)
 
 
 ??? example "Learning strategies"
@@ -769,6 +771,7 @@ const expandElements = shouldExpand => {
     * [Nanosecond machine learning regression with deep boosted decision trees in FPGA for high energy physics](https://arxiv.org/abs/2207.05602)
     * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
     * [Neural-network-based level-1 trigger upgrade for the SuperCDMS experiment at SNOLAB](https://arxiv.org/abs/2212.07864) [[DOI](https://doi.org/10.1088/1748-0221/18/06/P06012)]
+    * [Implementation of a framework for deploying AI inference engines in FPGAs](https://arxiv.org/abs/2305.19455)
 
     ####  Deployment
 
