@@ -176,6 +176,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
 * [On the BSM reach of four top production at the LHC](https://arxiv.org/abs/2302.08281)
 * [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
+* [Equivariant Graph Neural Networks for Charged Particle Tracking](https://arxiv.org/abs/2304.05293)
 
 ####  Sets (point clouds)
 
@@ -368,6 +369,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Artificial Intelligence for Imaging Cherenkov Detectors at the EIC](https://arxiv.org/abs/2204.08645)
 * [Using Artificial Intelligence in the Reconstruction of Signals from the PADME Electromagnetic Calorimeter](https://arxiv.org/abs/2210.00811) [[DOI](https://doi.org/10.3390/instruments6040046)]
 * [Separation of electrons from pions in GEM TRD using deep learning](https://arxiv.org/abs/2303.10776)
+* [Machine learning method for $^{12}$C event classification and reconstruction in the active target time-projection chamber](https://arxiv.org/abs/2304.13233)
 
 ####  Neutrino Detectors
 
@@ -541,6 +543,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Nuclear corrections on the charged hadron fragmentation functions in a Neural Network global QCD analysis](https://arxiv.org/abs/2305.02664)
 * [Demonstration of Sub-micron UCN Position Resolution using Room-temperature CMOS Sensor](https://arxiv.org/abs/2305.09562)
 * [A machine learning study to identify collective flow in small and large colliding systems](https://arxiv.org/abs/2305.09937)
+* [Label-free timing analysis of modularized nuclear detectors with physics-constrained deep learning](https://arxiv.org/abs/2304.11930)
 
 ### Learning strategies
 
@@ -891,6 +894,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
 * [Discovering Sparse Representations of Lie Groups with Machine Learning](https://arxiv.org/abs/2302.05383)
 * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
+* [Equivariant Graph Neural Networks for Charged Particle Tracking](https://arxiv.org/abs/2304.05293)
 
 ##  Decorrelation methods.
 
@@ -986,6 +990,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
 * [Ultrafast CMOS image sensors and data-enabled super-resolution for multimodal radiographic imaging and tomography](https://arxiv.org/abs/2301.11865) [[DOI](https://doi.org/10.22323/1.420.0041)]
 * [Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning](https://arxiv.org/abs/2303.08046)
+* [New Angles on Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2303.18150)
 
 ###  Autoencoders
 
