@@ -7,7 +7,7 @@
 
 The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.
 
-This review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, and Ramon Winterhalder.
+This review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Etienne Dreyer, Waleed Esmail, Michele Faucci Giannelli, Claudius Krause, Johnny Raine, Dalila Salamani, and Ramon Winterhalder
 
 ##  Reviews
 ###  Modern reviews
@@ -173,6 +173,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [PELICAN: Permutation Equivariant and Lorentz Invariant or Covariant Aggregator Network for Particle Physics](https://arxiv.org/abs/2211.00454)
 * [Climbing four tops with graph networks, transformers and pairwise features](https://arxiv.org/abs/2211.05143)
 * [Reconstructing particles in jets using set transformer and hypergraph prediction networks](https://arxiv.org/abs/2212.01328)
+* [Heterogeneous Graph Neural Network for identifying hadronically decayed tau leptons at the High Luminosity LHC](https://arxiv.org/abs/2301.00501) [[DOI](https://doi.org/10.1088/1748-0221/18/07/P07001)]
 * [Deep Learning Symmetries and Their Lie Groups, Algebras, and Subalgebras from First Principles](https://arxiv.org/abs/2301.05638)
 * [On the BSM reach of four top production at the LHC](https://arxiv.org/abs/2302.08281)
 * [Topological Reconstruction of Particle Physics Processes using Graph Neural Networks](https://arxiv.org/abs/2303.13937)
@@ -486,6 +487,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Deep learning for track recognition in pixel and strip-based particle detectors](https://arxiv.org/abs/2210.00599)
 * [Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment](https://arxiv.org/abs/2208.12178)
 * [Fast muon tracking with machine learning implemented in FPGA](https://arxiv.org/abs/2202.04976) [[DOI](https://doi.org/10.1016/j.nima.2022.167546)]
+* [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
+* [Reconstruction of fast neutron direction in segmented organic detectors using deep learning](https://arxiv.org/abs/2301.10796) [[DOI](https://doi.org/10.1016/j.nima.2023.168024)]
 
 ####  Heavy Ions / Nuclear Physics
 
@@ -666,6 +669,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Event Classification with Multi-step Machine Learning](https://arxiv.org/abs/2106.02301) [[DOI](https://doi.org/10.1051/epjconf/202125103036)]
 * [Deep machine learning for the PANDA software trigger](https://arxiv.org/abs/2211.15390) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11494-y)]
 * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
+* [Deep learning level-3 electron trigger for CLAS12](https://arxiv.org/abs/2302.07635) [[DOI](https://doi.org/10.1016/j.cpc.2023.108783)]
 
 ####  Hardware/firmware
 
@@ -744,6 +748,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [$\nu$-Flows: conditional neutrino regression](https://arxiv.org/abs/2207.00664)
 * [Machine Learned Particle Detector Simulations](https://arxiv.org/abs/2207.11254)
 * [A new method for the $q^2$ reconstruction in semileptonic decays at LHCb based on machine learning](https://arxiv.org/abs/2208.02145)
+* [Firmware implementation of a recurrent neural network for the computation of the energy deposited in the liquid argon calorimeter of the ATLAS experiment](https://arxiv.org/abs/2302.07555) [[DOI](https://doi.org/10.1088/1748-0221/18/05/P05017)]
+* [Restoring the saturation response of a PMT using pulse shape and artificial neural networks](https://arxiv.org/abs/2302.06170) [[DOI](https://doi.org/10.1093/ptep/ptad047)]
 
 ###  Recasting
 
@@ -780,6 +786,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Using Machine Learning techniques in phenomenological studies in flavour physics](https://arxiv.org/abs/2109.07405)
 * [Machine learning a manifold](https://arxiv.org/abs/2112.07673)
 * [LHC EFT WG Report: Experimental Measurements and Observables](https://arxiv.org/abs/2211.08353)
+* [Machine Learning Assisted Vector Atomic Magnetometry](https://arxiv.org/abs/2301.05707)
 * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
 * [Nuclear mass predictions based on deep neural network and finite-range droplet model (2012)](https://arxiv.org/abs/2306.04171)
 * [Decoding Neutron Star Observations: Revealing Composition through Bayesian Neural Networks](https://arxiv.org/abs/2306.06929)
@@ -861,6 +868,12 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Discover the GellMann-Okubo formula with machine learning](https://arxiv.org/abs/2208.03165)
 * [Rediscovery of Numerical Luscher's Formula from the Neural Network](https://arxiv.org/abs/2210.02184)
 * [Research on the distribution formula of QCD strong coupling constant in medium and high energy scale region based on symbolic regression algorithm](https://arxiv.org/abs/2304.07682)
+
+###  Monitoring
+
+* [First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory](https://arxiv.org/abs/2301.06221)
+* [High-availability displacement sensing with multi-channel self mixing interferometry](https://arxiv.org/abs/2302.00065) [[DOI](https://doi.org/10.1364/OE.485955)]
+* [Machine Learning based tool for CMS RPC currents quality monitoring](https://arxiv.org/abs/2302.02764) [[DOI](https://doi.org/10.1016/j.nima.2023.168449)]
 
 ##  Equivariant networks.
 
@@ -972,6 +985,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Deep generative models for fast photon shower simulation in ATLAS](https://arxiv.org/abs/2210.06204)
 * [Generative models uncertainty estimation](https://arxiv.org/abs/2210.09767)
 * [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128)
+* [Ultrafast CMOS image sensors and data-enabled super-resolution for multimodal radiographic imaging and tomography](https://arxiv.org/abs/2301.11865) [[DOI](https://doi.org/10.22323/1.420.0041)]
+* [Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning](https://arxiv.org/abs/2303.08046)
 
 ###  Autoencoders
 
@@ -1036,6 +1051,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [MadNIS -- Neural Multi-Channel Importance Sampling](https://arxiv.org/abs/2212.06172)
 * [Learning Trivializing Flows](https://arxiv.org/abs/2302.08408)
 * [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906)
+* [L2LFlows: Generating High-Fidelity 3D Calorimeter Images](https://arxiv.org/abs/2302.11594)
 * [Detecting and Mitigating Mode-Collapse for Flow-based Sampling of Lattice Field Theories](https://arxiv.org/abs/2302.14082)
 * [Locality-constrained autoregressive cum conditional normalizing flow for lattice field theory simulations](https://arxiv.org/abs/2304.01798)
 * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
@@ -1254,6 +1270,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
 * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
 * [Model independent measurements of Standard Model cross sections with Domain Adaptation](https://arxiv.org/abs/2207.09293)
+* [Mimicking non-ideal instrument behavior for hologram processing using neural style translation](https://arxiv.org/abs/2301.02757) [[DOI](https://doi.org/10.1364/OE.486741)]
 
 ###  BSM
 
