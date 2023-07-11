@@ -1069,6 +1069,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ###  Diffusion Models
 
 * [Score-based Generative Models for Calorimeter Shower Simulation](https://arxiv.org/abs/2206.11898)
+* [PC-JeDi: Diffusion for Particle Cloud Generation in High Energy Physics](https://arxiv.org/abs/2303.05376)
 * [Fast Point Cloud Generation with Diffusion Models in High Energy Physics](https://arxiv.org/abs/2304.01266)
 * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
 * [CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2305.04847)
@@ -1216,6 +1217,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Efficiently Moving Instead of Reweighting Collider Events with Machine Learning](https://arxiv.org/abs/2212.06155)
 * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
 * [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
+* [CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation](https://arxiv.org/abs/2305.04646)
 
 ##  Simulation-based (`likelihood-free') Inference
 ###  Parameter estimation
@@ -1276,6 +1278,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Neural Conditional Reweighting](https://arxiv.org/abs/2107.08979)
 * [Model independent measurements of Standard Model cross sections with Domain Adaptation](https://arxiv.org/abs/2207.09293)
 * [Mimicking non-ideal instrument behavior for hologram processing using neural style translation](https://arxiv.org/abs/2301.02757) [[DOI](https://doi.org/10.1364/OE.486741)]
+* [Flow Away your Differences: Conditional Normalizing Flows as an Improvement to Reweighting](https://arxiv.org/abs/2304.14963)
 
 ###  BSM
 
