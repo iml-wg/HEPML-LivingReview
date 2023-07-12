@@ -86,6 +86,7 @@ const expandElements = shouldExpand => {
     * [Modern Machine Learning for LHC Physicists](https://arxiv.org/abs/2211.01421)
     * [Bridging Machine Learning and Sciences: Opportunities and Challenges](https://arxiv.org/abs/2210.13441)
     * [FAIR for AI: An interdisciplinary, international, inclusive, and diverse community building perspective](https://arxiv.org/abs/2210.08973)
+    * [Graph neural networks at the Large Hadron Collider](https://doi.org/10.1038/s42254-023-00569-0)
 
 
 ??? example "Classical papers"
