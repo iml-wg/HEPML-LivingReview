@@ -9,15 +9,28 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## July 2023
+* [Decorrelation using Optimal Transport](https://arxiv.org/abs/2307.05187)
+* [$\nu^2$-Flows: Fast and improved neutrino reconstruction in multi-neutrino final states with conditional normalizing flows](https://arxiv.org/abs/2307.02405)
+
 ## June 2023
 * [Neutron-Gamma Pulse Shape Discrimination for Organic Scintillation Detector using 2D CNN based Image Classification](https://arxiv.org/abs/2306.09356)
 * [Deep Learning-Based Spatiotemporal Multi-Event Reconstruction for Delay Line Detectors](https://arxiv.org/abs/2306.09359)
+* [Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks](https://arxiv.org/abs/2306.07726)
+* [Combining lattice QCD and phenomenological inputs on generalised parton distributions at moderate skewness](https://arxiv.org/abs/2306.01647)
 
 ## May 2023
+* [A Guide to Diagnosing Colored Resonances at Hadron Colliders](https://arxiv.org/abs/2306.00079)
 * [Implementation of a framework for deploying AI inference engines in FPGAs](https://arxiv.org/abs/2305.19455)
 * [Magnetic field regression using artificial neural networks for cold atom experiments](https://arxiv.org/abs/2305.18822)
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930)
 * [Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment](https://arxiv.org/abs/2305.17153)
+* [Fitting a Deep Generative Hadronization Model](https://arxiv.org/abs/2305.17169)
+* [Predicting the Exclusive Diffractive Electron-Ion Cross Section at small $x$ with Machine Learning in Sar$t$re](https://arxiv.org/abs/2305.15880)
+* [Study of anomalous $W^-W^+\gamma/Z$ couplings using polarizations and spin correlations in $e^-e^+\to W^-W^+$ with polarized beams](https://arxiv.org/abs/2305.15106)
+* [Sharpening the $A\to Z^{(*)}h $ Signature of the Type-II 2HDM at the LHC through Advanced Machine Learning](https://arxiv.org/abs/2305.13781)
+* [Leveraging on-shell interference to search for FCNCs of the top quark and the Z boson](https://arxiv.org/abs/2305.12172)
+* [Precision studies for the partonic kinematics calculation through Machine Learning](https://arxiv.org/abs/2305.11369)
 * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
@@ -28,18 +41,30 @@ This is an automatically compiled list of papers which have been added to the li
 * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
 * [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
+* [Gradient Boosting MUST taggers for highly-boosted jets](https://arxiv.org/abs/2305.04957)
 * [CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2305.04847)
+* [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
 * [CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation](https://arxiv.org/abs/2305.04646)
+* [Tip of the Red Giant Branch Bounds on the Axion-Electron Coupling Revisited](https://arxiv.org/abs/2305.03113)
 * [Gradient Boosting MUST taggers for highly-boosted jets](https://arxiv.org/abs/2305.04957)
 * [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
+* [Nuclear corrections on the charged hadron fragmentation functions in a Neural Network global QCD analysis](https://arxiv.org/abs/2305.02664)
 * [Tip of the Red Giant Branch Bounds on the Axion-Electron Coupling Revisited](https://arxiv.org/abs/2305.03113)
 * [Nuclear corrections on the charged hadron fragmentation functions in a Neural Network global QCD analysis](https://arxiv.org/abs/2305.02664)
 * [$\Sigma$ Resonances from a Neural Network-based Partial Wave Analysis on $K^-p$ Scattering](https://arxiv.org/abs/2305.01852)
+
+## April 2023
+* [Estimation of collision centrality in terms of the number of participating nucleons in heavy-ion collisions using deep learning](https://arxiv.org/abs/2305.00493)
+
+## May 2023
+* [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 
 ## April 2023
 * [Estimation of collision centrality in terms of the number of participating nucleons in heavy-ion collisions using deep learning](https://arxiv.org/abs/2305.00493)
 * [Flow Away your Differences: Conditional Normalizing Flows as an Improvement to Reweighting](https://arxiv.org/abs/2304.14963)
+* [A Modern Global Extraction of the Sivers Function](https://arxiv.org/abs/2304.14328)
+* [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 * [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 * [Machine learning method for $^{12}$C event classification and reconstruction in the active target time-projection chamber](https://arxiv.org/abs/2304.13233)
 * [A Modern Global Extraction of the Sivers Function](https://arxiv.org/abs/2304.14328)
