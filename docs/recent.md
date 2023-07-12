@@ -41,30 +41,18 @@ This is an automatically compiled list of papers which have been added to the li
 * [ELSA - Enhanced latent spaces for improved collider simulations](https://arxiv.org/abs/2305.07696)
 * [Neural Network predictions of inclusive electron-nucleus cross sections](https://arxiv.org/abs/2305.08217)
 * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
-* [Gradient Boosting MUST taggers for highly-boosted jets](https://arxiv.org/abs/2305.04957)
 * [CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2305.04847)
-* [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
 * [CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation](https://arxiv.org/abs/2305.04646)
-* [Tip of the Red Giant Branch Bounds on the Axion-Electron Coupling Revisited](https://arxiv.org/abs/2305.03113)
 * [Gradient Boosting MUST taggers for highly-boosted jets](https://arxiv.org/abs/2305.04957)
 * [Searching for dark jets with displaced vertices using weakly supervised machine learning](https://arxiv.org/abs/2305.04372)
 * [Nuclear corrections on the charged hadron fragmentation functions in a Neural Network global QCD analysis](https://arxiv.org/abs/2305.02664)
 * [Tip of the Red Giant Branch Bounds on the Axion-Electron Coupling Revisited](https://arxiv.org/abs/2305.03113)
-* [Nuclear corrections on the charged hadron fragmentation functions in a Neural Network global QCD analysis](https://arxiv.org/abs/2305.02664)
 * [$\Sigma$ Resonances from a Neural Network-based Partial Wave Analysis on $K^-p$ Scattering](https://arxiv.org/abs/2305.01852)
-
-## April 2023
-* [Estimation of collision centrality in terms of the number of participating nucleons in heavy-ion collisions using deep learning](https://arxiv.org/abs/2305.00493)
-
-## May 2023
-* [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 * [MLAnalysis: An open-source program for high energy physics analyses](https://arxiv.org/abs/2305.00964)
 
 ## April 2023
 * [Estimation of collision centrality in terms of the number of participating nucleons in heavy-ion collisions using deep learning](https://arxiv.org/abs/2305.00493)
 * [Flow Away your Differences: Conditional Normalizing Flows as an Improvement to Reweighting](https://arxiv.org/abs/2304.14963)
-* [A Modern Global Extraction of the Sivers Function](https://arxiv.org/abs/2304.14328)
-* [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 * [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 * [Machine learning method for $^{12}$C event classification and reconstruction in the active target time-projection chamber](https://arxiv.org/abs/2304.13233)
 * [A Modern Global Extraction of the Sivers Function](https://arxiv.org/abs/2304.14328)
