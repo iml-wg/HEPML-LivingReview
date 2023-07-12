@@ -47,6 +47,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
 * [Uncovering doubly charged scalars with dominant three-body decays using machine learning](https://arxiv.org/abs/2304.09195)
 * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
+* [Graph neural networks at the Large Hadron Collider](https://doi.org/10.1038/s42254-023-00569-0)
 * [Evidence of the Schwinger mechanism from lattice QCD](https://arxiv.org/abs/2304.07800)
 * [Research on the distribution formula of QCD strong coupling constant in medium and high energy scale region based on symbolic regression algorithm](https://arxiv.org/abs/2304.07682)
 * [Jet substructure observables for jet quenching in Quark Gluon Plasma: a Machine Learning driven analysis](https://arxiv.org/abs/2304.07196)
