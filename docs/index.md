@@ -668,7 +668,6 @@ const expandElements = shouldExpand => {
     * [A machine learning pipeline for autonomous numerical analytic continuation of Dyson-Schwinger equations](https://arxiv.org/abs/2112.13011)
     * [Simplifying Polylogarithms with Machine Learning](https://arxiv.org/abs/2206.04115)
     * [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
-    * [Exploring the flavor structure of quarks and leptons with reinforcement learning](https://arxiv.org/abs/2304.14176)
 
     ####  Quantum Machine Learning
 
