@@ -293,6 +293,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://arxiv.org/abs/1712.07158) [[DOI](https://doi.org/10.1088/1748-0221/13/05/P05011)]
 * [Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://arxiv.org/abs/1607.08633) [[DOI](https://doi.org/10.1103/PhysRevD.94.112002)]
+* [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)]
 * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842) [[DOI](https://doi.org/10.1088/1748-0221/16/03/P03017)]
 * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12012)]
 * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226)
@@ -369,6 +370,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Electromagnetic Showers Beyond Shower Shapes](https://arxiv.org/abs/1806.05667) [[DOI](https://doi.org/10.1016/j.nima.2019.162879)]
 * [Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification](https://dl4physicalsciences.github.io/files/nips_dlps_2017_24.pdf})
 * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf})
+* [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)]
 * [Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8251-9)]
 * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)]
 * [Learning to Identify Electrons](https://arxiv.org/abs/2011.01984)
@@ -1388,6 +1390,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Searches and measurements were ML reconstruction is a core component
 
+* [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)]
 * [Search for an anomalous excess of inclusive charged-current $\nu_e$ interactions in the MicroBooNE experiment using Wire-Cell reconstruction](https://arxiv.org/abs/2110.13978)
 * [Search for an anomalous excess of charged-current quasi-elastic $\nu_e$ interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction](https://arxiv.org/abs/2110.14080)
 * [Search for periodic signals in the dielectron and diphoton invariant mass spectra using 139 fb$^{-1}$ of $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2305.10894)
