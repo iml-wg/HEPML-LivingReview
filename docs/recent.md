@@ -14,8 +14,8 @@ This is an automatically compiled list of papers which have been added to the li
 * [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
 * [Decorrelation using Optimal Transport](https://arxiv.org/abs/2307.05187)
 * [Toward a generative modeling analysis of CLAS exclusive $2\pi$ photoproduction](https://arxiv.org/abs/2307.04450)
-* [Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer](https://arxiv.org/abs/2307.04723)
 * [Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation](https://arxiv.org/abs/2307.04780)
+* [Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer](https://arxiv.org/abs/2307.04723)
 * [$\nu^2$-Flows: Fast and improved neutrino reconstruction in multi-neutrino final states with conditional normalizing flows](https://arxiv.org/abs/2307.02405)
 
 ## June 2023
