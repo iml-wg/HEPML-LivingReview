@@ -314,6 +314,7 @@ const expandElements = shouldExpand => {
     * [Systematic Quark/Gluon Identification with Ratios of Likelihoods](https://arxiv.org/abs/2207.12411)
     * [Jet substructure observables for jet quenching in Quark Gluon Plasma: a Machine Learning driven analysis](https://arxiv.org/abs/2304.07196)
     * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
+    * [Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer](https://arxiv.org/abs/2307.04723)
 
     ####  top quark tagging
 
@@ -335,6 +336,7 @@ const expandElements = shouldExpand => {
     * [BIP: Boost Invariant Polynomials for Efficient Jet Tagging](https://arxiv.org/abs/2207.08272)
     * [Boosted top tagging and its interpretation using Shapley values](https://arxiv.org/abs/2212.11606)
     * [Automatic detection of boosted Higgs and top quark jets in event image](https://arxiv.org/abs/2302.13460)
+    * [Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer](https://arxiv.org/abs/2307.04723)
 
     ####  strange jets
 
@@ -1140,6 +1142,7 @@ const expandElements = shouldExpand => {
     * [Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning](https://arxiv.org/abs/2303.08046)
     * [New Angles on Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2303.18150)
     * [Fitting a Deep Generative Hadronization Model](https://arxiv.org/abs/2305.17169)
+    * [Toward a generative modeling analysis of CLAS exclusive $2\pi$ photoproduction](https://arxiv.org/abs/2307.04450)
 
 
 ??? example "Autoencoders"
@@ -1232,6 +1235,7 @@ const expandElements = shouldExpand => {
     * [End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics](https://arxiv.org/abs/2305.10399)
     * [CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2305.04847)
     * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
+    * [High-dimensional and Permutation Invariant Anomaly Detection](https://arxiv.org/abs/2306.03933)
 
 
 ??? example "Transformer Models"
@@ -1412,6 +1416,7 @@ const expandElements = shouldExpand => {
     * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
     * [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
     * [CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation](https://arxiv.org/abs/2305.04646)
+    * [High-dimensional and Permutation Invariant Anomaly Detection](https://arxiv.org/abs/2306.03933)
 
 ##  Simulation-based (`likelihood-free') Inference
 
