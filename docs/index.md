@@ -1114,7 +1114,7 @@ const expandElements = shouldExpand => {
     * [DCTRGAN: Improving the Precision of Generative Models with Reweighting](https://arxiv.org/abs/2009.03796) [[DOI](https://doi.org/{10.1088/1748-0221/15/11/p11004)]
     * [GANplifying Event Samples](https://arxiv.org/abs/2008.06545)
     * [Graph Generative Adversarial Networks for Sparse Data Generation in High Energy Physics](https://arxiv.org/abs/2012.00173)
-    * [Simulating the Time Projection Chamber responses at the MPD detector using Generative Adversarial Networks](https://arxiv.org/abs/2012.04595)
+    * [Simulating the time projection chamber responses at the MPD detector using generative adversarial networks](https://arxiv.org/abs/2012.04595) [[DOI](https://doi.org/10.1140/epjc/s10052-021-09366-4)]
     * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582)
     * [A Data-driven Event Generator for Hadron Colliders using Wasserstein Generative Adversarial Network](https://arxiv.org/abs/2102.11524) [[DOI](https://doi.org/10.1007/s40042-021-00095-1)]
     * [Reduced Precision Strategies for Deep Learning: A High Energy Physics Generative Adversarial Network Use Case](https://arxiv.org/abs/2103.10142) [[DOI](https://doi.org/10.5220/0010245002510258)]
