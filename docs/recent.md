@@ -10,12 +10,19 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## July 2023
+* [Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders](https://arxiv.org/abs/2307.05152)
+* [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
 * [Decorrelation using Optimal Transport](https://arxiv.org/abs/2307.05187)
 * [Toward a generative modeling analysis of CLAS exclusive $2\pi$ photoproduction](https://arxiv.org/abs/2307.04450)
 * [Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer](https://arxiv.org/abs/2307.04723)
+* [Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation](https://arxiv.org/abs/2307.04780)
 * [$\nu^2$-Flows: Fast and improved neutrino reconstruction in multi-neutrino final states with conditional normalizing flows](https://arxiv.org/abs/2307.02405)
 
 ## June 2023
+* [Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN](https://arxiv.org/abs/2306.13606)
+* [Triggering Dark Showers with Conditional Dual Auto-Encoders](https://arxiv.org/abs/2306.12955)
+* [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
+* [Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations](https://arxiv.org/abs/2306.11668)
 * [Neutron-Gamma Pulse Shape Discrimination for Organic Scintillation Detector using 2D CNN based Image Classification](https://arxiv.org/abs/2306.09356)
 * [Deep Learning-Based Spatiotemporal Multi-Event Reconstruction for Delay Line Detectors](https://arxiv.org/abs/2306.09359)
 * [Amplitude-assisted tagging of longitudinally polarised bosons using wide neural networks](https://arxiv.org/abs/2306.07726)

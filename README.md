@@ -564,6 +564,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Evolutionary algorithms for hyperparameter optimization in machine learning for application in high energy physics](https://arxiv.org/abs/2011.04434) [[DOI](https://doi.org/10.1140/epjc/s10052-021-08950-y)]
 * [Application of Deep Learning Technique to an Analysis of Hard Scattering Processes at Colliders](https://arxiv.org/abs/2109.08520)
 * [Support vector machines and generalisation in HEP](https://arxiv.org/abs/1702.04686) [[DOI](https://doi.org/10.1088/1742-6596/898/7/072021)]
+* [Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations](https://arxiv.org/abs/2306.11668)
 
 ####  Weak/Semi supervision
 
@@ -636,6 +637,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Fitting a Collider in a Quantum Computer: Tackling the Challenges of Quantum Machine Learning for Big Datasets](https://arxiv.org/abs/2211.03233)
 * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
 * [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906)
+* [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
 
 ####  Feature ranking
 
@@ -715,6 +717,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Charged Particle Tracking with Machine Learning on FPGAs](https://arxiv.org/abs/2212.02348)
 * [Neural-network-based level-1 trigger upgrade for the SuperCDMS experiment at SNOLAB](https://arxiv.org/abs/2212.07864) [[DOI](https://doi.org/10.1088/1748-0221/18/06/P06012)]
 * [Implementation of a framework for deploying AI inference engines in FPGAs](https://arxiv.org/abs/2305.19455)
+* [Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders](https://arxiv.org/abs/2307.05152)
 
 ####  Deployment
 
@@ -1015,6 +1018,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Ultra-High-Resolution Detector Simulation with Intra-Event Aware GAN and Self-Supervised Relational Reasoning](https://arxiv.org/abs/2303.08046)
 * [New Angles on Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2303.18150)
 * [Fitting a Deep Generative Hadronization Model](https://arxiv.org/abs/2305.17169)
+* [Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN](https://arxiv.org/abs/2306.13606)
 * [Toward a generative modeling analysis of CLAS exclusive $2\pi$ photoproduction](https://arxiv.org/abs/2307.04450)
 
 ###  Autoencoders
@@ -1040,6 +1044,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [CaloDVAE : Discrete Variational Autoencoders for Fast Calorimeter Shower Simulation](https://arxiv.org/abs/2210.07430)
 * [CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds](https://arxiv.org/abs/2211.15380)
 * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
+* [Triggering Dark Showers with Conditional Dual Auto-Encoders](https://arxiv.org/abs/2306.12955)
 
 ###  Normalizing flows
 
@@ -1094,6 +1099,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2305.04847)
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 * [High-dimensional and Permutation Invariant Anomaly Detection](https://arxiv.org/abs/2306.03933)
+* [Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation](https://arxiv.org/abs/2307.04780)
 
 ###  Transformer Models
 
@@ -1115,6 +1121,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416)
 * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259)
 * [Geometry-aware Autoregressive Models for Calorimeter Shower Simulations](https://arxiv.org/abs/2212.08233)
+* [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
 
 ###  Phase space generation
 
