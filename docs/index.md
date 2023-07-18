@@ -246,8 +246,10 @@ const expandElements = shouldExpand => {
     * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908)
     * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948)
     * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
+    * [Point Cloud Generation using Transformer Encoders and Normalising Flows](https://arxiv.org/abs/2211.13623)
     * [Comparing Point Cloud Strategies for Collider Event Classification](https://arxiv.org/abs/2212.10659)
     * [Is infrared-collinear safe information all you need for jet classification?](https://arxiv.org/abs/2305.08979)
+    * [Attention to Mean-Fields for Particle Cloud Generation](https://arxiv.org/abs/2305.15254)
 
     ####  Physics-inspired basis
 
@@ -714,6 +716,7 @@ const expandElements = shouldExpand => {
     * [Learning the language of QCD jets with transformers](https://arxiv.org/abs/2303.07364)
     * [Parton Labeling without Matching: Unveiling Emergent Labelling Capabilities in Regression Models](https://arxiv.org/abs/2304.09208)
     * [Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors](https://arxiv.org/abs/2305.09744)
+    * [Attention to Mean-Fields for Particle Cloud Generation](https://arxiv.org/abs/2305.15254)
 
     ####  Regularization
 
@@ -1218,6 +1221,8 @@ const expandElements = shouldExpand => {
     * [Learning trivializing flows](https://arxiv.org/abs/2211.12806) [[DOI](https://doi.org/10.22323/1.430.0001)]
     * [CaloFlow for CaloChallenge Dataset 1](https://arxiv.org/abs/2210.14245)
     * [CaloMan: Fast generation of calorimeter showers with density estimation on learned manifolds](https://arxiv.org/abs/2211.15380)
+    * [JetFlow: Generating Jets with Conditioned and Mass Constrained Normalising Flows](https://arxiv.org/abs/2211.13630)
+    * [Point Cloud Generation using Transformer Encoders and Normalising Flows](https://arxiv.org/abs/2211.13623)
     * [TopicFlow: Disentangling quark and gluon jets with normalizing flows](https://arxiv.org/abs/2211.16053)
     * [An unfolding method based on conditional Invertible Neural Networks (cINN) using iterative training](https://arxiv.org/abs/2212.08674)
     * [MadNIS -- Neural Multi-Channel Importance Sampling](https://arxiv.org/abs/2212.06172)
@@ -1330,6 +1335,7 @@ const expandElements = shouldExpand => {
     * [Conditional Generative Modelling of Reconstructed Particles at Collider Experiments](https://arxiv.org/abs/2211.06406)
     * [Ad-hoc Pulse Shape Simulation using Cyclic Positional U-Net](https://arxiv.org/abs/2212.04950)
     * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
+    * [Implicit Quantile Networks For Emulation in Jet Physics](https://arxiv.org/abs/2306.15053)
 
 ##  Anomaly detection.
 
