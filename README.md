@@ -478,7 +478,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Tracking
 
-* [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf})
+* [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf)
 * [Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111)
 * [The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778) [[DOI](https://doi.org/10.1007/978-3-030-29135-8\_9)]
 * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603)
