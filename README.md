@@ -1128,7 +1128,6 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416)
 * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259)
 * [Geometry-aware Autoregressive Models for Calorimeter Shower Simulations](https://arxiv.org/abs/2212.08233)
-* [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
 
 ###  Phase space generation
 
@@ -1283,6 +1282,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [New Machine Learning Techniques for Simulation-Based Inference: InferoStatic Nets, Kernel Score Estimation, and Kernel Likelihood Ratio Estimation](https://arxiv.org/abs/2210.01680)
 * [Machine-Learned Exclusion Limits without Binning](https://arxiv.org/abs/2211.04806)
 * [Learning Likelihood Ratios with Neural Network Classifiers](https://arxiv.org/abs/2305.10500)
+* [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
 
 ###  Unfolding
 
