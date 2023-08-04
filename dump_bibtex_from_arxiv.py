@@ -1,9 +1,11 @@
 ### modified from Waleed Esmail
 
-import requests
-import re       # regular expressions lib 'pip install regex'
-import datetime
 import argparse
+import datetime
+import re  # regular expressions lib 'pip install regex'
+
+import requests
+
 
 # Function to get BibTeX citation for a given arXiv ID
 def get_bibtex(arxiv_id):
@@ -56,7 +58,7 @@ def extract_arxiv_ids(input, output_file, replace_collab=True):
     # Can pass the arxiv IDs in a txt file
     if '.txt' in input:
         # Open the input file in read mode
-        with open(input, 'r') as f:
+        with open(input) as f:
             # Read the entire contents of the file
             text = f.read()
     else: #TODO need to add support for this direct entry mode (will break when parsing arxiv, date, etc.)
