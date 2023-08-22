@@ -1404,6 +1404,29 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Punzi-loss: A non-differentiable metric approximation for sensitivity optimisation in the search for new particles](https://arxiv.org/abs/2110.00810)
 * [neos: End-to-End-Optimised Summary Statistics for High Energy Physics](https://arxiv.org/abs/2203.05570) [[DOI](https://doi.org/10.48550/arXiv.2203.05570)]
 
+##  Formal Theory and ML
+###  Theory and physics for ML
+
+* [Renormalization in the neural network-quantum field theory correspondence](https://arxiv.org/abs/2212.11811)
+* [p-Adic statistical field theory and convolutional deep Boltzmann machines](https://arxiv.org/abs/2302.03817) [[DOI](https://doi.org/10.1093/ptep/ptad061)]
+* [Structures of Neural Network Effective Theories](https://arxiv.org/abs/2305.02334)
+* [A Correspondence Between Deep Boltzmann Machines and p-Adic Statistical Field Theories](https://arxiv.org/abs/2306.03751)
+* [Black holes and the loss landscape in machine learning](https://arxiv.org/abs/2306.14817)
+* [Neural Network Field Theories: Non-Gaussianity, Actions, and Locality](https://arxiv.org/abs/2307.03223)
+
+###  ML for theory
+
+* [Machine Learned Calabi-Yau Metrics and Curvature](https://arxiv.org/abs/2211.09801)
+* [Characterizing 4-string contact interaction using machine learning](https://arxiv.org/abs/2211.09129)
+* [CYJAX: A package for Calabi-Yau metrics with JAX](https://arxiv.org/abs/2211.12520) [[DOI](https://doi.org/10.1088/2632-2153/acdc84)]
+* [Autoencoding heterotic orbifolds with arbitrary geometry](https://arxiv.org/abs/2212.00821)
+* [Mahler Measuring the Genetic Code of Amoebae](https://arxiv.org/abs/2212.06553)
+* [Clustering Cluster Algebras with Clusters](https://arxiv.org/abs/2212.09771)
+* [Machine Learning in Physics and Geometry](https://arxiv.org/abs/2303.12626)
+* [The R-mAtrIx Net](https://arxiv.org/abs/2304.07247)
+* [Accelerated Discovery of Machine-Learned Symmetries: Deriving the Exceptional Lie Groups G2, F4 and E6](https://arxiv.org/abs/2307.04891)
+* [Reconstructing $S$-matrix Phases with Machine Learning](https://arxiv.org/abs/2308.09451)
+
 ##  Experimental results.
  *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
 
