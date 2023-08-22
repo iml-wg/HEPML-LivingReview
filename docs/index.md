@@ -981,6 +981,8 @@ const expandElements = shouldExpand => {
     * [Evidence of the Schwinger mechanism from lattice QCD](https://arxiv.org/abs/2304.07800)
     * [Gauge-equivariant pooling layers for preconditioners in lattice QCD](https://arxiv.org/abs/2304.10438)
     * [Combining lattice QCD and phenomenological inputs on generalised parton distributions at moderate skewness](https://arxiv.org/abs/2306.01647)
+    * [Teaching to extract spectral densities from lattice correlators to a broad audience of learning-machines](https://arxiv.org/abs/2307.00808)
+    * [Sampling the lattice Nambu-Goto string using Continuous Normalizing Flows](https://arxiv.org/abs/2307.01107)
 
 
 ??? example "Function Approximation"
