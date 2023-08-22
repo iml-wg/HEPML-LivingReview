@@ -9,7 +9,25 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## August 2023
+* [Reconstructing $S$-matrix Phases with Machine Learning](https://arxiv.org/abs/2308.09451)
+* [Hierarchical High-Point Energy Flow Network for Jet Tagging](https://arxiv.org/abs/2308.08300)
+* [Boosting likelihood learning with event reweighting](https://arxiv.org/abs/2308.05704)
+* [CaloDiffusion with GLaM for High Fidelity Calorimeter Simulation](https://arxiv.org/abs/2308.03876)
+* [Simulation-based inference in the search for CP violation in leptonic WH production](https://arxiv.org/abs/2308.02882)
+* [Reconstructing axion-like particles from beam dumps with simulation-based inference](https://arxiv.org/abs/2308.01353)
+* [Inclusive, prompt and non-prompt $\rm{J}/\psi$ identification in proton-proton collisions at the Large Hadron Collider using machine learning](https://arxiv.org/abs/2308.00329)
+
 ## July 2023
+* [Explainable Equivariant Neural Networks for Particle Physics: PELICAN](https://arxiv.org/abs/2307.16506)
+* [Determination of impact parameter for CEE with Digi-input neural networks](https://arxiv.org/abs/2307.15355)
+* [Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images](https://arxiv.org/abs/2307.13687)
+* [The Interplay of Machine Learning--based Resonant Anomaly Detection Methods](https://arxiv.org/abs/2307.11157)
+* [Particle-flow based tau identification at future $\textrm{e}^{+}\textrm{e}^{-}$ colliders](https://arxiv.org/abs/2307.07747)
+* [Real-time Graph Building on FPGAs for Machine Learning Trigger Applications in Particle Physics](https://arxiv.org/abs/2307.07289)
+* [Improved selective background Monte Carlo simulation at Belle II with graph attention networks and weighted events](https://arxiv.org/abs/2307.06434)
+* [Towards an integrated determination of proton, deuteron and nuclear PDFs](https://arxiv.org/abs/2307.05967)
+* [Accelerated Discovery of Machine-Learned Symmetries: Deriving the Exceptional Lie Groups G2, F4 and E6](https://arxiv.org/abs/2307.04891)
 * [Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders](https://arxiv.org/abs/2307.05152)
 * [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
 * [Decorrelation using Optimal Transport](https://arxiv.org/abs/2307.05187)
