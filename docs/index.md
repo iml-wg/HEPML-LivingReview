@@ -561,10 +561,12 @@ const expandElements = shouldExpand => {
     * [Cosmic Inflation and Genetic Algorithms](https://arxiv.org/abs/2208.13804)
     * [Inferring subhalo effective density slopes from strong lensing observations with neural likelihood-ratio estimation](https://arxiv.org/abs/2208.13796) [[DOI](https://doi.org/10.1093/mnras/stac3014)]
     * [Uncovering dark matter density profiles in dwarf galaxies with graph neural networks](https://arxiv.org/abs/2208.12825)
+    * [Progress in Nuclear Astrophysics: a multi-disciplinary field with still many open questions](https://arxiv.org/abs/2212.02156)
     * [Probing Cosmological Particle Production and Pairwise Hotspots with Deep Neural Networks](https://arxiv.org/abs/2303.08869)
     * [Nonparametric Model for the Equations of State of a Neutron Star from Deep Neural Network](https://arxiv.org/abs/2305.03323) [[DOI](https://doi.org/10.3847/1538-4357/acd335)]
     * [Decoding Neutron Star Observations: Revealing Composition through Bayesian Neural Networks](https://arxiv.org/abs/2306.06929)
     * [Core States of Neutron Stars from Anatomizing Their Scaled Structure Equations](https://arxiv.org/abs/2306.08202) [[DOI](https://doi.org/10.3847/1538-4357/acdef0)]
+    * [A Deep Learning Approach to Extracting Nuclear Matter Properties from Neutron Star Observations](https://arxiv.org/abs/2303.17146) [[DOI](https://doi.org/10.3390/sym15051123)]
 
     ####  Tracking
 
@@ -636,9 +638,21 @@ const expandElements = shouldExpand => {
     * [Machine Learning model driven prediction of the initial geometry in Heavy-Ion Collision experiments](https://arxiv.org/abs/2203.15433)
     * [Machine learning-based jet and event classification at the Electron-Ion Collider with applications to hadron structure and spin physics](https://arxiv.org/abs/2210.06450)
     * [Testing of KNO-scaling of charged hadron multiplicities within a Machine Learning based approach](https://arxiv.org/abs/2210.10548) [[DOI](https://doi.org/10.22323/1.414.1188)]
+    * [Optimization of the generator coordinate method with machine-learning techniques for nuclear spectra and neutrinoless double-\ensuremath{\beta} decay: Ridge regression for nuclei with axial deformation](https://arxiv.org/abs/2211.02797) [[DOI](https://doi.org/10.1103/PhysRevC.107.024304)]
+    * [A Kohn-Sham scheme based neural network for nuclear systems](https://arxiv.org/abs/2212.02093) [[DOI](https://doi.org/10.1016/j.physletb.2023.137870)]
+    * [Solving the nuclear pairing model with neural network quantum states](https://arxiv.org/abs/2211.04614) [[DOI](https://doi.org/10.1103/PhysRevE.107.025310)]
+    * [Deep-neural-network approach to solving the ab initio nuclear structure problem](https://arxiv.org/abs/2211.13998) [[DOI](https://doi.org/10.1103/PhysRevC.107.034320)]
+    * [Predicting \ensuremath{\beta}-decay energy with machine learning](https://arxiv.org/abs/2211.17136) [[DOI](https://doi.org/10.1103/PhysRevC.107.034308)]
+    * [Progress in Nuclear Astrophysics: a multi-disciplinary field with still many open questions](https://arxiv.org/abs/2212.02156)
     * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
+    * [Dilute neutron star matter from neural-network quantum states](https://arxiv.org/abs/2212.04436) [[DOI](https://doi.org/10.1103/PhysRevResearch.5.033062)]
     * [Separating signal from combinatorial jets in a high background environment](https://arxiv.org/abs/2301.09148)
     * [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426)
+    * [Machine learning in nuclear physics at low and intermediate energies](https://arxiv.org/abs/2301.06396) [[DOI](https://doi.org/10.1007/s11433-023-2116-0)]
+    * [Bayesian inference of nucleus resonance and neutron skin](https://arxiv.org/abs/2301.07884) [[DOI](https://doi.org/10.7538/yzk.2022.youxian.0759)]
+    * [Mitigating Green's function Monte Carlo signal-to-noise problems using contour deformations](https://arxiv.org/abs/2304.03229)
+    * [Bayesian averaging for ground state masses of atomic nuclei in a Machine Learning approach](https://arxiv.org/abs/2304.08546) [[DOI](https://doi.org/10.3389/fphy.2023.1198572)]
+    * [Improving nuclear data evaluations with predictive reaction theory and indirect measurements](https://arxiv.org/abs/2304.10034) [[DOI](https://doi.org/10.1051/epjconf/202328403012)]
     * [Deep learning for flow observables in ultrarelativistic heavy-ion collisions](https://arxiv.org/abs/2303.04517)
     * [Machine Learning based KNO-scaling of charged hadron multiplicities with Hijing++](https://arxiv.org/abs/2303.05422)
     * [High energy nuclear physics meets Machine Learning](https://arxiv.org/abs/2303.06752)
@@ -842,6 +856,7 @@ const expandElements = shouldExpand => {
     * [Implementation of a framework for deploying AI inference engines in FPGAs](https://arxiv.org/abs/2305.19455)
     * [Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders](https://arxiv.org/abs/2307.05152)
     * [Real-time Graph Building on FPGAs for Machine Learning Trigger Applications in Particle Physics](https://arxiv.org/abs/2307.07289)
+    * [Tetris-inspired detector with neural network for radiation mapping](https://arxiv.org/abs/2302.07099)
     * [Comparing machine learning models for tau triggers](https://arxiv.org/abs/2306.06743)
     * [Development of the Topological Trigger for LHCb Run 3](https://arxiv.org/abs/2306.09873)
 
@@ -1549,6 +1564,7 @@ const expandElements = shouldExpand => {
     * [Deep Learning for the Matrix Element Method](https://arxiv.org/abs/2211.11910) [[DOI](https://doi.org/10.22323/1.414.0246)]
     * [Learning Likelihood Ratios with Neural Network Classifiers](https://arxiv.org/abs/2305.10500)
     * [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
+    * [Emulator-based Bayesian Inference on Non-Proportional Scintillation Models by Compton-Edge Probing](https://arxiv.org/abs/2302.05641)
     * [Reconstructing axion-like particles from beam dumps with simulation-based inference](https://arxiv.org/abs/2308.01353)
     * [Simulation-based inference in the search for CP violation in leptonic WH production](https://arxiv.org/abs/2308.02882)
     * [Scaling MadMiner with a deployment on REANA](https://arxiv.org/abs/2304.05814)
@@ -1728,6 +1744,7 @@ const expandElements = shouldExpand => {
     * [Clustering Cluster Algebras with Clusters](https://arxiv.org/abs/2212.09771)
     * [Machine Learning in Physics and Geometry](https://arxiv.org/abs/2303.12626)
     * [The R-mAtrIx Net](https://arxiv.org/abs/2304.07247)
+    * [Macroscopic Dynamics of Entangled 3+1-Dimensional Systems: A Novel Investigation Into Why My MacBook Cable Tangles in My Backpack Every Single Day](https://arxiv.org/abs/2304.00220)
     * [Accelerated Discovery of Machine-Learned Symmetries: Deriving the Exceptional Lie Groups G2, F4 and E6](https://arxiv.org/abs/2307.04891)
     * [Reconstructing $S$-matrix Phases with Machine Learning](https://arxiv.org/abs/2308.09451)
 
