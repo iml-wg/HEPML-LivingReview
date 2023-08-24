@@ -10,6 +10,7 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## August 2023
+* [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
 * [Reconstructing $S$-matrix Phases with Machine Learning](https://arxiv.org/abs/2308.09451)
 * [Hierarchical High-Point Energy Flow Network for Jet Tagging](https://arxiv.org/abs/2308.08300)
 * [Boosting likelihood learning with event reweighting](https://arxiv.org/abs/2308.05704)

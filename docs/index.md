@@ -241,6 +241,7 @@ const expandElements = shouldExpand => {
     * [GNN for Deep Full Event Interpretation and hierarchical reconstruction of heavy-hadron decays in proton-proton collisions](https://arxiv.org/abs/2304.08610)
     * [Flavour tagging with graph neural networks with the ATLAS detector](https://arxiv.org/abs/2306.04415)
     * [Photon Reconstruction in the Belle II Calorimeter Using Graph Neural Networks](https://arxiv.org/abs/2306.04179)
+    * [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
 
     ####  Sets (point clouds)
 
@@ -933,6 +934,7 @@ const expandElements = shouldExpand => {
     * [New techniques for jet calibration with the ATLAS detector](https://arxiv.org/abs/2303.17312)
     * [Correction of the baseline fluctuations in the GEM-based ALICE TPC](https://arxiv.org/abs/2304.03881)
     * [A first application of machine and deep learning for background rejection in the ALPS II TES detector](https://arxiv.org/abs/2304.08406) [[DOI](https://doi.org/10.1002/andp.202200545)]
+    * [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
 
 
 ??? example "Recasting"
