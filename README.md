@@ -799,6 +799,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
 * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
+* [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
 
 ##  Regression
 ###  Pileup
