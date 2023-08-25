@@ -190,7 +190,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [GNN for Deep Full Event Interpretation and hierarchical reconstruction of heavy-hadron decays in proton-proton collisions](https://arxiv.org/abs/2304.08610)
 * [Flavour tagging with graph neural networks with the ATLAS detector](https://arxiv.org/abs/2306.04415)
 * [Photon Reconstruction in the Belle II Calorimeter Using Graph Neural Networks](https://arxiv.org/abs/2306.04179)
-* [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
+* [Jet energy calibration with deep learning as a Kubeflow pipeline](https://arxiv.org/abs/2308.12724) [[DOI](https://doi.org/10.1007/s41781-023-00103-y)]
 
 ####  Sets (point clouds)
 
@@ -799,7 +799,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [MLaaS4HEP: Machine Learning as a Service for HEP](https://arxiv.org/abs/2007.14781)
 * [Distributed training and scalability for the particle clustering method UCluster](https://arxiv.org/abs/2109.00264) [[DOI](https://doi.org/10.1051/epjconf/202125102054)]
-* [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
+* [Jet energy calibration with deep learning as a Kubeflow pipeline](https://arxiv.org/abs/2308.12724) [[DOI](https://doi.org/10.1007/s41781-023-00103-y)]
 
 ##  Regression
 ###  Pileup
@@ -859,7 +859,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [New techniques for jet calibration with the ATLAS detector](https://arxiv.org/abs/2303.17312)
 * [Correction of the baseline fluctuations in the GEM-based ALICE TPC](https://arxiv.org/abs/2304.03881)
 * [A first application of machine and deep learning for background rejection in the ALPS II TES detector](https://arxiv.org/abs/2304.08406) [[DOI](https://doi.org/10.1002/andp.202200545)]
-* [Jet Energy Calibration with Deep Learning as a Kubeflow Pipeline](https://doi.org/{10.1007/s41781-023-00103-y})
+* [Jet energy calibration with deep learning as a Kubeflow pipeline](https://arxiv.org/abs/2308.12724) [[DOI](https://doi.org/10.1007/s41781-023-00103-y)]
 
 ###  Recasting
 
