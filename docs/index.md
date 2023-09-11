@@ -89,6 +89,7 @@ const expandElements = shouldExpand => {
     * [Snowmass Neutrino Frontier Report](https://arxiv.org/abs/2211.08641)
     * [Graph neural networks at the Large Hadron Collider](https://doi.org/10.1038/s42254-023-00569-0)
     * [Overview: Jet quenching with machine learning](https://arxiv.org/abs/2308.10035)
+    * [Artificial Intelligence for the Electron Ion Collider (AI4EIC)](https://arxiv.org/abs/2307.08593)
 
 
 ??? example "Classical papers"
@@ -113,6 +114,7 @@ const expandElements = shouldExpand => {
     * [LHC physics dataset for unsupervised New Physics detection at 40 MHz](https://arxiv.org/abs/2107.02157)
     * [A FAIR and AI-ready Higgs Boson Decay Dataset](https://arxiv.org/abs/2108.02214)
     * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772)
+    * [Public Kaggle Competition ''IceCube -- Neutrinos in Deep Ice''](https://arxiv.org/abs/2307.15289)
 
 ##  Classification
 
@@ -245,6 +247,7 @@ const expandElements = shouldExpand => {
     * [Photon Reconstruction in the Belle II Calorimeter Using Graph Neural Networks](https://arxiv.org/abs/2306.04179)
     * [Jet energy calibration with deep learning as a Kubeflow pipeline](https://arxiv.org/abs/2308.12724) [[DOI](https://doi.org/10.1007/s41781-023-00103-y)]
     * [LLPNet: Graph Autoencoder for Triggering Light Long-Lived Particles at HL-LHC](https://arxiv.org/abs/2308.13611)
+    * [Graph Structure from Point Clouds: Geometric Attention is All You Need](https://arxiv.org/abs/2307.16662)
 
     ####  Sets (point clouds)
 
@@ -276,6 +279,7 @@ const expandElements = shouldExpand => {
     * [Resurrecting $b\bar{b}h$ with kinematic shapes](https://arxiv.org/abs/2011.13945)
     * [Decay-aware neural network for event classification in collider physics](https://arxiv.org/abs/2212.08759)
     * [Jet SIFT-ing: a new scale-invariant jet clustering algorithm for the substructure era](https://arxiv.org/abs/2302.08609)
+    * [Retrieval of Boost Invariant Symbolic Observables via Feature Importance](https://arxiv.org/abs/2306.13496)
 
 
 ??? example "Targets"
@@ -681,6 +685,7 @@ const expandElements = shouldExpand => {
     * [Constraining the Woods-Saxon potential in fusion reactions based on a physics-informed neural network](https://arxiv.org/abs/2306.11236)
     * [Analysis of a Skyrme energy density functional with deep learning](https://arxiv.org/abs/2306.11314)
     * [Generative modeling of nucleon-nucleon interactions](https://arxiv.org/abs/2306.13007)
+    * [Artificial Intelligence for the Electron Ion Collider (AI4EIC)](https://arxiv.org/abs/2307.08593)
 
 
 ??? example "Learning strategies"
@@ -1343,6 +1348,7 @@ const expandElements = shouldExpand => {
     * [Generative modeling of nucleon-nucleon interactions](https://arxiv.org/abs/2306.13007)
     * [Generative Machine Learning for Detector Response Modeling with a Conditional Normalizing Flow](https://arxiv.org/abs/2303.10148)
     * [Sampling $U(1)$ gauge theory using a re-trainable conditional flow-based model](https://arxiv.org/abs/2306.00581)
+    * [Inductive CaloFlow](https://arxiv.org/abs/2305.11934)
     * [SuperCalo: Calorimeter shower super-resolution](https://arxiv.org/abs/2308.11700)
 
 
@@ -1365,6 +1371,7 @@ const expandElements = shouldExpand => {
     * [Refining Fast Calorimeter Simulations with a Schr\"odinger Bridge](https://arxiv.org/abs/2308.12339)
     * [Renormalizing Diffusion Models](https://arxiv.org/abs/2308.12355)
     * [Improving Generative Model-based Unfolding with Schr\"odinger Bridges](https://arxiv.org/abs/2308.12351)
+    * [CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models](https://arxiv.org/abs/2308.03847)
 
 
 ??? example "Transformer Models"
@@ -1676,6 +1683,7 @@ const expandElements = shouldExpand => {
     * [Implicit Neural Representation as a Differentiable Surrogate for Photon Propagation in a Monolithic Neutrino Detector](https://arxiv.org/abs/2211.01505)
     * [Novel Machine Learning and Differentiable Programming Techniques applied to the VIP-2 Underground Experiment](https://arxiv.org/abs/2305.17153)
     * [Differentiable Earth Mover's Distance for Data Compression at the High-Luminosity LHC](https://arxiv.org/abs/2306.04712)
+    * [Branches of a Tree: Taking Derivatives of Programs with Discrete and Branching Randomness in High Energy Physics](https://arxiv.org/abs/2308.16680)
 
 ##  Uncertainty Quantification
 
