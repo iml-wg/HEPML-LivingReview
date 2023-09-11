@@ -53,11 +53,6 @@ This is an automatically compiled list of papers which have been added to the li
 * [Artificial Intelligence for the Electron Ion Collider (AI4EIC)](https://arxiv.org/abs/2307.08593)
 * [Improved selective background Monte Carlo simulation at Belle II with graph attention networks and weighted events](https://arxiv.org/abs/2307.06434)
 * [Towards an integrated determination of proton, deuteron and nuclear PDFs](https://arxiv.org/abs/2307.05967)
-
-## June 2023
-* [Towards accurate real-time luminescence thermometry: an automated machine learning approach](https://arxiv.org/abs/2307.05497)
-
-## July 2023
 * [Accelerated Discovery of Machine-Learned Symmetries: Deriving the Exceptional Lie Groups G2, F4 and E6](https://arxiv.org/abs/2307.04891)
 * [Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders](https://arxiv.org/abs/2307.05152)
 * [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
@@ -81,6 +76,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN](https://arxiv.org/abs/2306.13606)
 * [Retrieval of Boost Invariant Symbolic Observables via Feature Importance](https://arxiv.org/abs/2306.13496)
 * [Triggering Dark Showers with Conditional Dual Auto-Encoders](https://arxiv.org/abs/2306.12955)
+* [Towards accurate real-time luminescence thermometry: an automated machine learning approach](https://arxiv.org/abs/2307.05497)
 * [Analysis of a Skyrme energy density functional with deep learning](https://arxiv.org/abs/2306.11314)
 * [Constraining the Woods-Saxon potential in fusion reactions based on a physics-informed neural network](https://arxiv.org/abs/2306.11236)
 * [Hierarchical Neural Simulation-Based Inference Over Event Ensembles](https://arxiv.org/abs/2306.12584)
