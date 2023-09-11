@@ -65,7 +65,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-<Claudius.Krause@oeaw.ac.at> or <Ramon.Winterhalder@uclouvain.be>.
+<Claudius.Krause@oeaw.ac.at>, <John.Raine@unige.ch>, or <Ramon.Winterhalder@uclouvain.be>.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
