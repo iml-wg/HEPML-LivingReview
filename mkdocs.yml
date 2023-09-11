@@ -5,8 +5,8 @@ nav:
   - Recent: recent.md
   - About: about.md
   - Contribute: contribute.md
-  - Resources: resources.md
   - Code of conduct: code_of_conduct.md
+  - Resources: resources.md
   - Cite Us: cite.md
 
 repo_url: https://github.com/iml-wg/HEPML-LivingReview/
