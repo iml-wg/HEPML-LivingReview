@@ -537,6 +537,7 @@ const expandElements = shouldExpand => {
     * [Domain-informed neural networks for interaction localization within astroparticle experiments](https://arxiv.org/abs/2112.07995)
     * [Improving the machine learning based vertex reconstruction for large liquid scintillator detectors with multiple types of PMTs](https://arxiv.org/abs/2205.04039)
     * [Assessment of few-hits machine learning classification algorithms for low energy physics in liquid argon detectors](https://arxiv.org/abs/2305.09744)
+    * [Detector signal characterization with a Bayesian network in XENONnT](https://arxiv.org/abs/2304.05428) [[DOI](https://doi.org/10.1103/PhysRevD.108.012016)]
 
     ####  Cosmology, Astro Particle, and Cosmic Ray physics
 
