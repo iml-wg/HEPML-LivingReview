@@ -10,6 +10,18 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## September 2023
+* [Breaking Free with AI: The Deconfinement Transition](https://arxiv.org/abs/2309.07225)
+* [CaloShowerGAN, a Generative Adversarial Networks model for fast calorimeter shower simulation](https://arxiv.org/abs/2309.06515)
+* [Electron Energy Regression in the CMS High-Granularity Calorimeter Prototype](https://arxiv.org/abs/2309.06582)
+* [Flows for Flows: Morphing one Dataset into another with Maximum Likelihood Estimation](https://arxiv.org/abs/2309.06472)
+* [CaloClouds II: Ultra-Fast Geometry-Independent Highly-Granular Calorimeter Simulation](https://arxiv.org/abs/2309.05704)
+* [Unsupervised Machine Learning Techniques for Exploring Tropical Coamoeba, Brane Tilings and Seiberg Duality](https://arxiv.org/abs/2309.05702)
+* [Application of the path optimization method to a discrete spin system](https://arxiv.org/abs/2309.06018)
+* [A data-driven and model-agnostic approach to solving combinatorial assignment problems in searches for new physics](https://arxiv.org/abs/2309.05728)
+* [LHC Study of Third-Generation Scalar Leptoquarks with Machine-Learned Likelihoods](https://arxiv.org/abs/2309.05407)
+* [Neural Network Solutions of Bosonic Quantum Systems in One Dimension](https://arxiv.org/abs/2309.02352)
+* [Accelerating Markov Chain Monte Carlo sampling with diffusion models](https://arxiv.org/abs/2309.01454)
+* [ML-Based Top Taggers: Performance, Uncertainty and Impact of Tower \& Tracker Data Integration](https://arxiv.org/abs/2309.01568)
 * [Signal-to-noise improvement through neural network contour deformations for 3D $SU(2)$ lattice gauge theory](https://arxiv.org/abs/2309.00600)
 
 ## August 2023
