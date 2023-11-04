@@ -1672,6 +1672,7 @@ const expandElements = shouldExpand => {
     ###  Unfolding
     </div>
 
+    * [DeepEfficiency - optimal efficiency inversion in higher dimensions at the LHC](https://arxiv.org/abs/1809.06101)
     * [OmniFold: A Method to Simultaneously Unfold All Observables](https://arxiv.org/abs/1911.09107) [[DOI](https://doi.org/10.1103/PhysRevLett.124.182001)]
     * [Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433)
     * [How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477) [[DOI](https://doi.org/10.21468/SciPostPhys.8.4.070)]
@@ -1887,6 +1888,7 @@ const expandElements = shouldExpand => {
     </div>
 
     * [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)]
+    * [A deep neural network to search for new long-lived particles decaying to jets](https://arxiv.org/abs/1912.12238) [[DOI](https://doi.org/10.1088/2632-2153/ab9023)]
     * [Search for an anomalous excess of inclusive charged-current $\nu_e$ interactions in the MicroBooNE experiment using Wire-Cell reconstruction](https://arxiv.org/abs/2110.13978)
     * [Search for an anomalous excess of charged-current quasi-elastic $\nu_e$ interactions with the MicroBooNE experiment using Deep-Learning-based reconstruction](https://arxiv.org/abs/2110.14080)
     * [Search for supersymmetry in final states with missing transverse momentum and three or more b-jets in 139 fb$^{-1}$ of proton\textendash{}proton collisions at $\sqrt{s}](https://arxiv.org/abs/2211.08028) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11543-6)]
