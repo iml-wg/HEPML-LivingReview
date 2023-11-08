@@ -1273,6 +1273,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Jet Diffusion versus JetGPT -- Modern Networks for the LHC](https://arxiv.org/abs/2305.10475)
 * [High-dimensional and Permutation Invariant Anomaly Detection](https://arxiv.org/abs/2306.03933)
 * [Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation](https://arxiv.org/abs/2307.04780)
+* [PC-Droid: Faster diffusion and improved quality for particle cloud generation](https://arxiv.org/abs/2307.06836)
 * [Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images](https://arxiv.org/abs/2307.13687)
 * [CaloDiffusion with GLaM for High Fidelity Calorimeter Simulation](https://arxiv.org/abs/2308.03876)
 * [Refining Fast Calorimeter Simulations with a Schr\"odinger Bridge](https://arxiv.org/abs/2308.12339)
