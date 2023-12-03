@@ -622,7 +622,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Estimating elliptic flow coefficient in heavy ion collisions using deep learning](https://arxiv.org/abs/2203.01246) [[DOI](https://doi.org/10.1103/PhysRevD.105.114022)]
 * [Dilute neutron star matter from neural-network quantum states](https://arxiv.org/abs/2212.04436) [[DOI](https://doi.org/10.1103/PhysRevResearch.5.033062)]
 * [Separating signal from combinatorial jets in a high background environment](https://arxiv.org/abs/2301.09148)
-* [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426)
+* [Deep learning predicted elliptic flow of identified particles in heavy-ion collisions at the RHIC and LHC energies](https://arxiv.org/abs/2301.10426) [[DOI](https://doi.org/10.1103/PhysRevD.107.094001)]
 * [Machine learning in nuclear physics at low and intermediate energies](https://arxiv.org/abs/2301.06396) [[DOI](https://doi.org/10.1007/s11433-023-2116-0)]
 * [Bayesian inference of nucleus resonance and neutron skin](https://arxiv.org/abs/2301.07884) [[DOI](https://doi.org/10.7538/yzk.2022.youxian.0759)]
 * [Mitigating Green's function Monte Carlo signal-to-noise problems using contour deformations](https://arxiv.org/abs/2304.03229)
