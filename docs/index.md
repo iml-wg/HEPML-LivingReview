@@ -801,7 +801,8 @@ const expandElements = shouldExpand => {
     * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
     * [Reconstructing charged particle track segments with a quantum-enhanced support vector machine](https://arxiv.org/abs/2212.07279)
     * [Generative Invertible Quantum Neural Networks](https://arxiv.org/abs/2302.12906)
-    * [Unravelling physics beyond the standard model with classical and quantum anomaly detection](https://arxiv.org/abs/2301.10787)
+    * [Quantum anomaly detection in the latent space of proton collision events at the LHC](https://arxiv.org/abs/2301.10780)
+    * [Unravelling physics beyond the standard model with classical and quantum anomaly detection](https://arxiv.org/abs/2301.10787) [[DOI](https://doi.org/10.1088/2632-2153/ad07f7)]
     * [Precise Image Generation on Current Noisy Quantum Computing Devices](https://arxiv.org/abs/2307.05253)
 
     ####  Feature ranking
@@ -1611,7 +1612,8 @@ const expandElements = shouldExpand => {
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225)
     * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
     * [Efficiently Moving Instead of Reweighting Collider Events with Machine Learning](https://arxiv.org/abs/2212.06155)
-    * [Unravelling physics beyond the standard model with classical and quantum anomaly detection](https://arxiv.org/abs/2301.10787)
+    * [Quantum anomaly detection in the latent space of proton collision events at the LHC](https://arxiv.org/abs/2301.10780)
+    * [Unravelling physics beyond the standard model with classical and quantum anomaly detection](https://arxiv.org/abs/2301.10787) [[DOI](https://doi.org/10.1088/2632-2153/ad07f7)]
     * [Nanosecond anomaly detection with decision trees for high energy physics and real-time application to exotic Higgs decays](https://arxiv.org/abs/2304.03836)
     * [The Mass-ive Issue: Anomaly Detection in Jet Physics](https://arxiv.org/abs/2303.14134)
     * [CURTAINs Flows For Flows: Constructing Unobserved Regions with Maximum Likelihood Estimation](https://arxiv.org/abs/2305.04646)
