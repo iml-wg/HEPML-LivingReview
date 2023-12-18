@@ -43,30 +43,42 @@ def summarize_record(recid):
     if 'metadata' in r.json():
         data = r.json()['metadata']
         mini_dict.update({'title':data['titles'][0]['title']})
-        if len(data['authors'])>max_authors:
-            #mini_dict.update({'authors':[a['full_name'] for a in data['authors'][:max_authors]]+['et. al.']})
-            mini_dict.update({'authors':"; ".join([a['full_name'] for a in data['authors'][:max_authors]]+['et. al.'])})
+        if 'authors' in data:
+            if len(data['authors'])>max_authors:
+                #mini_dict.update({'authors':[a['full_name'] for a in data['authors'][:max_authors]]+['et. al.']})
+                mini_dict.update({'authors':"; ".join([a['full_name'] for a in data['authors'][:max_authors]]+['et. al.'])})
+            else:
+                mini_dict.update({'authors':[a['full_name'] for a in data['authors']]})
+
         else:
-            mini_dict.update({'authors':[a['full_name'] for a in data['authors']]})
+            mini_dict.update({'authors':'PLEASE CHECK'})
+            print(f"please check entry for {data['arxiv_eprints'][0]['value']}")
 
         if 'collaborations' in data:
             mini_dict.update({'collaboration': data['collaborations'][0]['value']})
 
         mini_dict.update({'arxiv_eprint': data['arxiv_eprints'][0]['value']})
         mini_dict.update({'url': 'https://arxiv.org/abs/'+data['arxiv_eprints'][0]['value']})
-        mini_dict.update({'creation_date': data['legacy_creation_date']})
+        if 'legacy_creation_date' in data:
+            mini_dict.update({'creation_date': data['legacy_creation_date']})
 
-        if 'journal_title' in data:
-            mini_dict.update({'journal_title':data['publication_info'][0]['journal_title']})
-        if 'journal_volume' in data:
-            mini_dict.update({'journal_volume':data['publication_info'][0]['journal_volume']})
-        if 'page_start' in data:
-            mini_dict.update({'page_start':data['publication_info'][0]['page_start']})
-        if 'journal_year' in data:
-            mini_dict.update({'journal_year':data['publication_info'][0]['year']})
+        if 'publication_info' in data:
+            pub_data = data['publication_info'][0]
+            if 'journal_title' in pub_data:
+                mini_dict.update({'journal_title':data['publication_info'][0]['journal_title']})
+            if 'journal_volume' in pub_data:
+                mini_dict.update({'journal_volume':data['publication_info'][0]['journal_volume']})
+            if 'page_start' in pub_data:
+                mini_dict.update({'page_start':data['publication_info'][0]['page_start']})
+            elif 'artid' in pub_data:
+                # some journals (like PRD) have just an ID that is usually in spires record as page
+                mini_dict.update({'page_start':data['publication_info'][0]['artid']})
+            if 'journal_year' in pub_data:
+                mini_dict.update({'journal_year':data['publication_info'][0]['year']})
 
         if 'dois' in data:
             mini_dict.update({'doi': data['dois'][0]['value']})
+
     return mini_dict
 
 def convert_from_bib(myline):
