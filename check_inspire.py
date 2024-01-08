@@ -13,13 +13,15 @@ from datetime import date, datetime
 # Import the modules to open and reading URLs and the JSON encoder
 import requests
 
+import os
+
 starting_point = input("From which date do you want to start? \nFormat is YYYY-MM-DD!\n")
 starting_date = date.fromisoformat(starting_point)
 
-categories = ['hep-ph', 'hep-ex', 'hep-lat', 'hep-th', 'physics.ins-det', 'nucl-th']
+categories = ['hep-ph', 'hep-ex', 'hep-lat', 'hep-th', 'physics.ins-det', 'physics.data-an', 'nucl-th']
 print(f"Looking at arXiv categories: {categories}")
 
-keywords = ['neural network', 'machine learning']
+keywords = ['neural network', 'machine learning', 'generative models', 'diffusion models']
 print(f"scanning papers with {keywords}:")
 keyword_str = f'("{keywords}")'.replace("', '", '"%20OR%20"').replace("['", '').replace("']", "")
 keyword_str = keyword_str.replace(" ", "%20")

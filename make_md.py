@@ -264,9 +264,9 @@ def get_year_month(period_months=3):
     month_low = month_up - period_months
     dates = []
     if month_low < 1:
-        month_n = 12 + month_low
+        month_n = 13 + month_low
         dates += [(year-1,m) for m in range(month_n,13)]
-    month_low = 1 if month_low < 1 else month_low
+    month_low = datetime.now().month - 1 if month_low < 1 else month_low
     dates += [(year,m+1) for m in range(month_low,month_up)]
     return dates
 
