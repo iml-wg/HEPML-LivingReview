@@ -1068,7 +1068,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Extraction of the microscopic properties of quasi-particles using deep neural networks](https://arxiv.org/abs/2311.15984)
 * [Fixed point actions from convolutional neural networks](https://arxiv.org/abs/2311.17816)
 * [A study of topological quantities of lattice QCD by a modified DCGAN frame](https://arxiv.org/abs/2312.03023)
-* [Integrating Particle Flavor into Deep Learning Models for Hadronization](https://arxiv.org/abs/2312.08453)
+* [MLMC: Machine Learning Monte Carlo for Lattice Gauge Theory](https://arxiv.org/abs/2312.08936)
 * [Mitigating a discrete sign problem with extreme learning machines](https://arxiv.org/abs/2312.12636)
 * [Flow-based sampling for lattice field theories](https://arxiv.org/abs/2401.01297)
 

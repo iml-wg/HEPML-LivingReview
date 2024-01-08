@@ -12,12 +12,6 @@ This is an automatically compiled list of papers which have been added to the li
 ## January 2024
 * [From Optimal Observables to Machine Learning: an Effective-Field-Theory Analysis of $e^+e^- \to W^+W^-$ at Future Lepton Colliders](https://arxiv.org/abs/2401.02474)
 * [Physics analysis for the HL-LHC: concepts and pipelines in practice with the Analysis Grand Challenge](https://arxiv.org/abs/2401.02766)
-
-## December 2023
-* [Smartpixels: Towards on-sensor inference of charged particle track parameters and uncertainties](https://arxiv.org/abs/2312.11676)
-* [Machine-learning-based particle identification with missing data](https://arxiv.org/abs/2401.01905)
-
-## January 2024
 * [Machine Learning for Columnar High Energy Physics Analysis](https://arxiv.org/abs/2401.01802)
 * [Flow-based sampling for lattice field theories](https://arxiv.org/abs/2401.01297)
 
@@ -27,6 +21,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Applications of Lipschitz neural networks to the Run 3 LHCb trigger system](https://arxiv.org/abs/2312.14265)
 * [Machine Learning for Anomaly Detection in Particle Physics](https://arxiv.org/abs/2312.14190)
 * [Mitigating a discrete sign problem with extreme learning machines](https://arxiv.org/abs/2312.12636)
+* [Machine-learning-based particle identification with missing data](https://arxiv.org/abs/2401.01905)
 * [Interpretable deep learning models for the inference and classification of LHC data](https://arxiv.org/abs/2312.12330)
 * [Jet Classification Using High-Level Features from Anatomy of Top Jets](https://arxiv.org/abs/2312.11760)
 * [Anomaly detection with flow-based fast calorimeter simulators](https://arxiv.org/abs/2312.11618)
@@ -34,7 +29,8 @@ This is an automatically compiled list of papers which have been added to the li
 * [Improving new physics searches with diffusion models for event observables and jet constituents](https://arxiv.org/abs/2312.10130)
 * [Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3](https://arxiv.org/abs/2312.10009)
 * [Deep Generative Models for Detector Signature Simulation: An Analytical Taxonomy](https://arxiv.org/abs/2312.09597)
-* [Integrating Particle Flavor into Deep Learning Models for Hadronization](https://arxiv.org/abs/2312.08453)
+* [Smartpixels: Towards on-sensor inference of charged particle track parameters and uncertainties](https://arxiv.org/abs/2312.11676)
+* [MLMC: Machine Learning Monte Carlo for Lattice Gauge Theory](https://arxiv.org/abs/2312.08936)
 * [Integrating Particle Flavor into Deep Learning Models for Hadronization](https://arxiv.org/abs/2312.08453)
 * [Neural networks for boosted di-$\tau$ identification](https://arxiv.org/abs/2312.08276)
 * [Pre-training strategy using real particle collision data for event classification in collider physics](https://arxiv.org/abs/2312.06909)
