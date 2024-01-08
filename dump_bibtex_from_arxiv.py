@@ -44,7 +44,7 @@ def replace_collaboration_author(bib_entry):
         # Use a regular expression to find the collaboration author in the BibTeX citation
         author = re.search(r'author\s+=(.*)', bib_entry).group(1)
         # Set the collaboration name as author
-        bib_entry = bib_entry.replace(author, ' "{' + collab_name + '}"')
+        bib_entry = bib_entry.replace(author, ' "{' + collab_name + '}",')
         # Delete the collaboration field
         bib_entry = bib_entry.replace(collab_field, '')
     else:
