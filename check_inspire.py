@@ -8,12 +8,11 @@
 """
 
 import json
+import os
 from datetime import date, datetime
 
 # Import the modules to open and reading URLs and the JSON encoder
 import requests
-
-import os
 
 starting_point = input("From which date do you want to start? \nFormat is YYYY-MM-DD!\n")
 starting_date = date.fromisoformat(starting_point)
