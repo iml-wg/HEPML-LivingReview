@@ -1677,6 +1677,7 @@ const expandElements = shouldExpand => {
     * [Mixture-of-theories Training: Can We Find New Physics and Anomalies Better by Mixing Physical Theories?](https://arxiv.org/abs/2207.07631) [[DOI](https://doi.org/10.1007/JHEP03(2023)004)]
     * [Neural Embedding: Learning the Embedding of the Manifold of Physics Data](https://arxiv.org/abs/2208.05484) [[DOI](https://doi.org/10.1007/JHEP07(2023)108)]
     * [Null Hypothesis Test for Anomaly Detection](https://arxiv.org/abs/2210.02226) [[DOI](https://doi.org/10.1016/j.physletb.2023.137836)]
+    * [Detecting new physics as novelty \textemdash{} Complementarity matters](https://arxiv.org/abs/2202.02165) [[DOI](https://doi.org/10.1007/JHEP10(2022)085)]
     * [Resonant anomaly detection without background sculpting](https://arxiv.org/abs/2210.14924) [[DOI](https://doi.org/10.1103/PhysRevD.107.114012)]
     * [Anomaly Detection under Coordinate Transformations](https://arxiv.org/abs/2209.06225) [[DOI](https://doi.org/10.1103/PhysRevD.107.015009)]
     * [Quantum-probabilistic Hamiltonian learning for generative modelling \& anomaly detection](https://arxiv.org/abs/2211.03803)
