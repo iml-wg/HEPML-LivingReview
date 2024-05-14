@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from datetime import datetime
 
 import requests
+from icecream import ic
 
 update_journal = False
 
