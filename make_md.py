@@ -3,7 +3,6 @@ from dataclasses import dataclass
 from datetime import datetime
 
 import requests
-from icecream import ic
 
 update_journal = False
 
@@ -311,7 +310,7 @@ with open('HEPML.bib') as bibfile:
             id = line.split('{')[-1]
         elif 'month' in line:
             month = int(''.join(filter(str.isdigit,line.split('=')[1])))
-        elif 'year' in line:
+        elif 'year =' in line:
             year = int(''.join(filter(str.isdigit,line.split('=')[1])))
         if id and month and year:
             # print((month,year))
