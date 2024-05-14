@@ -1,9 +1,9 @@
 import os
 from dataclasses import dataclass
 from datetime import datetime
-from icecream import ic
 
 import requests
+from icecream import ic
 
 update_journal = False
 
