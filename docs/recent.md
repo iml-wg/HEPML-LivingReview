@@ -55,11 +55,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Meson mass and width: Deep learning approach](https://arxiv.org/abs/2404.00448)
 * [Differentiable nuclear deexcitation simulation for low energy neutrino physics](https://arxiv.org/abs/2404.00180)
 * [Probing Heavy Charged Higgs Boson Using Multivariate Technique at Gamma-Gamma Collider](https://arxiv.org/abs/2403.20293)
-
-## February 2024
 * [Feynman Diagrams as Computational Graphs](https://arxiv.org/abs/2403.18840)
-
-## March 2024
 * [A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements](https://arxiv.org/abs/2403.18265)
 * [One flow to correct them all: improving simulations in high-energy physics with a single normalising flow and a switch](https://arxiv.org/abs/2403.18582)
 * [Particle identification with machine learning from incomplete data in the ALICE experiment](https://arxiv.org/abs/2403.17436)
