@@ -1600,6 +1600,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Taming modeling uncertainties with Mass Unspecific Supervised Tagging](https://arxiv.org/abs/2201.11143) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10221-3)]
 * [What's Anomalous in LHC Jets?](https://arxiv.org/abs/2202.00686) [[DOI](https://doi.org/10.21468/SciPostPhys.15.4.168)]
 * [Quantum Anomaly Detection for Collider Physics](https://arxiv.org/abs/2206.08391) [[DOI](https://doi.org/10.1007/JHEP02(2023)220)]
+* [Detecting new physics as novelty \textemdash{} Complementarity matters](https://arxiv.org/abs/2202.02165) [[DOI](https://doi.org/10.1007/JHEP10(2022)085)]
 * [Self-supervised Anomaly Detection for New Physics](https://arxiv.org/abs/2205.10380) [[DOI](https://doi.org/10.1103/PhysRevD.106.056005)]
 * [Data-directed search for new physics based on symmetries of the SM](https://arxiv.org/abs/2203.07529) [[DOI](https://doi.org/10.1140/epjc/s10052-022-10454-2)]
 * [CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](https://arxiv.org/abs/2203.09470) [[DOI](https://doi.org/10.3389/fdata.2023.899345)]
