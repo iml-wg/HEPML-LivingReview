@@ -119,6 +119,8 @@ def convert_from_bib(myline):
         elif "doi" in first_entry:
             myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         elif "url" in first_entry:
+            if "@" in first_entry:
+                continue
             myentry_dict["url"] = entry_cleaned.split("url")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         else:
             #print(entry_cleaned)
@@ -140,13 +142,13 @@ def convert_from_bib(myline):
                 myfile_bib_copy.write(line)
                 if myentry_dict['eprint'] in line and "eprint" in line:
                     if "journal_title" in inspire_dict:
-                        myfile_bib_copy.write("      journal=\""+inspire_dict['journal_title']+"\",\n")
+                        myfile_bib_copy.write("    journal=\""+inspire_dict['journal_title']+"\",\n")
                     if "journal_volume" in inspire_dict:
-                        myfile_bib_copy.write("      volume=\""+inspire_dict['journal_volume']+"\",\n")
+                        myfile_bib_copy.write("    volume=\""+inspire_dict['journal_volume']+"\",\n")
                     if "page_start" in inspire_dict:
-                        myfile_bib_copy.write("      pages=\""+inspire_dict['page_start']+"\",\n")
+                        myfile_bib_copy.write("    pages=\""+inspire_dict['page_start']+"\",\n")
                     if "doi" in inspire_dict:
-                        myfile_bib_copy.write("      doi=\""+inspire_dict['doi']+"\",\n")
+                        myfile_bib_copy.write("    doi=\""+inspire_dict['doi']+"\",\n")
                         pass
                     pass
                 pass
@@ -308,7 +310,7 @@ with open('HEPML.bib') as bibfile:
             id = line.split('{')[-1]
         elif 'month' in line:
             month = int(''.join(filter(str.isdigit,line.split('=')[1])))
-        elif 'year' in line:
+        elif 'year =' in line:
             year = int(''.join(filter(str.isdigit,line.split('=')[1])))
         if id and month and year:
             # print((month,year))
