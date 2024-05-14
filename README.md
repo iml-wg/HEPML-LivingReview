@@ -206,6 +206,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [LLPNet: Graph Autoencoder for Triggering Light Long-Lived Particles at HL-LHC](https://arxiv.org/abs/2308.13611)
 * [Graph Structure from Point Clouds: Geometric Attention is All You Need](https://arxiv.org/abs/2307.16662)
 * [Hypergraphs in LHC Phenomenology -- The Next Frontier of IRC-Safe Feature Extraction](https://arxiv.org/abs/2309.17351)
+* [Rotation-equivariant graph neural network for learning hadronic SMEFT effects](https://arxiv.org/abs/2401.10323) [[DOI](https://doi.org/10.1103/PhysRevD.109.076012)]
 
 ####  Sets (point clouds)
 
@@ -1124,6 +1125,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Equivariant Graph Neural Networks for Charged Particle Tracking](https://arxiv.org/abs/2304.05293)
 * [Explainable Equivariant Neural Networks for Particle Physics: PELICAN](https://arxiv.org/abs/2307.16506)
 * [Safe but Incalculable: Energy-weighting is not all you need](https://arxiv.org/abs/2311.07652)
+* [Rotation-equivariant graph neural network for learning hadronic SMEFT effects](https://arxiv.org/abs/2401.10323) [[DOI](https://doi.org/10.1103/PhysRevD.109.076012)]
 
 ##  Decorrelation methods.
 
@@ -1564,6 +1566,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Scaling MadMiner with a deployment on REANA](https://arxiv.org/abs/2304.05814)
 * [Precision-Machine Learning for the Matrix Element Method](https://arxiv.org/abs/2310.07752)
 * [From Optimal Observables to Machine Learning: an Effective-Field-Theory Analysis of $e^+e^- \to W^+W^-$ at Future Lepton Colliders](https://arxiv.org/abs/2401.02474)
+* [Rotation-equivariant graph neural network for learning hadronic SMEFT effects](https://arxiv.org/abs/2401.10323) [[DOI](https://doi.org/10.1103/PhysRevD.109.076012)]
 
 ###  Unfolding
 
