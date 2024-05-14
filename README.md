@@ -214,6 +214,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [LLPNet: Graph Autoencoder for Triggering Light Long-Lived Particles at HL-LHC](https://arxiv.org/abs/2308.13611)
 * [Graph Structure from Point Clouds: Geometric Attention is All You Need](https://arxiv.org/abs/2307.16662)
 * [Hypergraphs in LHC Phenomenology -- The Next Frontier of IRC-Safe Feature Extraction](https://arxiv.org/abs/2309.17351)
+* [Rotation-equivariant graph neural network for learning hadronic SMEFT effects](https://arxiv.org/abs/2401.10323) [[DOI](https://doi.org/10.1103/PhysRevD.109.076012)]
 * [Combined track finding with GNN \& CKF](https://arxiv.org/abs/2401.16016)
 * [Neutrino Reconstruction in TRIDENT Based on Graph Neural Network](https://arxiv.org/abs/2401.15324) [[DOI](https://doi.org/10.1007/978-981-97-0065-3_20)]
 * [Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment](https://arxiv.org/abs/2401.15477) [[DOI](https://doi.org/10.1007/978-981-97-0065-3_19)]
@@ -1683,6 +1684,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Scaling MadMiner with a deployment on REANA](https://arxiv.org/abs/2304.05814)
 * [Precision-Machine Learning for the Matrix Element Method](https://arxiv.org/abs/2310.07752)
 * [From Optimal Observables to Machine Learning: an Effective-Field-Theory Analysis of $e^+e^- \to W^+W^-$ at Future Lepton Colliders](https://arxiv.org/abs/2401.02474)
+* [Rotation-equivariant graph neural network for learning hadronic SMEFT effects](https://arxiv.org/abs/2401.10323) [[DOI](https://doi.org/10.1103/PhysRevD.109.076012)]
 * [Improvement and generalization of ABCD method with Bayesian inference](https://arxiv.org/abs/2402.08001)
 * [Bayesian Active Search on Parameter Space: a 95 GeV Spin-0 Resonance in the ($B-L$)SSM](https://arxiv.org/abs/2404.18653)
 
