@@ -79,11 +79,8 @@ This is an automatically compiled list of papers which have been added to the li
 * [Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models](https://arxiv.org/abs/2403.07066)
 * [Dark Matter-induced electron excitations in silicon and germanium with Deep Learning](https://arxiv.org/abs/2403.07053)
 * [OmniJet-$\alpha$: The first cross-task foundation model for particle physics](https://arxiv.org/abs/2403.05618)
-
-## February 2024
 * [New Pathways in Neutrino Physics via Quantum-Encoded Data Analysis](https://arxiv.org/abs/2402.19306)
-
-## March 2024
+* [Heavy quarkonium spectral function in an anisotropic background](https://arxiv.org/abs/2403.04966) [[DOI](https://doi.org/10.1103/PhysRevD.109.086010)]
 * [Jet Discrimination with Quantum Complete Graph Neural Network](https://arxiv.org/abs/2403.04990)
 * [Observation of electroweak production of $W^+W^-$ in association with jets in proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2403.04869)
 * [Real-Time Charged Track Reconstruction for CLAS12](https://arxiv.org/abs/2403.04020)
