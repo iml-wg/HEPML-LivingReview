@@ -90,7 +90,7 @@ This is an automatically compiled list of papers which have been added to the li
 ## February 2024
 * [A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics](https://arxiv.org/abs/2402.17386)
 * [Cluster Counting Algorithm for the CEPC Drift Chamber using LSTM and DGCNN](https://arxiv.org/abs/2402.16493)
-* [A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2\phi_1$ in $B^0 \to J/\psi K^0_\text{S}$ decays](https://arxiv.org/abs/2402.17260)
+* [A new graph-neural-network flavor tagger for Belle II and measurement of $\sin 2\phi_1$ in $B^0 \to J/\psi K^0_\text{S}$ decays](https://arxiv.org/abs/2402.17260)
 * [Classifier Surrogates: Sharing AI-based Searches with the World](https://arxiv.org/abs/2402.15558)
 * [Search for long-lived particles using displaced vertices and missing transverse momentum in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2402.15804)
 * [A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter](https://arxiv.org/abs/2402.16285)
