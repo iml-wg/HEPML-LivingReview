@@ -80,7 +80,7 @@ const expandElements = shouldExpand => {
     * [New directions for surrogate models and differentiable programming for High Energy Physics detector simulation](https://arxiv.org/abs/2203.08806)
     * [Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges](https://arxiv.org/abs/2203.12852)
     * [Physics Community Needs, Tools, and Resources for Machine Learning](https://arxiv.org/abs/2203.16255)
-    * [Boosted decision trees](https://arxiv.org/abs/2206.09645) [[DOI](https://doi.org/10.1142/9789811234033_0002)]
+    * [Boosted decision trees](https://arxiv.org/abs/2206.09645) [[url](https://doi.org/10.1142/9789811234033_0002)]
     * [Data Science and Machine Learning in Education](https://arxiv.org/abs/2207.09060)
     * [Interpretable Uncertainty Quantification in AI for HEP](https://arxiv.org/abs/2208.03284) [[DOI](https://doi.org/10.2172/1886020)]
     * [Modern Machine Learning for LHC Physicists](https://arxiv.org/abs/2211.01421)
@@ -270,7 +270,7 @@ const expandElements = shouldExpand => {
     * [Neutrino Reconstruction in TRIDENT Based on Graph Neural Network](https://arxiv.org/abs/2401.15324) [[DOI](https://doi.org/10.1007/978-981-97-0065-3_20)]
     * [Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment](https://arxiv.org/abs/2401.15477) [[DOI](https://doi.org/10.1007/978-981-97-0065-3_19)]
     * [Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning](https://arxiv.org/abs/2402.10149)
-    * [A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2\phi_1$ in $B^0 \to J/\psi K^0_\text{S}$ decays](https://arxiv.org/abs/2402.17260)
+    * [A new graph-neural-network flavor tagger for Belle II and measurement of $\sin 2\phi_1$ in $B^0 \to J/\psi K^0_\text{S}$ decays](https://arxiv.org/abs/2402.17260)
     * [A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics](https://arxiv.org/abs/2402.17386)
     * [NuGraph2: A Graph Neural Network for Neutrino Physics Event Reconstruction](https://arxiv.org/abs/2403.11872)
 
