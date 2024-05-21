@@ -1430,6 +1430,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Multiscale Normalizing Flows for Gauge Theories](https://arxiv.org/abs/2404.10819) [[DOI](https://doi.org/10.22323/1.453.0035)]
 * [Flow-based Nonperturbative Simulation of First-order Phase Transitions](https://arxiv.org/abs/2404.18323)
 * [Unifying Simulation and Inference with Normalizing Flows](https://arxiv.org/abs/2404.18992)
+* [CaloDREAM — Detector Response Emulation via Attentive flow Matching](https://arxiv.org/pdf/2405.09629)
 
 ###  Diffusion Models
 
