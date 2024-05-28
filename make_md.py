@@ -29,7 +29,7 @@ for file in myfile_readme,myfile_out:
 
 for file in myfile_readme,myfile_about:
     file.write(r"The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.")
-    file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Etienne Dreyer, Claudius Krause, Johnny Raine, Dalila Salamani, and Ramon Winterhalder.\n\n")
+    file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, Johnny Raine, and Ramon Winterhalder.\n\n")
 
 ###Add buttons
 myfile_out.write("""\n<a class="md-button" onClick="expandElements(true)">Expand all sections</a>\n<a class="md-button" onClick="expandElements(false)">Collapse all sections</a>\n""")
@@ -119,6 +119,8 @@ def convert_from_bib(myline):
         elif "doi" in first_entry:
             myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         elif "url" in first_entry:
+            if "@" in first_entry:
+                continue
             myentry_dict["url"] = entry_cleaned.split("url")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         else:
             #print(entry_cleaned)
@@ -140,13 +142,13 @@ def convert_from_bib(myline):
                 myfile_bib_copy.write(line)
                 if myentry_dict['eprint'] in line and "eprint" in line:
                     if "journal_title" in inspire_dict:
-                        myfile_bib_copy.write("      journal=\""+inspire_dict['journal_title']+"\",\n")
+                        myfile_bib_copy.write("    journal=\""+inspire_dict['journal_title']+"\",\n")
                     if "journal_volume" in inspire_dict:
-                        myfile_bib_copy.write("      volume=\""+inspire_dict['journal_volume']+"\",\n")
+                        myfile_bib_copy.write("    volume=\""+inspire_dict['journal_volume']+"\",\n")
                     if "page_start" in inspire_dict:
-                        myfile_bib_copy.write("      pages=\""+inspire_dict['page_start']+"\",\n")
+                        myfile_bib_copy.write("    pages=\""+inspire_dict['page_start']+"\",\n")
                     if "doi" in inspire_dict:
-                        myfile_bib_copy.write("      doi=\""+inspire_dict['doi']+"\",\n")
+                        myfile_bib_copy.write("    doi=\""+inspire_dict['doi']+"\",\n")
                         pass
                     pass
                 pass
@@ -308,7 +310,7 @@ with open('HEPML.bib') as bibfile:
             id = line.split('{')[-1]
         elif 'month' in line:
             month = int(''.join(filter(str.isdigit,line.split('=')[1])))
-        elif 'year' in line:
+        elif 'year =' in line:
             year = int(''.join(filter(str.isdigit,line.split('=')[1])))
         if id and month and year:
             # print((month,year))

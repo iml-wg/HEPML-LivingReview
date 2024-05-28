@@ -28,10 +28,13 @@ def replace_collaboration_author(bib_entry):
         collab_field = collab_field.group(0)
 
     collab_names = {
-        'ATLAS': 'The ATLAS collaboration',
-        'CMS': 'The CMS collaboration',
-        'LHCb': 'The LHCb collaboration',
-        'ALICE': 'The ALICE collaboration',
+        'ATLAS': 'ATLAS Collaboration',
+        'CMS': 'CMS Collaboration',
+        'LHCb': 'LHCb Collaboration',
+        'ALICE': 'ALICE Collaboration',
+        'IceCube': 'IceCube Collaboration',
+        'NNPDF': 'NNPDF Collaboration',
+        'Belle-II': "Belle-II Collaboration"
     }
 
     # Find the collaboration field and select matching name above
