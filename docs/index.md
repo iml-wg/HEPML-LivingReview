@@ -1580,6 +1580,7 @@ const expandElements = shouldExpand => {
     * [Multiscale Normalizing Flows for Gauge Theories](https://arxiv.org/abs/2404.10819) [[DOI](https://doi.org/10.22323/1.453.0035)]
     * [Flow-based Nonperturbative Simulation of First-order Phase Transitions](https://arxiv.org/abs/2404.18323)
     * [Unifying Simulation and Inference with Normalizing Flows](https://arxiv.org/abs/2404.18992)
+    * [CaloDREAM -- Detector Response Emulation via Attentive flow Matching](https://arxiv.org/abs/2405.09629)
 
 
 ??? example "Diffusion Models"
@@ -1617,6 +1618,7 @@ const expandElements = shouldExpand => {
     * [End-to-end simulation of particle physics events with Flow Matching and generator Oversampling](https://arxiv.org/abs/2402.13684)
     * [BUFF: Boosted Decision Tree based Ultra-Fast Flow matching](https://arxiv.org/abs/2404.18219)
     * [Advancing Set-Conditional Set Generation: Graph Diffusion for Fast Simulation of Reconstructed Particles](https://arxiv.org/abs/2405.10106)
+    * [CaloDREAM -- Detector Response Emulation via Attentive flow Matching](https://arxiv.org/abs/2405.09629)
 
 
 ??? example "Transformer Models"

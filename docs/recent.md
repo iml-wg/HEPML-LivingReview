@@ -29,6 +29,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Incorporating Physical Priors into Weakly-Supervised Anomaly Detection](https://arxiv.org/abs/2405.08889)
 * [Preheating with deep learning](https://arxiv.org/abs/2405.08901)
 * [Leptoquark Searches at TeV Scale Using Neural Networks at Hadron Collider](https://arxiv.org/abs/2405.08090)
+* [CaloDREAM -- Detector Response Emulation via Attentive flow Matching](https://arxiv.org/abs/2405.09629)
 * [Flavor dependent Critical endpoint from holographic QCD through machine learning](https://arxiv.org/abs/2405.06179)
 * [Searches for the BSM scenarios at the LHC using decision tree based machine learning algorithms: A comparative study and review of Random Forest, Adaboost, XGboost and LightGBM frameworks](https://arxiv.org/abs/2405.06040)
 * [Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation](https://arxiv.org/abs/2405.06605)
