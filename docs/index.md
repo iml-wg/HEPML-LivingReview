@@ -87,6 +87,7 @@ const expandElements = shouldExpand => {
     * [Bridging Machine Learning and Sciences: Opportunities and Challenges](https://arxiv.org/abs/2210.13441)
     * [FAIR for AI: An interdisciplinary, international, inclusive, and diverse community building perspective](https://arxiv.org/abs/2210.08973) [[DOI](https://doi.org/10.1038/s41597-023-02298-6)]
     * [Snowmass Neutrino Frontier Report](https://arxiv.org/abs/2211.08641)
+    * [Exploring QCD matter in extreme conditions with Machine Learning](https://arxiv.org/abs/2303.15136) [[DOI](https://doi.org/10.1016/j.ppnp.2023.104084)]
     * [Graph neural networks at the Large Hadron Collider](https://doi.org/10.1038/s42254-023-00569-0)
     * [Overview: Jet quenching with machine learning](https://arxiv.org/abs/2308.10035)
     * [Artificial Intelligence for the Electron Ion Collider (AI4EIC)](https://arxiv.org/abs/2307.08593) [[DOI](https://doi.org/10.1007/s41781-024-00113-4)]
@@ -661,7 +662,7 @@ const expandElements = shouldExpand => {
     * [Insights into neutron star equation of state by machine learning](https://arxiv.org/abs/2309.11227) [[DOI](https://doi.org/10.3847/1538-4357/ad2e8d)]
     * [Towards Uncovering Dark Matter Effects on Neutron Star Properties: A Machine Learning Approach](https://arxiv.org/abs/2401.07773) [[DOI](https://doi.org/10.3390/particles7010005)]
     * [The Measurement and Modelling of Cosmic Ray Muons at KM3NeT Detectors](https://arxiv.org/abs/2402.02620)
-    * [Sibyll★](https://arxiv.org/abs/2404.02636) [[DOI](https://doi.org/10.1016/j.astropartphys.2024.102964)]
+    * [Sibyll$^\bigstar$](https://arxiv.org/abs/2404.02636) [[DOI](https://doi.org/10.1016/j.astropartphys.2024.102964)]
     * [Preheating with deep learning](https://arxiv.org/abs/2405.08901)
 
     ####  Tracking
@@ -2176,7 +2177,7 @@ const expandElements = shouldExpand => {
     * [Advances in developing deep neural networks for finding primary vertices in proton-proton collisions at the LHC](https://arxiv.org/abs/2309.12417) [[DOI](https://doi.org/10.1051/epjconf/202429509003)]
     * [Novel techniques for alpha/beta pulse shape discrimination in Borexino](https://arxiv.org/abs/2310.11826)
     * [CMS highlights on searches for new physics in final states with jets](https://arxiv.org/abs/2401.07172) [[DOI](https://doi.org/10.22323/1.450.0162)]
-    * [Search for new phenomena with top-quark pairs and large missing transverse momentum using 140 fb$^{−1}$ of pp collision data at $ \sqrt{s} $](https://arxiv.org/abs/2401.13430) [[DOI](https://doi.org/10.1007/JHEP03(2024)139)]
+    * [Search for new phenomena with top-quark pairs and large missing transverse momentum using 140 fb$^{-1}$ of pp collision data at $ \sqrt{s} $](https://arxiv.org/abs/2401.13430) [[DOI](https://doi.org/10.1007/JHEP03(2024)139)]
     * [Search for long-lived particles using displaced vertices and missing transverse momentum in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2402.15804)
     * [Observation of electroweak production of $W^+W^-$ in association with jets in proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2403.04869)
     * [Exploration at the high-energy frontier: ATLAS Run 2 searches investigating the exotic jungle beyond the Standard Model](https://arxiv.org/abs/2403.09292)
