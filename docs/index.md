@@ -662,7 +662,7 @@ const expandElements = shouldExpand => {
     * [Insights into neutron star equation of state by machine learning](https://arxiv.org/abs/2309.11227) [[DOI](https://doi.org/10.3847/1538-4357/ad2e8d)]
     * [Towards Uncovering Dark Matter Effects on Neutron Star Properties: A Machine Learning Approach](https://arxiv.org/abs/2401.07773) [[DOI](https://doi.org/10.3390/particles7010005)]
     * [The Measurement and Modelling of Cosmic Ray Muons at KM3NeT Detectors](https://arxiv.org/abs/2402.02620)
-    * [Sibyll$^\bigstar$](https://arxiv.org/abs/2404.02636) [[DOI](https://doi.org/10.1016/j.astropartphys.2024.102964)]
+    * [Sibyll★](https://arxiv.org/abs/2404.02636) [[DOI](https://doi.org/10.1016/j.astropartphys.2024.102964)]
     * [Preheating with deep learning](https://arxiv.org/abs/2405.08901)
 
     ####  Tracking
