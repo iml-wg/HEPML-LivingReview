@@ -22,9 +22,10 @@ This is an automatically compiled list of papers which have been added to the li
 * [Anomaly Detection Based on Machine Learning for the CMS Electromagnetic Calorimeter Online Data Quality Monitoring](https://arxiv.org/abs/2407.20278)
 * [Accelerating template generation in resonant anomaly detection searches with optimal transport](https://arxiv.org/abs/2407.19818)
 * [Probing Charm Yukawa through $ch$ Associated Production at the Hadron Collider](https://arxiv.org/abs/2407.19797)
-* [Accuracy versus precision in boosted top tagging with the ATLAS detector](https://arxiv.org/abs/2407.20127)
+* [Accuracy versus precision in boosted top tagging with the ATLAS detector](https://arxiv.org/abs/2407.20127) [[DOI](https://doi.org/10.1088/1748-0221/19/08/P08018)]
 * [Comparison of Geometrical Layouts for Next-Generation Large-volume Cherenkov Neutrino Telescopes](https://arxiv.org/abs/2407.19010)
 * [The Observation of a 95 GeV Scalar at Future Electron-Positron Colliders](https://arxiv.org/abs/2407.16806)
 * [Applying generative neural networks for fast simulations of the ALICE (CERN) experiment](https://arxiv.org/abs/2407.16704)
 * [EggNet: An Evolving Graph-based Graph Attention Network for Particle Track Reconstruction](https://arxiv.org/abs/2407.13925)
 * [Exploring Top-Quark Signatures of Heavy Flavor-Violating Scalars at the LHC with Parametrized Neural Networks](https://arxiv.org/abs/2407.12118)
+

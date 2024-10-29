@@ -1479,8 +1479,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Anomaly detection with flow-based fast calorimeter simulators](https://arxiv.org/abs/2312.11618) [[DOI](https://doi.org/10.1103/PhysRevD.110.035036)]
 * [Flow-based sampling for lattice field theories](https://arxiv.org/abs/2401.01297)
 * [Accelerating HEP simulations with Neural Importance Sampling](https://arxiv.org/abs/2401.09069) [[DOI](https://doi.org/10.1007/JHEP03(2024)083)]
-* [End-to-end simulation of particle physics events with Flow Matching and generator Oversampling](https://arxiv.org/abs/2402.13684) [[DOI](https://doi.org/10.1088/2632-2153/ad563c)]
 * [Improving $\Lambda$ Signal Extraction with Domain Adaptation via Normalizing Flows](https://arxiv.org/abs/2403.14076) [[DOI](https://doi.org/10.22323/1.456.0043)]
+* [End-to-end simulation of particle physics events with Flow Matching and generator Oversampling](https://arxiv.org/abs/2402.13684) [[DOI](https://doi.org/10.1088/2632-2153/ad563c)]
 * [Normalizing Flows for Domain Adaptation when Identifying $\Lambda$ Hyperon Events](https://arxiv.org/abs/2403.14804) [[DOI](https://doi.org/10.1088/1748-0221/19/06/C06020)]
 * [CaloPointFlow II Generating Calorimeter Showers as Point Clouds](https://arxiv.org/abs/2403.15782)
 * [One flow to correct them all: improving simulations in high-energy physics with a single normalising flow and a switch](https://arxiv.org/abs/2403.18582) [[DOI](https://doi.org/10.1007/s41781-024-00125-0)]
