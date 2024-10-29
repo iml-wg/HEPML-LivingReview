@@ -5,6 +5,7 @@ from datetime import datetime
 import requests
 
 update_journal = False
+update_recent = False
 
 
 myfile = open("HEPML.tex", encoding="utf8")
@@ -29,7 +30,7 @@ for file in myfile_readme,myfile_out:
 
 for file in myfile_readme,myfile_about:
     file.write(r"The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.")
-    file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, Johnny Raine, and Ramon Winterhalder.\n\n")
+    file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, and Ramon Winterhalder.\n\n")
 
 ###Add buttons
 myfile_out.write("""\n<a class="md-button" onClick="expandElements(true)">Expand all sections</a>\n<a class="md-button" onClick="expandElements(false)">Collapse all sections</a>\n""")
@@ -299,41 +300,42 @@ month_dict = {
 }
 
 
-print("Compiling new references in dates:",dates)
+if update_recent:
+    print("Compiling new references in dates:",dates)
 
-with open('HEPML.bib') as bibfile:
-    id = None
-    month = None
-    year = None
-    for line in bibfile:
-        if len(line.split('@')) > 1:
-            id = line.split('{')[-1]
-        elif 'month' in line:
-            month = int(''.join(filter(str.isdigit,line.split('=')[1])))
-        elif 'year =' in line:
-            year = int(''.join(filter(str.isdigit,line.split('=')[1])))
-        if id and month and year:
-            # print((month,year))
-            # print((month,year) in dates)
-            if (year,month) in dates:
-                refs.append(Cite(id,month,year))
-            else:
-                break
-            id,month,year = None,None,None
+    with open('HEPML.bib') as bibfile:
+        id = None
+        month = None
+        year = None
+        for line in bibfile:
+            if len(line.split('@')) > 1:
+                id = line.split('{')[-1]
+            elif 'month' in line:
+                month = int(''.join(filter(str.isdigit,line.split('=')[1])))
+            elif 'year =' in line:
+                year = int(''.join(filter(str.isdigit,line.split('=')[1])))
+            if id and month and year:
+                # print((month,year))
+                # print((month,year) in dates)
+                if (year,month) in dates:
+                    refs.append(Cite(id,month,year))
+                else:
+                    break
+                id,month,year = None,None,None
 
-myfile_out = open("docs/recent.md", "w",encoding="utf8")
+    myfile_out = open("docs/recent.md", "w",encoding="utf8")
 
-myfile_out.write("---\nhide:\n  - navigation\nsearch:\n  exclude: true\n---\n\n")
-myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled list of papers which have been added to the living review that were made public within the previous {prev_months} months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
+    myfile_out.write("---\nhide:\n  - navigation\nsearch:\n  exclude: true\n---\n\n")
+    myfile_out.write(f"# Recent Publications\n\nThis is an automatically compiled list of papers which have been added to the living review that were made public within the previous {prev_months} months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.\n")
 
-current_year = refs[0].year
-current_month = refs[0].month
-myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
-for cite in refs:
-    if (cite.year != current_year) | (cite.month != current_month):
-        current_year = cite.year
-        current_month = cite.month
-        myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
+    current_year = refs[0].year
+    current_month = refs[0].month
+    myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
+    for cite in refs:
+        if (cite.year != current_year) | (cite.month != current_month):
+            current_year = cite.year
+            current_month = cite.month
+            myfile_out.write(f'\n## {month_dict[current_month]} {current_year}\n')
 
-    myfile_out.write("* "+convert_from_bib(cite.name)+"\n")
-myfile_out.write('\n')
+        myfile_out.write("* "+convert_from_bib(cite.name)+"\n")
+    myfile_out.write('\n')
