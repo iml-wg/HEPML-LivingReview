@@ -111,7 +111,7 @@ const expandElements = shouldExpand => {
     ###  Classical papers
     </div>
 
-    * [Neural Networks and Cellular Automata in Experimental High-energy Physics](https://doi.org/10.1016/0010-4655(88)90004-5) (1988,)
+    * [Neural Networks and Cellular Automata in Experimental High-energy Physics](https://doi.org/10.1016/0010-4655(88)90004-5) (1988)
     * [Finding Gluon Jets With a Neural Trigger](https://doi.org/10.1103/PhysRevLett.65.1321) (1990)
 
 
@@ -156,7 +156,7 @@ const expandElements = shouldExpand => {
     * [Jet-Images: Computer Vision Inspired Techniques for Jet Tagging](https://arxiv.org/abs/1407.5675) [[DOI](https://doi.org/10.1007/JHEP02(2015)118)] (2014)
     * [Playing Tag with ANN: Boosted Top Identification with Pattern Recognition](https://arxiv.org/abs/1501.05968) [[DOI](https://doi.org/10.1007/JHEP07(2015)086)] (2015)
     * [Jet-images — deep learning edition](https://arxiv.org/abs/1511.05190) [[DOI](https://doi.org/10.1007/JHEP07(2016)069)] (2015)
-    * [Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641) (2017,)
+    * [Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641) (2017)
     * [Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)] (2018)
     * [Learning to classify from impure samples with high-dimensional data](https://arxiv.org/abs/1801.10158) [[DOI](https://doi.org/10.1103/PhysRevD.98.011502)] (2018)
     * [Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://arxiv.org/abs/1609.00607) [[DOI](https://doi.org/10.1103/PhysRevD.95.014018)] (2016)
@@ -176,7 +176,7 @@ const expandElements = shouldExpand => {
     ####  Event images
 
     * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)] (2018)
-    * [Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070) (2019,)
+    * [Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070) (2019)
     * [Boosting $H\to b\bar b$ with Machine Learning](https://arxiv.org/abs/1807.10768) [[DOI](https://doi.org/10.1007/JHEP10(2018)101)] (2018)
     * [End-to-End Physics Event Classification with the CMS Open Data: Applying Image-based Deep Learning on Detector Data to Directly Classify Collision Events at the LHC](https://arxiv.org/abs/1807.11916) [[DOI](https://doi.org/10.1007/s41781-020-00038-8)] (2018)
     * [Disentangling Boosted Higgs Boson Production Modes with Machine Learning](https://arxiv.org/abs/2009.05930) [[DOI](https://doi.org/10.1088/1748-0221/16/07/P07002)] (2020)
@@ -194,7 +194,7 @@ const expandElements = shouldExpand => {
     * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12012)] (2020)
     * [Development of a Vertex Finding Algorithm using Recurrent Neural Network](https://arxiv.org/abs/2101.11906) [[DOI](https://doi.org/10.1016/j.nima.2022.167836)] (2021)
     * [Sequence-based Machine Learning Models in Jet Physics](https://arxiv.org/abs/2102.06128) (2021)
-    * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226) (2017,)
+    * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226) (2017)
 
     ####  Trees
 
@@ -209,7 +209,7 @@ const expandElements = shouldExpand => {
 
     ####  Graphs
 
-    * [Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf) (2017,)
+    * [Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf) (2017)
     * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603) (2020)
     * [Probing stop pair production at the LHC with graph neural networks](https://arxiv.org/abs/1807.09088) [[DOI](https://doi.org/10.1007/JHEP08(2019)055)] (2018)
     * [Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988) [[DOI](https://doi.org/10.1140/epjp/i2019-12710-3)] (2018)
@@ -297,7 +297,7 @@ const expandElements = shouldExpand => {
     * [Point Cloud Transformers applied to Collider Physics](https://arxiv.org/abs/2102.05073) [[DOI](https://doi.org/10.1088/2632-2153/ac07f6)] (2021)
     * [SPANet: Generalized Permutationless Set Assignment for Particle Physics using Symmetry Preserving Attention](https://arxiv.org/abs/2106.03898) [[DOI](https://doi.org/10.21468/SciPostPhys.12.5.178)] (2021)
     * [Particle Convolution for High Energy Physics](https://arxiv.org/abs/2107.02908) (2021)
-    * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948) (2020,)
+    * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948) (2020)
     * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772) (2022)
     * [Point Cloud Generation using Transformer Encoders and Normalising Flows](https://arxiv.org/abs/2211.13623) (2022)
     * [Comparing Point Cloud Strategies for Collider Event Classification](https://arxiv.org/abs/2212.10659) [[DOI](https://doi.org/10.1103/PhysRevD.108.012001)] (2022)
@@ -371,10 +371,10 @@ const expandElements = shouldExpand => {
 
     ####  quarks and gluons
 
-    * [Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641) (2017,)
+    * [Quark versus Gluon Jet Tagging Using Jet Images with the ATLAS Detector](http://cds.cern.ch/record/2275641) (2017)
     * [Deep learning in color: towards automated quark/gluon](https://arxiv.org/abs/1612.01551) [[DOI](https://doi.org/10.1007/JHEP01(2017)110)] (2016)
     * [Recursive Neural Networks in Quark/Gluon Tagging](https://arxiv.org/abs/1711.02633) [[DOI](https://doi.org/10.1007/s41781-018-0007-y)] (2017)
-    * [DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf) (2017,)
+    * [DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf) (2017)
     * [Probing heavy ion collisions using quark and gluon jet substructure](https://arxiv.org/abs/1803.03589) (2018)
     * [JEDI-net: a jet identification algorithm based on interaction networks](https://arxiv.org/abs/1908.05318) [[DOI](https://doi.org/10.1140/epjc/s10052-020-7608-4)] (2019)
     * [Quark-Gluon Tagging: Machine Learning vs Detector](https://arxiv.org/abs/1812.09223) [[DOI](https://doi.org/10.21468/SciPostPhys.6.6.069)] (2018)
@@ -398,7 +398,7 @@ const expandElements = shouldExpand => {
     ####  top quark tagging
 
     * [Playing Tag with ANN: Boosted Top Identification with Pattern Recognition](https://arxiv.org/abs/1501.05968) [[DOI](https://doi.org/10.1007/JHEP07(2015)086)] (2015)
-    * [DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf) (2017,)
+    * [DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf) (2017)
     * [The Machine Learning Landscape of Top Taggers](https://arxiv.org/abs/1902.09914) [[DOI](https://doi.org/10.21468/SciPostPhys.7.1.014)] (2019)
     * [Neural Network-based Top Tagger with Two-Point Energy Correlations and Geometry of Soft Emissions](https://arxiv.org/abs/2003.11787) [[DOI](https://doi.org/10.1007/JHEP07(2020)111)] (2020)
     * [CapsNets Continuing the Convolutional Quest](https://arxiv.org/abs/1906.11265) [[DOI](https://doi.org/10.21468/SciPostPhys.8.2.023)] (2019)
@@ -444,8 +444,8 @@ const expandElements = shouldExpand => {
     * [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)] (2018)
     * [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated Descriptors](https://arxiv.org/abs/2005.01842) [[DOI](https://doi.org/10.1088/1748-0221/16/03/P03017)] (2020)
     * [Jet Flavour Classification Using DeepJet](https://arxiv.org/abs/2008.10519) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12012)] (2020)
-    * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226) (2017,)
-    * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948) (2020,)
+    * [Identification of Jets Containing $b$-Hadrons with Recurrent Neural Networks at the ATLAS Experiment](http://cdsweb.cern.ch/record/2255226) (2017)
+    * [Deep Sets based Neural Networks for Impact Parameter Flavour Tagging in ATLAS](https://cds.cern.ch/record/2718948) (2020)
     * [Performance studies of jet flavor tagging and measurement of $R_b$ using ParticleNet at CEPC](https://arxiv.org/abs/2208.13503) [[DOI](https://doi.org/10.1142/S0217751X23501683)] (2022)
     * [Improving robustness of jet tagging algorithms with adversarial training: exploring the loss surface](https://arxiv.org/abs/2303.14511) (2023)
     * [Fast $b$-tagging at the high-level trigger of the ATLAS experiment in LHC Run 3](https://arxiv.org/abs/2306.09738) [[DOI](https://doi.org/10.1088/1748-0221/18/11/P11006)] (2023)
@@ -548,8 +548,8 @@ const expandElements = shouldExpand => {
     ####  Particle identification
 
     * [Electromagnetic Showers Beyond Shower Shapes](https://arxiv.org/abs/1806.05667) [[DOI](https://doi.org/10.1016/j.nima.2019.162879)] (2018)
-    * [Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification](https://dl4physicalsciences.github.io/files/nips_dlps_2017_24.pdf) (2017,)
-    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017,)
+    * [Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification](https://dl4physicalsciences.github.io/files/nips_dlps_2017_24.pdf) (2017)
+    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017)
     * [The Full Event Interpretation}: {An Exclusive Tagging Algorithm for the Belle II Experiment](https://arxiv.org/abs/1807.08680) [[DOI](https://doi.org/10.1007/s41781-019-0021-8)] (2018)
     * [Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8251-9)] (2019)
     * [Learning representations of irregular particle-detector geometry with distance-weighted graph networks](https://arxiv.org/abs/1902.07987) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7113-9)] (2019)
@@ -576,7 +576,7 @@ const expandElements = shouldExpand => {
 
     * [A Convolutional Neural Network Neutrino Event Classifier](https://arxiv.org/abs/1604.01444) [[DOI](https://doi.org/10.1088/1748-0221/11/09/P09001)] (2016)
     * [Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://arxiv.org/abs/1611.05531) [[DOI](https://doi.org/10.1088/1748-0221/12/03/P03011)] (2016)
-    * [Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf) (2017,)
+    * [Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NO$\nu$A Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf) (2017)
     * [Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber](https://arxiv.org/abs/1808.07269) [[DOI](https://doi.org/10.1103/PhysRevD.99.092001)] (2018)
     * [Scalable deep convolutional neural networks for sparse, locally dense liquid argon time projection chamber data](https://arxiv.org/abs/1903.05663) [[DOI](https://doi.org/10.1103/PhysRevD.102.012005)] (2019)
     * [Event reconstruction for KM3NeT/ORCA using convolutional neural networks](https://arxiv.org/abs/2004.08254) [[DOI](https://doi.org/10.1088/1748-0221/15/10/P10005)] (2020)
@@ -690,7 +690,7 @@ const expandElements = shouldExpand => {
 
     ####  Tracking
 
-    * [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf) (2017,)
+    * [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf) (2017)
     * [Novel deep learning methods for track reconstruction](https://arxiv.org/abs/1810.06111) (2018)
     * [The Tracking Machine Learning challenge : Accuracy phase](https://arxiv.org/abs/1904.06778) [[DOI](https://doi.org/10.1007/978-3-030-29135-8\_9)] (2019)
     * [Graph Neural Networks for Particle Reconstruction in High Energy Physics detectors](https://arxiv.org/abs/2003.11603) (2020)
@@ -961,7 +961,7 @@ const expandElements = shouldExpand => {
 
     * [On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://arxiv.org/abs/2002.01427) [[DOI](https://doi.org/10.1088/2632-2153/ab983a)] (2020)
     * [Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://arxiv.org/abs/1210.6861) [[DOI](https://doi.org/10.1088/1748-0221/8/02/P02013)] (2012)
-    * [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf) (2017,)
+    * [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf) (2017)
     * [Topology classification with deep learning to improve real-time event selection at the LHC](https://arxiv.org/abs/1807.00083) [[DOI](https://doi.org/10.1007/s41781-019-0028-1)] (2018)
     * [Using holistic event information in the trigger](https://arxiv.org/abs/1808.00711) (2018)
     * [Fast convolutional neural networks for identifying long-lived particles in a high-granularity calorimeter](https://arxiv.org/abs/2004.10744) [[DOI](https://doi.org/10.1088/1748-0221/15/12/P12006)] (2020)
@@ -1053,7 +1053,7 @@ const expandElements = shouldExpand => {
     </div>
 
     * [Pileup Mitigation with Machine Learning (PUMML)](https://arxiv.org/abs/1707.08600) [[DOI](https://doi.org/10.1007/JHEP12(2017)051)] (2017)
-    * [Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070) (2019,)
+    * [Convolutional Neural Networks with Event Images for Pileup Mitigation with the ATLAS Detector](http://cds.cern.ch/record/2684070) (2019)
     * [Pileup mitigation at the Large Hadron Collider with graph neural networks](https://arxiv.org/abs/1810.07988) [[DOI](https://doi.org/10.1140/epjp/i2019-12710-3)] (2018)
     * [Jet grooming through reinforcement learning](https://arxiv.org/abs/1903.09644) [[DOI](https://doi.org/10.1103/PhysRevD.100.014014)] (2019)
     * [Pile-Up Mitigation using Attention](https://arxiv.org/abs/2107.02779) [[DOI](https://doi.org/10.1088/2632-2153/ac7198)] (2021)
@@ -1070,9 +1070,9 @@ const expandElements = shouldExpand => {
     </div>
 
     * [Parametrizing the Detector Response with Neural Networks](https://arxiv.org/abs/1910.03773) [[DOI](https://doi.org/10.1088/1748-0221/15/01/P01030)] (2019)
-    * [Simultaneous Jet Energy and Mass Calibrations with Neural Networks](http://cds.cern.ch/record/2706189) (2020,)
-    * [Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration](http://cds.cern.ch/record/2630972) (2018,)
-    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017,)
+    * [Simultaneous Jet Energy and Mass Calibrations with Neural Networks](http://cds.cern.ch/record/2706189) (2020)
+    * [Generalized Numerical Inversion: A Neural Network Approach to Jet Calibration](http://cds.cern.ch/record/2630972) (2018)
+    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017)
     * [Per-Object Systematics using Deep-Learned Calibration](https://arxiv.org/abs/2003.11099) [[DOI](https://doi.org/10.21468/SciPostPhys.9.6.089)] (2020)
     * [A deep neural network for simultaneous estimation of b jet energy and resolution](https://arxiv.org/abs/1912.06046) [[DOI](https://doi.org/10.1007/s41781-020-00041-z)] (2019)
     * [How to GAN Higher Jet Resolution](https://arxiv.org/abs/2012.11944) [[DOI](https://doi.org/10.21468/SciPostPhys.13.3.064)] (2020)
@@ -1402,7 +1402,7 @@ const expandElements = shouldExpand => {
     * [uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://arxiv.org/abs/1305.7248) [[DOI](https://doi.org/10.1088/1748-0221/8/12/P12013)] (2013)
     * [Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://arxiv.org/abs/1703.03507) [[DOI](https://doi.org/10.1103/PhysRevD.96.074034)] (2017)
     * [Mass Agnostic Jet Taggers](https://arxiv.org/abs/1908.08959) [[DOI](https://doi.org/10.21468/SciPostPhys.8.1.011)] (2019)
-    * [Performance of mass-decorrelated jet substructure](http://cds.cern.ch/record/2630973) (2018,)
+    * [Performance of mass-decorrelated jet substructure](http://cds.cern.ch/record/2630973) (2018)
     * [DisCo Fever: Robust Networks Through Distance Correlation](https://arxiv.org/abs/2001.05310) [[DOI](https://doi.org/10.1103/PhysRevLett.125.122001)] (2020)
     * [QBDT, a new boosting decision tree method with systematical uncertainties into training for High Energy Physics](https://arxiv.org/abs/1810.08387) [[DOI](https://doi.org/10.1016/j.nima.2019.03.088)] (2018)
     * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)] (2018)
@@ -1435,7 +1435,7 @@ const expandElements = shouldExpand => {
     * [How to GAN Event Subtraction](https://arxiv.org/abs/1912.08824) [[DOI](https://doi.org/10.21468/SciPostPhysCore.3.2.009)] (2019)
     * [Particle Generative Adversarial Networks for full-event simulation at the LHC and their application to pileup description](https://arxiv.org/abs/1912.02748) [[DOI](https://doi.org/10.1088/1742-6596/1525/1/012081)] (2019)
     * [How to GAN away Detector Effects](https://arxiv.org/abs/1912.00477) [[DOI](https://doi.org/10.21468/SciPostPhys.8.4.070)] (2019)
-    * [3D convolutional GAN for fast simulation](https://doi.org/10.1051/epjconf/201921402010) (2019,)
+    * [3D convolutional GAN for fast simulation](https://doi.org/10.1051/epjconf/201921402010) (2019)
     * [Fast simulation of muons produced at the SHiP experiment using Generative Adversarial Networks](https://arxiv.org/abs/1909.04451) [[DOI](https://doi.org/10.1088/1748-0221/14/11/P11028)] (2019)
     * [Lund jet images from generative and cycle-consistent adversarial networks](https://arxiv.org/abs/1909.01359) [[DOI](https://doi.org/10.1140/epjc/s10052-019-7501-1)] (2019)
     * [How to GAN LHC Events](https://arxiv.org/abs/1907.03764) [[DOI](https://doi.org/10.21468/SciPostPhys.7.6.075)] (2019)
@@ -1443,10 +1443,10 @@ const expandElements = shouldExpand => {
     * [DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC](https://arxiv.org/abs/1903.02433) [[DOI](https://doi.org/10.1007/JHEP08(2019)110)] (2019)
     * [LHC analysis-specific datasets with Generative Adversarial Networks](https://arxiv.org/abs/1901.05282) (2019)
     * [Generative Models for Fast Calorimeter Simulation.LHCb case](https://arxiv.org/abs/1812.01319) [[DOI](https://doi.org/10.1051/epjconf/201921402034)] (2018)
-    * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433) (2018,)
+    * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433) (2018)
     * [Regressive and generative neural networks for scalar field theory](https://arxiv.org/abs/1810.12879) [[DOI](https://doi.org/10.1103/PhysRevD.100.011501)] (2018)
-    * [Three dimensional Generative Adversarial Networks for fast simulation](https://doi.org/10.1088/1742-6596/1085/3/032016) (2018,)
-    * [Generative models for fast simulation](https://doi.org/10.1088/1742-6596/1085/2/022005) (2018,)
+    * [Three dimensional Generative Adversarial Networks for fast simulation](https://doi.org/10.1088/1742-6596/1085/3/032016) (2018)
+    * [Generative models for fast simulation](https://doi.org/10.1088/1742-6596/1085/2/022005) (2018)
     * [Unfolding with Generative Adversarial Networks](https://arxiv.org/abs/1806.00433) (2018)
     * [Fast and Accurate Simulation of Particle Detectors Using Generative Adversarial Networks](https://arxiv.org/abs/1805.00850) [[DOI](https://doi.org/10.1007/s41781-018-0015-y)] (2018)
     * [Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks](https://arxiv.org/abs/1802.03325) [[DOI](https://doi.org/10.1007/s41781-018-0008-x)] (2018)
@@ -1455,10 +1455,10 @@ const expandElements = shouldExpand => {
     * [GANs for generating EFT models](https://arxiv.org/abs/1809.02612) [[DOI](https://doi.org/10.1016/j.physletb.2020.135798)] (2018)
     * [Precise simulation of electromagnetic calorimeter showers using a Wasserstein Generative Adversarial Network](https://arxiv.org/abs/1807.01954) [[DOI](https://doi.org/10.1007/s41781-018-0019-7)] (2018)
     * [Reducing Autocorrelation Times in Lattice Simulations with Generative Adversarial Networks](https://arxiv.org/abs/1811.03533) [[DOI](https://doi.org/10.1088/2632-2153/abae73)] (2018)
-    * [Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf) (2017,)
+    * [Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf) (2017)
     * [Controlling Physical Attributes in GAN-Accelerated Simulation of Electromagnetic Calorimeters](https://arxiv.org/abs/1711.08813) [[DOI](https://doi.org/10.1088/1742-6596/1085/4/042017)] (2017)
     * [Next Generation Generative Neural Networks for HEP](https://doi.org/10.1051/epjconf/201921409005) (2019)
-    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017,)
+    * [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf) (2017)
     * [Calorimetry with Deep Learning: Particle Simulation and Reconstruction for Collider Physics](https://arxiv.org/abs/1912.06794) [[DOI](https://doi.org/10.1140/epjc/s10052-020-8251-9)] (2019)
     * [A Novel Scenario in the Semi-constrained NMSSM](https://arxiv.org/abs/2002.05554) [[DOI](https://doi.org/10.1007/JHEP06(2020)078)] (2020)
     * [Getting High: High Fidelity Simulation of High Granularity Calorimeters with High Speed](https://arxiv.org/abs/2005.05334) [[DOI](https://doi.org/10.1007/s41781-021-00056-0)] (2020)
@@ -1517,7 +1517,7 @@ const expandElements = shouldExpand => {
     </div>
 
     * [Deep Learning as a Parton Shower](https://arxiv.org/abs/1807.03685) [[DOI](https://doi.org/10.1007/JHEP12(2018)021)] (2018)
-    * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433) (2018,)
+    * [Deep generative models for fast shower simulation in ATLAS](http://cds.cern.ch/record/2630433) (2018)
     * [Variational Autoencoders for Anomalous Jet Tagging](https://arxiv.org/abs/2007.01850) [[DOI](https://doi.org/10.1103/PhysRevD.107.016002)] (2020)
     * [Variational Autoencoders for Jet Simulation](https://arxiv.org/abs/2009.04842) (2020)
     * [Foundations of a Fast, Data-Driven, Machine-Learned Simulator](https://arxiv.org/abs/2101.08944) [[DOI](https://doi.org/10.1038/s41598-022-10966-7)] (2021)
@@ -2101,7 +2101,7 @@ const expandElements = shouldExpand => {
     ###  Mitigation
     </div>
 
-    * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf) (2017,)
+    * [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf) (2017)
     * [Machine Learning Uncertainties with Adversarial Neural Networks](https://arxiv.org/abs/1807.08763) [[DOI](https://doi.org/10.1140/epjc/s10052-018-6511-8)] (2018)
     * [Learning to Pivot with Adversarial Networks](https://arxiv.org/abs/1611.01046) [[url](https://papers.nips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)] (2016)
     * [Combine and Conquer: Event Reconstruction with Bayesian Ensemble Neural Networks](https://arxiv.org/abs/2102.01078) [[DOI](https://doi.org/10.1007/JHEP04(2021)296)] (2021)
