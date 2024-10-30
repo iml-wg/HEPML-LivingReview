@@ -117,6 +117,9 @@ def convert_from_bib(myline):
             if "{" in myentry_dict["eprint"]:
                 myentry_dict["eprint"] = myentry_dict["eprint"][1:]
                 pass
+        elif "year" in first_entry:
+            myentry_dict["year"] = entry_cleaned.split("year")[1].split("=")[1].split("\n")[0].replace("\"","").replace("{","").replace("}","").replace(",","")
+            pass
         elif "doi" in first_entry:
             myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
         elif "url" in first_entry:
@@ -162,17 +165,28 @@ def convert_from_bib(myline):
         print("We are in trouble ! ")
     if "eprint" in myentry_dict:
         paper=""
+        year_extract = myentry_dict["eprint"].split(".")[0][:2]
+        year = f" (20{year_extract})"
         if "doi" in myentry_dict:
             paper=f" [[DOI](https://doi.org/{myentry_dict['doi']})]"
         elif "url" in myentry_dict:
             paper=f" [[url]({myentry_dict['url']})]"
-        return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper
+        return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper+year
     elif "doi" in myentry_dict:
-        return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"
+        year=""
+        if "year" in myentry_dict:
+            year = f" ({myentry_dict['year']})"
+        return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"+year
     elif "url" in myentry_dict:
-        return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"
+        year=""
+        if "year" in myentry_dict:
+            year = f" ({myentry_dict['year']})"
+        return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"+year
     else:
-        return myentry_dict["title"]
+        year=""
+        if "year" in myentry_dict:
+            year = f" ({myentry_dict['year']})"
+        return myentry_dict["title"]+year
     return myline
 
 def write_to_files(*args,readme=myfile_readme,webpage=myfile_out,add_header=False):
