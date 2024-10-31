@@ -1,6 +1,6 @@
 import os
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import datetime, date
 
 import requests
 
@@ -283,7 +283,6 @@ for line in myfile:
 if update_plot:
     import numpy as np
     import matplotlib.pyplot as plt
-    from datetime import date
     plt.rcParams.update({"text.usetex": True,
                          "font.family": "Helvetica"})
     min_year = 2000
