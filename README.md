@@ -2024,3 +2024,4 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Measurement of lepton-jet correlation in deep-inelastic scattering with the H1 detector using machine learning for unfolding](https://arxiv.org/abs/2108.12376) [[DOI](https://doi.org/10.1103/PhysRevLett.128.132002)] (2021)
 * [Unbinned Deep Learning Jet Substructure Measurement in High $Q^2$ ep collisions at HERA](https://arxiv.org/abs/2303.13620) [[DOI](https://doi.org/10.1016/j.physletb.2023.138101)] (2023)
 
+![Publications per Year](https://iml-wg.github.io/HEPML-LivingReview/assets/per_year.png)

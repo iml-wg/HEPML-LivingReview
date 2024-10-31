@@ -6,7 +6,7 @@ import requests
 
 update_journal = False
 update_recent = False
-
+update_plot = True
 
 myfile = open("HEPML.tex", encoding="utf8")
 myfile_readme = open("README.md","w", encoding="utf8")
@@ -171,21 +171,25 @@ def convert_from_bib(myline):
             paper=f" [[DOI](https://doi.org/{myentry_dict['doi']})]"
         elif "url" in myentry_dict:
             paper=f" [[url]({myentry_dict['url']})]"
+        YEARS_FOR_PLOT.append(year)
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper+year
     elif "doi" in myentry_dict:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
+            YEARS_FOR_PLOT.append(year)
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"+year
     elif "url" in myentry_dict:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
+            YEARS_FOR_PLOT.append(year)
         return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"+year
     else:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
+            YEARS_FOR_PLOT.append(year)
         return myentry_dict["title"]+year
     return myline
 
@@ -209,6 +213,7 @@ def write_to_files(*args,readme=myfile_readme,webpage=myfile_out,add_header=Fals
             webpage.write("\n??? example "+"\""+split[-1].strip()+"\"\n\n")
 
 itemize_counter = 0
+YEARS_FOR_PLOT = []
 for line in myfile:
 
     if "author" in line:
@@ -274,6 +279,35 @@ for line in myfile:
                 else:
                     write_to_files(header+line.split(r"\item")[1]+"\n\n")
                 pass
+
+if update_plot:
+    import numpy as np
+    import matplotlib.pyplot as plt
+    from datetime import date
+    plt.rcParams.update({"text.usetex": True,
+                         "font.family": "Helvetica"})
+    min_year = 2000
+    clean_list = []
+    for entry in YEARS_FOR_PLOT:
+        clean_list.append(int(entry.replace(" (", "").replace(")", "")))
+    years, counts = np.unique(clean_list, return_counts=True)
+    plt.figure(figsize=(6,4))
+    plt.bar(years, counts, zorder=5)
+    plt.title(r"Number of HEP-ML Papers by Year", fontsize=16)
+    plt.xlabel(r"Year", fontsize=12)
+    plt.ylabel(r"Number of Papers", fontsize=12)
+    plt.xlim(min_year, years.max()+1)
+    plt.grid(axis='y', zorder=0)
+    labels = np.arange(min_year, years.max()+1)
+    plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    plt.gca().text(0.02, 0.98, f'As of {date.today().strftime("%d.%m.%Y")}',
+                   verticalalignment='top', horizontalalignment='left',
+                   transform=plt.gca().transAxes)
+    plt.savefig('docs/assets/per_year.png')
+
+    myfile_readme.write("![Publications per Year](https://iml-wg.github.io/HEPML-LivingReview/assets/per_year.png)\n")
 
 def get_year_month(period_months=3):
     month_up = datetime.now().month
