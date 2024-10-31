@@ -283,8 +283,8 @@ for line in myfile:
 if update_plot:
     import numpy as np
     import matplotlib.pyplot as plt
-    plt.rcParams.update({"text.usetex": True,
-                         "font.family": "Helvetica"})
+    #plt.rcParams.update({"text.usetex": True,
+    #                     "font.family": "Helvetica"})
     min_year = 2000
     clean_list = []
     for entry in YEARS_FOR_PLOT:
