@@ -6,7 +6,7 @@ import requests
 
 update_journal = False
 update_recent = False
-update_plot = True
+update_plot = False
 
 myfile = open("HEPML.tex", encoding="utf8")
 myfile_readme = open("README.md","w", encoding="utf8")
@@ -31,8 +31,8 @@ for file in myfile_readme,myfile_out:
 if update_plot:
     # neccessary in testing since readme and out file are at different locations.
     # once merged to master, link can point to file on master branch for both
-    myfile_readme.write("![Publications per Year](docs/assets/per_year.png)\n\n")
-    myfile_out.write("![Publications per Year](assets/per_year.png)\n\n")
+    myfile_readme.write('<p align="center"><img src="docs/assets/per_year.png" width="450", alt="Publications per Year"></p>\n\n')
+    myfile_out.write('<p align="center"><img src="assets/per_year.png" width="450", alt="Publications per Year"></p>\n\n')
 
 
 for file in myfile_readme,myfile_about:
