@@ -27,6 +27,8 @@ const expandElements = shouldExpand => {
 [![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml_review.pdf)
 [![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)
 
+![Publications per Year](docs/assets/per_year.png)
+
 
 <a class="md-button" onClick="expandElements(true)">Expand all sections</a>
 <a class="md-button" onClick="expandElements(false)">Collapse all sections</a>
