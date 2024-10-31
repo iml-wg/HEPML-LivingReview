@@ -307,7 +307,7 @@ if update_plot:
                    transform=plt.gca().transAxes)
     plt.savefig('docs/assets/per_year.png')
 
-    myfile_readme.write("![Publications per Year](https://iml-wg.github.io/HEPML-LivingReview/assets/per_year.png)\n")
+    myfile_readme.write("![Publications per Year](docs/assets/per_year.png)\n")
 
 def get_year_month(period_months=3):
     month_up = datetime.now().month
