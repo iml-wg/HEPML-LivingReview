@@ -6,7 +6,7 @@ import requests
 
 update_journal = False
 update_recent = False
-update_plot = False
+update_plot = True
 
 myfile = open("HEPML.tex", encoding="utf8")
 myfile_readme = open("README.md","w", encoding="utf8")
@@ -31,8 +31,9 @@ for file in myfile_readme,myfile_out:
 if update_plot:
     # neccessary in testing since readme and out file are at different locations.
     # once merged to master, link can point to file on master branch for both
-    myfile_readme.write('<p align="center"><img src="docs/assets/per_year.png" width="450", alt="Publications per Year"></p>\n\n')
-    myfile_out.write('<p align="center"><img src="assets/per_year.png" width="450", alt="Publications per Year"></p>\n\n')
+    myfile_readme.write('<p align="center"><img src="docs/assets/per_year.png" width="75%", alt="Publications per Year"></p>\n\n')
+    myfile_out.write('<p align="center"><img src="assets/per_year.png#only-light" width="75%", alt="Publications per Year"></p>\n')
+    myfile_out.write('<p align="center"><img src="assets/dark_per_year.png#only-dark" width="75%", alt="Publications per Year"></p>\n\n')
 
 
 for file in myfile_readme,myfile_about:
@@ -290,28 +291,32 @@ for line in myfile:
 if update_plot:
     import numpy as np
     import matplotlib.pyplot as plt
-    #plt.rcParams.update({"text.usetex": True,
-    #                     "font.family": "Helvetica"})
-    min_year = 2000
-    clean_list = []
-    for entry in YEARS_FOR_PLOT:
-        clean_list.append(int(entry.replace(" (", "").replace(")", "")))
-    years, counts = np.unique(clean_list, return_counts=True)
-    plt.figure(figsize=(6,4))
-    plt.bar(years, counts, zorder=5)
-    plt.title(r"Number of HEP-ML Papers by Year", fontsize=16)
-    plt.xlabel(r"Year", fontsize=12)
-    plt.ylabel(r"Number of Papers", fontsize=12)
-    plt.xlim(min_year, years.max()+1)
-    plt.grid(axis='y', zorder=0)
-    labels = np.arange(min_year, years.max()+1)
-    plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
-    plt.xticks(rotation=90)
-    plt.tight_layout()
-    plt.gca().text(0.02, 0.98, f'As of {date.today().strftime("%d.%m.%Y")}',
-                   verticalalignment='top', horizontalalignment='left',
-                   transform=plt.gca().transAxes)
-    plt.savefig('docs/assets/per_year.png')
+    names =["per_year.png", "dark_per_year.png"]
+    for name in names:
+        if name == "dark_per_year.png":
+            plt.style.use('dark_background')
+        #plt.rcParams.update({"text.usetex": True,
+        #                     "font.family": "Helvetica"})
+        min_year = 2000
+        clean_list = []
+        for entry in YEARS_FOR_PLOT:
+            clean_list.append(int(entry.replace(" (", "").replace(")", "")))
+        years, counts = np.unique(clean_list, return_counts=True)
+        plt.figure(figsize=(6,4))
+        plt.bar(years, counts, zorder=5)
+        plt.title(r"Number of HEP-ML Papers by Year", fontsize=16)
+        plt.xlabel(r"Year", fontsize=12)
+        plt.ylabel(r"Number of Papers", fontsize=12)
+        plt.xlim(min_year, years.max()+1)
+        plt.grid(axis='y', zorder=0)
+        labels = np.arange(min_year, years.max()+1)
+        plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
+        plt.xticks(rotation=90)
+        plt.tight_layout()
+        plt.gca().text(0.02, 0.98, f'As of {date.today().strftime("%d.%m.%Y")}',
+                    verticalalignment='top', horizontalalignment='left',
+                    transform=plt.gca().transAxes)
+        plt.savefig(f'docs/assets/{name}', transparent=True)
 
 
 def get_year_month(period_months=3):
