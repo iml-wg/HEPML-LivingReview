@@ -1,6 +1,6 @@
 import os
 from dataclasses import dataclass
-from datetime import datetime, date
+from datetime import date, datetime
 
 import requests
 
@@ -288,8 +288,8 @@ for line in myfile:
                 pass
 
 if update_plot:
-    import numpy as np
     import matplotlib.pyplot as plt
+    import numpy as np
     names =["per_year.png", "dark_per_year.png"]
     for name in names:
         if name == "dark_per_year.png":
