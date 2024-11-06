@@ -1052,6 +1052,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Machine learning based event reconstruction for the MUonE experiment](https://arxiv.org/abs/2402.02913) [[DOI](https://doi.org/10.7494/csci.2024.25.1.5690)] (2024)
 * [A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter](https://arxiv.org/abs/2402.16285) (2024)
 * [ML-based Calibration and Control of the GlueX Central Drift Chamber](https://arxiv.org/abs/2403.13823) (2024)
+* [Vertex Imaging Hadron Calorimetry Using AI/ML Tools](https://arxiv.org/abs/2408.15385) (2024)
 
 ###  Recasting
 
@@ -1214,6 +1215,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Disordered Lattice Glass $\phi^{4}$ Quantum Field Theory](https://arxiv.org/abs/2407.06569) (2024)
 * [Study of the mass of pseudoscalar glueball with a deep neural network](https://arxiv.org/abs/2407.12010) (2024)
 * [Neural Network Modeling of Heavy-Quark Potential from Holography](https://arxiv.org/abs/2408.03784) (2024)
+* [Estimation of the pseudoscalar glueball mass based on a modified Transformer](https://arxiv.org/abs/2408.13280) (2024)
 
 ###  Function Approximation
 
@@ -1723,6 +1725,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Anomaly-aware summary statistic from data batches](https://arxiv.org/abs/2407.01249) (2024)
 * [Accelerating template generation in resonant anomaly detection searches with optimal transport](https://arxiv.org/abs/2407.19818) (2024)
 * [Anomaly Detection Based on Machine Learning for the CMS Electromagnetic Calorimeter Online Data Quality Monitoring](https://arxiv.org/abs/2407.20278) (2024)
+* [Semi-supervised permutation invariant particle-level anomaly detection](https://arxiv.org/abs/2408.17409) (2024)
 
 ##  Foundation Models, LLMs.
 
