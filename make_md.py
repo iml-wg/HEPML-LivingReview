@@ -128,7 +128,7 @@ def convert_from_bib(myline):
             myentry_dict["year"] = entry_cleaned.split("year")[1].split("=")[1].split("\n")[0].replace("\"","").replace("{","").replace("}","").replace(",","")
             pass
         elif "doi" in first_entry:
-            myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","")
+            myentry_dict["doi"] = entry_cleaned.split("doi")[1].split("=")[1].split("\n")[0].replace("\"","").replace(",","").replace("\'","").replace(" ","").replace("{","")
         elif "url" in first_entry:
             if "@" in first_entry:
                 continue
