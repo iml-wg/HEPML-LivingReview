@@ -90,6 +90,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Particle Transformer for Jet Tagging](https://arxiv.org/abs/2202.03772) (2022)
 * [Public Kaggle Competition ''IceCube -- Neutrinos in Deep Ice''](https://arxiv.org/abs/2307.15289) (2023)
 * [Electron Energy Regression in the CMS High-Granularity Calorimeter Prototype](https://arxiv.org/abs/2309.06582) (2023)
+* [RODEM Jet Datasets](https://arxiv.org/abs/2408.11616) (2024)
 
 ##  Classification
 ###  Parameterized classifiers
@@ -382,6 +383,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [A tagger for strange jets based on tracking information using long short-term memory](https://arxiv.org/abs/1907.07505) [[DOI](https://doi.org/10.1088/1748-0221/15/01/P01021)] (2019)
 * [Maximum performance of strange-jet tagging at hadron colliders](https://arxiv.org/abs/2011.10736) [[DOI](https://doi.org/10.1088/1748-0221/16/08/P08039)] (2020)
 * [Study of anomalous $W^-W^+\gamma/Z$ couplings using polarizations and spin correlations in $e^-e^+\to W^-W^+$ with polarized beams](https://arxiv.org/abs/2305.15106) [[DOI](https://doi.org/10.1140/epjc/s10052-023-12292-2)] (2023)
+* [From strange-quark tagging to fragmentation tagging with machine learning](https://arxiv.org/abs/2408.12377) (2024)
 
 ####  $b$-tagging
 
@@ -490,6 +492,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Boosting probes of CP violation in the top Yukawa coupling with Deep Learning](https://arxiv.org/abs/2405.16499) (2024)
 * [Learning to see R-parity violating scalar top decays](https://arxiv.org/abs/2406.03096) [[DOI](https://doi.org/10.1103/PhysRevD.110.056006)] (2024)
 * [Graph Reinforcement Learning for Exploring BSM Model Spaces](https://arxiv.org/abs/2407.07203) (2024)
+* [Multiple testing for signal-agnostic searches of new physics with machine learning](https://arxiv.org/abs/2408.12296) (2024)
 
 ####  Particle identification
 
@@ -568,6 +571,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore](https://arxiv.org/abs/2405.02163) (2024)
 * [RELICS: a REactor neutrino LIquid xenon Coherent elastic Scattering experiment](https://arxiv.org/abs/2405.05554) [[DOI](https://doi.org/10.1103/PhysRevD.110.072011)] (2024)
 * [Improving Neutrino Energy Reconstruction with Machine Learning](https://arxiv.org/abs/2405.15867) (2024)
+* [Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution](https://arxiv.org/abs/2408.08474) (2024)
 
 ####  Direct Dark Matter Detectors
 
@@ -758,6 +762,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Effects of saturation and fluctuating hotspots for flow observables in ultrarelativistic heavy-ion collisions](https://arxiv.org/abs/2407.01338) [[DOI](https://doi.org/10.1103/PhysRevC.110.034911)] (2024)
 * [AI for Nuclear Physics: the EXCLAIM project](https://arxiv.org/abs/2408.00163) (2024)
 * [Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements](https://arxiv.org/abs/2408.08247) (2024)
+* [Electron-nucleus cross sections from transfer learning](https://arxiv.org/abs/2408.09936) (2024)
 
 ### Learning strategies
 
@@ -1496,6 +1501,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Convolutional L2LFlows: Generating Accurate Showers in Highly Granular Calorimeters Using Convolutional Normalizing Flows](https://arxiv.org/abs/2405.20407) [[DOI](https://doi.org/10.1088/1748-0221/19/09/P09003)] (2024)
 * [Parnassus: An Automated Approach to Accurate, Precise, and Fast Detector Simulation and Reconstruction](https://arxiv.org/abs/2406.01620) (2024)
 * [PIPPIN: Generating variable length full events from partons](https://arxiv.org/abs/2406.13074) [[DOI](https://doi.org/10.1103/PhysRevD.110.076023)] (2024)
+* [Differentiable MadNIS-Lite](https://arxiv.org/abs/2408.01486) (2024)
 
 ###  Diffusion Models
 
@@ -1852,6 +1858,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Progress in End-to-End Optimization of Detectors for Fundamental Physics with Differentiable Programming](https://arxiv.org/abs/2310.05673) (2023)
 * [Differentiable Vertex Fitting for Jet Flavour Tagging](https://arxiv.org/abs/2310.12804) [[DOI](https://doi.org/10.1103/PhysRevD.110.052010)] (2023)
 * [Differentiable nuclear deexcitation simulation for low energy neutrino physics](https://arxiv.org/abs/2404.00180) (2024)
+* [Differentiable MadNIS-Lite](https://arxiv.org/abs/2408.01486) (2024)
+* [Full Detector Simulation of a Projective Dual-Readout Segmented Crystal Electromagnetic Calorimeter with Precision Timing](https://arxiv.org/abs/2408.11027) (2024)
 
 ##  Uncertainty Quantification
 ###  Interpretability
