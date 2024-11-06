@@ -814,6 +814,7 @@ const expandElements = shouldExpand => {
     * [Pole structure of $P_\psi^N(4312)^+$ via machine learning and uniformized S-matrix](https://arxiv.org/abs/2405.11906) (2024)
     * [Effects of saturation and fluctuating hotspots for flow observables in ultrarelativistic heavy-ion collisions](https://arxiv.org/abs/2407.01338) [[DOI](https://doi.org/10.1103/PhysRevC.110.034911)] (2024)
     * [AI for Nuclear Physics: the EXCLAIM project](https://arxiv.org/abs/2408.00163) (2024)
+    * [Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements](https://arxiv.org/abs/2408.08247) (2024)
 
 
 ??? example "Learning strategies"
@@ -1309,6 +1310,7 @@ const expandElements = shouldExpand => {
     * [Berezinskii--Kosterlitz--Thouless transition of the two-dimensional $XY$ model on the honeycomb lattice](https://arxiv.org/abs/2406.14812) (2024)
     * [Disordered Lattice Glass $\phi^{4}$ Quantum Field Theory](https://arxiv.org/abs/2407.06569) (2024)
     * [Study of the mass of pseudoscalar glueball with a deep neural network](https://arxiv.org/abs/2407.12010) (2024)
+    * [Neural Network Modeling of Heavy-Quark Potential from Holography](https://arxiv.org/abs/2408.03784) (2024)
 
 
 ??? example "Function Approximation"
@@ -1511,6 +1513,7 @@ const expandElements = shouldExpand => {
     * [Integrating Particle Flavor into Deep Learning Models for Hadronization](https://arxiv.org/abs/2312.08453) (2023)
     * [cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation](https://arxiv.org/abs/2401.16356) [[DOI](https://doi.org/10.1103/PhysRevD.110.022004)] (2024)
     * [Applying generative neural networks for fast simulations of the ALICE (CERN) experiment](https://arxiv.org/abs/2407.16704) (2024)
+    * [Pay Attention To Mean Fields For Point Cloud Generation](https://arxiv.org/abs/2408.04997) (2024)
 
 
 ??? example "(Variational) Autoencoders"
@@ -1947,6 +1950,7 @@ const expandElements = shouldExpand => {
     * [Improvement and generalization of ABCD method with Bayesian inference](https://arxiv.org/abs/2402.08001) [[DOI](https://doi.org/10.21468/SciPostPhysCore.7.3.043)] (2024)
     * [Bayesian Active Search on Parameter Space: a 95 GeV Spin-0 Resonance in the ($B-L$)SSM](https://arxiv.org/abs/2404.18653) (2024)
     * [Constraining the Higgs Potential with Neural Simulation-based Inference for Di-Higgs Production](https://arxiv.org/abs/2405.15847) [[DOI](https://doi.org/10.1103/PhysRevD.110.056004)] (2024)
+    * [Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements](https://arxiv.org/abs/2408.08247) (2024)
 
 
 ??? example "Unfolding"
@@ -2096,6 +2100,7 @@ const expandElements = shouldExpand => {
     * [The DL Advocate: Playing the devil's advocate with hidden systematic uncertainties](https://arxiv.org/abs/2303.15956) [[DOI](https://doi.org/10.1140/epjc/s10052-023-11925-w)] (2023)
     * [Smartpixels: Towards on-sensor inference of charged particle track parameters and uncertainties](https://arxiv.org/abs/2312.11676) (2023)
     * [Calibrating Bayesian Generative Machine Learning for Bayesiamplification](https://arxiv.org/abs/2408.00838) (2024)
+    * [Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks](https://arxiv.org/abs/2408.04690) (2024)
 
 
 ??? example "Mitigation"
@@ -2187,6 +2192,7 @@ const expandElements = shouldExpand => {
     * [Classical integrability in the presence of a cosmological constant: analytic and machine learning results](https://arxiv.org/abs/2404.18247) (2024)
     * [Learning BPS Spectra and the Gap Conjecture](https://arxiv.org/abs/2405.09993) [[DOI](https://doi.org/10.1103/PhysRevD.110.046016)] (2024)
     * [Deep Learning Calabi-Yau four folds with hybrid and recurrent neural network architectures](https://arxiv.org/abs/2405.17406) (2024)
+    * [Learning the Simplicity of Scattering Amplitudes](https://arxiv.org/abs/2408.04720) (2024)
 
 ##  Experimental results.
  *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
