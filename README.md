@@ -75,6 +75,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [QCD Masterclass Lectures on Jet Physics and Machine Learning](https://arxiv.org/abs/2407.04897) (2024)
 * [TASI Lectures on Physics for Machine Learning](https://arxiv.org/abs/2408.00082) (2024)
 * [Unveiling the Secrets of New Physics Through Top Quark Tagging](https://arxiv.org/abs/2409.12085) (2024)
+* [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) (2024)
 
 ###  Classical papers
 
@@ -988,6 +989,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [A Bayesian Framework to Investigate Radiation Reaction in Strong Fields](https://arxiv.org/abs/2406.19420) (2024)
 * [Comparison of Geometrical Layouts for Next-Generation Large-volume Cherenkov Neutrino Telescopes](https://arxiv.org/abs/2407.19010) (2024)
 * [Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA](https://arxiv.org/abs/2409.16075) (2024)
+* [Nanosecond hardware regression trees in FPGA at the LHC](https://arxiv.org/abs/2409.20506) (2024)
 
 ####  Deployment
 
@@ -1147,6 +1149,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [A generalized statistical model for fits to parton distributions](https://arxiv.org/abs/2406.01664) (2024)
 * [Extraction of Information from Polarized Deep Exclusive Scattering with Machine Learning](https://arxiv.org/abs/2406.09258) (2024)
 * [Explainable AI classification for parton density theory](https://arxiv.org/abs/2407.03411) (2024)
+* [Polarized and unpolarized gluon PDFs: generative machine learning applications for lattice QCD matrix elements at short distance and large momentum](https://arxiv.org/abs/2409.17234) (2024)
 
 ###  Lattice Gauge Theory
 
@@ -1746,6 +1749,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Semi-supervised permutation invariant particle-level anomaly detection](https://arxiv.org/abs/2408.17409) (2024)
 * [ADFilter -- A Web Tool for New Physics Searches With Autoencoder-Based Anomaly Detection Using Deep Unsupervised Neural Networks](https://arxiv.org/abs/2409.03065) (2024)
 * [Detect anomalous quartic gauge couplings at muon colliders with quantum kernel k-means](https://arxiv.org/abs/2409.07010) (2024)
+* [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) (2024)
+* [Model-independent searches of new physics in DARWIN with a semi-supervised deep learning pipeline](https://arxiv.org/abs/2410.00755) (2024)
 
 ##  Foundation Models, LLMs.
 
@@ -1826,6 +1831,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [The Landscape of Unfolding with Machine Learning](https://arxiv.org/abs/2404.18807) (2024)
 * [Moment Unfolding](https://arxiv.org/abs/2407.11284) (2024)
 * [Multidimensional Deconvolution with Profiling](https://arxiv.org/abs/2409.10421) (2024)
+* [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) (2024)
 
 ###  Domain adaptation
 
@@ -1997,6 +2003,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Variational Monte Carlo with Neural Network Quantum States for Yang-Mills Matrix Model](https://arxiv.org/abs/2409.00398) (2024)
 * [Conformal Fields from Neural Networks](https://arxiv.org/abs/2409.12222) (2024)
 * [Machine Learning Toric Duality in Brane Tilings](https://arxiv.org/abs/2409.15251) (2024)
+* [Bootstrapping string models with entanglement minimization and Machine-Learning](https://arxiv.org/abs/2409.18259) (2024)
 
 ##  Experimental results.
  *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
