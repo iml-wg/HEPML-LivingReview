@@ -93,6 +93,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Public Kaggle Competition ''IceCube -- Neutrinos in Deep Ice''](https://arxiv.org/abs/2307.15289) (2023)
 * [Electron Energy Regression in the CMS High-Granularity Calorimeter Prototype](https://arxiv.org/abs/2309.06582) (2023)
 * [RODEM Jet Datasets](https://arxiv.org/abs/2408.11616) (2024)
+* [FAIR Universe HiggsML Uncertainty Challenge Competition](https://arxiv.org/abs/2410.02867) (2024)
 
 ##  Classification
 ###  Parameterized classifiers
@@ -239,6 +240,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Graph Neural Network-Based Track Finding in the LHCb Vertex Detector](https://arxiv.org/abs/2407.12119) (2024)
 * [EggNet: An Evolving Graph-based Graph Attention Network for Particle Track Reconstruction](https://arxiv.org/abs/2407.13925) (2024)
 * [Search for light long-lived particles decaying to displaced jets in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2409.10806) (2024)
+* [Measurements of decay branching fractions of the Higgs boson to hadronic final states at the CEPC](https://arxiv.org/abs/2410.04465) (2024)
+* [Observation of a rare beta decay of the charmed baryon with a Graph Neural Network](https://arxiv.org/abs/2410.13515) (2024)
 
 ####  Sets (point clouds)
 
@@ -306,6 +309,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Application of Machine Learning Based Top Quark and W Jet Tagging to Hadronic Four-Top Final States Induced by SM as well as BSM Processes](https://arxiv.org/abs/2310.13009) (2023)
 * [Explainable Equivariant Neural Networks for Particle Physics: PELICAN](https://arxiv.org/abs/2307.16506) [[DOI](https://doi.org/10.1007/JHEP03(2024)113)] (2023)
 * [Interplay of Traditional Methods and Machine Learning Algorithms for Tagging Boosted Objects](https://arxiv.org/abs/2408.01138) [[DOI](https://doi.org/10.1140/epjs/s11734-024-01256-6)] (2024)
+* [Measurements of decay branching fractions of the Higgs boson to hadronic final states at the CEPC](https://arxiv.org/abs/2410.04465) (2024)
 
 ####  $H\rightarrow b\bar{b}$
 
@@ -320,6 +324,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Extracting Signals of Higgs Boson From Background Noise Using Deep Neural Networks](https://arxiv.org/abs/2010.08201) (2020)
 * [Learning to increase matching efficiency in identifying additional b-jets in the $\text{t}\bar{\text{t}}\text{b}\bar{\text{b}}$ process](https://arxiv.org/abs/2103.09129) [[DOI](https://doi.org/10.1140/epjp/s13360-022-03024-8)] (2021)
 * [Higgs tagging with the Lund jet plane](https://arxiv.org/abs/2105.03989) [[DOI](https://doi.org/10.1103/PhysRevD.104.055043)] (2021)
+* [Measurements of decay branching fractions of the Higgs boson to hadronic final states at the CEPC](https://arxiv.org/abs/2410.04465) (2024)
+* [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) (2024)
 
 ####  quarks and gluons
 
@@ -346,6 +352,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Jet Flavour Tagging at FCC-ee with a Transformer-based Neural Network: DeepJetTransformer](https://arxiv.org/abs/2406.08590) (2024)
 * [A multicategory jet image classification framework using deep neural network](https://arxiv.org/abs/2407.03524) (2024)
 * [Jet Tagging with More-Interaction Particle Transformer](https://arxiv.org/abs/2407.08682) [[DOI](https://doi.org/10.1088/1674-1137/ad7f3d)] (2024)
+* [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) (2024)
 
 ####  top quark tagging
 
@@ -390,6 +397,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Maximum performance of strange-jet tagging at hadron colliders](https://arxiv.org/abs/2011.10736) [[DOI](https://doi.org/10.1088/1748-0221/16/08/P08039)] (2020)
 * [Study of anomalous $W^-W^+\gamma/Z$ couplings using polarizations and spin correlations in $e^-e^+\to W^-W^+$ with polarized beams](https://arxiv.org/abs/2305.15106) [[DOI](https://doi.org/10.1140/epjc/s10052-023-12292-2)] (2023)
 * [From strange-quark tagging to fragmentation tagging with machine learning](https://arxiv.org/abs/2408.12377) (2024)
+* [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) (2024)
 
 ####  $b$-tagging
 
@@ -500,6 +508,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Learning to see R-parity violating scalar top decays](https://arxiv.org/abs/2406.03096) [[DOI](https://doi.org/10.1103/PhysRevD.110.056006)] (2024)
 * [Graph Reinforcement Learning for Exploring BSM Model Spaces](https://arxiv.org/abs/2407.07203) (2024)
 * [Multiple testing for signal-agnostic searches of new physics with machine learning](https://arxiv.org/abs/2408.12296) (2024)
+* [Machine learning tagged boosted dark photon: A signature of fermionic portal matter at the LHC](https://arxiv.org/abs/2410.06925) (2024)
+* [Machine-Learning Analysis of Radiative Decays to Dark Matter at the LHC](https://arxiv.org/abs/2410.13799) (2024)
 
 ####  Particle identification
 
@@ -579,6 +589,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [RELICS: a REactor neutrino LIquid xenon Coherent elastic Scattering experiment](https://arxiv.org/abs/2405.05554) [[DOI](https://doi.org/10.1103/PhysRevD.110.072011)] (2024)
 * [Improving Neutrino Energy Reconstruction with Machine Learning](https://arxiv.org/abs/2405.15867) (2024)
 * [Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution](https://arxiv.org/abs/2408.08474) (2024)
+* [Real-time Position Reconstruction for the KamLAND-Zen Experiment using Hardware-AI Co-design](https://arxiv.org/abs/2410.02991) (2024)
+* [Learning Efficient Representations of Neutrino Telescope Events](https://arxiv.org/abs/2410.13148) (2024)
 
 ####  Direct Dark Matter Detectors
 
@@ -940,6 +952,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [RootInteractive tool for multidimensional statistical analysis, machine learning and analytical model validation](https://arxiv.org/abs/2403.19330) [[DOI](https://doi.org/10.1051/epjconf/202429506019)] (2024)
 * [Robust Independent Validation of Experiment and Theory: Rivet version 4 release note](https://arxiv.org/abs/2404.15984) (2024)
 * [Implementing dynamic high-performance computing supported workflows on Scanning Transmission Electron Microscope](https://arxiv.org/abs/2406.11018) (2024)
+* [Machine learning opportunities for online and offline tagging of photo-induced and diffractive events in continuous readout experiments](https://arxiv.org/abs/2410.06983) (2024)
+* [Learning Efficient Representations of Neutrino Telescope Events](https://arxiv.org/abs/2410.13148) (2024)
 
 ####  Hardware/firmware
 
@@ -990,6 +1004,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Comparison of Geometrical Layouts for Next-Generation Large-volume Cherenkov Neutrino Telescopes](https://arxiv.org/abs/2407.19010) (2024)
 * [Ultra-low latency quantum-inspired machine learning predictors implemented on FPGA](https://arxiv.org/abs/2409.16075) (2024)
 * [Nanosecond hardware regression trees in FPGA at the LHC](https://arxiv.org/abs/2409.20506) (2024)
+* [Intelligent Pixel Detectors: Towards a Radiation Hard ASIC with On-Chip Machine Learning in 28 nm CMOS](https://arxiv.org/abs/2410.02945) (2024)
+* [Real-time Position Reconstruction for the KamLAND-Zen Experiment using Hardware-AI Co-design](https://arxiv.org/abs/2410.02991) (2024)
 
 ####  Deployment
 
@@ -1233,6 +1249,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Neural Network Modeling of Heavy-Quark Potential from Holography](https://arxiv.org/abs/2408.03784) (2024)
 * [Estimation of the pseudoscalar glueball mass based on a modified Transformer](https://arxiv.org/abs/2408.13280) (2024)
 * [A Variational Approach to Quantum Field Theory](https://arxiv.org/abs/2409.17887) (2024)
+* [Building Hadron Potentials from Lattice QCD with Deep Neural Networks](https://arxiv.org/abs/2410.03082) (2024)
+* [Continuous normalizing flows for lattice gauge theories](https://arxiv.org/abs/2410.13161) (2024)
 
 ###  Function Approximation
 
@@ -2004,6 +2022,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Conformal Fields from Neural Networks](https://arxiv.org/abs/2409.12222) (2024)
 * [Machine Learning Toric Duality in Brane Tilings](https://arxiv.org/abs/2409.15251) (2024)
 * [Bootstrapping string models with entanglement minimization and Machine-Learning](https://arxiv.org/abs/2409.18259) (2024)
+* [Calabi-Yau metrics through Grassmannian learning and Donaldson's algorithm](https://arxiv.org/abs/2410.11284) (2024)
 
 ##  Experimental results.
  *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
@@ -2064,6 +2083,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Measurement of boosted Higgs bosons produced via vector boson fusion or gluon fusion in the H $\to$$\mathrm{b\bar{b}}$ decay mode using LHC proton-proton collision data at $\sqrt{s}$](https://arxiv.org/abs/2407.08012) (2024)
 * [Accuracy versus precision in boosted top tagging with the ATLAS detector](https://arxiv.org/abs/2407.20127) [[DOI](https://doi.org/10.1088/1748-0221/19/08/P08018)] (2024)
 * [Search for light long-lived particles decaying to displaced jets in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2409.10806) (2024)
+* [Observation of a rare beta decay of the charmed baryon with a Graph Neural Network](https://arxiv.org/abs/2410.13515) (2024)
 
 ###  Final analysis discriminate for searches
 
