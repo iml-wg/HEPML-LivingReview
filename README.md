@@ -333,6 +333,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  quarks and gluons
 
+* [The Fundamental Limit of Jet Tagging](https://arxiv.org/abs/2411.02628) (2024)
 * [A Lorentz-Equivariant Transformer for All of the LHC](https://arxiv.org/abs/2411.00446) (2024)
 * [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) (2024)
 * [Jet Tagging with More-Interaction Particle Transformer](https://arxiv.org/abs/2407.08682) [[DOI](https://doi.org/10.1088/1674-1137/ad7f3d)] (2024)
@@ -400,6 +401,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  strange jets
 
+* [New Physics Through Flavor Tagging at FCC-ee](https://arxiv.org/abs/2411.02485) (2024)
 * [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) (2024)
 * [From strange-quark tagging to fragmentation tagging with machine learning](https://arxiv.org/abs/2408.12377) (2024)
 * [Study of anomalous $W^-W^+\gamma/Z$ couplings using polarizations and spin correlations in $e^-e^+\to W^-W^+$ with polarized beams](https://arxiv.org/abs/2305.15106) [[DOI](https://doi.org/10.1140/epjc/s10052-023-12292-2)] (2023)
@@ -441,6 +443,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  BSM particles and models
 
+* [Improving smuon searches with Neural Networks](https://arxiv.org/abs/2411.04526) (2024)
 * [Machine-Learning Analysis of Radiative Decays to Dark Matter at the LHC](https://arxiv.org/abs/2410.13799) (2024)
 * [Machine learning tagged boosted dark photon: A signature of fermionic portal matter at the LHC](https://arxiv.org/abs/2410.06925) (2024)
 * [Multiple testing for signal-agnostic searches of new physics with machine learning](https://arxiv.org/abs/2408.12296) (2024)
@@ -1294,6 +1297,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Monitoring
 
+* [A versatile framework for attitude tuning of beamlines at advanced light sources](https://arxiv.org/abs/2411.01278) (2024)
 * [Strategies for Machine Learning Applied to Noisy HEP Datasets: Modular Solid State Detectors from SuperCDMS](https://arxiv.org/abs/2404.10971) (2024)
 * [GAMPix: a novel fine-grained, low-noise and ultra-low power pixelated charge readout for TPCs](https://arxiv.org/abs/2402.00902) (2024)
 * [Autoencoder-based Anomaly Detection System for Online Data Quality Monitoring of the CMS Electromagnetic Calorimeter](https://arxiv.org/abs/2309.10157) [[DOI](https://doi.org/10.1007/s41781-024-00118-z)] (2023)
@@ -1337,6 +1341,12 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Lattice gauge equivariant convolutional neural networks](https://arxiv.org/abs/2012.12901) [[DOI](https://doi.org/10.1103/PhysRevLett.128.032003)] (2020)
 * [Equivariant Energy Flow Networks for Jet Tagging](https://arxiv.org/abs/2012.00964) [[DOI](https://doi.org/10.1103/PhysRevD.103.074022)] (2020)
 * [Equivariant flow-based sampling for lattice gauge theory](https://arxiv.org/abs/2003.06413) [[DOI](https://doi.org/10.1103/PhysRevLett.125.121601)] (2020)
+
+##  Physics-informed neural networks (PINNs).
+
+* [Physics-informed neural networks viewpoint for solving the Dyson-Schwinger equations of quantum electrodynamics](https://arxiv.org/abs/2411.02177) (2024)
+* [Advancing Physics Data Analysis through Machine Learning and Physics-Informed Neural Networks](https://arxiv.org/abs/2410.14760) (2024)
+* [Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks](https://arxiv.org/abs/2408.04690) (2024)
 
 ##  Decorrelation methods.
 
@@ -1808,7 +1818,9 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ##  Simulation-based (`likelihood-free') Inference
 ###  Parameter estimation
 
+* [Profile Likelihoods on ML-Steroids](https://arxiv.org/abs/2411.00942) (2024)
 * [Optimal Equivariant Architectures from the Symmetries of Matrix-Element Likelihoods](https://arxiv.org/abs/2410.18553) (2024)
+* [Advancing Tools for Simulation-Based Inference](https://arxiv.org/abs/2410.07315) (2024)
 * [Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements](https://arxiv.org/abs/2408.08247) (2024)
 * [Constraining the Higgs Potential with Neural Simulation-based Inference for Di-Higgs Production](https://arxiv.org/abs/2405.15847) [[DOI](https://doi.org/10.1103/PhysRevD.110.056004)] (2024)
 * [Bayesian Active Search on Parameter Space: a 95 GeV Spin-0 Resonance in the ($B-L$)SSM](https://arxiv.org/abs/2404.18653) (2024)
@@ -1849,6 +1861,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Unfolding
 
+* [Generative Unfolding with Distribution Mapping](https://arxiv.org/abs/2411.02495) (2024)
 * [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) (2024)
 * [Multidimensional Deconvolution with Profiling](https://arxiv.org/abs/2409.10421) (2024)
 * [Moment Unfolding](https://arxiv.org/abs/2407.11284) (2024)
@@ -1894,6 +1907,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  BSM
 
+* [Profile Likelihoods on ML-Steroids](https://arxiv.org/abs/2411.00942) (2024)
 * [Machine Learning Electroweakino Production](https://arxiv.org/abs/2411.00093) (2024)
 * [A novel quantum machine learning classifier to search for new physics](https://arxiv.org/abs/2410.18847) (2024)
 * [Probing Light Scalars and Vector-like Quarks at the High-Luminosity LHC](https://arxiv.org/abs/2410.17854) (2024)
@@ -1928,6 +1942,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Differentiable Simulation
 
+* [Rejection Sampling with Autodifferentiation -- Case study: Fitting a Hadronization Model](https://arxiv.org/abs/2411.02194) (2024)
 * [Full Detector Simulation of a Projective Dual-Readout Segmented Crystal Electromagnetic Calorimeter with Precision Timing](https://arxiv.org/abs/2408.11027) (2024)
 * [Differentiable MadNIS-Lite](https://arxiv.org/abs/2408.01486) (2024)
 * [Differentiable nuclear deexcitation simulation for low energy neutrino physics](https://arxiv.org/abs/2404.00180) (2024)
