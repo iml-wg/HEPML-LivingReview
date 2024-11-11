@@ -27,6 +27,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Specialized reviews
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Exploring jets: substructure and flavour tagging in CMS and ATLAS](https://arxiv.org/abs/2410.14330) (2024)
 * [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) (2024)
 * [Unveiling the Secrets of New Physics Through Top Quark Tagging](https://arxiv.org/abs/2409.12085) (2024)
@@ -85,6 +86,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Datasets
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [FAIR Universe HiggsML Uncertainty Challenge Competition](https://arxiv.org/abs/2410.02867) (2024)
 * [RODEM Jet Datasets](https://arxiv.org/abs/2408.11616) (2024)
 * [Electron Energy Regression in the CMS High-Granularity Calorimeter Prototype](https://arxiv.org/abs/2309.06582) (2023)
@@ -1377,6 +1379,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ##  Generative models / density estimation
 ###  GANs
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Pay Attention To Mean Fields For Point Cloud Generation](https://arxiv.org/abs/2408.04997) (2024)
 * [Applying generative neural networks for fast simulations of the ALICE (CERN) experiment](https://arxiv.org/abs/2407.16704) (2024)
 * [cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation](https://arxiv.org/abs/2401.16356) [[DOI](https://doi.org/10.1103/PhysRevD.110.022004)] (2024)
@@ -1461,6 +1464,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  (Variational) Autoencoders
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation](https://arxiv.org/abs/2405.06605) (2024)
 * [Deep Generative Models for Ultra-High Granularity Particle Physics Detector Simulation: A Voyage From Emulation to Extrapolation](https://arxiv.org/abs/2403.13825) (2024)
 * [CaloQVAE : Simulating high-energy particle-calorimeter interactions using hybrid quantum-classical generative models](https://arxiv.org/abs/2312.03179) (2023)
@@ -1492,6 +1496,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  (Continuous) Normalizing flows
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Signal model parameter scan using Normalizing Flow](https://arxiv.org/abs/2409.13201) [[DOI](https://doi.org/10.22323/1.458.0017)] (2024)
 * [Variational Monte Carlo with Neural Network Quantum States for Yang-Mills Matrix Model](https://arxiv.org/abs/2409.00398) (2024)
 * [Differentiable MadNIS-Lite](https://arxiv.org/abs/2408.01486) (2024)
@@ -1574,6 +1579,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Diffusion Models
 
+* [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Point cloud-based diffusion models for the Electron-Ion Collider](https://arxiv.org/abs/2410.22421) (2024)
 * [Variational inference for pile-up removal at hadron colliders with diffusion models](https://arxiv.org/abs/2410.22074) (2024)
 * [On learning higher-order cumulants in diffusion models](https://arxiv.org/abs/2410.21212) (2024)
