@@ -34,7 +34,10 @@ def replace_collaboration_author(bib_entry):
         'ALICE': 'ALICE Collaboration',
         'IceCube': 'IceCube Collaboration',
         'NNPDF': 'NNPDF Collaboration',
-        'Belle-II': "Belle-II Collaboration"
+        'Belle-II': "Belle-II Collaboration",
+        'BESIII': "BESIII Collaboration",
+        'DARWIN': "DARWIN Collaboration",
+        'JETSCAPE': "JETSCAPE Collaboration"
     }
 
     # Find the collaboration field and select matching name above

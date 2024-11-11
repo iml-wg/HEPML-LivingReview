@@ -20,7 +20,7 @@ starting_date = date.fromisoformat(starting_point)
 categories = ['hep-ph', 'hep-ex', 'hep-lat', 'hep-th', 'physics.ins-det', 'physics.data-an']
 print(f"Looking at arXiv categories: {categories}")
 
-keywords = ['neural network', 'machine learning', 'generative models', 'diffusion models', 'normalizing flow', 'foundation model']
+keywords = ['neural network', 'machine learning', 'generative models', 'diffusion models', 'normalizing flow', 'foundation model', 'ML']
 print(f"scanning papers with {keywords}:")
 keyword_str = f'("{keywords}")'.replace("', '", '"%20OR%20"').replace("['", '').replace("']", "")
 keyword_str = keyword_str.replace(" ", "%20")
