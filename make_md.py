@@ -27,6 +27,9 @@ for file in myfile_readme,myfile_out:
     file.write("*Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*\n\n")
     file.write("[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml_review.pdf)\n[![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)\n\n")
 
+# Define some empty lists
+YEARS_FOR_PLOT = []
+CITE_KEY_LIST = []
 
 # neccessary in testing since readme and out file are at different locations.
 # once merged to master, link can point to file on master branch for both
@@ -178,27 +181,34 @@ def convert_from_bib(myline):
             paper=f" [[DOI](https://doi.org/{myentry_dict['doi']})]"
         elif "url" in myentry_dict:
             paper=f" [[url]({myentry_dict['url']})]"
-        YEARS_FOR_PLOT.append(year)
+        if myline not in CITE_KEY_LIST:
+            YEARS_FOR_PLOT.append(year)
+            CITE_KEY_LIST.append(myline)
         return "["+myentry_dict["title"]+"](https://arxiv.org/abs/"+myentry_dict["eprint"]+")"+paper+year
     elif "doi" in myentry_dict:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
-            YEARS_FOR_PLOT.append(year)
+            if myline not in CITE_KEY_LIST:
+                YEARS_FOR_PLOT.append(year)
+                CITE_KEY_LIST.append(myline)
         return "["+myentry_dict["title"]+"](https://doi.org/"+myentry_dict["doi"]+")"+year
     elif "url" in myentry_dict:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
-            YEARS_FOR_PLOT.append(year)
+            if myline not in CITE_KEY_LIST:
+                YEARS_FOR_PLOT.append(year)
+                CITE_KEY_LIST.append(myline)
         return "["+myentry_dict["title"]+"]("+myentry_dict["url"]+")"+year
     else:
         year=""
         if "year" in myentry_dict:
             year = f" ({myentry_dict['year']})"
-            YEARS_FOR_PLOT.append(year)
+            if myline not in CITE_KEY_LIST:
+                YEARS_FOR_PLOT.append(year)
+                CITE_KEY_LIST.append(myline)
         return myentry_dict["title"]+year
-    return myline
 
 def write_to_files(*args,readme=myfile_readme,webpage=myfile_out,add_header=False):
     for line in args:
@@ -220,7 +230,6 @@ def write_to_files(*args,readme=myfile_readme,webpage=myfile_out,add_header=Fals
             webpage.write("\n??? example "+"\""+split[-1].strip()+"\"\n\n")
 
 itemize_counter = 0
-YEARS_FOR_PLOT = []
 for line in myfile:
 
     if "author" in line:
