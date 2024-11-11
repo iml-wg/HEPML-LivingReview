@@ -6,7 +6,7 @@ import requests
 
 update_journal = False
 update_recent = False
-update_plot = True
+update_plot = False
 
 myfile = open("HEPML.tex", encoding="utf8")
 myfile_readme = open("README.md","w", encoding="utf8")
