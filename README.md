@@ -445,6 +445,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  BSM particles and models
 
+* [Pseudo-observables and Deep Neural Network for mixed CP -- H to tau tau decays at LHC](https://arxiv.org/abs/2411.06216) (2024)
 * [Improving smuon searches with Neural Networks](https://arxiv.org/abs/2411.04526) (2024)
 * [Machine-Learning Analysis of Radiative Decays to Dark Matter at the LHC](https://arxiv.org/abs/2410.13799) (2024)
 * [Machine learning tagged boosted dark photon: A signature of fermionic portal matter at the LHC](https://arxiv.org/abs/2410.06925) (2024)
@@ -527,6 +528,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Particle identification
 
+* [Transformers for Charged Particle Track Reconstruction in High Energy Physics](https://arxiv.org/abs/2411.07149) (2024)
 * [Detecting highly collimated photon-jets from Higgs boson exotic decays with deep learning](https://arxiv.org/abs/2401.15690) (2024)
 * [Machine-learning-based particle identification with missing data](https://arxiv.org/abs/2401.01905) [[DOI](https://doi.org/10.1140/epjc/s10052-024-13047-3)] (2024)
 * [Study of residual artificial neural network for particle identification in the CEPC high-granularity calorimeter prototype](https://arxiv.org/abs/2310.09489) [[DOI](https://doi.org/10.1088/1748-0221/19/04/P04033)] (2023)
@@ -1051,6 +1053,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Calibration
 
+* [Reweighting simulated events using machine-learning techniques in the CMS experiment](https://arxiv.org/abs/2411.03023) (2024)
 * [Vertex Imaging Hadron Calorimetry Using AI/ML Tools](https://arxiv.org/abs/2408.15385) (2024)
 * [ML-based Calibration and Control of the GlueX Central Drift Chamber](https://arxiv.org/abs/2403.13823) (2024)
 * [A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter](https://arxiv.org/abs/2402.16285) (2024)
@@ -1464,6 +1467,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  (Variational) Autoencoders
 
+* [Fast multi-geometry calorimeter simulation with conditional self-attention variational autoencoders](https://arxiv.org/abs/2411.05996) (2024)
 * [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
 * [Calo-VQ: Vector-Quantized Two-Stage Generative Model in Calorimeter Simulation](https://arxiv.org/abs/2405.06605) (2024)
 * [Deep Generative Models for Ultra-High Granularity Particle Physics Detector Simulation: A Voyage From Emulation to Extrapolation](https://arxiv.org/abs/2403.13825) (2024)
@@ -2030,6 +2034,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  ML for theory
 
+* [Truth, beauty, and goodness in grand unification: a machine learning approach](https://arxiv.org/abs/2411.06718) (2024)
 * [cymyc -- Calabi-Yau Metrics, Yukawas, and Curvature](https://arxiv.org/abs/2410.19728) (2024)
 * [Calabi-Yau metrics through Grassmannian learning and Donaldson's algorithm](https://arxiv.org/abs/2410.11284) (2024)
 * [Bootstrapping string models with entanglement minimization and Machine-Learning](https://arxiv.org/abs/2409.18259) (2024)
@@ -2092,6 +2097,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Searches and measurements where ML reconstruction is a core component
 
+* [Search for vector-like leptons coupling to first- and second-generation Standard Model leptons in $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2411.07143) (2024)
 * [Observation of a rare beta decay of the charmed baryon with a Graph Neural Network](https://arxiv.org/abs/2410.13515) (2024)
 * [Search for light long-lived particles decaying to displaced jets in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2409.10806) (2024)
 * [Accuracy versus precision in boosted top tagging with the ATLAS detector](https://arxiv.org/abs/2407.20127) [[DOI](https://doi.org/10.1088/1748-0221/19/08/P08018)] (2024)

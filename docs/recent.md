@@ -11,6 +11,12 @@ This is an automatically compiled list of papers which have been added to the li
 
 ## November 2024
 * [Improving smuon searches with Neural Networks](https://arxiv.org/abs/2411.04526) (2024)
+* [Pseudo-observables and Deep Neural Network for mixed CP -- H to tau tau decays at LHC](https://arxiv.org/abs/2411.06216) (2024)
+* [Truth, beauty, and goodness in grand unification: a machine learning approach](https://arxiv.org/abs/2411.06718) (2024)
+* [Reweighting simulated events using machine-learning techniques in the CMS experiment](https://arxiv.org/abs/2411.03023) (2024)
+* [Fast multi-geometry calorimeter simulation with conditional self-attention variational autoencoders](https://arxiv.org/abs/2411.05996) (2024)
+* [Transformers for Charged Particle Track Reconstruction in High Energy Physics](https://arxiv.org/abs/2411.07149) (2024)
+* [Search for vector-like leptons coupling to first- and second-generation Standard Model leptons in $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2411.07143) (2024)
 * [Rejection Sampling with Autodifferentiation -- Case study: Fitting a Hadronization Model](https://arxiv.org/abs/2411.02194) (2024)
 * [The Fundamental Limit of Jet Tagging](https://arxiv.org/abs/2411.02628) (2024)
 * [Generative Unfolding with Distribution Mapping](https://arxiv.org/abs/2411.02495) (2024)

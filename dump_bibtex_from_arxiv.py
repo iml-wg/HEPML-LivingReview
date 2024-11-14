@@ -89,7 +89,7 @@ def extract_arxiv_ids(input, output_file, replace_collab=True):
             if replace_collab:
                 bibtex = replace_collaboration_author(bibtex)
             # Write the date (in Mon day, year format) followed by BibTeX citation for each arxiv to the output file
-            f.write(f"% {date.strftime('%B %d, %Y')} \n{bibtex}\n")
+            f.write(f"% {date.strftime('%B %d, %Y')}* \n{bibtex}\n")
 
         print(f"{len(arxivs_dates)} citations written to {output_file} !")
 
