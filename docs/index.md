@@ -1419,6 +1419,7 @@ const expandElements = shouldExpand => {
     ###  Monitoring
     </div>
 
+    * [Symbolic Regression for Beyond the Standard Model Physics](https://arxiv.org/abs/2405.18471) (2024)
     * [A versatile framework for attitude tuning of beamlines at advanced light sources](https://arxiv.org/abs/2411.01278) (2024)
     * [Strategies for Machine Learning Applied to Noisy HEP Datasets: Modular Solid State Detectors from SuperCDMS](https://arxiv.org/abs/2404.10971) (2024)
     * [GAMPix: a novel fine-grained, low-noise and ultra-low power pixelated charge readout for TPCs](https://arxiv.org/abs/2402.00902) (2024)
