@@ -1513,6 +1513,7 @@ const expandElements = shouldExpand => {
     ###  GANs
     </div>
 
+    * [CALPAGAN: Calorimetry for Particles Using Generative Adversarial Networks](https://arxiv.org/abs/2401.02248) [[DOI](https://doi.org/10.1093/ptep/ptae106)] (2024)
     * [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
     * [Pay Attention To Mean Fields For Point Cloud Generation](https://arxiv.org/abs/2408.04997) (2024)
     * [Applying generative neural networks for fast simulations of the ALICE (CERN) experiment](https://arxiv.org/abs/2407.16704) (2024)
