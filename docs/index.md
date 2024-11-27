@@ -1514,11 +1514,11 @@ const expandElements = shouldExpand => {
     ###  GANs
     </div>
 
-    * [CALPAGAN: Calorimetry for Particles Using Generative Adversarial Networks](https://arxiv.org/abs/2401.02248) [[DOI](https://doi.org/10.1093/ptep/ptae106)] (2024)
     * [CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation](https://arxiv.org/abs/2410.21611) (2024)
     * [Pay Attention To Mean Fields For Point Cloud Generation](https://arxiv.org/abs/2408.04997) (2024)
     * [Applying generative neural networks for fast simulations of the ALICE (CERN) experiment](https://arxiv.org/abs/2407.16704) (2024)
     * [cDVGAN: One Flexible Model for Multi-class Gravitational Wave Signal and Glitch Generation](https://arxiv.org/abs/2401.16356) [[DOI](https://doi.org/10.1103/PhysRevD.110.022004)] (2024)
+    * [CALPAGAN: Calorimetry for Particles Using Generative Adversarial Networks](https://arxiv.org/abs/2401.02248) [[DOI](https://doi.org/10.1093/ptep/ptae106)] (2024)
     * [Integrating Particle Flavor into Deep Learning Models for Hadronization](https://arxiv.org/abs/2312.08453) (2023)
     * [DeepTreeGANv2: Iterative Pooling of Point Clouds](https://arxiv.org/abs/2312.00042) (2023)
     * [DeepTreeGAN: Fast Generation of High Dimensional Point Clouds](https://arxiv.org/abs/2311.12616) [[DOI](https://doi.org/10.1051/epjconf/202429509010)] (2023)
