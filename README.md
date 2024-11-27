@@ -1932,6 +1932,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Higgs couplings in SMEFT via Zh production at the HL-LHC](https://arxiv.org/abs/2403.03001) (2024)
 * [The impact of CP-violating phases on DM observables in the cpMSSM](https://arxiv.org/abs/2402.08814) (2024)
 * [Current status of the light neutralino thermal dark matter in the phenomenological MSSM](https://arxiv.org/abs/2402.07991) (2024)
+* [Combining evolutionary strategies and novelty detection to go beyond the alignment limit of the Z3 3HDM](https://arxiv.org/abs/2402.07661) [[DOI](https://doi.org/10.1103/PhysRevD.109.095040)] (2024)
 * [LHC Study of Third-Generation Scalar Leptoquarks with Machine-Learned Likelihoods](https://arxiv.org/abs/2309.05407) [[DOI](https://doi.org/10.1103/PhysRevD.109.055032)] (2023)
 * [Tip of the Red Giant Branch Bounds on the Neutrino Magnetic Dipole Moment Revisited](https://arxiv.org/abs/2307.13050) (2023)
 * [Pinning down the leptophobic $Z^\prime$ in leptonic final states with Deep Learning](https://arxiv.org/abs/2307.01118) [[DOI](https://doi.org/10.1016/j.physletb.2023.138417)] (2023)
