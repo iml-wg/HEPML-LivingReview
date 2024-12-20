@@ -536,7 +536,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Improved calorimetric particle identification in NA62 using machine learning techniques](https://arxiv.org/abs/2304.10580) [[DOI](https://doi.org/10.1007/JHEP11(2023)138)] (2023)
 * [Particle identification with the Belle II calorimeter using machine learning](https://arxiv.org/abs/2301.11654) [[DOI](https://doi.org/10.1088/1742-6596/2438/1/012111)] (2023)
 * [Identification of light leptons and pions in the electromagnetic calorimeter of Belle II](https://arxiv.org/abs/2301.05074) [[DOI](https://doi.org/10.1016/j.nima.2023.168630)] (2023)
-* [Particle-flow based tau identification at future $\textrm{e}^{+}\textrm{e}^{-}$ colliders](https://arxiv.org/abs/2307.07747) [[DOI](https://doi.org/10.1016/j.cpc.2024.109095)] (2023)
+* [Tau lepton identification and reconstruction: a new frontier for jet-tagging ML algorithms](https://arxiv.org/abs/2307.07747) [[DOI](https://doi.org/10.1016/j.cpc.2024.109095)] (2023)
 * [Inclusive, prompt and non-prompt $\rm{J}/\psi$ identification in proton-proton collisions at the Large Hadron Collider using machine learning](https://arxiv.org/abs/2308.00329) [[DOI](https://doi.org/10.1103/PhysRevD.109.014005)] (2023)
 * [Machine learning method for $^{12}$C event classification and reconstruction in the active target time-projection chamber](https://arxiv.org/abs/2304.13233) [[DOI](https://doi.org/10.1016/j.nima.2023.168528)] (2023)
 * [Separation of electrons from pions in GEM TRD using deep learning](https://arxiv.org/abs/2303.10776) (2023)
