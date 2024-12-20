@@ -528,6 +528,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Particle identification
 
+* [A unified machine learning approach for reconstructing hadronically decaying tau leptons](https://arxiv.org/abs/2407.06788) [[DOI](https://doi.org/10.1016/j.cpc.2024.109399)] (2024)
 * [Transformers for Charged Particle Track Reconstruction in High Energy Physics](https://arxiv.org/abs/2411.07149) (2024)
 * [Detecting highly collimated photon-jets from Higgs boson exotic decays with deep learning](https://arxiv.org/abs/2401.15690) (2024)
 * [Machine-learning-based particle identification with missing data](https://arxiv.org/abs/2401.01905) [[DOI](https://doi.org/10.1140/epjc/s10052-024-13047-3)] (2024)
