@@ -2274,6 +2274,7 @@ const expandElements = shouldExpand => {
     ###  ML for theory
     </div>
 
+    * [Generating particle physics Lagrangians with transformers](https://arxiv.org/abs/2501.09729) (2025)
     * [Truth, beauty, and goodness in grand unification: a machine learning approach](https://arxiv.org/abs/2411.06718) (2024)
     * [cymyc -- Calabi-Yau Metrics, Yukawas, and Curvature](https://arxiv.org/abs/2410.19728) (2024)
     * [Calabi-Yau metrics through Grassmannian learning and Donaldson's algorithm](https://arxiv.org/abs/2410.11284) (2024)
