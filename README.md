@@ -1650,6 +1650,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [Mapping QGP properties in Pb--Pb and Xe--Xe collisions at the LHC](https://arxiv.org/abs/2308.16722) [[DOI](https://doi.org/10.1103/PhysRevC.108.064908)] (2023)
 * [Geometry-aware Autoregressive Models for Calorimeter Shower Simulations](https://arxiv.org/abs/2212.08233) (2022)
+* [Maximum Likelihood Reconstruction of Water Cherenkov Events With Deep Generative Neural Networks](https://arxiv.org/abs/2202.01276) [[DOI](https://doi.org/10.3389/fdata.2022.868333)] (2022)
 * [A Neural-Network-defined Gaussian Mixture Model for particle identification applied to the LHCb fixed-target programme](https://arxiv.org/abs/2110.10259) [[DOI](https://doi.org/10.1088/1748-0221/17/02/P02018)] (2021)
 * [Mixture Density Network Estimation of Continuous Variable Maximum Likelihood Using Discrete Training Samples](https://arxiv.org/abs/2103.13416) [[DOI](https://doi.org/10.1140/epjc/s10052-021-09469-y)] (2021)
 * [Data Augmentation at the LHC through Analysis-specific Fast Simulation with Deep Learning](https://arxiv.org/abs/2010.01835) (2020)
