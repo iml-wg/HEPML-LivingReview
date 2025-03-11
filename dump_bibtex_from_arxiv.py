@@ -32,12 +32,19 @@ def replace_collaboration_author(bib_entry):
         'CMS': 'CMS Collaboration',
         'LHCb': 'LHCb Collaboration',
         'ALICE': 'ALICE Collaboration',
+        'H1': 'H1 Collaboration',
         'IceCube': 'IceCube Collaboration',
         'NNPDF': 'NNPDF Collaboration',
         'Belle-II': "Belle-II Collaboration",
+        'Belle II': "Belle-II Collaboration",
         'BESIII': "BESIII Collaboration",
         'DARWIN': "DARWIN Collaboration",
-        'JETSCAPE': "JETSCAPE Collaboration"
+        'MODE': "MODE Collaboration",
+        'DUNE': "DUNE Collaboration",
+        'MAP': "MAP Collaboration",
+        'QUEST-DMC': "QUEST-DMC Collaboration",
+        'JETSCAPE': "JETSCAPE Collaboration",
+        'Hyper-Kamiokande': "Hyper-Kamiokande Collaboration"
     }
 
     # Find the collaboration field and select matching name above
