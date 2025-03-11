@@ -9,7 +9,29 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## March 2025
+* [Machine Learning Unveils the power law of Finite-Volume Energy Shifts](https://arxiv.org/abs/2503.06496) (2025)
+* [Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment](https://arxiv.org/abs/2503.06727) (2025)
+* [Fast Jet Tagging with MLP-Mixers on FPGAs](https://arxiv.org/abs/2503.03103) (2025)
+* [Reconstruction of muon bundles in KM3NeT detectors using machine learning methods](https://arxiv.org/abs/2503.01433) (2025)
+* [PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context](https://arxiv.org/abs/2503.02860) (2025)
+* [Exploring fully-heavy tetraquarks through the CGAN framework: Mass and width](https://arxiv.org/abs/2503.00993) (2025)
+
 ## February 2025
+* [Fine-tuning machine-learned particle-flow reconstruction for new detector geometries in future colliders](https://arxiv.org/abs/2503.00131) (2025)
+* [Machine Learning Calabi-Yau Three-Folds, Four-Folds, and Five-Folds](https://arxiv.org/abs/2503.00139) (2025)
+* [Generative adversarial neural networks for simulating neutrino interactions](https://arxiv.org/abs/2502.20244) (2025)
+* [Machine Learning Approaches to Top Quark Flavor-Changing Four-Fermion Interactions in Trilepton Signals at the LHC](https://arxiv.org/abs/2502.18667) (2025)
+* [Unraveling particle dark matter with Physics-Informed Neural Networks](https://arxiv.org/abs/2502.17597) (2025)
+* [Ultra fast, event-by-event heavy-ion simulations for next generation experiments](https://arxiv.org/abs/2502.16330) (2025)
+* [1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning](https://arxiv.org/abs/2502.17301) (2025)
+* [Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC](https://arxiv.org/abs/2502.15926) (2025)
+* [A Method to Simultaneously Facilitate All Jet Physics Tasks](https://arxiv.org/abs/2502.14652) (2025)
+* [Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data](https://arxiv.org/abs/2502.14036) (2025)
+* [Exploring the BSM parameter space with Neural Network aided Simulation-Based Inference](https://arxiv.org/abs/2502.11928) (2025)
+* [Development of systematic uncertainty-aware neural network trainings for binned-likelihood analyses at the LHC](https://arxiv.org/abs/2502.13047) (2025)
+* [Neuromorphic Readout for Hadron Calorimeters](https://arxiv.org/abs/2502.12693) (2025)
+* [AInstein: Numerical Einstein Metrics via Machine Learning](https://arxiv.org/abs/2502.13043) (2025)
 * [Hadron Identification Prospects With Granular Calorimeters](https://arxiv.org/abs/2502.10817) (2025)
 * [Recasting the ATLAS search for displaced hadronic jets in the ATLAS calorimeter with additional jets or leptons using surrogate models](https://arxiv.org/abs/2502.10231) (2025)
 * [Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2502.09770) (2025)
