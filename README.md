@@ -173,6 +173,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Graphs
 
+* [Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II](https://arxiv.org/abs/2503.09401) (2025)
 * [Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment](https://arxiv.org/abs/2503.06727) (2025)
 * [Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2\beta$ at Belle II](https://arxiv.org/abs/2501.17631) (2025)
 * [Evaluating the Impact of Detector Design on Jet Flavor Tagging for Future Colliders](https://arxiv.org/abs/2501.16584) (2025)
@@ -743,6 +744,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Heavy Ions / Nuclear Physics
 
+* [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213) (2025)
 * [Ultra fast, event-by-event heavy-ion simulations for next generation experiments](https://arxiv.org/abs/2502.16330) (2025)
 * [Apples to Apples in Jet Quenching: robustness of Machine Learning classification of quenched jets to Underlying Event contamination](https://arxiv.org/abs/2501.14015) (2025)
 * [Neural network biased corrections: Cautionary study in background corrections for quenched jets](https://arxiv.org/abs/2412.15440) (2024)
@@ -878,6 +880,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Unsupervised
 
+* [Probes of Anomalous Events at LHC with Self-Organizing Maps](https://arxiv.org/abs/2503.09247) (2025)
 * [Unsupervised Particle Tracking with Neuromorphic Computing](https://arxiv.org/abs/2502.06771) (2025)
 * [Learning Symmetry-Independent Jet Representations via Jet-Based Joint Embedding Predictive Architecture](https://arxiv.org/abs/2412.05333) (2024)
 * [MACK: Mismodeling Addressed with Contrastive Knowledge](https://arxiv.org/abs/2410.13947) (2024)
@@ -1795,6 +1798,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Anomaly detection.
 
+* [Probes of Anomalous Events at LHC with Self-Organizing Maps](https://arxiv.org/abs/2503.09247) (2025)
 * [Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC](https://arxiv.org/abs/2502.15926) (2025)
 * [Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data](https://arxiv.org/abs/2502.14036) (2025)
 * [Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2502.09770) (2025)
@@ -1939,9 +1943,17 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [OmniJet-$\alpha$: The first cross-task foundation model for particle physics](https://arxiv.org/abs/2403.05618) [[DOI](https://doi.org/10.1088/2632-2153/ad66ad)] (2024)
 * [Finetuning Foundation Models for Joint Analysis Optimization](https://arxiv.org/abs/2401.13536) [[DOI](https://doi.org/10.1088/2632-2153/ad55a3)] (2024)
 
+##  Kolmogorov-Arnold Networks (KANs).
+
+* [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213) (2025)
+* [Machine Learning Insights into Quark-Antiquark Interactions: Probing Field Distributions and String Tension in QCD](https://arxiv.org/abs/2411.14902) (2024)
+* [Application of Kolmogorov-Arnold Networks in high energy physics](https://arxiv.org/abs/2409.01724) (2024)
+* [KAN we improve on HEP classification tasks? Kolmogorov-Arnold Networks applied to an LHC physics example](https://arxiv.org/abs/2408.02743) (2024)
+
 ##  Simulation-based (`likelihood-free') Inference
 ###  Parameter estimation
 
+* [Discriminative versus Generative Approaches to Simulation-based Inference](https://arxiv.org/abs/2503.07962) (2025)
 * [Communicating Likelihoods with Normalising Flows](https://arxiv.org/abs/2502.09494) (2025)
 * [Optimizers for Stabilizing Likelihood-free Inference](https://arxiv.org/abs/2501.18419) (2025)
 * [Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference](https://arxiv.org/abs/2501.08988) (2025)
@@ -1991,6 +2003,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Unfolding
 
+* [Tools for Unbinned Unfolding](https://arxiv.org/abs/2503.09720) (2025)
 * [Machine Learning-Assisted Measurement of Lepton-Jet Azimuthal Angular Asymmetries in Deep-Inelastic Scattering at HERA](https://arxiv.org/abs/2412.14092) (2024)
 * [Generative Unfolding with Distribution Mapping](https://arxiv.org/abs/2411.02495) (2024)
 * [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) [[DOI](https://doi.org/10.22323/1.476.0012)] (2024)
@@ -2116,6 +2129,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Estimation
 
+* [Uncertainty Quantification From Scaling Laws in Deep Neural Networks](https://arxiv.org/abs/2503.05938) (2025)
 * [Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks](https://arxiv.org/abs/2501.05656) (2025)
 * [Anomalous electroweak physics unraveled via evidential deep learning](https://arxiv.org/abs/2412.16286) (2024)
 * [Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks](https://arxiv.org/abs/2408.04690) [[DOI](https://doi.org/10.1016/j.advwatres.2024.104870)] (2024)
@@ -2152,6 +2166,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ##  Formal Theory and ML
 ###  Theory and physics for ML
 
+* [Neural Network/de Sitter Space Correspondence](https://arxiv.org/abs/2503.08827) (2025)
 * [Optimizers for Stabilizing Likelihood-free Inference](https://arxiv.org/abs/2501.18419) (2025)
 * [Random Matrix Theory for Stochastic Gradient Descent](https://arxiv.org/abs/2412.20496) [[DOI](https://doi.org/10.22323/1.466.0031)] (2024)
 * [Interpreting Transformers for Jet Tagging](https://arxiv.org/abs/2412.03673) (2024)

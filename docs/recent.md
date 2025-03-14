@@ -10,8 +10,15 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## March 2025
+* [Tools for Unbinned Unfolding](https://arxiv.org/abs/2503.09720) (2025)
+* [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213) (2025)
+* [Probes of Anomalous Events at LHC with Self-Organizing Maps](https://arxiv.org/abs/2503.09247) (2025)
+* [Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II](https://arxiv.org/abs/2503.09401) (2025)
+* [Neural Network/de Sitter Space Correspondence](https://arxiv.org/abs/2503.08827) (2025)
 * [Machine Learning Unveils the power law of Finite-Volume Energy Shifts](https://arxiv.org/abs/2503.06496) (2025)
 * [Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment](https://arxiv.org/abs/2503.06727) (2025)
+* [Discriminative versus Generative Approaches to Simulation-based Inference](https://arxiv.org/abs/2503.07962) (2025)
+* [Uncertainty Quantification From Scaling Laws in Deep Neural Networks](https://arxiv.org/abs/2503.05938) (2025)
 * [Fast Jet Tagging with MLP-Mixers on FPGAs](https://arxiv.org/abs/2503.03103) (2025)
 * [Reconstruction of muon bundles in KM3NeT detectors using machine learning methods](https://arxiv.org/abs/2503.01433) (2025)
 * [PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context](https://arxiv.org/abs/2503.02860) (2025)
