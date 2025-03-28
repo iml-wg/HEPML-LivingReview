@@ -105,6 +105,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ##  Classification
 ###  Parameterized classifiers
 
+* [Mass-unspecific classifiers for mass-dependent searches](https://arxiv.org/abs/2503.20926) (2025)
 * [Boosting likelihood learning with event reweighting](https://arxiv.org/abs/2308.05704) [[DOI](https://doi.org/10.1007/JHEP03(2024)117)] (2023)
 * [E Pluribus Unum Ex Machina: Learning from Many Collider Events at Once](https://arxiv.org/abs/2101.07263) [[DOI](https://doi.org/10.1103/PhysRevD.103.116013)] (2021)
 * [Approximating Likelihood Ratios with Calibrated Discriminative  Classifiers](https://arxiv.org/abs/1506.02169) (2015)
@@ -263,6 +264,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Sets (point clouds)
 
+* [Neutrino type identification for atmospheric neutrinos in a large homogeneous liquid scintillation detector](https://arxiv.org/abs/2503.21353) (2025)
 * [Product Manifold Machine Learning for Physics](https://arxiv.org/abs/2412.07033) (2024)
 * [Point cloud-based diffusion models for the Electron-Ion Collider](https://arxiv.org/abs/2410.22421) (2024)
 * [Is Tokenization Needed for Masked Particle Modelling?](https://arxiv.org/abs/2409.12589) (2024)
@@ -465,6 +467,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  BSM particles and models
 
+* [Mass-unspecific classifiers for mass-dependent searches](https://arxiv.org/abs/2503.20926) (2025)
 * [Machine Learning Approaches to Top Quark Flavor-Changing Four-Fermion Interactions in Trilepton Signals at the LHC](https://arxiv.org/abs/2502.18667) (2025)
 * [Identification of tqg flavor-changing neutral current interactions using machine learning techniques](https://arxiv.org/abs/2502.04844) [[DOI](https://doi.org/10.1007/s40042-024-01277-3)] (2025)
 * [Separation of left-handed and anomalous right-handed vector operators contributions into the Wtb vertex for single and double resonant top quark production processes using a neural network](https://arxiv.org/abs/2412.02468) (2024)
@@ -1222,6 +1225,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Parton Distribution Functions (and related)
 
+* [Evaluating the faithfulness of PDF uncertainties in the presence of inconsistent data](https://arxiv.org/abs/2503.17447) (2025)
+* [Improved Constraints on Pion Fragmentation Functions from Simulated Electron-Ion Collider Data](https://arxiv.org/abs/2503.16053) (2025)
 * [NNPDFpol2.0: unbiased global determination of polarized PDFs and their uncertainties at next-to-next-to-leading order](https://arxiv.org/abs/2503.11814) (2025)
 * [A Neural-Network Extraction of Unpolarised Transverse-Momentum-Dependent Distributions](https://arxiv.org/abs/2502.04166) (2025)
 * [Polarized and unpolarized gluon PDFs: generative machine learning applications for lattice QCD matrix elements at short distance and large momentum](https://arxiv.org/abs/2409.17234) (2024)
@@ -1595,6 +1600,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  (Continuous) Normalizing flows
 
+* [ParaFlow: fast calorimeter simulations parameterized in upstream material configurations](https://arxiv.org/abs/2503.21461) (2025)
+* [Conditional Deep Generative Models for Simultaneous Simulation and Reconstruction of Entire Events](https://arxiv.org/abs/2503.19981) (2025)
 * [Communicating Likelihoods with Normalising Flows](https://arxiv.org/abs/2502.09494) (2025)
 * [Normalizing Flow-Assisted Nested Sampling on Type-II Seesaw Model](https://arxiv.org/abs/2501.16432) (2025)
 * [Stochastic normalizing flows for Effective String Theory](https://arxiv.org/abs/2412.19109) [[DOI](https://doi.org/10.22323/1.466.0027)] (2024)
@@ -1682,6 +1689,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Diffusion Models
 
+* [Exploring the flavor structure of leptons via diffusion models](https://arxiv.org/abs/2503.21432) (2025)
+* [Conditional Deep Generative Models for Simultaneous Simulation and Reconstruction of Entire Events](https://arxiv.org/abs/2503.19981) (2025)
 * [Ultra fast, event-by-event heavy-ion simulations for next generation experiments](https://arxiv.org/abs/2502.16330) (2025)
 * [Physics-Conditioned Diffusion Models for Lattice Gauge Theory](https://arxiv.org/abs/2502.05504) (2025)
 * [Exploring Generative Networks for Manifolds with Non-Trivial Topology](https://arxiv.org/abs/2502.02127) [[DOI](https://doi.org/10.22323/1.466.0042)] (2025)
@@ -1743,7 +1752,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Physics-inspired
 
-* [Application of Kolmogorov-Arnold Networks in high energy physics](https://arxiv.org/abs/2409.01724) (2024)
+* [Application of Kolmogorov-Arnold Networks in high energy physics](https://arxiv.org/abs/2409.01724) [[DOI](https://doi.org/10.3103/S0027134924702035)] (2024)
 * [Binary Discrimination Through Next-to-Leading Order](https://arxiv.org/abs/2309.14417) [[DOI](https://doi.org/10.1007/JHEP03(2024)057)] (2023)
 * [Symmetry meets AI](https://arxiv.org/abs/2103.06115) [[DOI](https://doi.org/10.21468/SciPostPhys.11.1.014)] (2021)
 * [Explainable machine learning of the underlying physics of high-energy particle collisions](https://arxiv.org/abs/2012.06582) [[DOI](https://doi.org/10.1016/j.physletb.2022.137055)] (2020)
@@ -1813,14 +1822,14 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2502.09770) (2025)
 * [Anomaly Detection for Automated Data Quality Monitoring in the CMS Detector](https://arxiv.org/abs/2501.13789) (2025)
 * [Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks](https://arxiv.org/abs/2501.05656) (2025)
-* [Automatizing the search for mass resonances using BumpNet](https://arxiv.org/abs/2501.05603) (2025)
+* [Automatizing the search for mass resonances using BumpNet](https://arxiv.org/abs/2501.05603) [[DOI](https://doi.org/10.1007/JHEP02(2025)122)] (2025)
 * [Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2412.03747) (2024)
 * [Quantum similarity learning for anomaly detection](https://arxiv.org/abs/2411.09927) [[DOI](https://doi.org/10.1007/JHEP02(2025)081)] (2024)
 * [SIGMA: Single Interpolated Generative Model for Anomalies](https://arxiv.org/abs/2410.20537) (2024)
 * [Model-independent searches of new physics in DARWIN with a semi-supervised deep learning pipeline](https://arxiv.org/abs/2410.00755) (2024)
 * [Novel machine learning applications at the LHC](https://arxiv.org/abs/2409.20413) [[DOI](https://doi.org/10.22323/1.476.0012)] (2024)
 * [Detect anomalous quartic gauge couplings at muon colliders with quantum kernel k-means](https://arxiv.org/abs/2409.07010) (2024)
-* [ADFilter -- A Web Tool for New Physics Searches With Autoencoder-Based Anomaly Detection Using Deep Unsupervised Neural Networks](https://arxiv.org/abs/2409.03065) (2024)
+* [ADFilter -- A Web Tool for New Physics Searches With Autoencoder-Based Anomaly Detection Using Deep Unsupervised Neural Networks](https://arxiv.org/abs/2409.03065) [[DOI](https://doi.org/10.3390/info16040258)] (2024)
 * [Semi-supervised permutation invariant particle-level anomaly detection](https://arxiv.org/abs/2408.17409) (2024)
 * [Anomaly Detection Based on Machine Learning for the CMS Electromagnetic Calorimeter Online Data Quality Monitoring](https://arxiv.org/abs/2407.20278) [[DOI](https://doi.org/10.1051/epjconf/202532000048)] (2024)
 * [Accelerating template generation in resonant anomaly detection searches with optimal transport](https://arxiv.org/abs/2407.19818) (2024)
@@ -1939,6 +1948,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Foundation Models, LLMs.
 
+* [Reconstructing hadronically decaying tau leptons with a jet foundation model](https://arxiv.org/abs/2503.19165) (2025)
 * [A Method to Simultaneously Facilitate All Jet Physics Tasks](https://arxiv.org/abs/2502.14652) [[DOI](https://doi.org/10.1103/PhysRevD.111.054015)] (2025)
 * [Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics](https://arxiv.org/abs/2412.10504) (2024)
 * [Pretrained Event Classification Model for High Energy Physics Analysis](https://arxiv.org/abs/2412.10665) (2024)
@@ -1956,12 +1966,13 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 * [Extracting Transport Properties of Quark-Gluon Plasma from the Heavy-Quark Potential With Neural Networks in a Holographic Model](https://arxiv.org/abs/2503.10213) (2025)
 * [Machine Learning Insights into Quark-Antiquark Interactions: Probing Field Distributions and String Tension in QCD](https://arxiv.org/abs/2411.14902) [[DOI](https://doi.org/10.1140/epjc/s10052-025-13958-9)] (2024)
-* [Application of Kolmogorov-Arnold Networks in high energy physics](https://arxiv.org/abs/2409.01724) (2024)
+* [Application of Kolmogorov-Arnold Networks in high energy physics](https://arxiv.org/abs/2409.01724) [[DOI](https://doi.org/10.3103/S0027134924702035)] (2024)
 * [KAN we improve on HEP classification tasks? Kolmogorov-Arnold Networks applied to an LHC physics example](https://arxiv.org/abs/2408.02743) (2024)
 
 ##  Simulation-based (`likelihood-free') Inference
 ###  Parameter estimation
 
+* [Stabilizing Neural Likelihood Ratio Estimation](https://arxiv.org/abs/2503.20753) (2025)
 * [Discriminative versus Generative Approaches to Simulation-based Inference](https://arxiv.org/abs/2503.07962) (2025)
 * [Communicating Likelihoods with Normalising Flows](https://arxiv.org/abs/2502.09494) (2025)
 * [Optimizers for Stabilizing Likelihood-free Inference](https://arxiv.org/abs/2501.18419) (2025)
@@ -2012,6 +2023,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Unfolding
 
+* [Stabilizing Neural Likelihood Ratio Estimation](https://arxiv.org/abs/2503.20753) (2025)
 * [Tools for Unbinned Unfolding](https://arxiv.org/abs/2503.09720) (2025)
 * [Machine Learning-Assisted Measurement of Lepton-Jet Azimuthal Angular Asymmetries in Deep-Inelastic Scattering at HERA](https://arxiv.org/abs/2412.14092) (2024)
 * [Generative Unfolding with Distribution Mapping](https://arxiv.org/abs/2411.02495) (2024)
