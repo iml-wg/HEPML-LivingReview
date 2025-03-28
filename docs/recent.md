@@ -10,6 +10,16 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## March 2025
+* [Mass-unspecific classifiers for mass-dependent searches](https://arxiv.org/abs/2503.20926) (2025)
+* [Exploring the flavor structure of leptons via diffusion models](https://arxiv.org/abs/2503.21432) (2025)
+* [Neutrino type identification for atmospheric neutrinos in a large homogeneous liquid scintillation detector](https://arxiv.org/abs/2503.21353) (2025)
+* [ParaFlow: fast calorimeter simulations parameterized in upstream material configurations](https://arxiv.org/abs/2503.21461) (2025)
+* [Stabilizing Neural Likelihood Ratio Estimation](https://arxiv.org/abs/2503.20753) (2025)
+* [Conditional Deep Generative Models for Simultaneous Simulation and Reconstruction of Entire Events](https://arxiv.org/abs/2503.19981) (2025)
+* [Reconstructing hadronically decaying tau leptons with a jet foundation model](https://arxiv.org/abs/2503.19165) (2025)
+* [Evaluating the faithfulness of PDF uncertainties in the presence of inconsistent data](https://arxiv.org/abs/2503.17447) (2025)
+* [Improved Constraints on Pion Fragmentation Functions from Simulated Electron-Ion Collider Data](https://arxiv.org/abs/2503.16053) (2025)
+* [How many simulations do we need for simulation-based inference in cosmology?](https://arxiv.org/abs/2503.13755) (2025)
 * [Classification of Electron and Muon Neutrino Events for the ESS$\nu$SB Near Water Cherenkov Detector using Graph Neural Networks](https://arxiv.org/abs/2503.15247) (2025)
 * [Search for the radiative leptonic decay $D^+\to\gamma e^+\nu_e$ with Deep Learning](https://arxiv.org/abs/2503.16070) (2025)
 * [Strong CWoLa: Binary Classification Without Background Simulation](https://arxiv.org/abs/2503.14876) (2025)
@@ -82,6 +92,6 @@ This is an automatically compiled list of papers which have been added to the li
 * [Inferring Interpretable Models of Fragmentation Functions using Symbolic Regression](https://arxiv.org/abs/2501.07123) (2025)
 * [Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks](https://arxiv.org/abs/2501.05656) (2025)
 * [Recurrent Features of Amplitudes in Planar $\mathcal{N}](https://arxiv.org/abs/2501.05743) (2025)
-* [Automatizing the search for mass resonances using BumpNet](https://arxiv.org/abs/2501.05603) (2025)
+* [Automatizing the search for mass resonances using BumpNet](https://arxiv.org/abs/2501.05603) [[DOI](https://doi.org/10.1007/JHEP02(2025)122)] (2025)
 * [Physics-driven learning for inverse problems in quantum chromodynamics](https://arxiv.org/abs/2501.05580) [[DOI](https://doi.org/10.1038/s42254-024-00798-x)] (2025)
 
