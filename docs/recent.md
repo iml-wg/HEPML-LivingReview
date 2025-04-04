@@ -9,7 +9,15 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## April 2025
+* [Entanglement and Bell Nonlocality in $\tau^+ \tau^-$ at the LHC using Machine Learning for Neutrino Reconstruction](https://arxiv.org/abs/2504.01496) (2025)
+* [Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method](https://arxiv.org/abs/2504.01265) (2025)
+* [What is AI, what is it not, how we use it in physics and how it impacts... you](https://arxiv.org/abs/2504.01827) (2025)
+* [Diffusion-model approach to flavor models: A case study for $S_4^\prime$ modular flavor model](https://arxiv.org/abs/2504.00944) (2025)
+* [A Novel Deep Learning Method for Detecting Nucleon-Nucleon Correlations](https://arxiv.org/abs/2504.00790) (2025)
+
 ## March 2025
+* [Learnable cut flow](https://arxiv.org/abs/2503.22498) (2025)
 * [Mass-unspecific classifiers for mass-dependent searches](https://arxiv.org/abs/2503.20926) (2025)
 * [Exploring the flavor structure of leptons via diffusion models](https://arxiv.org/abs/2503.21432) (2025)
 * [Neutrino type identification for atmospheric neutrinos in a large homogeneous liquid scintillation detector](https://arxiv.org/abs/2503.21353) (2025)
@@ -88,7 +96,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Generating particle physics Lagrangians with transformers](https://arxiv.org/abs/2501.09729) (2025)
 * [Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference](https://arxiv.org/abs/2501.08988) (2025)
 * [Reconstructing Time-of-Flight Detector Values of Angular Streaking Using Machine Learning](https://arxiv.org/abs/2501.08966) (2025)
-* [A Step Toward Interpretability: Smearing the Likelihood](https://arxiv.org/abs/2501.07643) (2025)
+* [A Step Toward Interpretability: Smearing the Likelihood](https://arxiv.org/abs/2501.07643) [[DOI](https://doi.org/10.1007/JHEP03(2025)198)] (2025)
 * [Inferring Interpretable Models of Fragmentation Functions using Symbolic Regression](https://arxiv.org/abs/2501.07123) (2025)
 * [Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks](https://arxiv.org/abs/2501.05656) (2025)
 * [Recurrent Features of Amplitudes in Planar $\mathcal{N}](https://arxiv.org/abs/2501.05743) (2025)
