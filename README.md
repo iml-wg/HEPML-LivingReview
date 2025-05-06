@@ -1853,6 +1853,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Anomaly-aware summary statistic from data batches](https://arxiv.org/abs/2407.01249) [[DOI](https://doi.org/10.1007/JHEP12(2024)093)] (2024)
 * [Accelerating Resonance Searches via Signature-Oriented Pre-training](https://arxiv.org/abs/2405.12972) (2024)
 * [Incorporating Physical Priors into Weakly-Supervised Anomaly Detection](https://arxiv.org/abs/2405.08889) (2024)
+* [Cluster Scanning: a novel approach to resonance searches](https://arxiv.org/abs/2402.17714) [[DOI](https://doi.org/10.1007/JHEP06(2024)163)] (2024)
 * [Anomaly detection with flow-based fast calorimeter simulators](https://arxiv.org/abs/2312.11618) [[DOI](https://doi.org/10.1103/PhysRevD.110.035036)] (2023)
 * [Improving new physics searches with diffusion models for event observables and jet constituents](https://arxiv.org/abs/2312.10130) [[DOI](https://doi.org/10.1007/JHEP04(2024)109)] (2023)
 * [Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3](https://arxiv.org/abs/2312.10009) [[DOI](https://doi.org/10.1088/1748-0221/19/03/C03029)] (2023)
