@@ -1589,6 +1589,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Decorrelation methods."
 
+    * [TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches](https://arxiv.org/abs/2503.04342) (2025)
     * [Enhancing generalization in high energy physics using white-box adversarial attacks](https://arxiv.org/abs/2411.09296) (2024)
     * [Decorrelation using Optimal Transport](https://arxiv.org/abs/2307.05187) [[DOI](https://doi.org/10.1140/epjc/s10052-024-12868-6)] (2023)
     * [Partial wave analysis of $\tau^-\to\pi^-\pi^+\pi^-\nu_\tau$ at Belle](https://arxiv.org/abs/2211.11696) [[DOI](https://doi.org/10.22323/1.414.1034)] (2022)
@@ -2009,6 +2010,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Anomaly detection."
 
+    * [TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches](https://arxiv.org/abs/2503.04342) (2025)
     * [Strengthening Anomaly Awareness](https://arxiv.org/abs/2504.11520) (2025)
     * [Search for anomalous quartic gauge couplings in the process $\mu^+\mu^-\to \bar{\nu}\nu\gamma\gamma$ with a nested local outlier factor](https://arxiv.org/abs/2504.03145) (2025)
     * [Strong CWoLa: Binary Classification Without Background Simulation](https://arxiv.org/abs/2503.14876) (2025)
