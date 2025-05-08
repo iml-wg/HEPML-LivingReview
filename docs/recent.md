@@ -9,7 +9,28 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## May 2025
+* [Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC](https://arxiv.org/abs/2505.04496) (2025)
+* [Stay Positive: Neural Refinement of Sample Weights](https://arxiv.org/abs/2505.03724) (2025)
+* [IAFormer: Interaction-Aware Transformer network for collider data analysis](https://arxiv.org/abs/2505.03258) (2025)
+* [Search for new physics in final states with semi-visible jets or anomalous signatures using the ATLAS detector](https://arxiv.org/abs/2505.01634) (2025)
+* [Fast and Precise Track Fitting with Machine Learning](https://arxiv.org/abs/2505.02937) (2025)
+
 ## April 2025
+* [Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2504.21844) (2025)
+* [Generative Models for Fast Simulation of Cherenkov Detectors at the Electron-Ion Collider](https://arxiv.org/abs/2504.19042) (2025)
+* [Charm-hadron reconstruction through three body decay in hadronic collisions using Machine Learning](https://arxiv.org/abs/2504.18279) (2025)
+* [Machine Learning-Based b-Jet Tagging in pp Collisions at $\sqrt{s}](https://arxiv.org/abs/2504.18291) (2025)
+* [Lecture Notes on Normalizing Flows for Lattice Quantum Field Theories](https://arxiv.org/abs/2504.18126) (2025)
+* [Goodness-of-fit for amplitude analysis with anomaly detection](https://arxiv.org/abs/2504.17494) (2025)
+* [Reinforcement Learning and Metaheuristics for Feynman Integral Reduction](https://arxiv.org/abs/2504.16045) (2025)
+* [Machine-learned RG-improved gauge actions and classically perfect gradient flows](https://arxiv.org/abs/2504.15870) (2025)
+* [Reconstruction of angular correlations in the associated top quark and the dark matter mediator production](https://arxiv.org/abs/2504.14303) (2025)
+* [Unbinned Inference with Correlated Events](https://arxiv.org/abs/2504.14072) (2025)
+* [Generalized Parton Distributions from Symbolic Regression](https://arxiv.org/abs/2504.13289) (2025)
+* [Weakly supervised anomaly detection with event-level variables](https://arxiv.org/abs/2504.13249) (2025)
+* [Enhancing Sensitivity for Di-Higgs Boson Searches Using Anomaly Detection and Supervised Machine Learning Techniques](https://arxiv.org/abs/2504.12418) (2025)
+* [Transforming Simulation to Data Without Pairing](https://arxiv.org/abs/2504.12343) (2025)
 * [Heavy neutrino mixing prospects at hadron colliders: a machine learning study](https://arxiv.org/abs/2504.12141) (2025)
 * [Progress in ${\cal CP}$ violating top-Higgs coupling at the LHC with Machine Learning](https://arxiv.org/abs/2504.11791) (2025)
 * [Strengthening Anomaly Awareness](https://arxiv.org/abs/2504.11520) (2025)
@@ -60,6 +81,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment](https://arxiv.org/abs/2503.06727) (2025)
 * [Discriminative versus Generative Approaches to Simulation-based Inference](https://arxiv.org/abs/2503.07962) (2025)
 * [Uncertainty Quantification From Scaling Laws in Deep Neural Networks](https://arxiv.org/abs/2503.05938) (2025)
+* [TRANSIT your events into a new mass: Fast background interpolation for weakly-supervised anomaly searches](https://arxiv.org/abs/2503.04342) (2025)
 * [Fast Jet Tagging with MLP-Mixers on FPGAs](https://arxiv.org/abs/2503.03103) (2025)
 * [Reconstruction of muon bundles in KM3NeT detectors using machine learning methods](https://arxiv.org/abs/2503.01433) (2025)
 * [PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context](https://arxiv.org/abs/2503.02860) (2025)
@@ -95,24 +117,4 @@ This is an automatically compiled list of papers which have been added to the li
 * [Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb](https://arxiv.org/abs/2502.02304) (2025)
 * [Exploring Generative Networks for Manifolds with Non-Trivial Topology](https://arxiv.org/abs/2502.02127) [[DOI](https://doi.org/10.22323/1.466.0042)] (2025)
 * [End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters](https://arxiv.org/abs/2502.02152) (2025)
-
-## January 2025
-* [DINAMO: Dynamic and INterpretable Anomaly MOnitoring for Large-Scale Particle Physics Experiments](https://arxiv.org/abs/2501.19237) (2025)
-* [CGAN-Based Framework for Meson Mass and Width Prediction](https://arxiv.org/abs/2501.18562) (2025)
-* [Optimizers for Stabilizing Likelihood-free Inference](https://arxiv.org/abs/2501.18419) (2025)
-* [Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2\beta$ at Belle II](https://arxiv.org/abs/2501.17631) (2025)
-* [Normalizing Flow-Assisted Nested Sampling on Type-II Seesaw Model](https://arxiv.org/abs/2501.16432) (2025)
-* [Evaluating the Impact of Detector Design on Jet Flavor Tagging for Future Colliders](https://arxiv.org/abs/2501.16584) (2025)
-* [Apples to Apples in Jet Quenching: robustness of Machine Learning classification of quenched jets to Underlying Event contamination](https://arxiv.org/abs/2501.14015) (2025)
-* [Anomaly Detection for Automated Data Quality Monitoring in the CMS Detector](https://arxiv.org/abs/2501.13789) (2025)
-* [Developments in NuWro Monte Carlo generator](https://arxiv.org/abs/2501.11470) (2025)
-* [Generating particle physics Lagrangians with transformers](https://arxiv.org/abs/2501.09729) (2025)
-* [Feldman-Cousins' ML Cousin: Sterile Neutrino Global Fits using Simulation-Based Inference](https://arxiv.org/abs/2501.08988) (2025)
-* [Reconstructing Time-of-Flight Detector Values of Angular Streaking Using Machine Learning](https://arxiv.org/abs/2501.08966) (2025)
-* [A Step Toward Interpretability: Smearing the Likelihood](https://arxiv.org/abs/2501.07643) [[DOI](https://doi.org/10.1007/JHEP03(2025)198)] (2025)
-* [Inferring Interpretable Models of Fragmentation Functions using Symbolic Regression](https://arxiv.org/abs/2501.07123) [[DOI](https://doi.org/10.1088/2632-2153/adb3ec)] (2025)
-* [Evidential Deep Learning for Uncertainty Quantification and Out-of-Distribution Detection in Jet Identification using Deep Neural Networks](https://arxiv.org/abs/2501.05656) (2025)
-* [Recurrent Features of Amplitudes in Planar $\mathcal{N}](https://arxiv.org/abs/2501.05743) (2025)
-* [Automatizing the search for mass resonances using BumpNet](https://arxiv.org/abs/2501.05603) [[DOI](https://doi.org/10.1007/JHEP02(2025)122)] (2025)
-* [Physics-driven learning for inverse problems in quantum chromodynamics](https://arxiv.org/abs/2501.05580) [[DOI](https://doi.org/10.1038/s42254-024-00798-x)] (2025)
 
