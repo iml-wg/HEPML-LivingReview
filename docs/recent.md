@@ -10,6 +10,15 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## May 2025
+* [Unearthing large pseudoscalar Yukawa couplings with Machine Learning](https://arxiv.org/abs/2505.10625) (2025)
+* [Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data](https://arxiv.org/abs/2505.08736) (2025)
+* [Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network](https://arxiv.org/abs/2505.07769) (2025)
+* [Training neural control variates using correlated configurations](https://arxiv.org/abs/2505.07719) (2025)
+* [Contrastive Normalizing Flows for Uncertainty-Aware Parameter Estimation](https://arxiv.org/abs/2505.08709) (2025)
+* [Deep Neural Networks for Cross-Energy Particle Identification at RHIC and LHC](https://arxiv.org/abs/2505.06732) (2025)
+* [Synthetic Training and Representation Bridging in Reconstruction Domains](https://arxiv.org/abs/2505.05664) (2025)
+* [Unbinned inclusive cross-section measurements with machine-learned systematic uncertainties](https://arxiv.org/abs/2505.05544) (2025)
+* [Design and FPGA Implementation of WOMBAT: A Deep Neural Network Level-1 Trigger System for Jet Substructure Identification and Boosted $H\rightarrow b\bar{b}$ Tagging at the CMS Experiment](https://arxiv.org/abs/2505.05532) (2025)
 * [Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC](https://arxiv.org/abs/2505.04496) (2025)
 * [Stay Positive: Neural Refinement of Sample Weights](https://arxiv.org/abs/2505.03724) (2025)
 * [IAFormer: Interaction-Aware Transformer network for collider data analysis](https://arxiv.org/abs/2505.03258) (2025)
@@ -108,7 +117,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Machine-learning techniques as noise reduction strategies in lattice calculations of the muon $g-2$](https://arxiv.org/abs/2502.10237) [[DOI](https://doi.org/10.22323/1.466.0270)] (2025)
 * [Communicating Likelihoods with Normalising Flows](https://arxiv.org/abs/2502.09494) (2025)
 * [Unsupervised Particle Tracking with Neuromorphic Computing](https://arxiv.org/abs/2502.06771) [[DOI](https://doi.org/10.3390/particles8020040)] (2025)
-* [Contrastive Learning for Robust Representations of Neutrino Data](https://arxiv.org/abs/2502.07724) (2025)
+* [Contrastive Learning for Robust Representations of Neutrino Data](https://arxiv.org/abs/2502.07724) [[DOI](https://doi.org/10.1103/PhysRevD.111.092011)] (2025)
 * [Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning](https://arxiv.org/abs/2502.06637) (2025)
 * [Physics-Conditioned Diffusion Models for Lattice Gauge Theory](https://arxiv.org/abs/2502.05504) (2025)
 * [A Neural-Network Extraction of Unpolarised Transverse-Momentum-Dependent Distributions](https://arxiv.org/abs/2502.04166) (2025)
