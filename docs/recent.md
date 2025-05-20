@@ -117,7 +117,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Machine-learning techniques as noise reduction strategies in lattice calculations of the muon $g-2$](https://arxiv.org/abs/2502.10237) [[DOI](https://doi.org/10.22323/1.466.0270)] (2025)
 * [Communicating Likelihoods with Normalising Flows](https://arxiv.org/abs/2502.09494) (2025)
 * [Unsupervised Particle Tracking with Neuromorphic Computing](https://arxiv.org/abs/2502.06771) [[DOI](https://doi.org/10.3390/particles8020040)] (2025)
-* [Contrastive Learning for Robust Representations of Neutrino Data](https://arxiv.org/abs/2502.07724) (2025)
+* [Contrastive Learning for Robust Representations of Neutrino Data](https://arxiv.org/abs/2502.07724) [[DOI](https://doi.org/10.1103/PhysRevD.111.092011)] (2025)
 * [Neutrino Interaction Vertex Reconstruction in DUNE with Pandora Deep Learning](https://arxiv.org/abs/2502.06637) (2025)
 * [Physics-Conditioned Diffusion Models for Lattice Gauge Theory](https://arxiv.org/abs/2502.05504) (2025)
 * [A Neural-Network Extraction of Unpolarised Transverse-Momentum-Dependent Distributions](https://arxiv.org/abs/2502.04166) (2025)
