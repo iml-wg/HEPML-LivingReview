@@ -140,6 +140,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Event images
 
+* [Fast Low Energy Reconstruction using Convolutional Neural Networks](https://arxiv.org/abs/2505.16777) (2025)
 * [Deep Learning to Improve the Sensitivity of Higgs Pair Searches in the $4b$ Channel at the LHC](https://arxiv.org/abs/2505.04496) (2025)
 * [Machine Learning for Single-Ended Event Reconstruction in PROSPECT Experiment](https://arxiv.org/abs/2503.06727) (2025)
 * [Simultaneous Estimation of Elliptic Flow Coefficient and Impact Parameter in Heavy-Ion Collisions using CNN](https://arxiv.org/abs/2411.11001) (2024)
@@ -361,6 +362,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  quarks and gluons
 
+* [A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps](https://arxiv.org/abs/2505.13063) (2025)
 * [The Fundamental Limit of Jet Tagging](https://arxiv.org/abs/2411.02628) (2024)
 * [A Lorentz-Equivariant Transformer for All of the LHC](https://arxiv.org/abs/2411.00446) (2024)
 * [Application of Particle Transformer to quark flavor tagging in the ILC project](https://arxiv.org/abs/2410.11322) [[DOI](https://doi.org/10.1051/epjconf/202431503011)] (2024)
@@ -431,6 +433,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  strange jets
 
+* [A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps](https://arxiv.org/abs/2505.13063) (2025)
 * [Improving the Direct Determination of $|V_{ts}|$ using Deep Learning](https://arxiv.org/abs/2502.02918) (2025)
 * [Run 3 performance and advances in heavy-flavor jet tagging in CMS](https://arxiv.org/abs/2412.05863) [[DOI](https://doi.org/10.22323/1.476.0992)] (2024)
 * [New Physics Through Flavor Tagging at FCC-ee](https://arxiv.org/abs/2411.02485) (2024)
@@ -443,6 +446,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  $b$-tagging
 
+* [A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps](https://arxiv.org/abs/2505.13063) (2025)
 * [Machine Learning-Based b-Jet Tagging in pp Collisions at $\sqrt{s}](https://arxiv.org/abs/2504.18291) (2025)
 * [Graph Neural Network Flavor Tagger and measurement of $\mathrm{sin}2\beta$ at Belle II](https://arxiv.org/abs/2501.17631) (2025)
 * [Exploring jets: substructure and flavour tagging in CMS and ATLAS](https://arxiv.org/abs/2410.14330) [[DOI](https://doi.org/10.22323/1.478.0150)] (2024)
@@ -486,7 +490,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Mass-unspecific classifiers for mass-dependent searches](https://arxiv.org/abs/2503.20926) (2025)
 * [Machine Learning Approaches to Top Quark Flavor-Changing Four-Fermion Interactions in Trilepton Signals at the LHC](https://arxiv.org/abs/2502.18667) (2025)
 * [Identification of tqg flavor-changing neutral current interactions using machine learning techniques](https://arxiv.org/abs/2502.04844) [[DOI](https://doi.org/10.1007/s40042-024-01277-3)] (2025)
-* [Separation of left-handed and anomalous right-handed vector operators contributions into the Wtb vertex for single and double resonant top quark production processes using a neural network](https://arxiv.org/abs/2412.02468) (2024)
+* [Separation of left-handed and anomalous right-handed vector operators contributions into the Wtb vertex for single and double resonant top quark production processes using a neural network](https://arxiv.org/abs/2412.02468) [[DOI](https://doi.org/10.1134/S1063779624701776)] (2024)
 * [Pseudo-observables and Deep Neural Network for mixed CP -- H to tau tau decays at LHC](https://arxiv.org/abs/2411.06216) (2024)
 * [Improving smuon searches with Neural Networks](https://arxiv.org/abs/2411.04526) [[DOI](https://doi.org/10.1140/epjc/s10052-025-13748-3)] (2024)
 * [Machine-Learning Analysis of Radiative Decays to Dark Matter at the LHC](https://arxiv.org/abs/2410.13799) (2024)
@@ -570,6 +574,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Particle identification
 
+* [Particle identification in the GlueX detector using a multi-layer perceptron](https://arxiv.org/abs/2505.14706) (2025)
 * [Deep Neural Networks for Cross-Energy Particle Identification at RHIC and LHC](https://arxiv.org/abs/2505.06732) (2025)
 * [Charm-hadron reconstruction through three body decay in hadronic collisions using Machine Learning](https://arxiv.org/abs/2504.18279) (2025)
 * [Measurement of the atmospheric $\nu_{\mu}$ flux with six detection units of KM3NeT/ORCA](https://arxiv.org/abs/2504.09119) (2025)
@@ -1012,6 +1017,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Optimal Transport
 
+* [A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps](https://arxiv.org/abs/2505.13063) (2025)
 * [Chained Quantile Morphing with Normalizing Flows](https://arxiv.org/abs/2309.15912) (2023)
 * [Measurements of multijet event isotropies using optimal transport with the ATLAS detector](https://arxiv.org/abs/2305.16930) [[DOI](https://doi.org/10.1007/JHEP10(2023)060)] (2023)
 * [Optimal transport for a global event description at high-intensity hadron colliders](https://arxiv.org/abs/2211.02029) [[DOI](https://doi.org/10.1103/PhysRevD.108.096003)] (2022)
@@ -1240,7 +1246,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 * [Fast and Precise Track Fitting with Machine Learning](https://arxiv.org/abs/2505.02937) (2025)
 * [Reconstruction of angular correlations in the associated top quark and the dark matter mediator production](https://arxiv.org/abs/2504.14303) (2025)
 * [Progress in ${\cal CP}$ violating top-Higgs coupling at the LHC with Machine Learning](https://arxiv.org/abs/2504.11791) (2025)
-* [Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method](https://arxiv.org/abs/2504.01265) (2025)
+* [Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method](https://arxiv.org/abs/2504.01265) [[DOI](https://doi.org/10.1016/j.astropartphys.2025.103134)] (2025)
 * [Estimating event-by-event multiplicity by a Machine Learning Method for Hadronization Studies](https://arxiv.org/abs/2408.17130) (2024)
 * [Reconstruction of electromagnetic showers in calorimeters using Deep Learning](https://arxiv.org/abs/2311.17914) [[DOI](https://doi.org/10.1140/epjc/s10052-024-12978-1)] (2023)
 * [Training Deep 3D Convolutional Neural Networks to Extract BSM Physics Parameters Directly from HEP Data: a Proof-of-Concept Study Using Monte Carlo Simulations](https://arxiv.org/abs/2311.13060) (2023)
@@ -1644,6 +1650,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  (Continuous) Normalizing flows
 
+* [Sampling NNLO QCD phase space with normalizing flows](https://arxiv.org/abs/2505.13608) (2025)
 * [Generative Models for Fast Simulation of Cherenkov Detectors at the Electron-Ion Collider](https://arxiv.org/abs/2504.19042) (2025)
 * [Lecture Notes on Normalizing Flows for Lattice Quantum Field Theories](https://arxiv.org/abs/2504.18126) (2025)
 * [Reconstruction of angular correlations in the associated top quark and the dark matter mediator production](https://arxiv.org/abs/2504.14303) (2025)
@@ -1822,6 +1829,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Phase space generation
 
+* [Sampling NNLO QCD phase space with normalizing flows](https://arxiv.org/abs/2505.13608) (2025)
 * [Unearthing large pseudoscalar Yukawa couplings with Machine Learning](https://arxiv.org/abs/2505.10625) (2025)
 * [Training neural control variates using correlated configurations](https://arxiv.org/abs/2505.07719) (2025)
 * [Stay Positive: Neural Refinement of Sample Weights](https://arxiv.org/abs/2505.03724) (2025)
@@ -1869,6 +1877,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Anomaly detection.
 
+* [Sensitivity to New Physics Phenomena in Anomaly Detection: A Study of Untunable Hyperparameters](https://arxiv.org/abs/2505.13228) (2025)
 * [Search for new physics in final states with semi-visible jets or anomalous signatures using the ATLAS detector](https://arxiv.org/abs/2505.01634) (2025)
 * [Goodness-of-fit for amplitude analysis with anomaly detection](https://arxiv.org/abs/2504.17494) (2025)
 * [Weakly supervised anomaly detection with event-level variables](https://arxiv.org/abs/2504.13249) (2025)
@@ -2361,13 +2370,14 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Searches and measurements where ML reconstruction is a core component
 
+* [Fast Low Energy Reconstruction using Convolutional Neural Networks](https://arxiv.org/abs/2505.16777) (2025)
 * [Search for new physics in final states with semi-visible jets or anomalous signatures using the ATLAS detector](https://arxiv.org/abs/2505.01634) (2025)
 * [Search for the radiative leptonic decay $D^+\to\gamma e^+\nu_e$ with Deep Learning](https://arxiv.org/abs/2503.16070) (2025)
 * [Recasting the ATLAS search for displaced hadronic jets in the ATLAS calorimeter with additional jets or leptons using surrogate models](https://arxiv.org/abs/2502.10231) (2025)
 * [Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at $\sqrt{s}](https://arxiv.org/abs/2502.09770) (2025)
 * [Evidence for $CP$ violation and measurement of $CP$-violating parameters in B$^0_\mathrm{s}$ $\to$ J/$\psi\,\phi$(1020) decays in pp collisions at $\sqrt{s}](https://arxiv.org/abs/2412.19952) (2024)
 * [Machine Learning-Assisted Measurement of Lepton-Jet Azimuthal Angular Asymmetries in Deep-Inelastic Scattering at HERA](https://arxiv.org/abs/2412.14092) (2024)
-* [Search for vector-like leptons coupling to first- and second-generation Standard Model leptons in $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2411.07143) (2024)
+* [Search for vector-like leptons coupling to first- and second-generation Standard Model leptons in $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2411.07143) [[DOI](https://doi.org/10.1007/JHEP05(2025)075)] (2024)
 * [Observation of a rare beta decay of the charmed baryon with a Graph Neural Network](https://arxiv.org/abs/2410.13515) [[DOI](https://doi.org/10.1038/s41467-024-55042-y)] (2024)
 * [Search for light long-lived particles decaying to displaced jets in proton-proton collisions at $\sqrt{s}$](https://arxiv.org/abs/2409.10806) [[DOI](https://doi.org/10.1088/1361-6633/adaa13)] (2024)
 * [Accuracy versus precision in boosted top tagging with the ATLAS detector](https://arxiv.org/abs/2407.20127) [[DOI](https://doi.org/10.1088/1748-0221/19/08/P08018)] (2024)
