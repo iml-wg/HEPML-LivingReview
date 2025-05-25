@@ -10,6 +10,11 @@ search:
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
 ## May 2025
+* [Particle identification in the GlueX detector using a multi-layer perceptron](https://arxiv.org/abs/2505.14706) (2025)
+* [Fast Low Energy Reconstruction using Convolutional Neural Networks](https://arxiv.org/abs/2505.16777) (2025)
+* [Sensitivity to New Physics Phenomena in Anomaly Detection: A Study of Untunable Hyperparameters](https://arxiv.org/abs/2505.13228) (2025)
+* [A continuous calibration of the ATLAS flavour-tagging classifiers via optimal transportation maps](https://arxiv.org/abs/2505.13063) (2025)
+* [Sampling NNLO QCD phase space with normalizing flows](https://arxiv.org/abs/2505.13608) (2025)
 * [Unearthing large pseudoscalar Yukawa couplings with Machine Learning](https://arxiv.org/abs/2505.10625) (2025)
 * [Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data](https://arxiv.org/abs/2505.08736) (2025)
 * [Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network](https://arxiv.org/abs/2505.07769) (2025)
@@ -54,7 +59,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Optimal Observables for the Chiral Magnetic Effect from Machine Learning](https://arxiv.org/abs/2504.03248) (2025)
 * [BitHEP -- The Limits of Low-Precision ML in HEP](https://arxiv.org/abs/2504.03387) (2025)
 * [Entanglement and Bell Nonlocality in $\tau^+ \tau^-$ at the LHC using Machine Learning for Neutrino Reconstruction](https://arxiv.org/abs/2504.01496) (2025)
-* [Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method](https://arxiv.org/abs/2504.01265) (2025)
+* [Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method](https://arxiv.org/abs/2504.01265) [[DOI](https://doi.org/10.1016/j.astropartphys.2025.103134)] (2025)
 * [What is AI, what is it not, how we use it in physics and how it impacts... you](https://arxiv.org/abs/2504.01827) (2025)
 * [Diffusion-model approach to flavor models: A case study for $S_4^\prime$ modular flavor model](https://arxiv.org/abs/2504.00944) (2025)
 * [A Novel Deep Learning Method for Detecting Nucleon-Nucleon Correlations](https://arxiv.org/abs/2504.00790) (2025)
