@@ -21,23 +21,15 @@ This is an automatically compiled list of papers which have been added to the li
 * [Viability of perturbative expansion for quantum field theories on neurons](https://arxiv.org/abs/2508.03810) (2025)
 * [Boosting Sensitivity to $HH\to b\bar{b} γγ$ with Graph Neural Networks and XGBoost](https://arxiv.org/abs/2508.01449) (2025)
 * [Exact CHY Integrand Construction Using Combinatorial Neural Networks and Discrete Optimization](https://arxiv.org/abs/2508.02248) (2025)
-
-## July 2025
-* [Variational Neural Network Approach to QFT in the Field Basis](https://arxiv.org/abs/2508.00173) (2025)
-
-## August 2025
 * [Jet Image Generation in High Energy Physics Using Diffusion Models](https://arxiv.org/abs/2508.00250) (2025)
 * [Comparing Generative Models with the New Physics Learning Machine](https://arxiv.org/abs/2508.02275) (2025)
-
-## July 2025
-* [Search for $t\bar tt\bar tW$ Production at $\sqrt{s}](https://arxiv.org/abs/2507.23723) (2025)
-* [Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](https://arxiv.org/abs/2507.23297) (2025)
-
-## August 2025
 * [Symbolic regression and precision LHC physics](https://arxiv.org/abs/2508.00989) (2025)
 * [Criticality analysis of nuclear binding energy neural networks](https://arxiv.org/abs/2508.01001) (2025)
 
 ## July 2025
+* [Search for $t\bar tt\bar tW$ Production at $\sqrt{s}](https://arxiv.org/abs/2507.23723) (2025)
+* [Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](https://arxiv.org/abs/2507.23297) (2025)
+* [Variational Neural Network Approach to QFT in the Field Basis](https://arxiv.org/abs/2508.00173) (2025)
 * [Fast prediction of the hydrodynamic QGP evolution in ultra-relativistic heavy-ion collisions using Fourier Neural Operators](https://arxiv.org/abs/2507.23598) (2025)
 * [Anomaly detection with spiking neural networks for LHC physics](https://arxiv.org/abs/2508.00063) (2025)
 * [How to Deep-Learn the Theory behind Quark-Gluon Tagging](https://arxiv.org/abs/2507.21214) (2025)
