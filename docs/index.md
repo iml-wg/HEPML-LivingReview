@@ -2340,6 +2340,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Foundation Models, LLMs."
 
+    * [FM4NPP: A Scaling Foundation Model for Nuclear and Particle Physics](https://arxiv.org/abs/2508.14087) (2025)
     * [Towards a Large Physics Benchmark](https://arxiv.org/abs/2507.21695) (2025)
     * [Mind the Gap: Navigating Inference with Optimal Transport Maps](https://arxiv.org/abs/2507.08867) (2025)
     * [Exploring potential of OpenAI o3 as a signal-agnostic model for Signal/Background separation in $t \rightarrow uZ$ FCNC Searches at Future Hadron Colliders](https://arxiv.org/abs/2507.04272) (2025)
