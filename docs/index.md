@@ -2543,6 +2543,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Foundation Models, LLMs."
 
+    * [Panda: Self-distillation of Reusable Sensor-level Representations for High Energy Physics](https://arxiv.org/abs/2512.01324) (2025)
     * [OmniLearned: A Foundation Model Framework for All Tasks Involving Jet Physics](https://arxiv.org/abs/2510.24066) (2025)
     * [Iterated Agent for Symbolic Regression](https://arxiv.org/abs/2510.08317) (2025)
     * [Foundation models for equation discovery in high energy physics](https://arxiv.org/abs/2510.03397) (2025)
