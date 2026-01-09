@@ -59,6 +59,7 @@ const expandElements = shouldExpand => {
     ###  Specialized reviews
     </div>
 
+    * [A First Full Physics Benchmark for Highly Granular Calorimeter Surrogates](https://arxiv.org/abs/2511.17293) (2025)
     * [A Practical Guide to Unbinned Unfolding](https://arxiv.org/abs/2507.09582) (2025)
     * [Deep Learning and Model Independence](https://arxiv.org/abs/2507.03438) (2025)
     * [Review of Machine Learning for Real-Time Analysis at the Large Hadron Collider experiments ALICE, ATLAS, CMS and LHCb](https://arxiv.org/abs/2506.14578) (2025)
