@@ -2608,6 +2608,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 ##  Uncertainty Quantification
 ###  Interpretability
 
+* [Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics](https://arxiv.org/abs/2512.17048) (2025)
 * [NuGraph2 with Explainability: Post-hoc Explanations for Geometric Neural Network Predictions](https://arxiv.org/abs/2509.10676) (2025)
 * [How to Deep-Learn the Theory behind Quark-Gluon Tagging](https://arxiv.org/abs/2507.21214) (2025)
 * [What exactly did the Transformer learn from our physics data?](https://arxiv.org/abs/2505.21042) [[DOI](https://doi.org/10.1007/s41781-025-00145-4)] (2025)
@@ -2635,6 +2636,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Estimation
 
+* [Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics](https://arxiv.org/abs/2512.17048) (2025)
 * [Efficient Estimation of Unfactorizable Systematic Uncertainties](https://arxiv.org/abs/2509.15500) (2025)
 * [Experimental Uncertainty Propagation in Neural Network Extraction in Hadronic Physics](https://arxiv.org/abs/2509.11456) (2025)
 * [Uncertainty Quantification and Propagation for ACORN, a geometric deep learning tracking pipeline for HEP experiments](https://arxiv.org/abs/2508.16518) (2025)
