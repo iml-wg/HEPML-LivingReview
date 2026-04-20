@@ -15,7 +15,7 @@ from datetime import date, datetime
 import requests
 
 starting_point = input("From which date do you want to start? \nFormat is YYYY-MM-DD!\n")
-starting_date = date.fromisoformat("2026-04-13"
+starting_date = date.fromisoformat(starting_point)
 
 categories = ['hep-ph', 'hep-ex', 'hep-lat', 'hep-th', 'physics.ins-det', 'physics.data-an']
 print(f"Looking at arXiv categories: {categories}")
