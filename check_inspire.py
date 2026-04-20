@@ -15,12 +15,12 @@ from datetime import date, datetime
 import requests
 
 starting_point = input("From which date do you want to start? \nFormat is YYYY-MM-DD!\n")
-starting_date = date.fromisoformat(starting_point)
+starting_date = date.fromisoformat("2026-04-13"
 
 categories = ['hep-ph', 'hep-ex', 'hep-lat', 'hep-th', 'physics.ins-det', 'physics.data-an']
 print(f"Looking at arXiv categories: {categories}")
 
-keywords = ['neural network', 'machine learning', 'generative model', 'diffusion model', 'normalizing flow', 'foundation model', 'ML']
+keywords = ['neural network', 'machine learning', 'generative model', 'diffusion model', 'normalizing flow', 'foundation model', 'ML', 'transformers']
 print(f"scanning papers with {keywords}:")
 keyword_str = f'("{keywords}")'.replace("', '", '"%20OR%20"').replace("['", '').replace("']", "")
 keyword_str = keyword_str.replace(" ", "%20")

@@ -965,6 +965,7 @@ const expandElements = shouldExpand => {
 
     ####  Cosmology, Astro Particle, and Cosmic Ray physics
 
+    * [Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments](https://arxiv.org/abs/2604.11068) (2026)
     * [Recent advances and trends in pattern recognition and data analysis for RICH detectors](https://arxiv.org/abs/2603.13000) [[DOI](https://doi.org/10.1016/j.nima.2026.171472)] (2026)
     * [Deep-Learning Denoising of Radio Observations for Ultra-High-Energy Cosmic-Ray Detection](https://arxiv.org/abs/2602.03818) (2026)
     * [OmniCosmos: Transferring Particle Physics Knowledge Across the Cosmos](https://arxiv.org/abs/2512.24422) (2025)
@@ -1796,6 +1797,8 @@ const expandElements = shouldExpand => {
     ###  Parton Distribution Functions (and related)
     </div>
 
+    * [Proton Structure from Neural Simulation-Based Inference at the LHC](https://arxiv.org/abs/2604.13157) (2026)
+    * [AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data](https://arxiv.org/abs/2604.14133) (2026)
     * [Reconstruction of Gravitational Form Factors using Generative Machine Learning](https://arxiv.org/abs/2602.19267) (2026)
     * [Toward Precision Helicity PDFs from Global DIS and SIDIS Fits with Projected EIC Measurements](https://arxiv.org/abs/2602.17298) (2026)
     * [Assessing the Impact of Fitting Methodology at aN$^3$LO with FPPDF: an Open Source Tool for Extracting Parton Distribution Functions in the Hessian Approach](https://arxiv.org/abs/2602.07118) (2026)
@@ -1850,6 +1853,7 @@ const expandElements = shouldExpand => {
     ###  Lattice Gauge Theory
     </div>
 
+    * [Machine learning for four-dimensional SU(3) lattice gauge theories](https://arxiv.org/abs/2604.12416) (2026)
     * [Scalable Generative Sampling and Multilevel Estimation for Lattice Field Theories Near Criticality](https://arxiv.org/abs/2604.10209) (2026)
     * [Neural network interpolators for Wilson loops](https://arxiv.org/abs/2604.07226) (2026)
     * [Normalizing-flow-based density of states for (1+1)D U(1) lattice gauge theory with a $\theta$-term](https://arxiv.org/abs/2603.12501) (2026)
@@ -2850,6 +2854,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Foundation Models, LLMs, Agents."
 
+    * [Cross-Domain Transfer with Particle Physics Foundation Models: From Jets to Neutrino Interactions](https://arxiv.org/abs/2604.12364) (2026)
     * [Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pre-training](https://arxiv.org/abs/2604.07037) (2026)
     * [Learning to Unscramble Feynman Loop Integrals with SAILIR](https://arxiv.org/abs/2604.05034) (2026)
     * [Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider](https://arxiv.org/abs/2604.02259) (2026)
@@ -2936,6 +2941,7 @@ const expandElements = shouldExpand => {
     ###  Parameter estimation
     </div>
 
+    * [Proton Structure from Neural Simulation-Based Inference at the LHC](https://arxiv.org/abs/2604.13157) (2026)
     * [Deep learning topological inference-guided $T_{cc}^{+}$ pole parameter extraction](https://arxiv.org/abs/2603.17763) (2026)
     * [A Simulation-Based Inference Evaluation of Tension Between MicroBooNE and MiniBooNE Results in a 3+1 Sterile Neutrino Global Fit](https://arxiv.org/abs/2603.15322) (2026)
     * [First Estimation of Model Parameters for Neutrino-Induced Nucleon Knockout Using Simulation-Based Inference](https://arxiv.org/abs/2603.09778) (2026)
@@ -3464,6 +3470,7 @@ const expandElements = shouldExpand => {
     ###  Searches and measurements where ML reconstruction is a core component
     </div>
 
+    * [Enhancing Event Reconstruction in Hyper-Kamiokande with Machine Learning: A ResNet Implementation](https://arxiv.org/abs/2604.13503) (2026)
     * [Search for long-lived charginos and $τ$-sleptons using final states with a disappearing track in $pp$ collisions at $\sqrt{s}](https://arxiv.org/abs/2603.08315) (2026)
     * [Modern jet flavour tagging in hadronic Z decays with archived ALEPH data](https://arxiv.org/abs/2603.06524) (2026)
     * [Search for heavy scalar resonances decaying to Lorentz-boosted Higgs and Higgs-like bosons in the $\mathrm{b\bar{b}}$4q final state at $\sqrt{s}$](https://arxiv.org/abs/2602.00273) (2026)
