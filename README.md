@@ -1253,6 +1253,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Quantum Machine Learning
 
+* [Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics](https://arxiv.org/abs/2604.15775) (2026)
 * [Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders](https://arxiv.org/abs/2603.26604) (2026)
 * [From vacuum amplitudes to qubits](https://arxiv.org/abs/2603.11968) (2026)
 * [Characterization and upgrade of a quantum graph neural network for charged particle tracking](https://arxiv.org/abs/2603.08667) (2026)
@@ -2481,6 +2482,8 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Other/hybrid
 
+* [An AI-based Detector Simulation and Reconstruction Model for the ALEPH Experiment at LEP](https://arxiv.org/abs/2604.11834) (2026)
+* [Symbolic Density Estimation: A Decompositional Approach](https://arxiv.org/abs/2603.27955) (2026)
 * [ML-Based Top Taggers: Performance, Uncertainty and Impact of Tower \& Tracker Data Integration](https://arxiv.org/abs/2309.01568) [[DOI](https://doi.org/10.21468/SciPostPhys.17.6.166)] (2023)
 * [Towards accurate real-time luminescence thermometry: an automated machine learning approach](https://arxiv.org/abs/2307.05497) (2023)
 * [Implicit Quantile Networks For Emulation in Jet Physics](https://arxiv.org/abs/2306.15053) [[DOI](https://doi.org/10.1088/2632-2153/ad9884)] (2023)

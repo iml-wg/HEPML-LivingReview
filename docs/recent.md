@@ -11,9 +11,11 @@ This is an automatically compiled list of papers which have been added to the li
 
 ## April 2026
 * [Proton Structure from Neural Simulation-Based Inference at the LHC](https://arxiv.org/abs/2604.13157) (2026)
+* [Federated Learning with Quantum Enhanced LSTM for Applications in High Energy Physics](https://arxiv.org/abs/2604.15775) (2026)
 * [AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data](https://arxiv.org/abs/2604.14133) (2026)
 * [Enhancing Event Reconstruction in Hyper-Kamiokande with Machine Learning: A ResNet Implementation](https://arxiv.org/abs/2604.13503) (2026)
 * [Cross-Domain Transfer with Particle Physics Foundation Models: From Jets to Neutrino Interactions](https://arxiv.org/abs/2604.12364) (2026)
+* [An AI-based Detector Simulation and Reconstruction Model for the ALEPH Experiment at LEP](https://arxiv.org/abs/2604.11834) (2026)
 * [Machine learning for four-dimensional SU(3) lattice gauge theories](https://arxiv.org/abs/2604.12416) (2026)
 * [Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments](https://arxiv.org/abs/2604.11068) (2026)
 * [Machine Learning Study on Single Production of a Singlet Vector-like Lepton at the Large Hadron Collider](https://arxiv.org/abs/2604.11232) (2026)
@@ -49,6 +51,7 @@ This is an automatically compiled list of papers which have been added to the li
 * [Xenon Signal Denoising via Supervised, Semi-Supervised, and Unsupervised Models](https://arxiv.org/abs/2603.27005) (2026)
 * [Agentic Diagrammatica: Towards Autonomous Symbolic Computation in High Energy Physics](https://arxiv.org/abs/2603.26990) (2026)
 * [Neural network enhanced Bayesian global analysis of relativistic heavy ion collisions](https://arxiv.org/abs/2603.26413) (2026)
+* [Symbolic Density Estimation: A Decompositional Approach](https://arxiv.org/abs/2603.27955) (2026)
 * [On the Codesign of Scientific Experiments and Industrial Systems](https://arxiv.org/abs/2603.26613) (2026)
 * [Vision Transformers and Graph Neural Networks for Charged Particle Tracking in the ATLAS Muon Spectrometer](https://arxiv.org/abs/2603.25793) (2026)
 * [Signal-Aware Contrastive Latent Spaces for Anomaly Detection](https://arxiv.org/abs/2603.25794) (2026)
