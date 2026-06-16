@@ -2495,6 +2495,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ##  Anomaly detection.
 
+* [Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches](https://arxiv.org/abs/2606.13780) (2026)
 * [Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach](https://arxiv.org/abs/2604.06541) (2026)
 * [Signal-Aware Contrastive Latent Spaces for Anomaly Detection](https://arxiv.org/abs/2603.25794) (2026)
 * [Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders](https://arxiv.org/abs/2603.26604) (2026)
@@ -3009,6 +3010,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ###  Estimation
 
+* [Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches](https://arxiv.org/abs/2606.13780) (2026)
 * [Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications](https://arxiv.org/abs/2603.13970) (2026)
 * [How to Trust Learned Loop Amplitudes](https://arxiv.org/abs/2601.00950) (2026)
 * [Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics](https://arxiv.org/abs/2512.17048) (2025)
