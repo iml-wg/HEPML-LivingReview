@@ -2779,6 +2779,7 @@ const expandElements = shouldExpand => {
 
 ??? example "Anomaly detection."
 
+    * [Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches](https://arxiv.org/abs/2606.13780) (2026)
     * [Deep-learning-based low-energy trigger algorithms for the Hyper-Kamiokande experiment](https://arxiv.org/abs/2605.31391) (2026)
     * [Model-Agnostic Signal Discovery with Machine Learning: Bridging the Gap Between Theory and Practice](https://arxiv.org/abs/2605.31103) (2026)
     * [Big Dipper, Help Me Find A Way -- Dip-hunting at hadron colliders](https://arxiv.org/abs/2604.25407) (2026)
@@ -3363,6 +3364,7 @@ const expandElements = shouldExpand => {
     ###  Estimation
     </div>
 
+    * [Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches](https://arxiv.org/abs/2606.13780) (2026)
     * [Generative Models and Statistical Validation](https://arxiv.org/abs/2605.30453) (2026)
     * [Uncertainty in Physics and AI: Taxonomy, Quantification, and Validation](https://arxiv.org/abs/2605.10378) (2026)
     * [Uncovering Hidden Systematics in Neural Network Models for High Energy Physics](https://arxiv.org/abs/2605.07470) (2026)

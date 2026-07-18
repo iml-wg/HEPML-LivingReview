@@ -9,6 +9,9 @@ search:
 
 This is an automatically compiled list of papers which have been added to the living review that were made public within the previous 4 months at the time of updating. This is not an exhaustive list of released papers, and is only able to find those which have both year and month data provided in the bib reference.
 
+## June 2026
+* [Conformal calibration and look-elsewhere effect in anomaly detection for new-physics searches](https://arxiv.org/abs/2606.13780) (2026)
+
 ## May 2026
 * [Generative Models and Statistical Validation](https://arxiv.org/abs/2605.30453) (2026)
 * [Deep-learning-based low-energy trigger algorithms for the Hyper-Kamiokande experiment](https://arxiv.org/abs/2605.31391) (2026)
