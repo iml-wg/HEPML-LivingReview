@@ -1391,6 +1391,7 @@ This review was built with the help of the HEP-ML community, the [INSPIRE REST A
 
 ####  Optimal Transport
 
+* [Optimal-Transport-Based Cell Resampling for Negative and Pathological Event Weights](https://arxiv.org/abs/2607.08723) (2026)
 * [Data-Driven, Geometry-Aware Optimal-Transport Calibration of Flavor Tagger](https://arxiv.org/abs/2605.01363) (2026)
 * [Optimal Transport Event Representation for Anomaly Detection](https://arxiv.org/abs/2512.04839) [[DOI](https://doi.org/10.1103/wwzk-25sy)] (2025)
 * [Mind the Gap: Navigating Inference with Optimal Transport Maps](https://arxiv.org/abs/2507.08867) (2025)
