@@ -322,7 +322,7 @@ if update_plot:
         plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
         plt.xticks(rotation=90)
         plt.tight_layout()
-        plt.gca().text(0.02, 0.98, f'As of {date.today().strftime("%d.%m.%Y")}',
+        plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
                     verticalalignment='top', horizontalalignment='left',
                     transform=plt.gca().transAxes)
         plt.savefig(f'docs/assets/{name}', transparent=True)
