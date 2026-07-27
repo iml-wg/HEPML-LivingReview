@@ -20,9 +20,13 @@ const expandElements = shouldExpand => {
 };
 </script>
 
-#  **A Living Review of Machine Learning for Particle Physics**
+# **A Living Review of Machine Learning for Particle Physics**
 
-*Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*
+> [!IMPORTANT]
+> This project is no longer actively maintained. The literature coverage is
+> frozen as of 1 June 2026.
+
+*Modern machine learning techniques, including deep learning, are rapidly being applied, adapted, and developed for high energy physics. The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses. A list of conventional, unchanging reviews can be found within. Papers are grouped into a small set of topics to be as useful as possible.*
 
 [![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml_review.pdf)
 [![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)
@@ -3583,8 +3587,9 @@ const expandElements = shouldExpand => {
     * [Characterizing 4-string contact interaction using machine learning](https://arxiv.org/abs/2211.09129) [[DOI](https://doi.org/10.1007/JHEP04(2024)016)] (2022)
     * [Machine Learned Calabi-Yau Metrics and Curvature](https://arxiv.org/abs/2211.09801) [[DOI](https://doi.org/10.4310/ATMP.2023.v27.n4.a3)] (2022)
 
-##  Experimental results.
- *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*
+## Experimental results.
+
+*This section is necessarily incomplete, as many experimental results use modern machine learning techniques directly or indirectly, for example through flavor tagging. It highlights selected results in which deep learning plays an important role in the final analysis sensitivity.*
 
 
 ??? example "Performance studies"

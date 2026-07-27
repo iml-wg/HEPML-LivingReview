@@ -24,9 +24,36 @@ with open("script.js") as script:
     myfile_out.write('\n</script>\n\n')
 
 for file in myfile_readme,myfile_out:
-    file.write("#  **A Living Review of Machine Learning for Particle Physics**\n\n")
-    file.write("*Modern machine learning techniques, including deep learning, is rapidly being applied, adapted, and developed for high energy physics.  The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses.  As a living document, it will be updated as often as possible to incorporate the latest developments.  A list of proper (unchanging) reviews can be found within.  Papers are grouped into a small set of topics to be as useful as possible.  Suggestions are most welcome.*\n\n")
-    file.write("[![download](https://img.shields.io/badge/download-review-blue.svg)](https://iml-wg.github.io/HEPML-LivingReview/assets/hepml_review.pdf)\n[![github](https://badges.aleen42.com/src/github.svg)](https://github.com/iml-wg/HEPML-LivingReview)\n\n")
+    file.write(
+        "# **A Living Review of Machine Learning for Particle Physics**\n\n"
+    )
+
+    file.write(
+        "> [!IMPORTANT]\n"
+        "> This project is no longer actively maintained. "
+        "The literature coverage is\n"
+        "> frozen as of 1 June 2026.\n\n"
+    )
+
+    file.write(
+        "*Modern machine learning techniques, including deep learning, "
+        "are rapidly being applied, adapted, and developed for high energy "
+        "physics. The goal of this document is to provide a nearly "
+        "comprehensive list of citations for those developing and applying "
+        "these approaches to experimental, phenomenological, or theoretical "
+        "analyses. A list of conventional, unchanging reviews can be found "
+        "within. Papers are grouped into a small set of topics to be as "
+        "useful as possible.*\n\n"
+    )
+
+    file.write(
+        "[![download]"
+        "(https://img.shields.io/badge/download-review-blue.svg)]"
+        "(https://iml-wg.github.io/HEPML-LivingReview/assets/"
+        "hepml_review.pdf)\n"
+        "[![github](https://badges.aleen42.com/src/github.svg)]"
+        "(https://github.com/iml-wg/HEPML-LivingReview)\n\n"
+    )
 
 # Define some empty lists
 YEARS_FOR_PLOT = []
@@ -39,9 +66,31 @@ myfile_out.write('<p align="center"><img src="assets/per_year.png#only-light" wi
 myfile_out.write('<p align="center"><img src="assets/dark_per_year.png#only-dark" width="75%", alt="Publications per Year"></p>\n\n')
 
 
-for file in myfile_readme,myfile_about:
-    file.write(r"The purpose of this note is to collect references for modern machine learning as applied to particle physics. A minimal number of categories is chosen in order to be as useful as possible. Note that papers may be referenced in more than one category. The fact that a paper is listed in this document does not endorse or validate its content - that is for the community (and for peer-review) to decide. Furthermore, the classification here is a best attempt and may have flaws - please let us know if (a) we have missed a paper you think should be included, (b) a paper has been misclassified, or (c) a citation for a paper is not correct or if the journal information is now available. In order to be as useful as possible, this document will continue to evolve so please check back before you write your next paper. If you find this review helpful, please consider citing it using ```\cite{hepmllivingreview}``` in `HEPML.bib`.")
-    file.write("\n\nThis review was built with the help of the HEP-ML community, the [INSPIRE REST API](https://github.com/inspirehep/rest-api-doc), and the moderators Benjamin Nachman, Matthew Feickert, Claudius Krause, and Ramon Winterhalder.\n\n")
+for file in myfile_readme, myfile_about:
+    file.write(
+        "The purpose of this note is to collect references for modern "
+        "machine learning as applied to particle physics. A minimal number "
+        "of categories is chosen in order to be as useful as possible. "
+        "Note that papers may be referenced in more than one category. "
+        "The fact that a paper is listed in this document does not endorse "
+        "or validate its content—that is for the community and peer review "
+        "to decide. The classification represents our best attempt at the "
+        "time the review was frozen, with literature coverage through "
+        "1 June 2026."
+    )
+
+    file.write(
+        "\n\nIf you find this review helpful, please consider citing it "
+        "using ```\\cite{hepmllivingreview}``` in `HEPML.bib`."
+    )
+
+    file.write(
+        "\n\nThis review was built with the help of the HEP-ML community, "
+        "the [INSPIRE REST API]"
+        "(https://github.com/inspirehep/rest-api-doc), and the moderators "
+        "Benjamin Nachman, Matthew Feickert, Claudius Krause, John Andrew Raine, and "
+        "Ramon Winterhalder.\n\n"
+    )
 
 ###Add buttons
 myfile_out.write("""\n<a class="md-button" onClick="expandElements(true)">Expand all sections</a>\n<a class="md-button" onClick="expandElements(false)">Collapse all sections</a>\n""")
@@ -260,7 +309,14 @@ for line in myfile:
                     if "Experimental" not in line:
                         write_to_files("## "+line.replace(r"\item","")+"\n")
                     else:
-                        write_to_files("##  Experimental results.\n *This section is incomplete as there are many results that directly and indirectly (e.g. via flavor tagging) use modern machine learning techniques.  We will try to highlight experimental results that use deep learning in a critical way for the final analysis sensitivity.*\n\n")
+                        write_to_files(
+                            "## Experimental results.\n\n"
+                            "*This section is necessarily incomplete, as many experimental results "
+                            "use modern machine learning techniques directly or indirectly, for "
+                            "example through flavor tagging. It highlights selected results in "
+                            "which deep learning plays an important role in the final analysis "
+                            "sensitivity.*\n\n"
+                        )
                 else:
                     write_to_files("## "+line.replace(r"\item","").split(r"~\cite")[0]+".\n\n",add_header=True)
                     mycites = line.split(r"~\cite{")[1].split("}")[0].split(",")
