@@ -322,7 +322,7 @@ if update_plot:
         plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
         plt.xticks(rotation=90)
         plt.tight_layout()
-        plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
+        plt.gca().text(0.02, 0.98, f'As of 01.06.2026',
                     verticalalignment='top', horizontalalignment='left',
                     transform=plt.gca().transAxes)
         plt.savefig(f'docs/assets/{name}', transparent=True)
@@ -348,7 +348,7 @@ if update_plot_pdf:
     plt.xticks(rotation=90)
     plt.tight_layout()
     plt.ylim(0, counts.max()*1.1)
-    plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
+    plt.gca().text(0.02, 0.98, f'As of 01.06.2026',
                 verticalalignment='top', horizontalalignment='left',
                 transform=plt.gca().transAxes)
     plt.savefig(f'docs/assets/per_year.pdf', transparent=True)
@@ -365,7 +365,7 @@ if update_plot_pdf:
     plt.tight_layout()
     plt.yscale('log')
     plt.ylim(0, counts.max()*1.1)
-    plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
+    plt.gca().text(0.02, 0.98, f'As of 01.06.2026',
                 verticalalignment='top', horizontalalignment='left',
                 transform=plt.gca().transAxes)
     plt.savefig(f'docs/assets/per_year_log.pdf', transparent=True)
