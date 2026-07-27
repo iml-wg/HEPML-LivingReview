@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this review, please cite the archived version described here."
+
+title: "A Living Review of Machine Learning for Particle Physics"
+
+abstract: >
+  Final archival snapshot of the HEP ML Living Review.
+  The literature coverage is frozen as of 1 June 2026,
+  and the review is no longer actively maintained.
+
+authors:
+  - name: "HEP ML Community"
+
+type: dataset
+version: "2026.06.01"
+date-released: "2026-07-27"
+
+repository-code: "https://github.com/iml-wg/HEPML-LivingReview"
+url: "https://iml-wg.github.io/HEPML-LivingReview/"
+
+keywords:
+  - machine learning
+  - particle physics
+  - high-energy physics
+  - bibliography
+  - review
