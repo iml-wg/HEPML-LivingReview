@@ -7,6 +7,7 @@ import requests
 update_journal = False
 update_recent = False
 update_plot = False
+update_plot_pdf = False
 
 myfile = open("HEPML.tex", encoding="utf8")
 myfile_readme = open("README.md","w", encoding="utf8")
@@ -325,6 +326,49 @@ if update_plot:
                     verticalalignment='top', horizontalalignment='left',
                     transform=plt.gca().transAxes)
         plt.savefig(f'docs/assets/{name}', transparent=True)
+
+if update_plot_pdf:
+    import matplotlib.pyplot as plt
+    import numpy as np
+    print("Updating PDF plot")
+    plt.rcParams.update({"text.usetex": True,
+                        "font.family": "Helvetica"})
+    min_year = 2000
+    clean_list = []
+    for entry in YEARS_FOR_PLOT:
+        clean_list.append(int(entry.replace(" (", "").replace(")", "")))
+    years, counts = np.unique(clean_list, return_counts=True)
+    plt.figure(figsize=(6,4))
+    plt.bar(years, counts, zorder=5)
+    plt.ylabel(r"Number of Papers", fontsize=12)
+    plt.xlim(min_year, years.max()+1)
+    plt.grid(axis='y', zorder=0)
+    labels = np.arange(min_year, years.max()+1)
+    plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    plt.ylim(0, counts.max()*1.1)
+    plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
+                verticalalignment='top', horizontalalignment='left',
+                transform=plt.gca().transAxes)
+    plt.savefig(f'docs/assets/per_year.pdf', transparent=True)
+    plt.close()
+
+    plt.figure(figsize=(6,4))
+    plt.bar(years, counts, zorder=5)
+    plt.ylabel(r"Number of Papers", fontsize=12)
+    plt.xlim(min_year, years.max()+1)
+    plt.grid(axis='y', zorder=0)
+    labels = np.arange(min_year, years.max()+1)
+    plt.gca().set_xticks(labels, [str(lbl) for lbl in labels], rotation=90, ha='center')
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    plt.yscale('log')
+    plt.ylim(0, counts.max()*1.1)
+    plt.gca().text(0.02, 0.98, f'As of 01.07.2026',
+                verticalalignment='top', horizontalalignment='left',
+                transform=plt.gca().transAxes)
+    plt.savefig(f'docs/assets/per_year_log.pdf', transparent=True)
 
 
 def get_year_month(period_months=3):
