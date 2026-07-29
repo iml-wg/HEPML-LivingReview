@@ -15,6 +15,10 @@ type: dataset
 version: "2026.06.01"
 date-released: "2026-07-27"
 
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21626667
+
 repository-code: "https://github.com/iml-wg/HEPML-LivingReview"
 url: "https://iml-wg.github.io/HEPML-LivingReview/"
 

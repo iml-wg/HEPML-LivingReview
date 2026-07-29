@@ -32,7 +32,9 @@ for file in myfile_readme,myfile_out:
         "> [!IMPORTANT]\n"
         "> This project is no longer actively maintained. "
         "The literature coverage is\n"
-        "> frozen as of 1 June 2026.\n\n"
+        "> frozen as of 1 June 2026. "
+        "The final archival version is available on\n"
+        "> [Zenodo](https://doi.org/10.5281/zenodo.21626667).\n\n"
     )
 
     file.write(
@@ -80,8 +82,8 @@ for file in myfile_readme, myfile_about:
     )
 
     file.write(
-        "\n\nIf you find this review helpful, please consider citing it "
-        "using ```\\cite{hepmllivingreview}``` in `HEPML.bib`."
+        "\n\nIf you find this review helpful, please cite the final archived "
+        "version using ```\\cite{krause_2026_21626667}``` in `HEPML.bib`."
     )
 
     file.write(

@@ -24,7 +24,8 @@ const expandElements = shouldExpand => {
 
 > [!IMPORTANT]
 > This project is no longer actively maintained. The literature coverage is
-> frozen as of 1 June 2026.
+> frozen as of 1 June 2026. The final archival version is available on
+> [Zenodo](https://doi.org/10.5281/zenodo.21626667).
 
 *Modern machine learning techniques, including deep learning, are rapidly being applied, adapted, and developed for high energy physics. The goal of this document is to provide a nearly comprehensive list of citations for those developing and applying these approaches to experimental, phenomenological, or theoretical analyses. A list of conventional, unchanging reviews can be found within. Papers are grouped into a small set of topics to be as useful as possible.*
 
