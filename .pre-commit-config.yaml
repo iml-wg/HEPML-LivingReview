@@ -21,12 +21,12 @@ repos:
     - id: trailing-whitespace
 
 -   repo: https://github.com/asottile/pyupgrade
-    rev: v3.21.2
+    rev: v3.22.0
     hooks:
     - id: pyupgrade
       args: ["--py37-plus"]
 
 -   repo: https://github.com/pycqa/isort
-    rev: 9.0.0b1
+    rev: 10.0.0b2
     hooks:
     - id: isort
